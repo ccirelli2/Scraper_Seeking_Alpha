@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 from urllib.request import Request
 import os
-
+import re
 
 # FUNCTIONS GET VALUES FROM WEB PAGE
 
@@ -17,9 +17,21 @@ def get_bsObj(url):
 
 def get_date_published(bsObj):
     # Get date puslished
-    search = bsObj.findAll('time',{'itemprop':'datePublished'})
-    date = search[0].text
-    return search 
+    '''Returns a string like: 2019-01-09 21:09:07 -0500'''
+    date_time_stamp = bsObj.article.header.time['datetime']
+    # Utilize Regex To Obtain Only the Date
+    format_target = '2019-01-09'
+    regex = re.compile('[0-9]+-[0-9]+-[0-9]+')
+    try:
+        search = re.search(regex, date_time_stamp)
+        result = search.group()
+        return result
+    except AttributeError:
+        return None
+
+def get_title(bsObj):
+    title = bsObj.h1.text
+    return title
 
 def get_ecall_text(bsObj):
     # Get article body
