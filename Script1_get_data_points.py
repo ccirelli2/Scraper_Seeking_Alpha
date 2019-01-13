@@ -28,26 +28,6 @@ url_root_seeking_alpha = 'https://seekingalpha.com'
 beg_transcript_page = 5268
 
 
-### ARTICLE ATTRIBUTES------------------------------------------------------------
-
-## Generate bsObj
-#bsObj = m1.get_bsObj(root_url + str(6))
-
-
-## Get Article Title
-#title = m1.get_title(bsObj)
-
-## Get Article Text
-#ecall_text = m1.get_ecall_text(bsObj)
-
-## Get Publication Date
-#publication_date = m1.get_date_published(bsObj)
-
-## Ticker Symbol
-
-#ticker = bsObj.find('span', {'id':'about_primary_stocks'})
-#print(ticker.a['href'].split('/')[-1])
-
 
 
 
