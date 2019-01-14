@@ -17,7 +17,7 @@ import re
 
 ### IMPORT MODULES
 import Module1_get_data_points as m1
-
+import Module3_sql_insert_statement as m3
 
 # URL OBJECTS
 url_root_transcript_index = 'https://seekingalpha.com/earnings/earnings-call-transcripts/'
@@ -74,22 +74,19 @@ def scraper_driver_function(url_root_transcript_index_page, transcript_index_pag
             bsObj_transcript_page = m1.bsObj(transcript_page)
 
             # Scrape Attributes
+            page_url = url_root_transcript_index_page + str(page_number)
             publication_date = m1.get_date_published(bsObj_transcript_page)
             ticker = m1.get_ticker(bsObj_transcript_page) 
             title = m1.get_title(bsObj_transcript_page)        
             text = m1.get_ecall_text(bsObj_transcript_page)
 
-
-
             # Insert Into MySQL Table
-
-
-
-
-
-
-
-
+            m3.insert_function_basic_transcript_info_table(
+                    mydb        = mydb, 
+                    url         = page_url, 
+                    pub_date    = publication_date, 
+                    ticker      = ticker, 
+                    text        = text)
 
 
 

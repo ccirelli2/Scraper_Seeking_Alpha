@@ -1,42 +1,63 @@
-# SCRIPT TO CREATE MYSQL TABLE
+### SCRIPT TO CREATE MYSQL TABLE
 
 
-
-# Import Modules
+# IMPORT MODULESmport Modules
 import mysql.connector
 import os
+import sys
 
-os.chdir('/home/ccirelli2/Desktop/Programming/Passwords')
-print(os.listdir())
+# APPEND PATH & IMPORT MYSQL LOGIN INFO
+# print(sys.path, '\n')
+sys.path.append('/home/ccirelli2/Desktop/Programming/Passwords')
+import mysql_login_info
 
-import mysql_login_info 
-
-
-
-
-'''
-
-
-def get_mysql_login(data, mysql_login_info):   
-    if data == 'password':
-        return mysql_login_info.password
-    elif data == 'user':
-        return mysql_login_info.user
-
-# Create Connection to MySQL
+ 
+# CREATE CONNECTION TO MYSQL
 mydb = mysql.connector.connect(
-        host='localhost', 
-        user='ccirelli2', 
-        passwd= get_mysql_login('password'),
-        database= get_mysql_login('user')
+        host    ='localhost', 
+        user    = mysql_login_info.user, 
+        passwd  = mysql_login_info.password,
+        database= 'SEEKING_ALPHA_SCRAPER'
         )
 
 
-
-# Create mycursor
+# CREATE CURSOR
 mycursor = mydb.cursor()
 
-'''
+
+# CREATE TABLE
+
+def create_table(mydb, mycursor):
+
+    sql_command = '''
+                    CREATE TABLE BASIC_TRANSCRIPT_INFO (
+
+                    URL                 VARCHAR(1000) NOT NULL    
+                    PUBLICATION_DATE    DATE
+                    TICKER              VARCHAR(255)
+                    TITLE               VARCHAR(1000)
+                    TEXT                LONGTEXT
+
+                    PRIMARY KEY (URL)
+
+                    )'''
+    mycursor.execute(sql_command)
+    mydb.commit()
+
+    return None
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
