@@ -5,7 +5,7 @@
 import mysql.connector
 import os
 import sys
-
+'''
 # APPEND PATH & IMPORT MYSQL LOGIN INFO
 # print(sys.path, '\n')
 sys.path.append('/home/ccirelli2/Desktop/Programming/Passwords')
@@ -23,7 +23,7 @@ mydb = mysql.connector.connect(
 
 # CREATE CURSOR
 mycursor = mydb.cursor()
-
+'''
 
 # CREATE TABLE
 

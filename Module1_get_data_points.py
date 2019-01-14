@@ -41,7 +41,7 @@ def get_ecall_text(bsObj):
 
 
 def get_ticker(bsObj):
-    tage = bsObj.find('span', {'id':'about_primary_stocks'})
+    tag = bsObj.find('span', {'id':'about_primary_stocks'})
     ticker = tag.a['href'].split('/')[-1]
     return ticker
 
