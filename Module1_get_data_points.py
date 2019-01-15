@@ -4,6 +4,8 @@ from urllib.request import urlopen
 from urllib.request import Request
 import os
 import re
+import string
+
 
 # FUNCTIONS GET VALUES FROM WEB PAGE
 
@@ -33,19 +35,40 @@ def get_title(bsObj):
     title = bsObj.h1.text
     return title
 
+
+def get_clean_text(dirty_text):
+    punct = string.punctuation + "’" + "'" + "-" 
+    clean_text = ('').join(list(filter(lambda x: (x not in punct), dirty_text)))   
+    return clean_text
+
+def insert_backslash_comments(dirty_text):
+    # code should backslash all quotes in our insert text
+    backslash_single_quotes = dirty_text.replace("'", "\\'")
+    backslash_double_quotes = backslash_single_quotes.replace("\"", "\\\"") 
+    return backslash_double_quotes
+
+
 def get_ecall_text(bsObj):
     # Get article body
     search = bsObj.findAll('div', {'itemprop':'articleBody'})
     body   = search[0]
-    return body
+    dirty_text = body.text
+    clean_text = insert_backslash_comments(dirty_text) 
+    return clean_text
 
 
 def get_ticker(bsObj):
-    tag = bsObj.find('span', {'id':'about_primary_stocks'})
-    ticker = tag.a['href'].split('/')[-1]
-    return ticker
+    try:
+        tag = bsObj.find('span', {'id':'about_primary_stocks'})
+        ticker = tag.a['href'].split('/')[-1]
+        return ticker
+    
+    except AttributeError:
+        print('No ticker')
+        return None
+    
 
-
+# Need to set up logging. 
 
 
 

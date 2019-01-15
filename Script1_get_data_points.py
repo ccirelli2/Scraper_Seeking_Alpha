@@ -19,6 +19,7 @@ import mysql.connector
 ### IMPORT MODULES
 import Module1_get_data_points as m1
 import Module3_sql_insert_statement as m3
+import Module4_utility_functions as m4
 
 # APPEND PATH & IMPORT MYSQL LOGIN INFO
 # print(sys.path, '\n')
@@ -47,10 +48,11 @@ test_beg_transcript_page = 2
 
 # FUNCTION TO GET TRANSCRIPT LINKS FROM TRANSCRIPT PAGE
 
-def scraper_driver_function(url_root_transcript, page_start_num, 
+def scraper_driver_function(run_type, url_root_transcript, page_start_num, 
                             url_root_article):
     '''
     INPUTS:
+        run_type:                   either 'restart' or 'start_from_last_page'
         url_root_transcript_index:  root page for index_page containing links to indv transcript
                                     pages. 
         url_root_seeking_alpha:     root page for seeking alpha itself to which each article page
@@ -59,9 +61,21 @@ def scraper_driver_function(url_root_transcript, page_start_num,
 
     '''
 
+    if run_type == 'restart':
+        m3.clear_table(mydb)
+    elif run_type == 'start_from_last_page':
+        pass
+        # We need to capture the page number in our db
+
+    Count = 0
+
     # Generate Loop over range of pages containing transcript links
     for num in range(0, page_start_num):
         
+        # Progress Report
+        Count +=1
+        m4.progress_recorder(Count, page_start_num)
+
         # Create page number object (count down)
         page_number = page_start_num - num
 
@@ -86,28 +100,29 @@ def scraper_driver_function(url_root_transcript, page_start_num,
             bsObj_transcript_page = m1.get_bsObj(transcript_page)
 
             # Scrape Attributes
-            page_url = url_root_transcript + str(page_number)
+            page_url = transcript_page
             publication_date = m1.get_date_published(bsObj_transcript_page)
             ticker = m1.get_ticker(bsObj_transcript_page) 
             title = m1.get_title(bsObj_transcript_page)        
-            text = m1.get_ecall_text(bsObj_transcript_page)
-
+            clean_text = m1.get_ecall_text(bsObj_transcript_page)
             # Insert Into MySQL Table
-            m3.insert_function_basic_transcript_info_table(
+            m3.insert_function_2(
                     mydb        = mydb, 
                     url         = page_url, 
                     pub_date    = publication_date, 
                     ticker      = ticker, 
-                    text        = text)
-
+                    title       = title,
+                    text        = clean_text)
+            print('Page Scraped => {}'.format(tag))             
 
 
 
 
 #-------------------------------------------------------------------------------------
 
-scraper_driver_function(url_root_transcript_index, 
-                        test_beg_transcript_page,
+scraper_driver_function('restart', 
+                        url_root_transcript_index, 
+                        beg_transcript_page,
                         url_root_seeking_alpha
                         )
 
