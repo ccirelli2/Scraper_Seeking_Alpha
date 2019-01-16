@@ -1,3 +1,20 @@
+### CONFIG FILE
+'''
+
+Passwords:
+        1.) MySQL:              Need to amend the sys.path name to the dir where the password
+                                file is located.  Then import that file. 
+
+Target Directories:
+        1.) Transcripts:        Location for output of transcript text files. 
+
+
+
+
+
+'''
+
+
 
 
 

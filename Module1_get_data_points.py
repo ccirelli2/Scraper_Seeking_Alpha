@@ -48,13 +48,21 @@ def insert_backslash_comments(dirty_text):
     return backslash_double_quotes
 
 
-def get_ecall_text(bsObj):
+def get_ecall_text(bsObj, type):
+    '''type:  dirty or clean'''
     # Get article body
     search = bsObj.findAll('div', {'itemprop':'articleBody'})
     body   = search[0]
-    dirty_text = body.text
-    clean_text = insert_backslash_comments(dirty_text) 
-    return clean_text
+    
+    if type == 'dirty':
+        return body.text
+
+    else:
+        dirty_text = body.text
+        clean_text = insert_backslash_comments(dirty_text) 
+        return clean_text
+
+
 
 
 def get_ticker(bsObj):

@@ -45,8 +45,11 @@ url_root_seeking_alpha = 'https://seekingalpha.com'
 beg_transcript_page = 5268
 test_beg_transcript_page = 2
 
+# TARGET DIRECTORY OBJECTS
+target_dir_transcripts = '/home/ccirelli2/Desktop/Programming/Scraper_Seeking_Alpha/output_transcripts'
 
-# FUNCTION TO GET TRANSCRIPT LINKS FROM TRANSCRIPT PAGE
+
+# SCRAPER DRIVER FUNCTION-------------------------------------------------------------------------
 
 def scraper_driver_function(run_type, url_root_transcript, page_start_num, 
                             url_root_article):
@@ -104,7 +107,13 @@ def scraper_driver_function(run_type, url_root_transcript, page_start_num,
             publication_date = m1.get_date_published(bsObj_transcript_page)
             ticker = m1.get_ticker(bsObj_transcript_page) 
             title = m1.get_title(bsObj_transcript_page)        
-            clean_text = m1.get_ecall_text(bsObj_transcript_page)
+            dirty_text = m1.get_ecall_text(bsObj_transcript_page, 'dirty')
+            clean_text = m1.get_ecall_text(bsObj_transcript_page, 'clean')
+
+            # Write Transcript to File
+
+            create_e_call_text = m4.create_txt_file(
+
             # Insert Into MySQL Table
             m3.insert_function_2(
                     mydb        = mydb, 

@@ -1,3 +1,9 @@
+# UTILITY FUNCTIONS USED THROUGHOUT THE PROGRAM
+'''INCLUDED IN THIS MODULE
+1.) progress_recorder:
+2.) create_txt_file:        Create text file of transcript document. 
+'''
+
 
 
 
@@ -46,4 +52,8 @@ def progress_recorder(Count_obj, range_value_obj):
     return None
 
 
+def create_txt_file(target_dir, file_name):
+    f = open('{}.txt'.format(file_name), 'w')
+    f.close()
 
+    return None
