@@ -112,8 +112,9 @@ def scraper_driver_function(run_type, url_root_transcript, page_start_num,
 
             # Write Transcript to File
 
-            create_e_call_text = m4.create_txt_file(
-
+            create_e_call_text = m4.create_txt_file(target_dir_transcripts, 
+                    str(link.text))
+            
             # Insert Into MySQL Table
             m3.insert_function_2(
                     mydb        = mydb, 
@@ -136,14 +137,18 @@ scraper_driver_function('restart',
                         )
 
 
+#### Create a separate option for just obtaining the data for 1 page.  See if this works.  Otherwise, 
+### You're going to need to go line by line reconstructing the code in steps to see where the hangup is. 
 
+'''
+request = Request('https://seekingalpha.com/article/4233632-canadian-solar-inc-csiq-21st-annual-needham-growth-brokers-conference-transcript', headers={'User-Agent': 'Mozilla/5.0'})
+html = urlopen(request)
+bsObj = BeautifulSoup(html.read(), 'lxml')
 
+text = bsObj.findAll('h1')
 
-
-
-
-
-
+print(text)
+'''
 
 
 

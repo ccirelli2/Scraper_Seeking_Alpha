@@ -9,10 +9,16 @@ import string
 
 # FUNCTIONS GET VALUES FROM WEB PAGE
 
+'''headers ={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.149 Safari/537.36'}
+
+
+'''
+
+
 
 def get_bsObj(url):
     # Create bs4 Object
-    request = Request(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.149 Safari/537.36'})
+    request = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     html    = urlopen(request)
     bsObj   = BeautifulSoup(html.read(), 'lxml')
     return bsObj
