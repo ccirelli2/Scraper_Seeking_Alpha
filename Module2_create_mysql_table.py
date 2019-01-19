@@ -55,7 +55,19 @@ def create_table(mydb, mycursor):
 
 
 
+def create_table_links(mydb, mycursor):
+    sql_command = '''
 
+    CREATE TABLE URL_LINKS (
+
+    URL VARCHAR(1000) NOT NULL
+    PRIMARY KEY (URL)
+
+    )'''
+
+    mycursor.execute(sql_command)
+
+    return None
 
 
 

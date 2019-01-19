@@ -39,7 +39,7 @@ def insert_function_2(mydb, url, pub_date, ticker, title, text):
 
 
 
-def clear_table(mydb):
+def clear_transcript_table(mydb):
     mycursor = mydb.cursor()
 
     sql_command = '''
@@ -51,4 +51,26 @@ def clear_table(mydb):
     mydb.commit()
 
     return None
+
+
+def insert_url(mydb, url):
+    mycursor = mydb.cursor()
+    sql_command = '''INSERT INTO URL_LINKS
+                     (URL)
+                     VALUE ('{}')'''.format(url)
+    mycursor.execute(sql_command)
+    mydb.commit()
+
+
+def clear_url_table(mydb):
+    mycursor = mydb.cursor()
+
+    sql_command = '''
+                  DELETE FROM URL_LINKS
+                  WHERE URL != ''
+                  '''
+    mycursor.execute(sql_command)
+    mydb.commit()
+
+
 

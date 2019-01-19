@@ -15,6 +15,8 @@ from datetime import datetime
 import re
 import sys
 import mysql.connector
+from time import sleep 
+
 
 ### IMPORT MODULES
 import Module1_get_data_points as m1
@@ -42,7 +44,7 @@ url_root_transcript_index = 'https://seekingalpha.com/earnings/earnings-call-tra
 url_root_seeking_alpha = 'https://seekingalpha.com'
 
 # PAGE OBJECTS
-page_start_num = 1 
+page_start_num = 4000 
 
 
 
@@ -73,7 +75,7 @@ def scraper_driver_function(run_type, url_root_transcript, page_start_num,
     # SELECT RUN TYPE------------------------------------------------------------------
     '''Note we need to capture the count object in our db'''
     if run_type == 'restart':
-        m3.clear_table(mydb)
+        m3.clear_url_table(mydb)
     
     elif run_type == 'start_from_last_page':
         pass
@@ -95,29 +97,36 @@ def scraper_driver_function(run_type, url_root_transcript, page_start_num,
         page_number = page_start_num - num
         
         # Create bsObj for each page containing list of transcript pages
-        
         bsObj = m1.get_bsObj(url_root_transcript + str(page_number))
-
+        
         # Find All 'h3' Tags that contain links to transcript pages
         h3_tags = bsObj.findAll('h3')
         
-        # Iterate h3 tags to get links
-        '''format of return 
-        value = /article/2159-sohu-managements-prepared-remarks-from-q1-2005-conference-call
+        # Iterate over h3_tag and insert into table
+        for tag in h3_tags:
+            url = str(url_root_article + tag.a['href']) 
+            m3.insert_url(mydb, url)
+
+        # Add Sleep Delay of 5 Seconds   
+        sleep(10)
+
+
+
+        
         '''
-         
+        # Iterate h3 tags to get links
         for tag in h3_tags:
             link = tag.a['href']
         
             # Single Transcript Page
-            transcript_page = url_root_article + link
+            transcript_page = url_root_article + link 
+       
+            print(transcript_page)
             
-            
-            # Create a bsObj of the transcript page
-            ##**** need to add a timer here.  ******
-            
+            # Create a bsObj of the transcript page            
             bsObj_transcript_page = m1.get_bsObj(transcript_page)
-            '''
+            print('bsObj individual transcript created')
+
             # Scrape Attributes
             page_url = transcript_page
             publication_date = m1.get_date_published(bsObj_transcript_page)
@@ -127,7 +136,6 @@ def scraper_driver_function(run_type, url_root_transcript, page_start_num,
             clean_text = m1.get_ecall_text(bsObj_transcript_page, 'clean')
 
             # Write Transcript to File
-
             create_e_call_text = m4.create_txt_file(target_dir_transcripts, 
                     str(link.text))
             
@@ -140,8 +148,10 @@ def scraper_driver_function(run_type, url_root_transcript, page_start_num,
                     title       = title,
                     text        = clean_text)
             print('Page Scraped => {}'.format(tag))             
-            '''
-    
+            
+            # Insert a Delay
+            sleep(5)
+        '''
 
 
 #-------------------------------------------------------------------------------------
@@ -153,13 +163,11 @@ scraper_driver_function('restart',
                         )
 
 
-#### Create a separate option for just obtaining the data for 1 page.  See if this works.  Otherwise, 
-### You're going to need to go line by line reconstructing the code in steps to see where the hangup is. 
 
 
 
 def test_run():
-    request = Request('https://seekingalpha.com/article/4233632-canadian-solar-inc-csiq-21st-annual-needham-growth-brokers-conference-transcript', headers={'User-Agent': 'Mozilla/5.0'})
+    request = Request('https://seekingalpha.com/article/170057-cabot-f4q09-qtr-end-9-30-09-earnings-conference-call-transcript', headers={'User-Agent': 'Mozilla/5.0'})
     html = urlopen(request)
     bsObj = BeautifulSoup(html.read(), 'lxml')
     publication_date = m1.get_date_published(bsObj)
@@ -177,7 +185,7 @@ def test_run():
     print(title)
 
 
-
+#test_run()
 
 
 
