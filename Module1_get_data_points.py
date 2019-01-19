@@ -61,15 +61,12 @@ def get_ecall_text(bsObj, type):
     body   = search[0]
     
     if type == 'dirty':
-        return body.text
+        return body
 
     else:
         dirty_text = body.text
         clean_text = insert_backslash_comments(dirty_text) 
         return clean_text
-
-
-
 
 def get_ticker(bsObj):
     try:

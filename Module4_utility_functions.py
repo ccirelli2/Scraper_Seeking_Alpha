@@ -4,8 +4,8 @@
 2.) create_txt_file:        Create text file of transcript document. 
 '''
 
-
-
+# IMPORT LIBRARIES
+import os
 
 
 def progress_recorder(Count_obj, range_value_obj):
@@ -52,8 +52,20 @@ def progress_recorder(Count_obj, range_value_obj):
     return None
 
 
-def create_txt_file(target_dir, file_name):
+def create_txt_file(target_dir, file_name, text):
+    os.chdir(target_dir)
     f = open('{}.txt'.format(file_name), 'w')
+    f.write(text)
     f.close()
 
     return None
+
+
+
+
+
+
+
+
+
+
