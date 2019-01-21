@@ -53,11 +53,11 @@ def clear_transcript_table(mydb):
     return None
 
 
-def insert_url(mydb, url):
+def insert_url(mydb, url, page):
     mycursor = mydb.cursor()
     sql_command = '''INSERT INTO URL_LINKS
-                     (URL)
-                     VALUE ('{}')'''.format(url)
+                     (URL, PAGE)
+                     VALUE ('{}', '{}')'''.format(url, page)
     mycursor.execute(sql_command)
     mydb.commit()
 
