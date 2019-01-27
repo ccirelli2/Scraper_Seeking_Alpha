@@ -1,0 +1,394 @@
+ADTRAN, Inc. (NASDAQ:ADTN) Q3 2008 Earnings Call October 15, 2008 10:30 AM ET
+Executives
+
+Thomas R. Stanton – Chairman and Chief Executive Officer
+James E. Matthews – Senior Vice President and Chief Financial Officer
+
+Analysts
+
+Vivek Arya – Merrill Lynch
+Unidentified Analyst – Robert Baird
+Jason Ader – William Blair
+Paul Silverstein – Credit Suisse
+Todd Koffman – Raymond James
+George Notter – Jefferies & Co
+Cobb Sandler – Deutsche Bank
+Ehud Gelblum – J.P. Morgan
+Blair King – Avondale Partners
+Greg Mesniaeff – Needham & Company
+Nikos Theodosopoulos – UBS
+Unidentified Analyst – Morgan Keegan
+Ray Archibald – Kaufman Brothers
+Scott Coleman – Morgan Stanley
+Andy Schopick – Nutmeg Securities
+
+Operator
+
+Welcome to the third quarter 2008 earnings release conference call. (Operator Instructions)
+During the course of the conference call, ADTRAN representatives expect to make forward-looking statements which reflect management’s best judgment based on factors currently known. However, these statements involve risks and uncertainties, including the successful development and market acceptance of new products. The degree of competition in the market for such products, the product in channel mix, component costs, manufacturing efficiencies, and other risks detailed in our annual report on Form 10-K for the year ended December 31, 2007 and Form 10-Q for the quarter ended June 30, 2008.
+These risks and uncertainties could cause actual results to differ materially from those in the forward-looking statements which may be made during the call. After today’s presentation we will open up a question-and-answer session. 
+I would now like to turn the conference over to Tom Stanton, CEO. 
+Thomas R. Stanton
+
+With me this morning is Jim Matthews, Senior Vice President and Chief Financial Officer. 
+As noted in our press release, we performed very well in the quarter, achieving an 11% year-over-year increase in revenue, a 13% increase in earnings per share, and we set record revenue levels in some of our key product areas. The revenue growth in the third quarter was driven primarily by increases in our growth categories, broadband access, optical access and internetworking, which combined grew 26% year-over-year.
+During the quarter, broadband access revenues grew 26% year-over-year, optical access achieved a record revenue level growing 21% year-over-year and internetworking also set a new record, growing 33% year-over-year. Also, HDSL our largest legacy product area came in very strong with $50.8 million in revenue, growing 8% year-over-year.
+This year-over-year increase in broadband access revenue was due mainly to our total access 5000 product band. This series of products continued to progress and remains on track with all our multiple major awards. During the quarter, we continued to receive new carrier approvals and shipped initial products to our second North American tier one carrier. We continue to expect approval at the third tier one North American carrier to occur in the fourth quarter of 2008.
+On a sequential basis, total access 5000 revenues partially offset a decrease in our 1100 series fiber to the node products and our 3000 series ATM DSLAMS. The activity around our 1100 series, both from a bidding and lab activity perspective, continued to grow in the U.S. and abroad. 
+We did, however, see a decline in fiber to the node revenues at a large tier one domestic carrier. We believe this decrease is temporary and part of a longer term phased roll out deployment. We anticipate re-acceleration of shipments to this carrier beginning in early 2009.
+Optical access again had a strong quarter, with 21% year-over-year growth. Again, this growth was driven primarily by tier one carriers as we continue to gain traction with relatively new awards in that market segment. We continue to believe, despite our gains to date, that we are in the early phases of optical access conversion, and that the increasing demand for bandwidth, both wire line and wireless, holds great promise for this product area.
+
+Moving on to our enterprise segment, our internet working business saw its eighth record revenue quarter within the last nine. This growth, although muted by economic conditions, continued to reflect the broad base support we are seeing as we continue to utilize our carrier distribution channels and aggressively grow our bar dealer base. This growth area now represents approximately 60% of our total enterprise revenue.
+We continue to innovate and redefine this product segment as evidenced by our recent introduction of a new, higher capacity switch product line and feature leading 7100 series IPPDX telephony product. The economic environment experienced during the first part of the quarter was similar to what we experienced during the previous nine months. However, the latter part of the quarter experienced additional weakness across most customer segments and across most product segments.
+Optical access, total access 5000 and net band to product areas did not see these decreases as these categories continued to gain enough share to overcome that underlying slowness. Although it is still early in the fourth quarter, order rates have since stabilized. We believe the result of continuing share gains in our product categories will enable us to mute the effect of the environment we are experiencing, although the escalating economic uncertainty and the resulting volatility in order rates, force us to enter the fourth quarter with some level of caution.
+It is our belief that the underlying benefits of our products, coupled with the inevitable transition to higher speed IP centric networks, will over the long term overcome short term macroeconomic weakness. And these facts, when coupled with our company’s proven ability to increase market share in difficult environments, have fortified our optimism and our ability to prevail as a leading global provider of IP centric solutions for both copper and fiber.
+I would now like Jim Matthews to review our results for the third quarter 2008 and our comments on the fourth quarter of 2008. We will then open the conference call up for questions. Jim.
+James E. Matthews
+
+Revenue for the third quarter increased 11% to $137.2 million compared to $123.8 million in Q3 of ’07. Broadband access product revenues for Q3 of ’08 increased 26% to $23 million compared to $18.2 million in Q3 of ’07. Comparing Q3 of ’08 to Q3 of ’07, the significant increase in broadband access product revenues is primarily attributable to 1100 series fiber to the node upgrades, and 5000 series rollout of the Ethernet over copper services broadband digital loop carrier and other applications.
+Optical access revenues increased 21% to a record $16.7 million for the third quarter of 2008, compared to $13.9 million in Q3 of ’07. Comparing Q3 of ’08 to Q3 of ’07, the increase in optical access increased as a result of continuing share gains plus numerous customers, including tier one carriers.
+Internetworking revenues increased 33% to a record $19.2 million in the third quarter of ’08 compared to $14.5 million in Q3 of ’07. Internetworking products continued to experience increasing momentum as a result of continuing efforts to improve traditional enterprise channel focus and leverage carrier distribution.
+In total, our growth products grew 26% in the third quarter of ’08 compared to the same period the prior year. Carrier systems revenues were $53.9 million for Q3 of ’08 compared to
+$44.6 million in Q3 of ’07. Comparing Q3 of ’08 to Q3 of ’07, the increase in carrier systems revenues was primarily attributable to revenue increases in broadband access and optical access product categories.
+Business networking revenues for Q3 of ’08 were $25.4 million compared to $23 million in Q3 of ’07. Comparing Q3 of ’08 to Q3 of ’07 the increase in business networking revenues was primarily attributable to record revenue levels from our internetworking products, partially offset by a decrease in traditional integrate device revenues.
+
+Loop access revenues were $57.9 million for the third quarter of ’08, compared to $56.3 million for Q3 of ’07. Comparing Q3 of ’08 to Q3 of ’07, the increase in loop access revenues was attributable to an increase in HDSL revenues, partially offset by a decline in enterprise T1 revenues.
+HDSL product revenues were $50.8 million in Q3 of ’08 and this was the highest revenue level for HDSL in 12 quarters. As a result of the above, carrier networks division revenues were
+$106.4 million and enterprise networks division revenues were $30.8 million in Q3 of ’08.
+International revenue was $7.8 million for the third quarter of ’08 compared to $7.8 million in the third quarter of ’07. To provide the reporting of each of these categories, we have published them on our investor relations page at ADTRAN.com.
+
+Gross margin was 59.6% of revenue for the third quarter of ’08 compared to 59.9% for the third quarter of ’07. Research and development expenses were $21.7 million in Q3 of ’08 compared to 
+$18.7 million in Q3 of ’07. The increase in research and development expenses was primarily attributable to an increase in activities related to customer specific development efforts and telcordia costs related to tier one carrier product approvals.
+Selling, general and administrative expenses were $26.3 million for Q3 of ’08 compared to 
+$25.3 million in Q3 of ’07. Stock based compensation expense net of taxes was $1.8 million in the third quarter of ’08 compared to $1.9 million for the third quarter of ’07. Other income net of extra expense was $1.8 million in Q3 of ’08 compared to $2.7 million in Q3 of ’07. The decrease in other income net of extra expense for Q3 of ’08 is primarily attributable to lower investment balances as a result of our share repurchase program and lower interest rates.
+The company’s income tax provision rate was 36.8% for the third quarter of ’08 compared to 34.4% for the third quarter of ’07. The tax provision rate for the third quarter of ’08 was unusually high primarily as a result of delays in federal legislation required to extend richer tax credits for the 2008 year. Legislation was finally enacted in the fourth quarter of 2008, and therefore the research tax credit for all of 2008 will be reported fourth quarter.
+Earnings per share assuming dilution for Q3 of ’08 were $0.35 compared to $0.31 for Q3 of ’07. Inventories were $48.3 million at quarter end. Net trade accounts receivable were $59.2 million at quarter end resulting in DSO’s of 40 days for the third quarter of ’08 compared to 51 days for the third quarter of ’07.
+Net cash provided by operating activities for the third quarter of ’08 was a strong $27.5 million compared to $17.5 million for the same period the prior year. Unrestricted cash and marketable securities totaled $220 million at quarter end after paying $5.8 million in dividends during the third quarter and after repurchasing 1.9 million shares of common stock for $43.1 million.
+In regards to our fourth quarter review, we want to remind you that we are a book and ship business and timing of near term revenues associated with large products we are engaged in, combined with the possible impact of a slowing macro environment, make it difficult to predict revenue levels. With that said, ADTRAN has definitely seen revenues decrease sequentially in the fourth quarter primarily as a result of seasonality. On average, since the year 2004, this sequential decrease has averaged around 9% and we expect to see seasonality this quarter.
+Additionally, a potential offset to the strong HDSL demand we saw in the third quarter and the softness in spending we saw in the third quarter lead us to believe that we may see a mid-single digit range percent negative sequential impact over and above average seasonality in the fourth quarter. 
+
+We believe the larger factors impacting the revenue we realize in the fourth quarter will be the following; spending levels at our large tier one and tier two carrier customers, general economic conditions, stability of our traditional product revenues, order trends and traction and fewer international customers, the adoption rate of our total access 5000 and 1100 series platforms, the adoption rate of the Opti 6100 for tier one [categories] and continued new growth in internetworking revenues.
+
+We believe we will execute in a range consistent to our historic operating model at the achieved revenue in the fourth quarter. Tom, back to you.
+Thomas R. Stanton
+
+We’re now ready to open up to questions.
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) Your first question comes from Vivek Arya – Merrill Lynch.
+Vivek Arya – Merrill Lynch
+
+In the last few years, along with some sequential decline in sales in the fourth quarter there has also been a corresponding decline in gross margins. I think in the last two years it was 150 basis points or so. Jim, is it possible that we see more gross margin declines in the fourth quarter than that seasonal trend?
+James E. Matthews
+
+Well we do expect gross margins for that to remain somewhere in the high 50s. Whether or not they decline that much I don’t know. But again we think the high 50s would be a good range.
+Vivek Arya – Merrill Lynch
+And then Tom a question for you. If you look at demand drivers for the company, its essentially residential DSL, its enterprise services at the small, medium size business and wireless backhaul, can you give us a sense for what the proportional exposure is and which of these areas are under more pressure versus others?
+Thomas R. Stanton
+
+Depending on the product area it’s tough to give you that specific mix because we of course ship these products to the carriers and the carriers disperse them for those different applications. My sense would be where we saw some pressure at the end of third quarter and kind of border activity would be more in the traditional [declimb] area where we saw a decrease in our 3000 ATM DSLAM. Now some of that is may be due to pressure in the environment, but that residential phase, I think some of that is also that we’re seeing more shipments toward IP centric type DSLAM so I think there’s a little bit of a combination there.
+Vivek Arya – Merrill Lynch
+There’s a lot of concern that some of your larger carrier customers, AT&T, Verizon, Qwest are not spending or at least have curtailed spending in the fourth quarter. Tom can you give us a sense as to what is the nature of the spending cutback? Is it across the board or is it more in one [vital] project versus another? If you could just give us some color as to how widespread this is and what the nature of these cutbacks are.
+Thomas R. Stanton
+Sure. First of all, it’s hard to say when something is doing well; I think I pointed out in my notes that some of our product lines, optical access, the 5000 series and the internetworking products didn’t see really any slowdown as far as a decrease in order activity. But what you don’t know is what they could have been if there wasn’t some sluggishness in the environment. So it’s hard to speak to that.
+But in general, I would say we saw pretty much an across the board kind of slowdown. Now if that happened kind of towards the mid to as we got into the second half of the quarter right around that turn point in the quarter, and we saw a decrease in order activity. Now we did see, at the end of the quarter basically the last couple of weeks or so and then coming into the first couple of weeks of this quarter, a rebound of that. And we actually saw an order pickup. Things seemed to stabilize some. But the environment is still somewhat uncertain which is why we’re being a little cautious about fourth quarter.
+
+Operator
+
+Your next question comes from [Unidentified Analyst] – Robert Baird.
+Unidentified Analyst – Robert Baird
+
+I guess I just want to make sure I understood the comments on I think you said that the order rates have kind of stabilized in October. Then you had also continued to express some caution. I guess any kind of resolve that for me. And I guess how does the environment look to you right today?
+Thomas R. Stanton
+Okay, actually the order rate stabilized really at the tail end of September and then into October as far along as we are into October. And I would say that we actually felt kind of a pick up there in that period of time versus where we were previous in that quarter.
+The cautiousness is just that. Its just that the general feedback we’re getting is kind of constrained in spending. More constrained than they were in the first quarter this year and that’s really what’s driving kind of our outlook. We can tell you we’re very much a book and ship business so we can’t tell you what the order activity will be or the revenue will be for the rest of this quarter with the specificity you would like to have. But in general I would say the environment is cautious, very cautious.
+Unidentified Analyst – Robert Baird
+I apologize. I think you had mentioned specific factors that were contributing to the, I think you said an impact in kind of the mid-single digits above and beyond normal seasonality.
+Thomas R. Stanton
+Yes and that’s really just taking a look at kind of what our order flow has been and looking at and trying to project with a crystal ball what we may think the environment and what the attitudes of the different carriers will be. And we felt it was kind of our duty to at least give you some sense of what we think the activity levels are liable to be and that’s where we came with that. Jim, do you have anything else to add to that?
+
+James E. Matthews
+
+That’s right. That pretty much sums it up. And again looking at the order trends coming out of the third quarter and what we’re seeing towards the beginning of this quarter again a bit of a rebound, but again we still feel the need to be cautious in what we tell you for the fourth quarter.
+Unidentified Analyst – Robert Baird
+And so if you were kind of taking a minus 9% as kind of a baseline for normal seasonality, so you think that it would be kind of realistic based on the order flow that you’re seeing to see a double digit decline sequentially?
+Thomas R. Stanton
+Potentially that’s what our feeling is at this point.
+Operator
+
+Your next question comes from Jason Ader – William Blair.
+Jason Ader – William Blair
+
+I just wanted to ask you about the decline in the FTPN business and I assume that’s at one of your largest customers, one of your tier one customers that you have been talking about the last several quarters, has been aggressively deploying FTPN. Was this unexpected first of all and second of all what gives you the confidence that it’s going to reaccelerate in early ’09?
+Thomas R. Stanton
+You’re right. The majority of that decline was from a large tier one carrier here in the U.S. who has been very aggressively rolling out our fiber to the node product. As far as unexpected I think they have become better and better at kind of forecasting their activity, so I think that although we don’t know necessarily the magnitude, the exact magnitude, I would say that we are expecting some level of slowdown in the second half. 
+As far as what makes us feel that it will kind of restart next year is that’s the sense we’re getting from the customer. I think they’ve been pretty good in being able to telegraph to us kind of where things are and I think that they’ve been fairly accurate in being able to tell us when they start activity and over the last two years or so and that’s just the message we’re getting at this point.
+
+Jason Ader – William Blair
+
+Jim could you give us the 10% customers?
+James E. Matthews
+Sure. AT&T was 23%. Verizon was 13%. Inbar came in at 10% and Qwest came in at 14%.
+Jason Ader – William Blair
+Tom on the HDSL strength I imagine that was somewhat unexpected and it sounds like that’s driving some of your cautiousness for guidance on Q4 as well. Is that correct? And maybe HDSL was sort of strong and it’s still a little bit from what it might have been in Q4?
+Thomas R. Stanton
+Jason I think that you’ve been around long enough to see that sometimes when we’re high one quarter we pay for it in the next, and if we’re low in one quarter we may see pick up in the next. And that is driving some of our cautiousness here. We have heard the same things that many of you listening have heard which is that there’s kind of a renewed demand to increase backhaul bandwidth and that may be what drove this increase, and if that did drive the increase we think that that will have a longer term positive impact on HDSL. 
+But I think one quarter into it, I think is a little nervous for us. It just makes us nervous to say that we’re kind of hitting this new level going forward, especially when we’re going into what is seasonally a soft [inaudible] quarter anyway.
+Jason Ader – William Blair
+Have you guys ever been able to, I know you’ve been asked this many many times, have you been able to come up with any precise number of what percentage of your HDSL business is going into cellular backhaul?
+Thomas R. Stanton
+No we haven’t. I mean, there’s still no real good way for us to do that. I will say that a lot of the activity though, I mean we did see a pickup in activity and I can’t tell you the exact amount but I can tell by just the conversations we’re having with the customers there was definitely a pick up kind of mid-year and then going into the third quarter, specifically for wireless. I would say the wireless content has increased over what it has historically been. But I can’t tell you the exact percentage.
+Operator
+
+Your next question comes from Paul Silverstein – Credit Suisse.
+Paul Silverstein – Credit Suisse
+
+Can you give us any metrics in terms of where TA 5000 revenues are at?
+James E. Matthews
+Sure Paul it was around 5% of total revenue.
+Paul Silverstein – Credit Suisse
+
+Jim, I apologize, how does that compare to last quarter?
+James E. Matthews
+
+It’s sequentially up. It was a record quarter.
+Paul Silverstein – Credit Suisse
+You know, by looking at the strength of your HDSL in terms of the activity from a revenue perspective, your growth drivers, the DSLAM, TA 5000, the internetworking and the optical access, would the numbers have been that much better but for the DSLAM? I guess what I’m really driving at is I’m trying to understand, I know your growth drivers are growing and they’re growing at a nice clip, but I’m trying to understand whether the growth has softened somewhat or the opposite in that the 26% growth seems like it was so off versus what it would have been or should have been [inaudible].
+Thomas R. Stanton
+
+Yes. We could kind of break out the percentage. I think optical is still we’re seeing good solid growth in optical and we’re optimistic that that growth will continue on for some period of time. I think in general we would say that about broadband. No doubt 5000 will accelerate at a faster clip than probably the overall product line over time because of the different applications that the 5000 did. 
+The slowdown that we really saw, we saw some impact in ATM DSLAMs. ATM DSLAMs are a lesser portion of our revenue at this point in time by far than what we ship for IP DSLAMs. But we saw some slowness there and there is a major tier one carrier, the largest tier one carrier in North America that purchases some of our legacy ATM DSLAM, so we saw some slowness there. But the biggest impact was really our fiber to the node deployment by that other large tier one carrier which we’re really, we’re feeling very confident that that’s a kind of deployment rollout that they have planned and that we would see that accelerate again early next year.
+
+Operator
+
+Your next question comes from Todd Koffman – Raymond James.
+Todd Koffman – Raymond James
+
+Access 5000 I thought you said it was 5% or about $7 million, in my notes I have that that product line was doing around $6 million a quarter but you cited it as some big record. Am I missing something?
+James E. Matthews
+
+Big record and record, I don’t think he said it was a record. It was. I’m not going to get into the specific numbers but it’s still a relatively – I mean it’s still in that order of magnitude.
+Todd Koffman – Raymond James
+
+Yes but it’s been hanging around 6 or $7 million for the last couple of quarters.
+James E. Matthews
+It’s been hanging around that 5% level.
+Todd Koffman – Raymond James
+And is the ramp of that TA 5000 over the next couple of quarters still coming together as you would have thought? Or is it just stretching out a little bit, given a lot of the indecision it sounds like you’re hearing?
+Thomas R. Stanton
+We are seeing some indecision but as far as what we would have thought I would say it’s probably not substantially different and that we were the first major win at the tier one was for a Ethernet over copper which we said was going to take some period of time to actually rollout. And I would not sit here and tell you that their economic spending level or their CapEx spending level may not have impacted the aggressiveness of that rollout through this year. So I think we probably had a little bit of pullback there that we would have liked to have not seen.
+The other two major carriers which are kind of where we’re looking at as those being the major stepping stones for real revenue impact there, the second carrier we did get orders and the tail end of the second quarter we started shipping those in the third quarter. They have now started accelerating yet I think it’s very early on. We’re definitely expecting to see some acceleration in that order rate over the next few quarters.
+The third carrier we hope to get approval and at this point are on track to get approval at the end of this year which has been our plan for some period of time, which means that those would kick on hopefully sometime in the first half of ’09.
+Operator
+
+Your next question comes from George Notter – Jefferies & Co.
+George Notter – Jefferies & Co.
+I guess I was interested in Telmex. Obviously you shipped them quite a bit of 1100 revenue back in Q4 of last year and I think the last update had them adjusting that infrastructure and you were kind of waiting for them to come back with orders this year. Do you expect to get orders this year still? Do you expect to be able to ship against those orders? What’s the update there?
+Thomas R. Stanton
+Yes. I don’t think that we’re going to get a Christmas order from Telmex this year. I would be surprised. We could but I would be surprised and I definitely would not expect us to be able to ship that in the fourth quarter if we did receive one.
+George Notter – Jefferies & Co.
+Has anything changed at Telmex then?
+Thomas R. Stanton
+Yes. They’re going through getting their IPTV franchise and really video franchise. We have progressed with them in that as they have kind of fine tuned what it is that they want to do technically speaking. We have gone through different phases of integrations with the products we have shipped them, different software upgrades. 
+At this point in time we are now IPTV certified within their network so that when they do turn on that service, we hope to be a very big part of that. I think we’re from a certification perspective we’re definitely as good if not better than our competition there. So I think at this point it’s just a matter of deciding how aggressively they’re going to roll that out and over what timeframe.
+George Notter – Jefferies & Co.
+On the internetworking business obviously you’ve been growing that for some time now. It sounds like a piece of the growth is certainly coming from expansion of your channel relationships and carrier relationships. If you were able to look through that and look at it let’s say on a same store sales basis, particular distributors and particular carriers, would those be growing right now or staying the same or shrinking?
+
+Thomas R. Stanton
+On a same store sales and George this is, I haven’t looked at that number, my sense would be though same store sales that they were probably flat to slightly up. We’ve gone through our recruitment activities of our dealer base. We’ve also gone in and figured out which ones are capable of selling the product and which ones aren’t. So the var dat base is not only growing in total numbers, but there’s also a mixed shift in who those [vars] are that we’re going through. 
+And that’s a good thing long term because I think longer term you’ll see more capable dealers moving our product. In the near term that means that you have a dealer that was producing at some level that may not be a dealer and you have a new dealer coming in and that dealer has to get up to speed. So I think there’s a makeshift that affects that. But in general I’d say that we’re probably flat to slightly up.
+Now on the carrier side that is not the case. On the carrier side where we’re using them as distribution channels or we’re using them instead of managed service application, I’d say there’s no doubt that we were up.
+Operator
+
+Your next question comes from Cobb Sandler – Deutsche Bank.
+Cobb Sandler – Deutsche Bank
+
+On the gross margin looks like it’s down about 100 basis points quarter on quarter. Is it more product mix or are the enterprise products seeing some pricing pressure in this environment?
+James E. Matthews
+
+If I can relate back to what happened in the second quarter, you know as we said on the second quarter conference call those gross margin levels were unusually high because of the unusual linearity within the quarter. In terms of us paying nearly no expediting costs, air freight costs, etc. So again I think the third quarter gross margins are probably a bit more normalized so to speak for that revenue.
+Thomas R. Stanton
+
+Yes I don’t think it’s, in fact I’m pretty sure that it’s not because of some underlying aggressiveness in pricing in the market.
+Cobb Sandler – Deutsche Bank
+
+And the 1100 Fs, the slowdown there in North America, is it more of an inventory situation or obviously you’re still sole sourced at that carrier. Can you describe a little bit about what the slowdown, a little more detail on the slowdown? Thanks a lot.
+Thomas R. Stanton
+My sense is that that carrier will – bought equipment, is now deploying that equipment, has been deploying but is kind of finalizing that deployment for the year as they enter the winter period. And if you think about an outside planned DSLAM and what you have to do to solve it, it kind of makes sense. And what they’ll do then is start early next year with buying more equipment and maybe not deploy it in let’s say January or February, but buying that equipment in order to get running back up again as they install.
+And that’s maybe a simplistic way to look at it, but I think it makes sense and I think that’s the way they’re talking to us about it.
+Operator
+
+Your next question comes from Ehud Gelblum – J.P. Morgan.
+Ehud Gelblum – J.P. Morgan
+
+Jim first of all when you apply the math that you were talking about for Q4 you come up with something that comes dangerously close to flat to down on a year-over-year basis. Is that sort of the – I’ve got to make sure that we’re on the right track. Is that basically the way you were thinking?
+James E. Matthews
+
+Potentially yes.
+Ehud Gelblum – J.P. Morgan
+And as you look then into Q1 of next year, traditionally your Q1 is somewhat close to Q4, it hugs it pretty closely, yet you’re saying that you think this FTPN orders that were sort of pushed out a little bit now will start coming back in Q1. When you add that together you sell visibility, would you be expecting Q1 to sort of stay seasonally hugging Q4 again? Or would you expect it to come back to sort of levels where it would be if things had been kind of in the right quarter when they were supposed to the way this [inaudible] is?
+
+James E. Matthews
+Well that’s certainly a thought, but I think we really have to wait until the conference call in January to talk about that a bit more.
+Ehud Gelblum – J.P. Morgan
+When you started talking about, Tom, that revenue seems to have stabilized in the end of September and kind of picked up again here through October, is that across the board? Is that both that HDSL has picked up again as well? Or did that never slow down? And what about on the net banded side? Did that slow down and pick back up again? Or were those strong right through those periods?
+Thomas R. Stanton
+
+Well HDSL did slow down during that period of time. And that’s getting fairly granular, but I think it’s pretty much across the board where we’ve seen it stabilize. And somewhat of a rebound, but I hate to think too much on that just because we’re such a book and ship business that things can change overnight. But yes we saw that kind of pickup in HDSL. Now fourth quarter is traditionally not a strong HDSL quarter, so some of our cautiousness has to do with that also; internetworking in general just continued to truck on through it.
+Ehud Gelblum – J.P. Morgan
+So that didn’t experience the slowdown in September and then picked back up again? Again that just kind of trucked on through.
+Thomas R. Stanton
+That just kind of kept on.
+Ehud Gelblum – J.P. Morgan
+And you expect that as you’re looking into Q4, you’re expecting that to continue that pace.
+Thomas R. Stanton
+Well I would expect it, but we also saw last year and I think in general we see seasonalities in all of our products in the information network.
+Ehud Gelblum – J.P. Morgan
+So that’s one of the ones you think will fall off in Q4 just from traditionally. Because last year if you do look, your internetworking was actually flat in Q4.
+Thomas R. Stanton
+Yes, I mentioned earlier that we set I think eight records out of nine, which tells you we’ve kind of been able to get past seasonality, too. And that very well could be the case, if the growth we see overcomes the underlying seasonality there. But Ehud I think you can understand where we are. We’re just going to be cautious about it.
+Ehud Gelblum – J.P. Morgan
+Well, when you were talking about the 9% plus mid-single digit, call it 5% for lack of a number, so you’re talking about 14% down you are including internetworking to be down in that, not to be flat?
+Thomas R. Stanton
+We would expect, yes, every product area is typically affected and we would expect that. You know they’re not all affected by the same amount so when we look at a number like that, we’re really looking more in aggregate of the order flow and try to say what will all of the buckets do at the end of the quarter.
+Ehud Gelblum – J.P. Morgan
+So if that ends up being flat, it would be little bit better than the 14% down.
+Thomas R. Stanton
+Yes. I mean, it very well could be but I can’t tell you that everything else will be just 14% or whatever, however you calculate that number. Some things will be more, some things will be less.
+Ehud Gelblum – J.P. Morgan
+Right. I’m just trying to get the pressure points here and there. The last one I wanted to understand a little bit more about is on the HDSL side. Granted it was very strong and it seems somewhat in particular is building out a wireless backhaul system for perhaps larger capacity that they’re building right now in the second half of the year. 
+My impression was that it was one of the bright spots that is actually going on and probably would continue throughout the year. That particular customer that Tom you said picked up in mid-year on the wireless side of your HDSL business, did that slow down at the end of the quarter? Because my impression is that would continue going and that perhaps other HDSL business may fall off in Q4, but that that project would continue throughout the rest of the year.
+
+Thomas R. Stanton
+I’ve heard the same type of things that you may have heard, which is that this may be a multi-quarter build up that they’re talking about. I will say though that we did see a slowness in HDSL during that slow period of time as well as other products. So that’s got us kind of scratching our head as to how much of this is build out related and how much is economic related. And even if it’s build out related, may they not move their activity from quarter to quarter in order to normalize things in their own operation. So that may be what’s gone on. 
+I will tell you that what we saw in HDSL, though, was not carrier, was not eye link specific, so if a big wireless carrier decides that they want to increase bandwidth or deploy a new service for, let’s say, take care of, make sure that the service that they have has got the right kind of usability in order to keep demand going, that they will affect most wire line carriers because those networks aren’t just within the footprint of the wire line carrier they may be associated with. Do you understand what I’m saying there?
+Ehud Gelblum – J.P. Morgan
+Yes I totally understand. The last question given you were down only 4% in the fourth quarter last year, you went back nicely in history to come up with your 9% seasonality number. And it does justify that, and then you added the mid-single digits on top of that. It sounds to me like you’re stretching, given the order growth that you’re seeing and you’re just adding a lot of dosage of cautious cautiousism. But that things really don’t sound that bad right now. 
+You’re just preparing yourself which is perfectly fine, but I just want to understand. I mean last fourth quarter wasn’t anywhere near down 9% and your order growth seems to be rebounding a little bit. It does sound as though, and I just want to bounce one last thing off of you, as though yet it’s totally prudent to be cautious right now and that’s a good thing to be, but you’re not really seeing the environment fall apart on you right now. Aside from that one FTPN push out.
+Thomas R. Stanton
+I would say that the environment is not falling apart on us right now but in conversations and we’ve had fairly recent conversations with some of these carrier customers, in conversations with those customers there is nervousness at this point in time. And whether or not it’s being overly cautious or not, if it turns out better than that we’re going to be as happy as everybody else. But we’re not weighing it down unduly. I mean we’re trying to reflect the environment that we’re hearing right now.
+Operator
+
+Your next question comes from Blair King – Avondale Partners.
+Blair King – Avondale Partners
+
+Just one question just to expand on the last point that was made, obviously it would seem to me that many of the capital budgets have been established already amongst the carriers. So going into ’09 obviously you’ve spoken with your customers and clearly they’ve given you some indication that there is a slowdown, but going into ’09 how bad is it really? Is the decline of 14% in the fourth quarter setting expectations for 2009? Or how do we think about 2009 to the extent that you can let us know?
+Thomas R. Stanton
+
+Well we can let you know to the extent that we do know. We have some customers that on projects they’ve laid out kind of in broad scope what they plan on doing and things like the fiber to node build out, we have some kind of broad range visibility to what some of the bigger carriers are planning on doing with the 5000. And those are all positive things and they look good at this point in time.
+From a HDSL perspective or when you get down to non-project related stuff, the visibility there is much less accurate because a lot of that is demand driven activity. So if the demand isn’t there, which they can’t really forecast to us, then you won’t see that activity. 
+
+The only other piece of caution that I would throw in here, not that we haven’t thrown in enough, but the other piece that I would throw in here is we did see, although CapEx budgets were in place early this year, we saw by some of the largest carriers shifting from quarter to quarter in activity because they modified what their near term plans were within those budgets. So even if they were set today for 2009 I think you just can’t assume that that’s what’s going to happen.
+Blair King – Avondale Partners
+What about just lastly on the international outlook? I think you had talked a little bit about Telmex, but there’s this deregulation process in Latin America for video services and seems to be a lot of activity internationally and obviously you’re involved in many trials. So how do you see international playing out in ’09 relative to uptick?
+Thomas R. Stanton
+
+Where we’re very of course excited is about the opportunities that we are already in. We’re selling Ethernet over copper at this point in early stages. To some carriers we’re selling our fiber to node product. We have continuing ongoing trials. In fact, we have won some awards international with the Total Access 5000 which we’ll start rolling out next year. 
+The reason we won’t talk about them in depth at this point is because they’re very new customers to us and if I were to try to tell you a Telmex story a year ago, it would have been inaccurate because we didn’t know that customer enough to know their buying habits. And so you are right that there’s activity going on. Our products not only fit well in the IPTV rollout that’s happening in different parts of the world but they also fit well with some of the loop and bundling activity that’s going on in certain parts of the world. So we’re hopeful that we’ll see some meaningful growth. But we’ll wait and see.
+Operator
+
+Your next question comes from Greg Mesniaeff – Needham & Company.
+Greg Mesniaeff – Needham & Company
+
+Jim just one quick question for you. With the macro slowdown in carrier spending, primarily or disproportionately attributed to the tier one carriers, what activities if any have you guys done to increase your outreach or focus on the tier two carrier base?
+James E. Matthews
+Well I can tell you what we’ve done and we’re beginning to see the results of it. We are obviously continuing to market and see success with our Total Access 5000 and optical access products with the tier two carriers. They continue to be a significant focus for us. 
+Thomas R. Stanton
+I think the 5000 is now approved in at least one and in most cases three or four applications within every tier one. So I mean we’ve made a lot of headway this year actually in getting those things done. I spoke on my notes about the 5000 going forward with additional lab evaluations and different things. It’s definitely true in the tier twos also.
+Let me speak to this one point and then Jim you can add anything you want to at the end there. The sluggishness we see which you’re right we’re talking a lot about the tier one carriers. Tier two there were some areas where we saw some slowdowns too. I would call that a mixed bag though. It wasn’t all of them. But we did see some slowdown on some of those tier twos also.
+Operator
+
+Your next question comes from Nikos Theodosopoulos – UBS.
+Nikos Theodosopoulos – UBS
+
+Back on the guidance versus the run rate of orders that have bounced back a bit from the end of quarter weakness, if you look at your current run rate of orders that you’ve seen in October and extrapolate that as being constant throughout the quarter would that correlate to the guidance you gave? Or are you expecting the run rate to worsen just based on the customer concern that you’re hearing?
+Thomas R. Stanton
+
+We’re expecting the run rate to decrease more than it is right now. Two things, one is customer concern. The other is that it typically does decrease sometime, that decrease usually happens sometime in December. There are times where it happens before that. There are times where it happens late in December which are usually great years. But we would expect that order rate to decrease from where it is today.
+
+Nikos Theodosopoulos – UBS
+Just to clarify on a prior question, I got the impression that the weakness or the slowdown that you saw was more carrier centric, that you really didn’t see it in the enterprise. Is that fair? The downturn that you saw in September?
+Thomas R. Stanton
+I think that’s kind of surprisingly so, but I do think we saw enterprise weakness at the first half of this year, so if you just look at our numbers I think you could get that. I mean if you look at internetworking, I think you could conclude that. The thing that we don’t know is if the enterprise environment wasn’t going through some type of slowness, what would those numbers have been? So the answer to your question is there probably was slowness, but it probably didn’t necessarily reflect itself in internetworking.
+Nikos Theodosopoulos – UBS
+As you dialogue with your resellers in the enterprise market you know a lot of them rely on the bank lines of credit to kind of run their business given the cash conversion cycle for them, are you getting any concern from them on that? Or do you see that as being something that could disrupt their ability to sell your product? Or is it not something they’ve raised as an issue?
+Thomas R. Stanton
+It’s not something they’ve proactively raised. It is something we’ve proactively raised across much of our customer base, just to try to understand where we are and kind of where the risks are. And as of today I can’t say that it’s a big concern that bubbles up. It is something that we continue to watch, though.
+Operator
+
+Your next question comes from [Unidentified Analyst] – Morgan Keegan.
+Unidentified Analyst – Morgan Keegan
+
+Just one quick question. You spoke earlier on the call to share gains within the multiple product lines kind of keeping you guys held up during the economic slowdown. Do you speak specifically to the competitive environment and any sort of pricing strategy that you might be taking to gain the share?
+Thomas R. Stanton
+Yes. I’d say the pricing strategy that we have been employing and that we employed in third quarter was no different than what we’ve been doing otherwise the past couple of years. I haven’t seen any acceleration in price decreases. I think in many cases if not all cases we’re usually kind of the aggressive price leader as we go into larger opportunities. Many of our products today, the 5000, is also differentiated enough from a feature set to where there’s just a solid benefit in buying that product that we really haven’t seen anything that’s affected the pricing level.
+Unidentified Analyst – Morgan Keegan
+Are you seeing any competitors leaving any segments?
+Thomas R. Stanton
+
+You know I haven’t seen anybody actually exit. What we have seen is from time to time you may see, at least hear about people getting more aggressive in a segment in that they say they’re going to enter a segment and they may participate in an [RFP] that you didn’t expect them to. But we haven’t seen that in a while. I would say that the players have been fairly constant now for over a year.
+Unidentified Analyst – Morgan Keegan
+Given that can we expect then if you’re getting share with your current pricing structure that gross margin may pick up in ’09?
+Thomas R. Stanton
+
+Well just because the environment hasn’t changed doesn’t mean that those people, the ones that are in there, aren’t still going after business aggressively. I mean our model and the way that we think about the business is high 50’s, and that’s still the way we think about it. We do think that the environment is a beneficial environment even if it’s a difficult one. 
+For our company right now it’s very beneficial in that if you look at kind of our operating metric and our ability to continue to put R&D and our ability on certain opportunities to get price aggressive, compared to many of the other companies out there, I think we’re in a pretty good position. 
+
+Operator
+
+Your next question comes from Ray Archibald – Kaufman Brothers.
+Ray Archibald – Kaufman Brothers
+
+In the release, Jim, you talked to the tax credit and that will be applied retroactively so we shouldn’t look at this as being sort of a fourth quarter having a catch up in that it’s going to be an unusually low rate? We have to go back and re-state the prior quarters?
+James E. Matthews
+
+No, no, no. There will be a catch up in the fourth quarter. The benefit gets applied retroactively.
+Ray Archibald – Kaufman Brothers
+Can you give a breakdown today on where you are with the repurchase? How much is left on the authorization? What the thoughts are going forward regarding that?
+Thomas R. Stanton
+
+Sure. We’re going to continue to be opportunistic in terms of the repurchase. Right now we have approximately 3.9 million shares remaining on the repurchase program, so again we intend to be opportunistic.
+Operator
+
+Your next question comes from Scott Coleman – Morgan Stanley.
+Scott Coleman – Morgan Stanley
+
+Just to focus on Q4 for a minute, Jim, from an OpEx perspective it sounds like you’d expect that to come down from current levels so that you’d keep operating margin in this mid-20s level. Is that right?
+James E. Matthews
+
+We do anticipate OpEx to come down in the fourth quarter, something in a range between what we actually incurred on a GAAP basis, what we actually incurred say in the first or second quarter, somewhere between those two numbers on an OpEx basis.
+Scott Coleman – Morgan Stanley
+To follow up on Ray’s question, your full year tax rate, assuming the tax credit should be about 34% is that right?
+James E. Matthews
+
+Probably more like around 34.5, maybe slightly higher than that, Scott, but probably somewhere south of 35%.
+Scott Coleman – Morgan Stanley
+Maybe a bigger picture question, so if you take the company back to 2001, 2002 your sales declined, I think in ’01 it was 15, 16% year-over-year and then double digits again in ’02, clearly entering a more challenging period for the industry. So Tom when you think out over the next year or so, you obviously have a different set of product drivers than you did eight years ago, but what’s the right way to think about the growth opportunity for the company over the next four quarters or so? Beyond Q4 actually.
+Thomas R. Stanton
+
+Well you know if you’d allow me I’d rather talk about that at the end of fourth quarter and the reason is that we have another quarter of visibility as to what the underlying demand is for our legacy products. We’re very confident that our growth product areas in optical fiber to the node products, Total Access 5000, that those will continue to grow. 
+The legacy products are somewhat dependent upon that underlying economic environment, and things like wireless backhaul increasing can dramatically affect that. So I’m going to put that off as long as I can, and I think I’m allowed to put it off until next quarter so I’d like to do that.
+Scott Coleman – Morgan Stanley
+I will certainly grant you that. Maybe qualitatively if we think about your product set if we just take the three growth areas and it sounds like you have a fair amount of confidence that even in a difficult environment, those should grow in 2009. And is it fair to then take the remainder, the legacy product set and apply some sort of recession type scenario to those products, at least as a starting point? I understand there’s no visibility into it, but that’s sort of a way to think about the various revenue streams for 2009 for ADTRAN.
+Thomas R. Stanton
+That is absolutely one scenario and at this point in time I think that there’s some, you could say that there’s some logic to that scenario without – I think it makes more sense and of course this is what we will try to do is to break out those legacy product areas piece by piece and try to understand what’s going on within each of those and what we can forecast for next year. We had expected HDSL for instance to be kind of down, mid-single digits this year. I think that at this point in time we’re actually ahead of last year.
+
+Now the environment was not great this year as you’re aware for telecom equipment either. So I think we’ll go through that as we get through this quarter and be able to talk to you more about that.
+Vanessa, let’s have one more question and then I think that we’ll be at our time limit.
+Operator
+
+Yes sir. Your final question comes from Andy Schopick – Nutmeg Securities.
+Andy Schopick – Nutmeg Securities
+
+Just a clarification on the buy back, there was a piece that was left that was I think going into the prior quarter and then the new authorization I think was 4 plus million shares in April. What did you actually buy back in this current quarter and what was the total cost?
+James E. Matthews
+
+Sure. We repurchased right around 9 million shares and it was right around $43 million and it calculated to roughly $22.56.
+Thomas R. Stanton
+
+Well thank you everybody for coming to our conference call today and we look forward to seeing you in the fourth quarter and talking about our results then. Thank you very much.
+Operator
+
+This concludes today’s conference call. Thank you for your participation. 

@@ -1,0 +1,391 @@
+Gen-Probe Incorporated (NASDAQ:GPRO)  Q1 2006 Earnings Conference Call  May 02nd 2006, 4:30 PM Executives March  1, 0000 ET
+Analysts
+Thomas Wei, Piper Jaffray 
+ William Quirk, RBC Capital Markets 
+ David Lewis, Thomas Weisel Partners 
+ Lee Brown, Merrill Lynch 
+ Bruce Cranna, Leerink Swann & Company 
+ Spencer Nam, Summer Street Research 
+ Frank Pinkerton, Banc of America Securities 
+ Jason Weiss, Robert W. Baird 
+ Sara Michelmore, SG Cowen & Co.
+Operator
+Welcome to Gen-Probe\'s First Quarter 2006 Earnings Conference Call. At this time all participants are in a listen-only mode. Operator Instructions. Now, I will turn the meeting over to Mr. Mike Watts. Sir, you may begin.
+Michael Watts, Senior Director, Investor Relations
+Thank you Rosie and good afternoon everyone. On behalf of Hank Nordhoff, Gen-Probe\'s Chairman, President and CEO; and Herm Rosenman, our Vice President of Finance and CFO, as well as the rest of the Gen-Probe team, I am pleased to welcome you to this conference call to discuss our first quarter 2006 financial results.
+The press release announcing our results was issued today just after 4 P.M. Eastern Time, if you haven\'t seen it, it\'s posted on our website at http://www.gen-probe.com/. In our call today, Hank will first provide an overview of our top-line performance in the quarter and discuss progress we\'ve made on future growth drivers. Herm will then review our detailed results and updated 2006 guidance, then we will take your questions.
+Before we begin, let me first review our Safe Harbor policy. Forward-looking guidance, financial or otherwise is only provided on conference calls or in our press releases. Any statements in this conference call about our expectations, beliefs, plans, objectives, assumptions or future events or performance are not historical facts and are forward-looking statements. These statements are often but not always made by the use of words and phrases such as “believe”, “will”, “expect”, “anticipate”, “estimate”, “intend”, “plan” and “would”.
+For example, statements concerning 2006 financial guidance, financial conditions, regulatory approvals and timelines, possible or assumed future results of operations, growth opportunities, industry rankings, plans and objectives of management are all forward-looking statements. Forward-looking statements are not guarantees of performance, they involve known and unknown risks and uncertainties that may cause actual results to differ materially from those expressed or implied. Factors that might cause such differences include but are not limited to those discussed in our SEC filings including our report on Form 10-K for the year ended December 31, 2005, as well as all subsequent periodic reports.
+Copies are available on our website at http://www.sec.gov/ and on request from our IR department. Gen-Probe assumes no obligation and expressly disclaims any duty to update any forward-looking statements reflect events or circumstances after the date of this call or to reflect the occurrence of unanticipated events. With that administrative detail out of the way, I will turn the call over to Hank Nordhoff, Gen-Probe\'s CEO.
+Hank Nordhoff, Chairman, President and Chief Executive Officer
+Thank you Mike, and good afternoon everyone. As described in our press release, Gen-Probe is off to a strong start in 2006 with a very solid first quarter that once again established a new record for product sales. At the same time, we made important progress on certain short, medium and long term growth drivers. For example, we executed our blood screening regulatory strategy well by submitting an amended EOA for the PROCLEIX ULTRIO assay and a Form 10-K to use of TIGRIS system to screen blood for West Nile virus. We made excellent development progress in our industrial collaborations with GE and Millipore as well as in our prostate cancer and HPV programs.
+
+Since we talked a paramount of our blood screening and industrial initiatives last quarter, I would like to focus more on prostate cancer and HPV today. But first let me review our top-line results for the first quarter.
+Product sales were 78.5 million in the quarter, 32% higher than last year. This extends an impressive track record of consistent organic growth. Of the 15 quarters since our spin-off, this is the 14th time we have established a new sequential record in product sales. The strong growth in product sales help drive total revenues in the first quarter to $86.3 million, up 25% compared to last year.
+Our first quarter results illustrate that Gen-Probe is not only growing but also growing profitably. Excluding the effects of share-based compensation under FAS 123R., non-GAAP earnings per share were $0.33, an increase of 27% versus the first quarter of 2005. Even on a GAAP basis earnings per share were $0.27 in the first quarter, up slightly versus the prior year period despite the added compensation charge.
+If we dig a bit deeper into the performance of our base businesses of clinical diagnostics and blood screening, our first quarter results demonstrate that the fundamentals of both are strong and vibrant. Clinical diagnostic sales established a new record of $40.2 million in the first quarter of 2006, up 18% compared to the prior year period. And what has become a familiar and pleasing trend clinical diagnostic sales once again benefited from market share gains of APTIMA Combo 2, our amplified assay that simultaneously detects chlamydia and gonorrhea both on our semi-automated equipment and on our TIGRIS system.
+PACE, our non-amplified tests for chlamydia and gonorrhea declined by about 13% versus the prior year period as expected to actually increase slightly on a sequential basis compared to the fourth quarter of 2005. This continues to demonstrate that much of the APTIMA adoption on TIGRIS is coming not from the cannibalization of PACE but rather from competitive market share gains.
+It\'s worth mentioning however that we view the sequential uptick in PACE as a temporary increase that was driven in part by favorable ordering patterns that we do not expect to recur this year. Similarly, even our non-STD diagnostics business, which historically has been relatively flat showed exceptional growth in the first quarter to its highest level in recent memory. While this increase was obviously a nice surprise, we believe it was a one-time event due primarily to the timing of some large orders and not to an enduring increase in underlying demand.
+Now, let me move on to blood screening. First quarter sales were $38.4 million, a healthy increase of 51% versus the prior year period. Blood screening sales benefited from three main factors. First, sales of our PROCLEIX ULTRIO assay, which simultaneously detects HIV, hepatitis C, and hepatitis B continue to grow outside the United States. Second, and obviously connected to the full factor we had our biggest quarter ever in terms of TIGRIS related sales to Chiron with $5.3 million of TIGRIS unit sales and spare parts.
+As you know under our contract with Chiron, we sell TIGRIS instruments to our partner at cost. TIGRIS sales therefore diminish our gross profit margin in the quarter when they occur but are a necessary precursor to higher margin assay sales. As a side note, I should mention that we expect Chiron to be buying their spare parts directly from our third-party supplier in the second half of the year mainly for ease of administration and logistics. While this will reduce our top-line slightly, it will have minimal effect on profits given the way our contract with Chiron is structured.
+The third factor that benefited blood screening sales in the first quarter is equally important. Following FDA approval in December, we began shipping commercial supplies of our West Nile virus assay to Chiron in March. As a reminder, we reported blood screening revenue in two trenches. First, when we ship assays to Chiron, and second, when the product is actually used to screen blood. We record the first portion of revenue based on a contractual transfer price and a second portion at the eventual commercial price, which includes more margin. So, the $3.7 million of West Nile revenue that we mentioned in our press release represents our initial shipment revenue to Chiron, say to another way, this revenue is Chiron\'s initial stocking order of commercial products which is mainly because assays that were shipped as investigational before approval cannot be used (inaudible).
+
+As a side note, I should also mention that commercial West Nile testing also began in April, so we should begin to see a small amount of what we call true-up revenue trickle into our income statement around the end of the second quarter since we record this revenue two months after Chiron does. Let me remind you however that in the second quarter and beyond, we will continue to collect cost recovery revenue on West Nile testing done on the TIGRIS until TIGRIS is cleared for marketing by the FDA. Even though the FDA has granted our request for a higher cost recovery price, let me caution you that we will still likely record far less West Nile product sales in the second quarter than we did in the first. This is because of $3.7 million that we recorded in the first quarter was essentially pulled forward from the second, at least relative to most street expectations.
+To wrap up my discussion on the top-line, we are very pleased with the performance of our key product franchises in the quarter, and we believe we are on track to meet our goals for the year.
+Now, let me give you an update on the progress we are making in the two lead programs of our oncology initiative: prostate cancer and human papillomavirus, both of which have us excited about the future. Much has transpired in the past few months in our prostate cancer program. Our market development partner: Molecular Profiling, has independently validated our Analyte Specific Reagents or ASRs for PCA3 and we expect them to begin commercial testing this quarter resulting in a very small amount of revenue to Gen-Probe.
+We believe the ASR and related efforts of our lab partners will play an important role in indicating the marketplace especially urologist about the role our innovative assay can play in prostate cancer diagnosis.
+In addition, we began our European market development efforts for PCA3 by presenting updated research at the April meeting of the European Association of Urology in Paris. We notice that attendees showed a high level of interests in our data, which confirmed the promise shown in earlier studies. Specifically, in more than 200 men who had at least one previous negative biopsy, our investigational PCA3 assay showed specificity of 74% versus only 17% for PSA. In other words, our test had significant value in a patient population where PSA has poor utility.
+While we remain optimistic about the potential of PCA3, we have always said that we intended to move aggressively to gain access to other markers that would help us build a true franchise in prostate cancer. Our previous deals with Corixa and the Center for Prostate Disease Research are a reflection of this strategy. And just yesterday we announced another collaboration that we think represents a major advance for the company. We have license from the University of Michigan the exclusive worldwide rights to develop assays based on newly discovered genetic translocations that are highly specific for prostate cancer.
+Translocations, which have been implicated in other blood born cancers like chronic myelogenous leukemia, our fusions have two sections of DNA in an abnormal fashion. As for Michigan researchers published a paper in the prestigious peer-review Journal Science, which showed that 23 of 29 prostate tumors contain the translocations. Perhaps more importantly researchers at four laboratories have since studied about 300 samples, have yet to find the translocations in healthy tissue.
+They strongly suggest that if you have the translocations, you have prostate cancer. In other words, the provocative working hypothesis is that these translocations could be a prostate cancer. Given these early findings we are excited about using our core technologies to develop a molecular test for the translocations. At the same time, we recognize that these particular translocations are not found in all prostate cancers. This has two important implications. First, we will be funding research at Michigan over the next few years that we hope results in the discovery of additional translocations that could increase the sensitivity of our assays. And second, we believe that testing for PCA3 or other markers in addition to the translocations could significantly increase clinical sensitivity and specificity. This is consistent with our long held belief that in the future, the accuracy of cancer diagnosis will be maximized by detecting a panel of biomarkers.
+
+So, all in all, we are very pleased with the steady maturation of our prostate cancer initiatives. We believe our pipeline especially with the addition of the Michigan collaboration is one of the most robust in the field of prostate cancer diagnostics.
+Now, let me give you a brief update on the development project we have not yet talked much about our HPV program. As you probably know, persistent infection with high risk subtypes of HPV can cause cervical cancer. Our HPV program is picking up speed on a number of fronts. We are very close to finalizing the formulation for assay, which can be run from liquid Pap specimens on the TIGRIS system or on a semi-automated platform. We have designed our assay to target messenger RNA from the E6 and E7 genes of 14 high risk HPV subtypes. These are known oncogenes that have been shown to contribute directly to HPV progression.
+We presented data on our prototype assays for the first time at the just completed Urology meeting in Paris. We demonstrated very good analytical sensitivity and specificity as well as very competitive clinical sensitivity and specificity versus the only HPV test approved in the United States. I should point out however that these clinical data were generated from less than 400 samples.
+We are making plans now for additional larger studies and at the same time, we are beginning to develop our manufacturing protocols and processes. To support this effort, we expect to make our next purchase of oligonucleotides from Roche in the third quarter.
+As you may recall, under our supply and purchase agreement, we buy these oligos from Roche then incorporate them into an APTIMA format assays. Next, oligo purchase will therefore contribute to a significant increase in our R&D spending in the third quarter. HPV will also be a significant driver of R&D spending in 2007, keeping the percentage of revenue that we spend on R&D relatively flat.
+So, while we are still early in the game on HPV, we believe we are making good progress and remain enthusiastic about the ultimate opportunity. We believe a highly accurate APTIMA HPV test using liquid Pap samples on the fully automated TIGRIS system will represent a winning value proposition especially when coupled with our already strong STD franchise.
+Before I turn the call over to Herm, let me summarize by saying that we are very pleased with our first quarter performance. We executed well in our base business and clinical diagnostics and blood screening, resulting in record product sales. At the same time, we took important steps to advance and even add to our rich pipeline of oncology projects. With that preface, Herm will review our first quarter results and updated guidance in more detail.
+Herm Rosenman, Vice President of Finance and Chief Financial Officer
+Thank you Hank, and good afternoon everyone. As described in our press release, Gen-Probe had a strong first quarter. Product sales improved remarkably over the same period in 2005 and also increased on a sequential basis, establishing a new quarterly record. And total revenues and earnings per share grew solidly as well.
+Hank already covered the dynamics of product sales. Let me start by discussing collaborative research revenues which were $6.9 million for the first quarter of 2006, an increase of 10% compared to the prior year period. This increase resulted primarily from reimbursement from Millipore for certain development expenses in our industrial business.
+The largest component of collaborative research revenues in the first quarter like in recent periods was cost recovery revenue associated with use of our West Nile virus assay under IND, which totaled $4.5 million. While our West Nile assay is now approved on the eSAS system, we expect to continue receiving cost recovery pricing for those tests going on the TIGRIS system until that platform is cleared for this assay by the FDA\'s Center for Biologics Evaluation and Research.
+
+Along these lines, the higher cost recovery price that Hank mentioned is likely to begin hitting our income around mid-year. Royalty and license revenues were 800,000 in the first quarter, much lower than in the prior year period, in which we recorded license revenue from bioMerieux based on their exercising an option to pursue certain disease targets using our patented technologies.
+For the next two quarters, we expect royalty and license revenue to remain fairly flat before potentially increasing in the fourth quarter based on bioMerieux next and final option exercise. The amount of revenue we recognize will depend on how many targets bioMerieux intends to explore.
+Now, let me turn to gross margin on product sales, which was 67% in the first quarter of 2006, both on a GAAP and a non-GAAP basis compared to 74% in the prior year period. The gross margin percentage was once again negatively affected by the sale of TIGRIS instruments and spare parts to Chiron, which totaled a record $5.3 million.
+As Hank mentioned, we expect Chiron to begin buying spare parts directly from KMC in the second half of the year, mainly for administrative convenience. Based on our recent run rate, we expect this will reduce quarterly product sales by $1.5 million to $2 million but will have no affect on profits since we sell spares essentially at cost today.
+The margin percentage was also negatively affected by shipments of blood screening products primarily our West Nile virus assay at transfer prices. As reflected in our updated guidance, we expect our gross profit margin percentage to improve in the second half of 2006 as commercial pricing for West Nile and increased operational leverage outweigh the negative effects of TIGRIS instrument sales and increased share-based compensation charges.
+Research and development expenses for the first quarter of 2006 were 19.3 million on a GAAP basis and 17.4 million on a non-GAAP basis compared to 18.7 million in the prior year period. Obviously, share-based compensation added approximately 1.9 million to R&D spending.
+On a non-GAAP basis, R&D expenses were less than the prior year period due to the timing of development lot production and due to clinical trial and regulatory expenses associated with our investigation of blood screening products last year. Based on how we now see projects unfolding throughout 2006, we do anticipate a fair amount of lumpiness in R&D spending this year. Specifically, we expect R&D to increase in the second quarter based in part on a $500,000 upfront payment associated with the Michigan prostate cancer deal, as well as the timing of several other projects. We then foresee R&D spending peaking in the third quarter based primarily on the next purchase of HPV oligos, which Hank discussed.
+Marketing and sales expenses for the first quarter of 2006 were 8.9 million on a GAAP basis and 8.1 million on a non-GAAP basis compared to 7.4 million in the prior year period. Share-based compensation therefore added about 800,000 to marketing and sales expenses.
+On a non-GAAP basis, marketing and sales expenses increased versus the prior year period based on costs associated with the continued rollout of the TIGRIS instrument and assessing new markets such as prostate cancer, HPV and others.
+General and administrative expenses for the first quarter of 2006 were 10.7 million on a GAAP basis and 8.8 million on a non-GAAP basis, compared to 7.2 million in the prior year period. Share-based compensation added 1.9 million to G&A expenses. On a non-GAAP basis G&A costs increased based primarily on a higher legal costs associated with the company\'s two patent infringement lawsuits against Bayer.
+All this nets out to first quarter fully diluted earnings per share of $0.27 on a GAAP basis and $0.33 on a non-GAAP basis compared to $0.26 in the prior year period. All in all, we had another strong quarter marked by impressive profitable growth.
+
+Now, let me turn to our updated 2006 guidance. As we said, our first quarter financials have us off to an excellent start in 2006. We are raising our guidance for total revenues and now expect total revenues of $335 million to $340 million this year, based on continued growth in both clinical diagnostics and blood screening product sales led by the APTIMA Combo 2 and PROCLEIX ULTRIO assay.
+Total revenues are expected to decline sequentially in the second quarter primarily because we recorded our first big tranche of West Nile virus revenues in the first quarter. Our total revenue guidance includes collaborative research revenues of $14 million to $15 million, and royalty and license revenue of $7 million to $8 million.
+Collaborative research revenues are expected to decline slightly on a sequential basis in the second quarter before falling off more significantly in the second half of the year as blood centers transition to commercial pricing on the eSAS system. Royalty and license revenues are expected to peak in the fourth quarter.
+Turning to product gross margins, we expect them to be between 68% and 70% of product sales on a GAAP basis, or between 70% and 71% on a non-GAAP basis. We anticipate R&D expenses of between 25% and 26% of total revenues on a GAAP basis, or between 23% and 24% of revenues on a non-GAAP basis.
+As previously discussed, we anticipate R&D expenses to increase sequentially in the second quarter based on the Michigan deal and other factors and peak in the third quarter based primarily on the timing of key projects such as HPV. We expect marketing and sales expenses to range from 10% to 11% of total revenues on a GAAP basis or from 9% to 10% on a non-GAAP basis.
+Finally, we anticipate G&A expenses of 12% to 13% of revenues on a GAAP basis or 9% to 10% on a non-GAAP basis. All this leads us to increase our earnings per share guidance to between $0.98 and $1.08 on a fully diluted GAAP basis while our non-GAAP guidance remains $1.30 to $1.35.
+Most of the increase in our GAAP guidance therefore results from a reduction in the anticipated expense under FAS 123R. Specifically, we now expect share-based compensation charges to be between $0.27 and $0.32 per share, which implies that these charges will increase from first quarter levels throughout the year especially in cost of goods sold.
+In terms of quarterly earnings per share, it\'s likely that earnings would decline on a sequential basis in the second quarter based primarily on the West Nile revenue that we recorded in the first quarter, and on a higher R&D expenses. Our earnings per share guidance for 2006 is based on a fully diluted share count of 53.5 million for the year and a tax rate of approximately 37% on a GAAP and non-GAAP basis. We expect our GAAP tax rate to be higher than our previous guidance principally due to an increase in taxable interest income.
+So, in summary Gen-Probe is off to a good start in 2006 with continued strength in clinical diagnostics and blood screening product sales, enabling us to invest heavily in future growth opportunities. We are adjusting our full year guidance including raising our forecasts for GAAP earnings per share and total revenues. This concludes the financial section of our conference call, which I will now turn back over to Mike.
+Michael Watts, Senior Director, Investor Relations
+Thanks, Herm. We are happy to take your questions now. For Q&A, we are joined by Bill Bowen, Vice President and General Counsel; Glen Freiberg, Vice President of Regulatory Quality and Government Affairs; Dane Kacian, Executive Vice President and Chief Scientist; Steve Kondor, Vice President of Sales and marketing; Lynda Merrill, Vice President of Investor Relationships; and Harry Rittenhouse, Senior Director of Cancer Research. Larry Mimms is our Executive Vice President of R&D is offsite today and on the call. In order to ensure broad participation in the Q&A session please be courteous and limit your questions to one plus a follow-up, then jump back into the queue. Operator, we are ready to take the first question.
+
+Question-and-Answer Session
+Operator
+Thank you. Operator Instructions Our first question comes from Thomas Wei of Piper Jaffray.
+Q - Thomas Wei
+Hi, thanks very much. I had a question about the increase in the revenue guidance, just on so that we understand here with the loss in the spare parts sales, should we think about it in net increase here more in the $8 million to $10 million range? And if so where is that coming from, is that a change in your outlook on clinical diagnostics or blood testing? And is that related to equipment sales for blood testing?
+A - Herm Rosenman
+Well, you got several parts here Tom, this is Herm hi. It\'s kind of all the above, we\'ve got continued strength in APTIMA Combo 2, both on TIGRIS and on eSAS, we\'ve had development in West Nile virus with increased cost recovery pricing, which is positive. We see continued strength in ULTRIO and we see continued sales of the TIGRIS instrument.
+Q - Thomas Wei
+Is there something about particular sets of assumptions that changed since last time you gave guidance?
+A - Herm Rosenman
+No, it’s really firmed up with some really good results in the first quarter.
+Q - Thomas Wei
+All right. Thanks.
+Operator
+Thank you. Our next question comes from Bill Quirk of RBC Capital Markets.
+Q - William Quirk
+Yeah, thanks, good afternoon. Just a follow-up on Thomas’s question, I guess just kind of thinking about the increase of revenue guidance, obviously no change to the bottom line, I guess we would think that that\'s presumably the increase in the top-line can be weighed towards lower margin products, say TIGRIS sales, Chiron, I guess, is there something else that from an expense side of things guys that we are missing here, had you not been planning on purchasing the Oligos from Roche and that’s kind of offsetting some incremental profitability that would have come from increased revenue guidance, can you just help us think a little bit about that?
+A - Henry Nordhoff
+I think the West Nile shipment in the first quarter has a lot to do with it, in escorting out the shipment revenue. So that in and of itself is roughly very good margin there.
+Q - William Quirk
+Okay from the sounds of it, from the expense side of things, things haven\'t changed, it\'s just that the increase in the revenue guidance is going to be more geared toward lower margin products?
+A - Herm Rosenman
+Bill, we also have a point in the one point difference in taxes, right? And that\'s primarily a shift in our portfolio from almost essentially all non-taxable instruments to taxable quite a bit of taxable instruments as well as now focusing on the effects of the R&D tax credit, which we’re not taking into account the reinstatement is at just yet.
+Q - William Quirk
+So, presumably if that gets reinstated, Herm we could see the tax rate see a catch-up adjustment perhaps in the third quarter?
+A - Herm Rosenman
+Yeah, you probably will if it does.
+Q - William Quirk
+Okay, thanks very much.
+Operator
+Thank you. Our next question comes from David Lewis of Thomas Weisel Partners.
+Q - David Lewis
+Good afternoon, couple of quick questions here. And this first one doesn\'t count against me if you want to answer it so I can’t hold against – but any increased color on the pricing for West Nile given that we are about a month or two away from commercialization?
+A – Henry Nordoff
+David, we can definitely hold that against you. You got Mike standing up and leaning over the table before the speaker.
+Q - David Lewis
+Okay. Is that a no?
+A - Herm Rosenman
+Good guess.
+Q - David Lewis
+Okay, how about couple of another question. In terms of this mix between what\'s going to be run on TIGRIS versus what\'s not going to be run on TIGRIS, can you give us a sense just very broadly how that would track into the second, third and fourth quarter? Are we talking about a 50-50 mix, are we talking about a 75-25 mix? Is it going to be very customer driven?
+
+A - Herm Rosenman
+Are you talking specifically West Nile, David?
+Q - David Lewis
+Yeah, that\'s correct, West Nile on TIGRIS versus non-TIGRIS.
+A - Herm Rosenman
+I think it varies during the year but I think it\'s probably going to be about 30, maybe a third on TIGRIS, it\'s just a rough estimate.
+Q - David Lewis
+Okay. Perfect. And then a little bit of kind of strategic question, now that your APTIMA and base businesses are doing better than expected, given the increasing HPV vaccine marketing, a lot of Pap smear direct-to-consumer marketing, are any of your lot customers reporting that they are expecting a slight increase in Pap testing and maybe downstream gonorrhea and chlamydia testing because of the aggressive expense we\'ve been seeing in the last six weeks?
+A - Herm Rosenman
+Yeah, we do expect the - we are seeing in fact with the launch of the LTT claim, we are seeing an increase in chlamydia testing, we are seeing that STD market growing as a consequence of that. HPV will only bolster that opportunity again for more STD testing coming out of the same path essentially.
+Q - David Lewis
+Okay then last quick question, then I will be back in the queue. Just on the collaborative research the Millipore came in this quarter, should we consider that to be constant payments throughout the year or was that more one-time in nature up in the collaborative research?
+A - Henry Nordhoff
+Yeah, I think, David, you can consider it pretty much constant payments. We haven\'t disclosed the amount and it\'s not necessarily going to be the same amount each quarter.
+Q - David Lewis
+Yeah, but there will be consistent payments in collaborative research from Millipore somewhat offsetting the West Nile losses in the back half part of the year but probably not really offsetting it because of the magnitude of West Nile?
+A - Henry Nordhoff
+Yes David.
+A - Herm Rosenman
+I think that\'s correct Dave.
+Q - David Lewis
+Okay, thank you very much
+A - Henry Nordhoff
+Thank you.
+Operator
+And your next question comes from Lee Brown of Merrill Lynch.
+Q - Lee Brown
+Hey, congratulations everyone on a really good quarter.
+A - Henry Nordhoff
+Thank you Lee.
+Q - Lee Brown
+Just wanted to ask about the conversionary APTIMA combo 2, where that\'s been in the U.S. and internationally, and what your targets are for the full year, just an update?
+A - Steve Kondor
+Lee, this is Steve Kondor, about a third of our growth is coming from existing APTIMA combo 2 customers, about a third from phase conversions, and about a third from consider the takeaways and we expect the phase declines to be on the order of 12% to 15% for the year.
+Q - Lee Brown
+To phase down 12 to 15 but as a percentage of total sales -- put better way the inverse of that, the present conversion to APTIMA combo 2, again, can you give me a rough estimate for that, that target for yearend?
+A - Steve Kondor
+Yeah, let me take a swag at that, I believe that our year-end projection is roughly 60% APTIMA conversion.
+Q - Lee Brown
+Super, and then similarly, could you give me where you are with the ULTRIO in terms of the international conversion and if you are going to reiterate the target for the full year conversion?
+A - Herm Rosenman
+We don\'t have total visibility there, of course, but I can\'t tell you to call Chiron right now.
+A –Steve Kondor
+They said last they were about at 60%, it\'s a little over that now but I’ll say just a little plus 60%.
+Q – Lee Brown
+Well, that sounds like it\'s tracking a little bit ahead of schedule, is that a fair statement?
+A - Steve Kondor
+Don\'t know.
+Q - Lee Brown
+Okay and then lastly the percentage of stock comps flowing into COGS, that is to say when you take the gross up and net income impact to the operating impact and then allocate that stock compensation among COGS, R&D and SG&A, it was only about 3% here. I assume that\'s because of your comments that\'s going to increase, it was 2.8%, to be precise. But what percentage of that is or where do you see that percentage going, I guess, for the remainder of the year?
+
+A - Steve Kondor
+As you know we didn\'t say but you\'re right, the percentage that was capitalized into inventory in the first quarter far exceeds the amount that went into COGS.
+Q - Lee Brown
+Exactly. And why was that so low? I mean I was expecting something at least five times that magnitude in terms of the allocation.
+A - Steve Kondor
+Because of the production. Just because of the number of units produced allocating what would have gone into the first quarter, of course all the other expense lines get 100% but that particular one based on production, a vast majority went into inventory. And that\'s why we made the statement and in future quarters, it will go up.
+Q - Lee Brown
+Okay and one last question, I apologize, just I realize that you\'re not going to sell TIGRIS and spare parts beginning in the second half but is there an assumption for the first half total sales?
+A – Henry Nordhoff
+Are you talking just spare parts Lee?
+Q - Lee Brown
+Both spare parts/TIGRIS, so in aggregate the number if you would add what you did in Q1 here which I think was 5.3 million, what are you looking for the full first half before it switches to going to a third party?
+A – Henry Nordhoff
+We’ve said before we won\'t tell you the exact numbers on the TIGRIS instruments because it\'s not a real good indication of how we are doing but Herm I think can give you some color on the spare parts.
+A - Herm Rosenman
+The quarterly guidance we gave on this call and the script and the press release so we really don\'t go further than that, Lee.
+Q - Lee Brown
+Okay, I am sorry, I must have just missed it then, I\'m not asking to split it out but in addition to the 5.3 that you put in the press release in Q1, are you looking for something similar to that, I guess, in Q2, put it another way?
+A - Michael Watts
+Lee, this is Mike, just to clarify a little bit, the 5.3 number was an aggregate number, we didn\'t break out what the spare parts number was in this particular quarter but as you know it\'s been in the neighborhood of 1.5 million to 2 million per quarter. And for further clarification what we intend starting in the second half is for Chiron to purchase their spare parts only direct from KMC. We will continue to have the TIGRIS instruments pass through our P&L if you will albeit at no margin.
+Q - Lee Brown
+Okay super, I did misunderstand so thank you for clearing that up.
+A - Michael Watts
+Thanks Lee.
+Operator
+Thank you. Our next question comes from Bruce Cranna of Leerink Swann.
+Q - Bruce Cranna
+Hi, good afternoon.
+A - Herm Rosenman
+Hi, Bruce.
+Q - Bruce Cranna
+Hey, Herm, did you take any deferred revenue on the blood screening side in the quarter?
+A - Herm Rosenman
+No, we did not. If you are talking about the virtual warehouse, what we did is we just booked the international shipments through and all domestic revenue that was in the virtual warehouse which was contained in the deferred revenue account happened at the end of the year.
+Q - Bruce Cranna
+Okay so we cleaned that up.
+A - Herm Rosenman
+Right.
+Q - Bruce Cranna
+And then just so I\'m clear on the West Nile Virus in the quarter, the 3.7 million, is that, I mean is it fair for us to assume that that is basically a, I guess a quarter’s worth of stocking or is that not a fair assumption?
+A - Herm Rosenman
+That’s not a fair assumption.
+Q - Bruce Cranna
+So it would be more than a quarter.
+A - Herm Rosenman
+Well, don\'t forget in collaborative research revenue, you’ve got about 4.5 million there in the quarter, so…
+Q - Bruce Cranna
+I\'m sorry.
+A - Herm Rosenman
+So it should be obvious that it\'s less.
+Q - Bruce Cranna
+Okay. And then, I want to be clear on what I think I heard you say, in terms of the REO inventory, I mean, you guys are going to basically eat through that, aren’t you there’s not a write-down that\'s going to happen there, is there?
+
+A - Herm Rosenman
+No, there isn\'t.
+Q - Bruce Cranna
+Okay. I wasn\'t clear on that, and then lastly, I know we all want to know, I guess some sort of color on the strength on the clinical side, you guys are still booking some Hep C in that business, are you?
+A - Herm Rosenman
+Booking Hep C?
+Q - Bruce Cranna
+Are there revenues associated with the Hep C test on the clinical side or is that all – or that\'s not in the numbers?
+A - Henry Nordhoff
+Trivial.
+Q - Bruce Cranna
+Okay. And, when you think about APTIMA and I guess trying to get a sense for CTGC sales and conversions and what not, do you know currently, I think I probably asked this question before but looking at the whole business, how much of the revenue stream on the STD side, do you think is coming out of the vile, if you will, today?
+A - Stephen Kondor
+Bruce, this is Steve Kondor. That is a very difficult answer to give. It\'s really because we, the LPT transport not really generate the revenue, so, it\'s difficult for us to track through our customers how much of the APTIMA increase comes directly as a result of the LPT.
+Q - Bruce Cranna
+But is it fair to say you are on a curve there and it\'s up on to the right.
+A - Stephen Kondor
+Absolutely.
+Q - Bruce Cranna
+Can you just comment quickly on Quest sequentially in year-over-year if you care to, trends there? Thank you.
+A – Stephen Kondor
+Well, I think as we’ve said in the past we are not going to give updates on specific customers any longer however, I\'d say that Quest is an important customer for us, not only on the STD side but as well on the non-STD side of our business. And they are going to continue to be a important customer for us and we have a very good relationship with them.
+Q - Bruce Cranna
+Okay, thank you.
+Operator
+Thank you. And your next question comes from Spencer Nam of Summer Street Research.
+Q - Spencer Nam
+Thanks for taking my questions. Just couple of quick questions. On the clinical diagnostic side, you mentioned that about those of you APTIMA revenue is due to the share, taking share away from your competitors, I\'m just curious kind of how we should think about that trend over time, is it accelerating, is it steadily growing, how could you describe that right now?
+A - Herm Rosenman
+Well, I would say we are quiet pleased with the results thus far regarding our growth from APTIMA coming from competitive gains. How that will continue? We certainly hope so. We are doing a good job thus far. I think TIGRIS is a good part of that as well as our strong IP and differentiation as a result of our technology.
+Q - Spencer Nam
+Okay. And then on the, so you are continuing to ship TIGRIS to Chiron and just over the next few quarters, how should we think about the revenue with the actual tests being shipped? How should we think about that phenomena overtime, the switch from the low margin product and instruments to the higher margin assays, can you give any color on that?
+A - Henry Nordhoff
+I think it\'s probably fair to say that the number of TIGRIS shipped in subsequent quarters this year will probably be less than the quantity shipped in the first quarter.
+Q - Spencer Nam
+Okay. And then in terms of the assays, how, is there any additional details on how that, the assay built up would take place?
+A - Herm Rosenman
+I think we expect continued growth in terms of the number of assays shipped. We are getting great growth overseas and, of course, while the number of West Nile Virus assays will not increase a lot, the value will.
+Q - Spencer Nam
+Right. Right. And then just final quick question, any update on Chiron merger with Novartis in terms of blood screen business, is there any update on that, this status quo or are there going to be any different signals other than that?
+A
+We – the status quo was that the acquisition went through, we think it\'s a plus. We think that Novartis is better situated in countries overseas with their own people and their own infrastructure and we expect that the tempo of geographic expansion will increase now that Novartis is running the business, and we expect the-- basically business is usual. The personnel, we do not expect will change and the good relationship we enjoy with those incumbents should continue.
+
+Q - Spencer Nam
+Great, thanks very much.
+A
+Thank you.
+Operator
+Thank you. Your next question comes from Frank Pinkerton of Banc of America Securities.
+Q - Frank Pinkerton
+Hi guys, thanks for taking the question. First, I guess that here on the HPV, thanks for the detail there, but can you just walk me through I guess the different sub types that you guys have available in the IP you licensed from Roche, if there\'s any kind of changes that is going on in the IP landscape with a couple of decisions that I think have been made internationally in the last couple of months? And also you didn\'t give a timing for that. Is there a timing set up for HPV?
+A – Henry Nordhoff
+Dane Kacian will address it and he will be assisted by Glen Freiberg.
+A - Dane Kacian
+The patent situation has not changed substantially in our view, we believe that we acquired the necessary rights to practice HPV as a result of our deal with Roche, and we are confident that we can go forward and introduce our tests.
+A – Glen Freiberg
+This is Glen, in regard to the question about the subtypes, we followed our fairly standard procedure of seeking and recognizing customer input, and we have included all of the high risk subtypes that the customers are demanding in our assay.
+Q - Frank Pinkerton
+And was there a timing that you guys can speak to on that?
+A – Henry Nordhoff
+I think we mentioned a little bit earlier, it\'s going to be a while probably in the 2009 framework.
+Q - Frank Pinkerton
+Okay great.
+A – Henry Nordhoff
+Give or take.
+Q - Frank Pinkerton
+Great, I guess shifting over, I mean you talked about TIGRIS a lot of then - we don\'t necessarily know that it\'s going to be called Panther but Panther is an instrument you guys are get to used one time in a slideshow but as we look forward even beyond that, if it falls an agreement in GE, what kind of R&D can be put together for what would be some type a patient bedside or handheld type instrument, is it specs lined up for that, is that kind of an R&D issue that overlaps and what can be the timeline and progress we can expect there? Thank you.
+A – Herm Rosenman
+You\'re welcome, Frank. We do have an instrument we call it the closed unit dose assay that is being developed primarily and initially for the industrial business, it\'s small, it can be carried on rooftops to check water and cooling towers. It does not have a very high throughput but would lend itself to point of care testing. It\'s closed. It\'s real time quantitative, so it has an awful lot of capability for use in the diagnostics arena.
+Q - Frank Pinkerton
+Great, thank you.
+A - Herm Rosenman
+Welcome.
+Operator
+And your next question comes from Jason Weiss of Robert W. Baird.
+Q – Jason Weiss
+Hi gentlemen, thank you for taking my question. Recently we\'ve been seeing some consolidation in the market specifically Siemens announcing the acquisition of Diagnostic Products Corporation, I\'m wondering if you could comment on your view of consolidation in the marketplace and possible role that Gen-Probe might take?
+A – Henry Nordhoff
+Well that’s a tough one, Jason, can you be more specific?
+Q – Jason Weiss
+Well, do you see this perhaps as a beginning of more consolidation that\'s going to take place or do you think this is a beginning of a trend? And if it is a trend, do you foresee Gen-Probe playing in that area?
+A – Henry Nordhoff
+Well, I had a statistics professor in graduate school, he said that one event, a trend does not make. So, I mean it may very well happen, Jason, I have heard that some of the imaging companies like Philips and like GE maybe similar to Siemens want to spend a little more of their capital into diagnostics, this is part of diagnostics. Whether other companies will follow that I can\'t say, there are an awful lot of sharp investment bankers around who would probably be delighted to comment on that.
+
+Q – Jason Weiss
+Would you have an interest in infectious disease market?
+A – Henry Nordhoff
+In the infectious disease market?
+Q – Jason Weiss
+Yeah.
+A – Henry Nordhoff
+I mean specifically?
+Q – Jason Weiss
+Specifically we\'ve been hearing a lot about hospital acquired infections, things --
+A – Henry Nordhoff
+They were interested in both nosocomial infections and resistant MRSA and VRE and we think that\'s a logical outgrowth of what we do know. I think it\'s a growing area.
+Q – Jason Weiss
+Terrific. Thank you for taking my questions.
+A - Henry Nordhoff
+You\'re welcome sir.
+Operator
+Thank you. Your next question comes from Sara Michelmore of Cowen & Co.
+Q - Sara Michelmore
+Hi, thank you and thanks for the update on the long-term pipeline. If I could follow-up with the question on PCA3, Hank, you mentioned that some of the initial data that you showed in Europe was in negative biopsy patients and I just was wondering if you could confirm that that was indeed the patient population that you guys were looking at for this test initially? And in terms of clinical trials, what\'s the latest thinking in terms of when you’d possibly initiate clinical trials with the products that you have today? Thanks.
+A - Henry Nordhoff
+You\'re welcome, Sara. That is correct. We had envisioned the initial usage of PCA3 in biopsy negative patients with the idea of eliminating needless biopsies going forward. We are still planning – the planning is moving along nicely for our first clinical trial with PCA3, we are looking to get a CE mark by the end of the year in Europe. I think we are in pretty good shape to start the clinical studies. The question we have, we have so many markers that look so good, it’s exact combination of marker CUs. And clearly PCA3 will be one of them. We are doing validation on the other markers we have both from the government, from the center of prostate and disease research as well as from Corixa and those validation studies are ongoing but we are looking at them in isolation and it\'s going to take a genius like Harry Rittenhouse to pause at the best combination. Harry, do you have any comments on that, now that I\'ve set you up?
+A - Harry Rittenhouse
+This is Harry Rittenhouse and I do feel set up. But we are making some very encouraging progress, for example, Hammacher, is one of the key genes that we acquired from Corixa and we done studies in Jack Schalken’s lab in the Netherlands, this is a Gen-Probe technology with Gen-Probe\'s scientists at that location and the preliminary studies indicate a increase in clinical sensitivity of about 15% and also detecting cancers with high-grade. So, I think these studies are definitely pointing the way to a next-generation assay that\'s going to be even better and as Hank mentioned PCA3 test right now is quite good and it\'s targeted for the negative biopsy population which is a very large number of men today that are in a dilemma because they don\'t know when to have the next biopsy and there\'s no good test for them at this point.
+Q - Sara Michelmore
+Just in terms of, I think, Hank was talking about the specificity of that PCA3 in that small study of something like 74%, I mean, is that good enough? And I know it\'s a significant improvement over negative biopsy but, it\'s still as far as from a specificity that would give you a really definitive answer just in terms of the clinical utility of that, can you just comment on?
+A - Henry Nordhoff
+We think you\'re right, Sarah. I mean, it is a tremendous improvement over PSA but it\'s not good enough, we think we can do better.
+Q - Sara Michelmore
+Okay, and that would be obviously longer term with a combination of markers?
+A - Henry Nordhoff
+We think it will be a combination. Harry has something to add.
+A - Harry Rittenhouse
+I will just add that there is really no definitive test, and the definitive test so to speak if biopsy but 75% specificity is extraordinary, and especially in this population where PSA does absolutely nothing so, it\'s really extraordinarily good.
+
+Q - Sara Michelmore
+Okay that’s helpful and then, Hank, I know you probably purposely didn\'t comment on the industrial but at least if you could just talk about in terms of confirming some of the things that you said last time, and I think that was Millipore, you guys had left out some initial products and they were moving into customer validation this summer? And then on the GE, I think you were just about entering kind of the stage where you were setting out some products. So I wonder if you could kind of confirm that the stuff is still on track and it’s any…?
+A – Henry Nordhoff
+I can confirm that we are really pleased with the progress we\'ve set up, some aggressive timelines and we are tracking them very well. Not so aggressive is to have Alpha testing this summer.
+Q - Sara Michelmore
+Okay.
+A - Henry Nordhoff
+If I said that I apologize.
+Q - Sara Michelmore
+I may be mistaken but –
+A - Henry Nordhoff
+It should be next year.
+Q - Sara Michelmore
+Okay. And in terms of visibility when we are going to get some improved visibility either from you guys or some of the partners on, what exactly the tests are that you guys are developing and the interim platforms on which you go to market with and when can we expect to see some additional visibility there? Thanks.
+A - Henry Nordhoff
+I think as we move forward and get closer to a commercial reality, we can talk more about it. Obviously, some of our partners are concerned about competitive information and want to keep the products fairly quite. Mike, you want to add something?
+A – Michael Watt
+Yes, Sara, just to clarify for everybody\'s benefit what we said previously, the Alpha test we would hope through Millipore would be in customers’ hands by the end of this year and then the first revenue likely in the back part of 2007. And that\'s consistent with what we\'ve said previously. And hopefully as we get closer to that Alpha testing, we can provide a little bit more color on what those opportunities look like.
+A - Henry Nordhoff
+Because you know then the products will be in the “marketplace”.
+Q - Sara Michelmore
+Yes, fantastic. Thanks so much.
+A - Henry Nordhoff
+Thanks Sara.
+Operator
+Operator Instructions Our next question comes from Thomas Wei of Piper Jaffray.
+Q- Thomas Wei
+Thanks for taking the follow-up. I just wanted to go back to the actual quarter numbers here and understand a little bit better the guidance that you\'ve laid out. If we end up looking at your blood testing revenue and stripping out the West Nile virus shipment, stripping out the sales of instruments and spare parts and also stripping out deferred revenue recognition last quarter, if I do that math, and I think if I\'m doing it correctly we would have seen your blood testing revenue decline from 33 million in the fourth quarter to 29 million in the first. Am I missing something there? And if that\'s the right math, can you help us understand why there might have been such a big sequential decline in blood testing?
+A - Herm Rosenman
+Well, your math is not accurate but it\'s in the right direction, don\'t forget we did if you are comparing quarter over quarter, we did have a reduction in phase, we talked about I think 13%. So that would take most or at least a good portion of your number. And we also said - patients who are within the band of 5% in donations were down in the quarter for us, and so you\'re right, it did dip a little bit in the first quarter. So, your math is in the right direction, Thomas.
+Q- Thomas Wei
+And when you look at your guidance on a go forward basis, are you assuming that testings recovered there and does your guidance also account for TIGRIS approval this year for West Nile virus and the positive revenue impact that would ensue from that?
+A - Herm Rosenman
+Let me take the second half first. As you know, we are not predicting approvals any more, we are not in that business anymore, we only tell you when we file. But you can probably figure that one out for yourself, just based on the normal action dates. And the first part of it was, again, first part of your question?
+
+Q- Thomas Wei
+Actually I think you are pretty much answered that part. And then just really quickly, you had mentioned non-STD clinical diagnostic sales were very high this quarter, can you quantify that for us, maybe what it was in the fourth quarter and in the first quarter?
+A - Herm Rosenman
+It was up, our non-STD, which of course is (indiscernible) and stuff like that, was up about a little more than half a million dollars in the quarter, which we said we don\'t expect to occur.
+Q - Thomas Wei
+And then very quickly on going back to this full donation rate issue, did that recover as you look forward into the second quarter?
+A - Herm Rosenman
+Yeah, I am not going to state whether or not we expect to recover, what I will tell you is that our blood screening forecast for the year and therefore, our guidance is based on what Chiron gives us. We might think a little bit based on things we know that they might not but it is based on a solid forecast starting within.
+Q – Thomas Wei
+All right. Thanks.
+Hank Nordhoff, Chairman, President and Chief Executive Officer
+Well, thank you all for your questions. To wrap up, Gen-Probe had a strong first quarter and is off to a good start in 2006. We continue to generate profitable growth from all of our clinical diagnostics and blood screening businesses led by APTIMA Combo 2 for PROCLEIX ULTRIO and TIGRIS. First quarter product sales grew by a robust 32% over the prior year and established a new record for the 14th time in 15 quarters. As a result, total revenues grew 25% and non-GAAP EPS increased a very strong 27%. Not only did we execute well on our current businesses, we made important progress in our blood screening industrial prostate cancer and HPV programs, which we believe will lead to future long-term growth. Thank you for your time and attention today, and please contact us if you have any follow-up questions.
+Operator
+Thank you for participating in today\'s conference call and have a nice day.

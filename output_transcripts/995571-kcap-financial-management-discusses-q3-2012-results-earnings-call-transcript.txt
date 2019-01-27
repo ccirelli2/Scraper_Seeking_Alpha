@@ -1,0 +1,146 @@
+KCAP Financial (NASDAQ:KCAP) Q3 2012 Earnings Call November  9, 2012  8:30 AM ET
+Executives
+Dayl W. Pearson - Chief Executive Officer, President and Director
+Edward U. Gilpin - Chief Financial Officer, Principal Accounting Officer, Treasurer and Secretary
+Analysts
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+John W. Stilmar - JMP Securities LLC, Research Division
+John T. G. Rogers - Janney Montgomery Scott LLC, Research Division
+Kevin Stuebe
+Operator
+Good morning, ladies and gentlemen and welcome to the KCAP Financial Inc., Third Quarter 2012 Earnings Conference Call. An earnings press release was distributed on Thursday, November 8, 2012. If you did not receive a copy, the release is available on the company\'s website at www.kcapfinancial.com in the Investor Relations section. [Operator Instructions] As a reminder, this conference is being recorded today, Friday, November 9, 2012. This call is also being hosted on a live webcast which can be accessed on our company\'s website, www.kcapfinancial.com, in the Investor Relations section under events. In addition, if you would like to be added to the company\'s distribution list for news events, including earnings releases, please contact Denise Rodriguez at (212) 455-8300.
+Today\'s conference call includes forward-looking statements and projections and we ask that you refer to KCAP Financials\' most recent filings with the SEC for important factors that would cause actual results to differ materially from these projections. KCAP Financial does not undertake to update its forward-looking statements unless required by law.
+I would now look introduce your host for today\'s conference, Mr. Dayl Pearson, president and Chief Executive Officer, of KCAP Financial. Mr. Pearson, you may begin.
+Dayl W. Pearson
+Thank you, and thanks to all of you for joining KCAP Financial for a review of its third quarter 2012 financial results. I will open the call with some broad commentary about important highlights and activities during the quarter including the performance of our asset manager affiliate and our investment portfolio. I will then turn the call over to our Chief Financial Officer, Ted Gilpin, for him to provide a brief -- a recap of our 2012 third quarter operating results and our financial condition at the end of the quarter. We will then open the line up for your questions at the end of the call.
+First, let me provide a brief recap on some important highlights from the third quarter. In the third quarter, of 2012, our NII increased from $0.23 in the second quarter to $0.27. Our dividend remained unchanged at $0.24. During the third quarter, we completed the final phase of the integration of Trimaran Advisors, which we acquired in February, with our pre-existing manager, Katonah Debt Advisors, by streamlining our management team.
+Trimaran is well down the road in finalizing the terms of a new $400 million CLO, which we believe will price before year end. KCAP will be a minority investor in the equity tranche in this new fund.
+As we mentioned on our last call, we expect to realize incentive fees from the CLO funds managed by our asset manager beginning in the fourth quarter. The incentive fees could significantly increase the income available for distribution to us, beginning in 2013. While the incentive fees will reduce the distributions on a related CLO equity -- fund in equities we own, our ownership in these CLO fund equities only represent approximately 17% of the total equity interest.
+Because Trimaran, which is wholly-owned by us, is entitled to 100% of the incentive fees, the loss of the distributions on our CLO fund equities will be more than offset by our receipt of such incentive fees via distributions from Trimaran. In other words, the $1 million incentive fee paid to Trimaran from the CLO fund will only reduce our equity distribution in that fund by approximately $170,000.
+
+I will now review our portfolio of middle-market corporate loans and equity investments and our new origination activity.
+Since early February, deal flow has increased dramatically. Since the beginning of 2012, we reviewed close to 82 new transactions with a turndown rate of approximately 85%. While we did not close many deals in the quarter, we did review 22 new deals, most since Labor Day, representing $245 million in potential for financing opportunities. We have issued 9 term sheets in the quarter, and we\'re continuing to move forward on 5 of these and expect to close at least 1 or 2 in the next 30 to 45 days.
+Given the uncertain economic environment and volatile credit market, we continue to be very cautious in terms of deploying capital and continue to maintain adequate liquidity.
+The combined yield on our total debt portfolio, loans, bonds and CLO securities was 21% at September 30, 2012.
+As of September 30, our weighted average mark-to-market value to par on our debt securities portfolio was 85, compared to 84 at the end of 2011. As far as CLO portfolio, our weighted average mark-to-market value to par was 71 as of September 30, 2012, an increase from the weighted average mark-to-market of 63 at year end 2011.
+Our 100% ownership of our asset manager affiliates was valued at approximately $74 million, based upon their assets under management and prospective cash flows. Our investment portfolio at the end of the third quarter was total of approximately $290 million.
+Looking at the composition of our investment portfolio, loan quality continues to hold up well. At the end of the quarter, our debt securities totaled approximately $135 million and represented 47% of our investment portfolio.
+First lien loans now represent 49% of debt securities and second lien loans represent 27%. Approximately 15% of our debt investments are fixed rate investments with a weighted average yield of 12.8%.
+At September 30, 2012, we had 5 issuers on non-accrual status, representing less than 1% of total assets. We expect one of these to potentially come off non-accrual status before the end of the year.
+All CLOs managed by KDA and Trimaran continue to be current on equity distributions and senior and subordinate management fees.
+The stable income stream from our asset manager affiliates allows them to make periodic distributions to KCAP in the form of a dividend. In the third quarter, there was a distribution of $925,000.
+Additionally, as of September 30, our asset manager affiliates had approximately $3.3 billion of par value assets of assets under management.
+We continue to evaluate our equity and debt financing options, which will allow us to focus on continued balance sheet growth, increasing net investment income and dividend distributions.
+On October 4, we priced an unsecured senior note offering of $36 million, a coupon of 7 3/8 percent. The underwriter subsequently exercised the greenshoe, which resulted in KCAP receiving total gross proceeds of $41.4 million. The proceeds will be used to further grow our loan portfolio and our securities portfolio.
+And now I\'ll ask Ted Gilpin to walk you through the details of our financial performance. Ted?
+Edward U. Gilpin
+Thank you, Dayl, and good morning, everyone. I will first cover some high-level financial information and then go into a little more detail on some specific metrics.
+As of September 30, 2012, our NAV stood at $7.82 per share, this compares to $7.66 at the end of June 2012. The increase can be attributed to a net realized and unrealized mark-to-market gain of 2.2 million on our investments in the third quarter and a decrease in the number of shares outstanding due to the cancellation of some restricted stock shares.
+The company declared a dividend of $0.24 for the third quarter of 2012, unchanged to the $0.24 dividend for the prior quarter and an increase from the $0.18 dividend for the third quarter of 2011.
+
+The component pieces of the dividend can be found in our operating results for the 2012 third quarter. First, interest income on debt securities for the 3 months ended September 30, 2012 was $3.6 million or $0.13 per share, compared to $2.8 million or $0.12 per share for the same period, 2011. The increase can be attributed to more invested assets and the receipt of some prepayment interest.
+Second, dividends from the investments and CLO securities was $5.8 million or $0.22 per share in the third quarter, compared with $3.9 million or $0.17 per share in the same period, 2011. The majority of the increase can be attributed to the acquisition of the equity in 4 Trimaran CLOs.
+And finally, the third revenue component, our asset manager affiliates, dividended up to KCAP Financial of $925,000 or $0.035 per share in the third quarter of 2012 as compared to $510,000 in the third quarter of 2011, or $0.02 per share.
+The increase resulted from our acquisition of Trimaran Advisors earlier in 2012, and the respective net asset management fees available to be dividended up to us.
+Something to note, we do not always dividend up all that is available from our asset manager affiliates and in fact the asset manager affiliates earned $1.6 million of EBITDA in the third quarter and we dividended up to KCAP, $925,000 of that.
+These 3 revenue components resulted in total investment revenue of $10.4 million, as compared to $7.3 million for the same period of 2011. And this, coupled with the fact that total expenses year-over-year remained relatively flat at $3.2 million, we recorded net investment income or NII of $7.1 million, approximately $0.27 per share.
+Now I\'ll cover a few aspects in more detail. As I mentioned earlier, third quarter year-over-year investment income from debt securities increased approximately to $3.6 million, a 26% increase from 2011. This increase is due to an increase in size of our loan portfolio, $135 million at quarter end, versus $114 million the prior year end, with further increase of 18% due to positive income relating to -- we also had some positive income related to some loan prepayments.
+Third quarter year-over-year investment income from CLO fund securities increased 47% or $1.9 million to approximately $5.8 million, from approximately $3.9 million in 2011. This increase is due to the aforementioned addition of subordinated tranche of CLO fund securities acquired in connection with the Trimaran acquisition.
+The company recorded net realized and unrealized appreciation of approximately $2.2 million or $0.08 per share during the quarter ended September 30, 2012, as compared to net realized and unrealized depreciation of approximately $5.6 million, or $0.24 per share for the same period, 2011.
+On the liability side, the balance sheet, as of September 30, our debt outstanding consisted of $60 million of convertible notes, with a 5-year term and a fixed rate of 8 3/4%, and $28 million utilized under our $30 million credit facility with Crédit Suisse at LIBOR plus 300 basis points.
+As Dayl mentioned in October, the company completed a bond offering to an aggregate amount of $41.4 million. These bonds have a 7-year maturity at a coupon of 7 3/8%.
+At quarter end, we have sufficient liquidity in cash and higher liquid investments within our credit and underwriting projections in our asset coverage ratio at quarter end was 335%, well above the minimum required 200% for BDCs.
+For additional information regarding the above metrics and for full third quarter 2012 results, please refer to our recently filed third quarter 10-Q, which is online at the SEC, www.sec.gov, or on our website, www.kcapfinancial.com.
+And with that, I\'d like to thank you all for your time and we\'ll now turn the call back over to the operator to the start the Q&A.
+
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Troy Ward of Stifel, Nicolaus.
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+I may have missed this in your prepared remarks, but did you mention what was your prepayments in the portfolio in the third quarter?
+Edward U. Gilpin
+I didn\'t mention a specific amount. It was approximately $300,000.
+Dayl W. Pearson
+It\'s gains we\'re talking about?
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+No, I\'m talking about repayments in the portfolio. The amortization and/or early exits?
+Dayl W. Pearson
+Well, we had one partial prepayment of a loan of about, including a prepayment penalty, about $3 million. And some other broadly syndicated loans that paid off, but probably another $3 million or $4 million.
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+So call it $6 million or $7 million in total?
+Dayl W. Pearson
+$6 million or $7 million, yes.
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+Okay. And then I was noticing on the income statement that the comp expense in the quarter, did you mention why that was so much lower than previous quarters?
+Edward U. Gilpin
+Yes, and it\'s actually -- I think we may have talked about it prior to this, but we had, due to the management alignment in our asset manager affiliates, we had some restricted stock here that we canceled. So that was -- resulted in essentially a negative expense at KCAP for those restricted shares that were canceled. It would\'ve been offset on the income statement of the asset manager affiliates with severance and bonus and all that stuff, so it looks like a positive for KCAP, and it was -- it actually resulted in less available for dividending at the asset manager affiliates.
+Dayl W. Pearson
+I mean, effectively -- essentially, it was a $300,000 positive for KCAP, but it also reduced the income at the asset manager from $1.9 million to $1.6 million, roughly, so it could\'ve been dividended up.
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+But without that, it looks like close to $700,000 in, in comp expense in the quarter, is that kind of -- that\'s below your previous run rate? Is that a good run rate going forward on the comp line?
+Edward U. Gilpin
+Yes, I mean, the run rate will be slightly less than where it was before, but it\'s probably a good proxy.  And we\'ll probably go up a bit as we grow here and we add some additional people, but it\'s probably not going to be until 2013.
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+Okay, great. And then just a little more clarity on the CLO market and kind of what your expectations are. Dayl, could you repeat kind of what your expectation is for the incentive fee? Did you still think that was a Q4 event, or is that a 2013 event for incentive fees from Trimaran?
+Dayl W. Pearson
+We\'ll get a -- we actually have gotten an incentive fee in the fourth quarter, correct, Ted?
+Edward U. Gilpin
+Yes, we already started to receive some, but...
+Dayl W. Pearson
+But they\'re not full. The full fees, they\'re just sort of a stub period. If I can just go back, I did misspeak, Troy -- the $6 million I was talking about was sort of a net number. The total prepayments were about $12 million. Most of those were in sort of broadly syndicated stuff, which we then replaced to some extent. Stuff that was in the CS credit facility.  So the gross number was $12 million and that number was about $6 million.
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+Okay, and then back to the CLOs, like you said, they\'re starting to come in, but they won\'t kind of hit in full force until the first quarter?
+Edward U. Gilpin
+Yes, that\'s when they really start to be significant, but you will see some of this in the fourth quarter.
+
+Troy L. Ward - Stifel, Nicolaus & Co., Inc., Research Division
+Okay. And then real quick, Dayl, kind of just on the CLO market, in general, kind of where the current AAA pricing, where is that coming in, and how is the demand for the AAAs? And what\'s your -- you said a minority ownership at KCAP of the CLO equity, kind of what\'s your expectation there?
+Dayl W. Pearson
+I\'ll answer the last question first, it will be less than 25% of any fund. And in terms of the AAA market, there\'s a fairly robust demand, a number of players out there, more than a year ago. The latest price -- that being said, they\'ve been pretty disciplined on pricing. And so LIBOR 1, 40-ish is sort of where the market is today.
+Operator
+Our next question comes from John Stilmar of JMP Securities.
+214486422
+John W. Stilmar - JMP Securities LLC, Research Division
+Just wondering if you can help me. So as look at the scheduled investments, you put $8 million to work, I think, this quarter, showing a lot of prudence and probably some timing with regards to the liquid loan market. But if I did my schedules of investments correctly, it looks like most of the new capital was put to work in the Trimaran CLOs. Does that -- can you talk a little bit more about the capital allocation? Is it more of a timing issue? Is it, hey, we knew [ph] the securities -- just a little bit more color there would be really helpful.
+Dayl W. Pearson
+Well, we didn\'t put anything in the Trimaran CLOs in the quarter. So we did buy -- we replaced some broadly syndicated loans with new broadly syndicated loans. I think, again, the summer quarter always is a bit slow; you don\'t see a lot of originations in July and August. We had one significant position that closed, essentially, in the last day of the second quarter. We had a lot of activity in the second quarter, I think we closed 4 or 5 deals. My anticipation is we\'ll probably put anywhere from $15 million to $40 million of work in the fourth quarter, but that\'s sort of a guesstimate at this point. Most of that will be in the more traditional middle market assets. And we\'ll probably put some money to work in Trimaran in the fourth quarter, vis-a-vis the CLO -- the new CLO.
+Edward U. Gilpin
+Which should be about 10.
+John T. G. Rogers - Janney Montgomery Scott LLC, Research Division
+Okay, it will be about 10? Perfect.
+Dayl W. Pearson
+And roughly, 8 to 10 will probably be the equity investment we\'ll make. In the meantime, we may need to make some other -- we may need to fund the warehouse for short period of time. So that could be a bigger number for a short period of time.
+214486422
+John W. Stilmar - JMP Securities LLC, Research Division
+Perfect. And we should still be thinking about CLO equity in that, like 12% to 15% range?
+Dayl W. Pearson
+Yes.
+Operator
+Our next question comes from Kevin Stuebe of Hillmark Capital.
+Kevin Stuebe
+Can you comment on the swing in realized investment losses in the quarter? It went up to, like, $3.8 million. Has there been an upsurge in nonperforming loans, perhaps?
+Dayl W. Pearson
+No. This actually was a nonperforming loan for many years that finally got written off. Bicent Power; that had been in a nonperforming loan for probably at least 2 years now. There was really very little change in terms of nonperforming loans. And the realized losses tend to be sort of a significant lag to when the loan itself gets into trouble.
+Operator
+[Operator Instructions] Our next question comes from J.T. Rogers of Janney Capital.
+John T. G. Rogers - Janney Montgomery Scott LLC, Research Division
+Actually the question was on the prepayments you saw on the quarter, were there any fees associated with those prepayments that contributed to interest income?
+Edward U. Gilpin
+Yes, I mean, that was the $300,000 I mentioned.
+Dayl W. Pearson
+
+Yes, that was the $300,000 that Ted mentioned earlier.
+Edward U. Gilpin
+We do, from time to time, see prepayments. We would expect to get some here and there, so it\'s not...
+Dayl W. Pearson
+We\'re probably going to get some in the fourth quarter as well, some prepayment penalties.
+John T. G. Rogers - Janney Montgomery Scott LLC, Research Division
+Okay, great. And then, just looking through the schedule of investments, is International Architectural Products, is that your credit you expect to come back on accrual or will that be exited?
+Dayl W. Pearson
+I don\'t -- I would say neither of those in the quarter that I expect. No, it\'s not the one.
+Operator
+I\'m showing no further questions at this time. I\'d like to turn the conference back to Dayl Pearson for any closing remarks.
+Dayl W. Pearson
+Well, thank you, all, very much. And we look forward to speaking with you after the end of the year. Thank you.
+Operator
+Ladies and gentlemen, this does conclude today\'s conference. You may all disconnect and have a wonderful day.

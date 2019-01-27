@@ -1,0 +1,234 @@
+DragonWave Inc. (DRGNF.PK) F2Q09 Earnings Call October 10, 2008  8:30 AM ET
+Executives
+Russell Frederick – Chief Financial Officer
+Peter Allan – President, Chief Executive Officer
+Analysts
+Peter Misek – Canaccord Adams
+Sera Kim – GMP Securities
+Todd Coupland – CIBC World Markets
+Dennis Fong – Macquarie Securities
+Chris Uniastowski – TD Newcrest
+James Faucette – Pacific Crest
+Kevin Dede – Morgan Joseph
+[Ile Osier – Canaccord Adams]
+Operator
+Welcome to DragonWave Inc second quarter fiscal year 2009 financial results conference call. (Operator Instructions) Speaking this morning will be Russell Frederick, Chief Financial Officer and Peter Allan, Chief Executive Officer. At this point I would like to turn the call over to Russell Frederick, CFO.
+Russell Frederick 
+Good morning and thank you for joining the DragonWave Inc. second quarter fiscal 2009 results conference call on this tenth day of October, 2008. Slide 2 please.
+Our speakers today are myself, Russell Frederick, Vice President and Chief Financial Officer and Peter Allan, President and Chief Executive Officer. Please note that our results for the quarter ended August 31, 2008 were issued via our wire service at the end of business day on Thursday, October 9, 2008. I will review the financial results for the quarter, and then Peter will provide a business update and discussion. We will then open the call for questions and we plan to finish this morning by 9:30.
+Slide 3. Before we begin I would like to remind everyone that this conference call contains forward-looking statements that are based on current expectations, forecasts and assumptions that involve risks and uncertainties that could cause actual outcomes and results to differ materially. For a complete description of such risks and uncertainties see Article 4 of our annual information form dated May 7, 2008 which was filed with the Ontario Securities Commission.
+At this time I would remind everyone that you may access our presentation today on our web site at www.dragonwaveinc.com in the Investor Relations section.
+Slide 4 please. I should mention at the outset that all references to dollars refer to Canadian currency unless we specifically mention otherwise. On Slide 4 you can see that revenues in our second quarter, fiscal 2009 came in at $10.6 million. This represents an increase of 7% from $9.9 million reported in Q2 last year.
+If you now turn to Slide 5, you will note that in Q2 fiscal year \'09, revenue from customers outside North America was $2.9 million representing a 73% increase from $1.7 million in Q2 last year and accounting for 28% of the quarter\'s total revenue.  Revenues from customers within North America dipped to $7.7 million, a 7% decrease from $8.2 million in Q2 last year. DragonWave had two customers that each generated more than 10% of revenue in Q2 fiscal \'09. During the quarter, DragonWave sold to 65 customers of which 13 were new. Nine of these new customers were located outside of North America. 
+I will now address Slide 6 which shows our statement of operations. Having talked about the revenue, I\'d like to turn your attention to the remainder of the Profit and Loss Statement. Gross margin for the second quarter was 34%. This represents a 2% decrease from the gross margin reported in Q2 fiscal year \'08 and a 7% decrease from the previous quarter.
+I will address the change in gross margin from last quarter in some detail. About one-half of the decline is associated with customer activity. We incurred some start up costs associated with winning our new 10% service provider by assisting them with the restocking costs associated with displacing a competitor\'s product as part of their selection of DragonWave. Our product mix was slightly less favorable and we adjusted for increased costs to complete forecasts for some service contracts. 
+
+A further 1% is associated with high in-bound freight costs. This has occurred because of a reduced instance of directly drop shipping, but also high transportation rates reflecting increased fuel costs. Our strong innovation cycle resulted in us launching a high level of new products into production. The initial cost of this impacted margins by about a half percent. 
+Lastly, we estimate that the pricing impact after these other factors were taken into consideration resulted in just over a 1% decline in gross margin.
+You will see expenses overall in Q2 increased year to year by $1.1 million to $6.5 million. This resulted in an operating loss of $2.8 million for the quarter compared to a $1.8 million loss for Q2 in the previous year. Although expenses increased year over year, I do want to point out that they decreased by $0.4 million sequentially.
+R&D spending increased by $0.01 million to $2.6 million in Q2 from $4.25 million in Q2 FY08. Sales and marketing spending increased from $1.9 million in Q2 FY08 to $2.8 million for Q2 FY09. The increase in spending year over year was a result in growth of sales head count outside of North America to support our objective of capturing new customers globally. Travel costs and expenses to support new international offices also contributed to the period over period increase. G&A spending remained flat at $1.1 million in Q2 FY09 versus Q2 FY08. 
+At the net income level, the company lost $1.7 million in Q2 fiscal year \'09 versus $2.1 million in Q2 fiscal year \'08. This loss included a foreign exchange gain of $1 million due to the strengthening of the U.S. dollar relative to the Canadian dollar in the second quarter.
+I will now turn to Slide 7 which highlights some balance sheet metrics. If we look at cash including cash equivalents and short term investments you can see a decrease from $31 million at the end of Q1 fiscal \'09 to $27.7 million at the end of Q2 fiscal \'09. The $3.3 million cash usage during the second quarter of fiscal 2009 can be attributed to three factors; the company\'s operating loss, increases in working capital and purchases of new assets to address the capacity and capability requirements of the new product lines.
+Day sales outstanding came in at 88 days at the end of Q2 fiscal \'09 compared to 97 days at the end of Q4 fiscal \'08 and 49 days at the end of Q1. The increase in DSO from Q1 to Q2 fiscal \'09 represents a cash usage of $2.6 million. Approximately half of this relates to returning to a more normalized level of DSO and the other half relates to two pieces of business in our [Amea] region that are taking longer to collect than normal. Both of these receivables are due to be ultimately collectible.
+Inventory turnover came in at 2.1 times in Q2 fiscal \'09 versus 3.2 times in Q4 fiscal \'08. At this time we are managing the challenge of a swing in product mix and a high level of new product introduction. This concludes my remarks on the financial results and I will now turn it over to Peter Allen to provide the business update.
+Peter Allen
+I\'d like to start by saying we\'re seeing unprecedented events in the capital markets reflecting serious systemic issues in the banking environment and this is impacting exchanges globally. Undoubtedly this, together with concerns about underlying economic weakness could have significant impacts on the deployment plans of our customers.
+We cannot yet be confident we understand the ramifications to DragonWave of these events. We\'re monitoring the plans of our customers and prospective customers carefully so that we can react quickly and appropriately.
+Starting on Slide 9, I will provide an update on the progress made during the quarter on each of the strategic vectors that we\'re tracking. The combination of Clearwire and Sprint zone business unit continues to be an important milestone for the development of wireless broadband globally. We of course welcome the statement made by Clearwire recently that the Department of Justice in the U.S. has completed its review and will not require a second pass to finalize its judgment. We know that Clearwire and Sprint continue to indicate that they expect the transaction to be complete by the end of 2008.
+
+If you look in the upper left hand quadrant of the chart for revenues, you will see as Russell has pointed out, we\'re seeing moderate revenue growth in Q2 over the previous year of 7%. International revenue grew 73% on a year over year basis and represented 28% of the business in Q2 due to the strength internationally and reflects our focus on extending our reach in Europe and the Middle East.
+In the European market, DragonWave announced an altitude infrastructure of selected DragonWave products to provide high capacity Ethernet backhaul, as part of its roll out WiMAX broadband services across France. Altitude has pioneered WiMAX service introduction in France with its first deployment taking place in 2004. To date, DragonWave\'s Ethernet backhaul solutions have been selected for four regional deployments.
+In North America we had to contend with a reduction of inactivity from our normal 10% customers and overall, our revenue dipped to $7.7 million, a 7% decrease from $8.2 million in Q2 last year. Of course a major customer announcement that we made during the quarter was Sprint\'s selection of DragonWave for deployment in its zone network in Baltimore, Washington and Chicago.
+Recently, on September 29, Sprint announced that they had launched WiMAX broadband service in Baltimore offering two to four megabits per second to the handset. We congratulate them on this milestone.
+Moving to the new customer quadrant, DragonWave had 13 new customers for the quarter, nine of which were from outside of North America. I\'ve already spoken about Sprint and Altitude, and I would now like to highlight the Caribbean and Latin American market. DragonWave announced agreement had been signed with Brightstar Corporation to distribute DragonWave\'s horizon and Air Pair high capacity wire Ethernet backhaul solutions throughout Latin America and Caribbean regions. 
+Brightstar operates in fifty countries on six continents and was chosen due to its extensive geographic footprint throughout the Latin American and Caribbean region. Brightstar is also seen as a good fit for DragonWave because they have a significant operated customer base, deep local knowledge and a dedicated sales team focused on selling complex solutions that network operators require.
+Regarding gross margins, we continue to improve functionality while simultaneously driving down the cost curve. We continue to believe that these improvements will permit us to maintain our planned margin levels even in the face of strong price reductions. However, this may not be smooth, as we saw this period.
+Slide 10 please. As I\'ve said before, in all markets I believe there is a growing appreciation of WiMAX backhaul economics, performance and capacity is critical to the overall business case of WiMAX 3G and LTE. In the last month, DragonWave has participated in both Light Reading\'s Backhaul conference in New York and WiMAX World in Chicago. At these events, I was encouraged by the number of new customer contacts that we were able to develop, particularly with international service providers. 
+Yesterday, Clearwire filed the proxy material for the shareholder meeting required for the closing of the transaction with Sprint. This is another step forward in what we view as a vanguard event for wireless broadband globally. 
+When we came into Q2, we said that we faced a tough challenge in respect of visibility. This remains the case and is potentially obscured by the impact that the credit markets could have on our customers\' plans. Again, I wish to repeat that we are monitoring those plans carefully so that we can react quickly and appropriately. 
+Based upon what we know today, what I can say is that Q3 looks similar to the way Q2 looked when we had our last conference call, and as such, we expect our revenues to be in the range around the level that is flat with our Q2 numbers in Q3. 
+
+This concludes my remarks and I\'d now like to ask the conference operator to open the call for questions.
+Question-and-Answer Session
+Operator
+(Operator Instructions) Your first question comes from Peter Misek – Canaccord Adams.
+Peter Misek – Canaccord Adams
+I wanted to step back for a second and figure out what\'s going on with networks when we do get a sense or normalcy a year from now or so. Is it true that AT&T is having major network issues as looking at trying to resolve the load on its network? We\'ve heard that. We\'ve heard Verizon is doing the same. This has to be your time for backhaul. I\'ve got to think that they want to look at you guys as a potential solution. Can you walk us through what the dynamics are with the networks and devices like I-phone picking up so much bandwidth?
+Peter Allan
+I think it\'s true that those service providers such as AT&T and VodoPhone are seeing the significant growth of data traffic on their network as they launch, in the case of AT&T their I-phone service. In the case of VodoPhone [inaudible] capability. I\'ve heard various levels of growth percentages. There\'s many factors here, 40 times, 20 times increase in revenue traffic. 
+Of course, their revenues are not growing at the same rate and so we\'ve all seen the much used chart that shows where traffic on the network grows at a far greater rate than revenue. And what that means is to the service provider, those services on average are less profitable than the services they\'ve offered previously.
+The reason they are less profitable is that they\'re having to make investments in network infrastructure to support traffic growth that isn\'t generating the same proportion of revenue. So they need leverage in their network. They recognize I think that by the time you get out to 4G where this phenomena we\'re seeing now is magnified many times, that they have to re-engineer their network and get different performance in network from a capacity, technical parameters, but importantly from an economic standpoint.
+And of course what we hope is that they look forward and say, it\'s something that we\'re going to have to do for the future. We\'re incurring difficulties and economic pain now because merely bandadeding the network with more and more copper is expensive and hard to keep up with this kind of growth, trying to roll out that much copper. And what we hope is, is that means that they will join those dots together and therefore start to move to the future architect which is [IRVY] and there\'s more and more applications which are becoming available for I-phone every day, and I think this just kind of makes the problem greater and greater. And I think they get to the point where it becomes an imperative. So I agree with your thesis.
+Operator
+Your next question comes from Sera Kim – GMP Securities.
+Sera Kim – GMP Securities
+I\'m just wondering if you can go over the gross margin impact again How long do you think it will take before you can get back to those targeted levels in the low 40% range.
+Russell Frederick
+I think the way to think about the margin at DragonWave, if you step back is remember that the main focus with DragonWave\'s management team has been on the cost reduction side and that\'s something that we can control and that we\'ve worked on over time and will continue to work on. It\'s also important to recognize that those reductions happen in kind of a staircase type of function. In other words, you don\'t see those costs coming down in a smooth way but rather over time as you achieve those reductions. So that\'s one thing I want people to keep in the back of their minds.
+As far as the gross margin changes this quarter, what I said was that 7% drop. A little bit over half of that had to do with customer dynamics being initial costs, product mix and some changes in cost to complete forecasts. And then in addition to that, we saw freight go up and impact margin by 1% and then if we net all of those things out, we saw a 1% of what I would call competitive pricing drop to the gross margin, so all of those dynamics acted on the gross margin in the second quarter. 
+
+I\'m sure there\'ll be another, but a different set of dynamics that will act on us as we go forward, but I think everything that we see right now says that we can start to track back to the goals that we set for ourselves toward the 40% and low 40% range.
+Sera Kim – GMP Securities
+Are you seeing a competitive pricing in North America or across the board, in other geographies as well?
+Peter Allan
+I would say we\'re seeing it both. What kind of happened in the quarter is our customer mix changed significantly. None of our previous 10% customers were 10% customers this quarter and those customers have tended to buy higher capacity product. The part of our business that grew substantially was with the customer base that actually purchases products at the lower end of the capacity rate.
+I think it\'s fair to say in North America we are seeing a strong competitive pricing dynamic, particularly around that lower capacity end which was particularly strong this last quarter. Particularly around the Enterprise part of the market, I would say. Internationally, in all regions, particularly in the Middle East, still very strong pricing pressures, but the particular dynamic that we saw in the quarter was much lower capacity product where this is fierce in North America.
+I think as the normal 10% customers come back on stream in a couple of quarters, I think the product mix normalizes and as such, that margin impact factor will be less of a factor on us proportionally.
+Operator
+Your next question comes from Todd Coupland – CIBC World Markets.
+Todd Coupland – CIBC World Markets
+Back to the gross margins, when you say 50%, you mean basically 3.5% points, so that\'s 50% of the 7 point decline?
+Russell Frederick
+That\'s right. 
+Todd Coupland – CIBC World Markets
+With flat revenue, how much of the total 7% can you get back in the next quarter or so and how much will come back with volumes?
+Russell Frederick
+I think the higher volumes over time will help the equation, but as far as the next quarter, everything I see right now says there\'s upward pressure on the margin in the third quarter. But at this moment, I wouldn\'t venture to say what that amount is.
+Todd Coupland – CIBC World Markets
+Is your point on the 50% piece of it, that a chunk of that is non-recurring or will you continue to have the costs associated with the changes to the products and the initial launch costs? I assume this is Sprint bending over backwards for them. Is that something that\'s out of the way at this point or is that something that will take a little bit of time to work through?
+Peter Allan
+The initial start up cost situation that we referred to in our new 10% customer will certainly continue for one more quarter but it won\'t be occurring beyond that.
+Todd Coupland – CIBC World Markets
+So you get a little bit of relief next quarter and then a bit more perhaps in the fourth quarter, but you\'ll still have the pieces, freight and pricing and then I guess you\'re hoping that volume will offset that to some degree.
+Peter Allan
+We have continuous focus on improving our cost performance and we had cost improvements that are going to be introduced into the product next quarter and the quarter after and throughout next year. Yes, you\'re right we believe that those cost improvements are sufficient to restore our margins to the low 40% that we\'ve talked about in the face of all market dynamics. Volume helps some of that, but some of it is new design features that has enabled us to reduce the cost of the product as well.
+These things are coming in continuously and offset the sort of dynamics that we\'ve seen here. We\'ve had a particular accumulation of them in this particular quarter, some of which will continue for another quarter. Beyond that, we believe as has been the case in the past, our cost improvements will outpace, match or outpace the accumulation of pressures on us from price and fuel costs and so forth.
+
+Todd Coupland – CIBC World Markets
+One last question on the gross margin, should we be watching DragonWave absorbing costs of major customers as a potential issue in order to land and keep those larger customers? If there\'s a product change, I would have thought that that\'s the customer\'s request. I would have thought that was a bit of a pass through, so I\'m just wondering is this is a risk as you\'re starting to launch into major networks.
+Peter Allan
+I\'m not sure I could calibrate all the risks that we face as we go into the major customers and major networks since this is the first time we\'ve encountered this particular situation that we dealt with in DragonWave and obviously we made the judgment that this was an in important account to prevail in, and we felt that the two quarter impact that we\'re going to see was well worth it to get the footprint win and the opportunity to work with this customer in the future.
+Todd Coupland – CIBC World Markets
+Are you signaling at all that the new Clearwire may be slower to build out its network or are you talking about suspending other customers or both?
+Peter Allan
+What I\'m seeing is, neither you nor I know what\'s going to happen, and if we don\'t know what\'s going to happen, we cannot preclude that people like Clearwire and other customers will take different decisions than the ones that they are representing today. Today, if we use Clearwire as a proxy for this discussion, they are signaling even as late as yesterday in their shareholder material, that they\'re going to build expansively in 2009 and beyond.
+But the ramifications of this market are such that in a week\'s time, who knows? They may take another decision. We here at DragonWave need to be I think alert to the fact that we are in potentially changing times and very alert at the wheel to make sure that we adapt to whatever changing circumstances exist in the market so that we can continue to position this company as a strong company for wireless broadband going forward.
+Todd Coupland – CIBC World Markets
+You did a good job on operating expenses with a flat quarter and lower gross margins. At this point in time are you going to hold those based on what you see or are you looking to make some reductions?
+Peter Allan
+At this stage, I would say the plan continues to be, we\'re trying to hold out. Over our R&D are flattish. Obviously every time we enter a new market, there\'s some kind of market entry costs. Sometimes you have to do some work. Sometimes it\'s merely paperwork. But generally there\'s something to do. We have some margin impacts on R&D but generally flattish.
+In the case of G&A again, we expect to hold this generally flattish. We are modulating our investment in sales and marketing as we see the opportunity to grow with customers who are building networks and are expanding. If we don\'t see customers doing that, we certainly won\'t be expanding our sales and marketing team either.
+At this point I would say we have no plans to reduce the investment level in R&D and sales and marketing, but again we are aware of the need to be very alert to the potential changing times that we are in and if we see that our customer\'s plans are changing materially, we will make the appropriate response with our investment and cost levels to match that.
+Operator
+Your next question comes from Dennis Fong – Macquarie Securities.
+Dennis Fong – Macquarie Securities
+In terms of how pricing is stipulated in your contacts with Clearwire and Sprint and then the new Clearwire, should we be viewing these as three separate potential contracts? I know one of them hasn\'t happened yet, where you\'re going to have to re-negotiate pricing again each time? And do you set pricing on an annual basis, or do you re-negotiate these as well on an on-going basis?
+
+Peter Allan
+At this stage we have a supply agreement with Clearwire. We have a different supply agreement with Sprint, and we\'ve been in discussion with how those agreements can be replicated such that they can be taken forward into a new entity and new Clearwire. There are some differences in the way those contracts are shaped up but generally I would say they are fairly consistent with each other.
+And yes, I do expect at some time in the future that that will be rationalized into one new contract for new Clearwire but new Clearwire is not at the point where they\'ve even appointed the people with whom we would talk to about that let alone that they\'ve wanted to start talking about it. So I think you\'re a little bit ahead of us in the question. What the outcome of that discussion will be, I wouldn\'t want to prejudge.
+Dennis Fong – Macquarie Securities
+You mentioned that during the quarter about 1% of the gross margin impact was due to competitive pressure and you\'re seeing that coming mostly from low capacity product. Is it mostly in the Enterprise market as you said? Are you not seeing any of that in your service provider?
+Peter Allan
+I don\'t want you to get the impression that it is. There is always an ambient level of price pressure in every aspect of our business. I don\'t want you to think of it as a hot spot, but what I would say is that at this particular time, we did see a very sharp shift towards – we had a much stronger Enterprise market this quarter. We saw a much stronger revenue from North America.
+Part of that shift was we had sold much more lower capacity product than we sell on average and that affected our margins somewhat. In that low capacity area, using that as an example, certainly we see price pressure from competitors who only participate in that market. And some of the people who price aggressively in the Enterprise market don\'t have the capabilities in their organization to credibly go to major service providers.
+And so there is a set of unique dynamics you see in that sector of the market, and yes, we saw it. We saw it in greater measure because the product mix meant that we had more of our revenues last quarter in that sector.
+Dennis Fong – Macquarie Securities
+On your 10% customers, you mentioned one large distributor. Would you be able to tell us if most of that product is going to a certain end customer or it was pretty diversified going to many customers?
+Peter Allan
+Many, many different customers, although I will say on average, through all distributors I would say the size of the deal is increasing. The average deal size through distributors I believe is stronger in this quarter than last quarter, but it represents many, many different customers.
+Dennis Fong – Macquarie Securities
+Of the 25% of the revenue that came from your two large customers, would you be able to tell us the breakdown between the two?
+Peter Allan
+One was 13.5% and one was 11%.
+Operator
+Your next question comes from Chris Uniastowski – TD Newcrest.
+Chris Uniastowski – TD Newcrest
+I wanted to dig in a little bit on your contingency plans as well as on the gross margin. Can you tell me first on the gross margin, is it about correct to calculate that your new customer where you had to take some re-stocking fees, the gross margin there was about 10%? Is that math right?
+Peter Allan
+No.
+Chris Uniastowski – TD Newcrest
+It sounds like if you had a 3.5% decline out of a 7% decline on a customer that was just over 10%.
+Peter Allan
+You\'re going a little bit too far. About 1% of our overall gross margin was associated with the start up expense of wooing that customer that lasts about a couple of quarters.
+Chris Uniastowski – TD Newcrest
+And then another 1% you said was pricing pressure overall, and so what was it you were saying that half of your gross margin decline was associated due to the expenses associated with.
+
+Peter Allan
+There\'s three factors in there. There\'s the start up expense with the new customer. There\'s the overall shift in product mix. The margins on lower capacity products are lower than the margins on higher capacity products.
+Chris Uniastowski – TD Newcrest
+Are you talking about within that one customer or just across?
+Peter Allan
+Across the whole market. And across the whole market we saw this particular quarter, particularly a normal 10% customer wasn\'t very active in the quarter. We saw that the average amount of bandwidth that was being purchased was much lower. And so that had an impact within the total context of that margin and decline. We expect that distribution of capacity to restore itself and normalize itself as the customers reactivate their activity.
+Chris Uniastowski – TD Newcrest
+Can you talk a little bit about the percentage of your revenue that would normally come from selling licenses to upgrade radios versus selling the radio in the first place, in whatever capacity it\'s being sold with. How much of your revenue is just recurring coming from a license, selling a pure software license and how has that changed in this quarter?
+Peter Allan
+In a normal quarter I would say it\'s in the $200,000 to $300,000 range. This quarter was less than half that.
+Chris Uniastowski – TD Newcrest
+I wanted to touch on your contingency plans. You mentioned a couple of times that you\'re monitoring and prepared to react appropriately. What is the appropriate reaction if spending really comes to a halt or if Sprint/Clearwater merger doesn\'t go through on time? What are your planned reactions?
+Peter Allan
+I\'m not going to articulate all the different situations we might have to react to, but generally if our customer spending plans are impacted it will be I believe at this stage, will be because they believe that the credit situation is such that obtaining future credit to built out their networks might be restricted and therefore they want to conserve their cash. That same dynamic would have to be reflected here, and our goal would be to minimize our cash expenditures for operating at whatever new activity levels we perceive are set by the market and such that we would be able to remain strong through this period until that customer believes they can accelerate again.
+Chris Uniastowski – TD Newcrest
+Do you think it would be necessary at all to reduce your current cash burn rate or are you comfortable?
+Peter Allan
+I believe we would want to, in that kind of circumstance, absolutely we would want to reduce our cash burn rate.
+Operator
+Your next question comes from James Faucette – Pacific Crest.
+James Faucette – Pacific Crest
+I wanted to go to a little bit more macro view now. Obviously, we\'re all very well aware of the issues that may be confronting spending in general, but I\'m wondering from your perspective, specifically, if you were unaware of the headlines etc. and just looking at your own business over the last month or so, can you talk about what changes have happened and if you\'ve started to see people pull back or indicate that they\'re going to pull back on their own spending? 
+The second question is, as you look at your outlook for the November quarter and it being about flat, how is that outlook specific to the November quarter changed as you\'ve run through the first month of your quarter?
+Peter Allan
+You can\'t address that question without getting into the dynamics of Sprint/Clearwater. Sprint/Clearwater is such a vanguard event for WiMAX broadband as an industry. It dominates the theme for the industry and it certainly dominates the scene for DragonWave. As they move forward, clearly both companies are optimizing their plans for the period after the transaction is approved.
+In their public statements, they are saying they are going to build out aggressively into 2009, 2010, which seems to match the strategy of the existence of nuclear wire which is to be a turn to market plan for WiMAX technology over LTE. If they continue to stick with that strategy then our trends are really unchanged and most of this year has been dominated by the pause waiting for that to happen.
+
+In the meantime, if you think about this current quarter, we\'ve seen good growth with our other customers given their revenues were flat with very little activity from [Pier One]. I think you can see that our business is continuing to grow in that other portion.
+Certainly in Europe, we\'ve already seen I think leading up to the last month where the markets have been particularly volatile, but even up to that point, we\'ve seen that customer plans were being impacted, particularly customers who were subsidiaries of North American parents. Clearwire again, is a good example. They have moved forward to this vanguard event in North America, but they have many properties in Europe that they don\'t have the resources to move forward with.
+[Inquam] in Germany is another good example, which is owned by a North American parent, Nextwave, who has cash and restructuring needs. So there is a kind of spectrum in Europe that\'s not getting exploited and that\'s been happening already for some time now.
+I would say absent the uncertainty associated with the current credit market, if I was to disregard that, I would say our quarter is firming up nicely. I would probably have been saying that there is improving a shade. But I think that\'s a misleading to statement to make if at the same time, the credit markets continue to swirl around because the situation I can see today that I think is firming up a shade might be completely invalidated in a couple of days because of the uncertainty of these markets bring to our customers.
+The best thing I can do is say that the best range of possibilities is that we\'re going to be in a similar position as we were when we came into Q2.
+James Faucette – Pacific Crest
+Looking at the developments in the August quarter, obviously you did grow nicely in spite of pause ahead of Clearwire and its pending merger with Sprint. You talked a lot about load capacity having an adverse impact on margins. Was that surprising to you how much low capacity business that you were doing in the August quarter and where do you think that if it was surprise business came from and how likely is it to continue to persist?
+Peter Allan
+I think it is fair to say I was pleasantly surprised a shade about the strength of business that came through our North American distribution channel in the quarter. I think one particular distributor who has come on board recently has shown great performance for us and that\'s where that surprise came from. It did come on stream harder than I had reason to hope for, and actually no reason why that shouldn\'t continue as we move forward.
+James Faucette – Pacific Crest
+On Brightstar, even though they do most of their distribution into Central America and Latin America, is that considered a North American customer in terms of your breakouts or does that get put into rest of world?
+Peter Allan
+That\'s put into the rest of the world.
+Operator
+Your next question comes from Kevin Dede – Morgan Joseph.
+Kevin Dede – Morgan Joseph
+I was wondering if you could give us a snapshot of what your backlog looked like at the end of the first quarter versus the end of the second quarter.
+Peter Allan
+We generally don\'t discuss backlog because we don\'t think it\'s particularly meaningful.
+Kevin Dede – Morgan Joseph
+Your business is mostly terms.
+Peter Allan
+It\'s mostly terms and a lot of it can be culled off differently at any point in time. But I would say when I talked earlier about that shade of improved visibility that I was seeing, it might be completely obliterated by the swirling credit market, I would say that\'s reflected in our backlog.
+Kevin Dede – Morgan Joseph
+I was curious about the type of product your new larger customers are looking for and whether or not you\'re able to meet the needs with the Pseudowire solution? Maybe you could frame that vis a vis what your development plans include.
+
+Peter Allan
+I\'m certainly not going to communicate my development roadmap here because there might be other people listening, but I would be general to say that the Pseudowire, the current deployment of our customers has not yet included many converged networks so the Pseudowire products have not been a factored into current products.
+They certainly could be an overlay factor into those deployments in the future and certainly the customers who are deploying our products today are evaluating our Pseudowire capabilities with that in mind.
+Our roadmap certainly continues to drive, look at the dynamics associated with our customers\' business plan and addresses the need for greater capacity. It addresses the need for greater control of our product and quality of service control of our product as some of the features are used. And it certainly takes into account the cost performance of our products as we do that.
+So those are the elements on our roadmap. The architecture of our products support and the operating costs those architectures impact in the way that they impact our customers operating costs is an important factor. So those are the type of drivers that set our roadmaps. But I\'m not going to get into our roadmap here.
+Kevin Dede – Morgan Joseph
+From a 20 thousand foot perspective, is Pseudowire sufficient to handle the needs that you might see in a converged network or do you think it will necessitate integrating handling TDM type traffic at the native level?
+Peter Allan
+We are strong believers that Pseudowire is certainly capable of doing that and to have native TDM in the pipe actually drives up the complexity and operating costs that [inaudible] to the network and therefore, it\'s inferior to the Pseudowire approach.
+Operator
+Your next question comes from [Ile Osier – Canaccord Adams]
+[Ile Osier – Canaccord Adams]
+Can you touch on the Middle East, what you\'re seeing? It seems  like you\'ve got some traction there and it\'s maybe a little bit early but obviously the Brightstar relationship, are you seeing some activity in the pipeline with them?
+Peter Allan
+The Middle East has been a little bit quiet in the last little while. You\'re probably aware they\'ve just come off Ramadan and Ede and during those periods in the Middle East business activity definitely slows. We continue to be very, very active in the Middle East. Pakistan is actually the second largest individual country that DragonWave does business in, but we continue to be working very hard on opportunities. Jordan, Saudi Arabia and the United Arab Emirates are the ones that I would particularly draw your attention to. 
+And significant deals continuing to be fought for in those markets. There\'s not been an awful lot of progress as I said in the last six weeks on those opportunities because of the Ramadan and Ede period. In case of Brightstar, we are seeing a pipeline come forward from that relationship and our own business development activities in that region and we\'re hopeful that that will generate some business for us.
+My expectation would be certainly not in Q3, probably more likely in 2010, but who knows, we might get some of it in Q4.
+Operator
+Your next question comes from Chris Umiastowski – TD Newcrest.
+Chris Umiastowski – TD Newcrest
+Can you give me your sense of when a national network is being deployed, what percentage of the point to point links would fall under 200 megabits per second capacity versus above that level?
+Peter Allan
+I think it\'s about 50/50.
+Chris Umiastowski – TD Newcrest
+So obviously at under 200, that\'s where your margins would be a bit lower. As guys bought more capacity you\'d get margin from that. Is that a fair comment?
+Peter Allan
+It depends what country you\'re talking about. If you\'re talking about North America, big cities like New York, it\'s going to be more. If you\'re talking about a national wide network in [Begin or Farso] it will be much, much lower. Not every nationwide network is born equal. But if you\'re really talking about North America, we certainly expect to see significant amounts of capacity being deployed particularly in the aggregation means of customers that choose to use networking.
+
+Operator
+There are no questions in the queue.
+Russell Frederick
+I\'d like to thank everybody for participating this morning.
+Peter Allan
+I\'d like to add, I\'ve mentioned that some of our friends recently have been celebrating Ede. I know that some of our other friends have been celebrating Rosh Ashana this week. But I would particularly like to offer my Canadian friends best wishes for the Thanksgiving weekend that\'s coming up this weekend. 
+Thanks for joining us everybody.

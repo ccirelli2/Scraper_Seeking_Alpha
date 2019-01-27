@@ -1,0 +1,222 @@
+Medivation, Inc. (NASDAQ:MDVN) Q3 2012 Earnings Conference Call November  9, 2012  4:30 PM ET
+Executives
+Anne Bowdidge - Senior Director, IR
+David Hung - President and CEO
+Patrick Machado - CBO and CFO
+Lynn Seely - CMO
+Cheryl Cohen - CCO
+
+Analysts
+Lee Kalowski - Credit Suisse
+Yaron Werber - Citi Investment Research
+Geoff Porges - Bernstein Research
+Howard Liang - Leerink Swann
+Biren Amin - Jefferies
+Eric Schmidt - Cowen and Company
+Ling Wang - Summer Street
+Yi Chen - Aegis Capital
+David Miller - Biotech Stock Research
+
+
+Operator
+Thank you for joining Medivation’s Third Quarter 2012 Financial Results Conference Call. This conference is being recorded. At the end of the presentation we will have a question-and-answer session and we will give instructions at that time on how to signal for a question. 
+I will now turn the call over to Anne Bowdidge.
+Anne Bowdidge
+Thank you for joining us. On the call today from Medivation are Dr. David Hung, President and CEO; Patrick Machado, Chief Business Officer and Chief Financial Officer; Lynn Seely, Chief Medical Officer; and Cheryl Cohen, Chief Commercial Officer.
+We issued a press release earlier today that you can find on our website at www.Medivation.com. Before we begin I’d like to remind you that various remarks we make on this call contain forward-looking statements that are made under the Safe Harbor provisions of the Securities laws, including statements regarding expanded commercialization, the potential regulatory approvals in other markets and for other indications and the timing thereof, the continued clinical development and regulatory approval and the timing thereof, potential future clinical trial events or results, the therapeutic potential and safety profiles of our product candidates, our collaboration, our future opportunities and milestones, and financial guidance for the remainder of 2012, operating expenses, capital expenditures and receipt of development milestone payments.
+In addition to our prepared remarks, we may make forward-looking statements in response to questions, including, for example, statements regarding our current and potential future collaboration, and our future financial position and results.
+Any statements made on this call that are not statements of historical facts may be deemed to be forward-looking statements. Forward-looking statements involve risks and uncertainties that could cause Medivation’s actual results to differ significantly from those projected, including, without limitation, the risks and uncertainties detailed in Medivation’s Form 10-Q for the quarter ended September 30, 2012 filed today with the SEC.
+All forward-looking statements made during this call are based on information available to us as of today, and we assume no obligation to update these statements as a result of future events or otherwise.
+With that, I\'ll turn the call over to Dr. David Hung, President and CEO of Medivation. David?
+David Hung
+Thanks Anne. Thank you all for joining us today. This has been a transformative quarter for Medivation with a rapid FDA approval and U.S. launch of XTANDI our first commercial product. 
+On August 31, 2012 the U.S. FDA approved XTANDI for the treatment of patients with metastatic castration-resistant prostate cancer who have received docetaxel. This approval was based on our Phase 3 AFFIRM data that showed XTANDI produced a 4.8 month advantage in median overall survival compared to placebo. The timing was excellent. The FDA approval came just a little over two weeks after the results from our Phase 3 AFFIRM trial were published in the New England Journal of Medicine. 
+I’m especially proud of our employees and those of our partner Astellas given that the U.S. XTANDI launch occurred approximately 9 months ahead of our internal expectations. The positive read out in AFFIRM at the interim analysis in November 2011 moved up our timeline by approximately 6 months from the anticipated final analysis date and FDA approval was granted nearly three months prior to our PDUFA date. Even with this advanced timeline, we were ready to execute when approval came on August 31. 
+
+Medivation and Astellas sales reps began promoting XTANDI in the field of September 4, the first business day after approval and XTANDI was made available for shipment to a specialty pharmacies and specialty distributors of September 13. For the first 12 business days that it was on the market, XTANDI generated 14.1 million in net product sales as reported by Astellas. 
+In addition to the milestone we reached in the U.S. this quarter, we made significant progress toward potential approval for XTANDI in Europe. The European Medicines Agency accepted for review the Marketing Authorisation Application submitted by Astellas for the treatment of men with metastatic castration-resistant prostate cancer who have received docetaxel. The review is currently underway. 
+With that overview I will now turn the call over to Patients for review of the third quarter 2012 financial results.
+Patrick Machado
+Thanks, David and good afternoon everyone. As David mentioned, net sales of XTANDI for the quarter as reported by Astellas were $14.1 million, all of which were in the U.S. This represents 12 business days of sales following XTANDI’s availability for shipment on September 13.
+Under our collaboration agreement, gross to net deductions are determined in a manner consistent with Astellas’ internal accounting policies consistently applied. The largest component of gross to net deductions is legally mandated rebates and discounts to government payors. These are obviously very early days, so we can\'t draw any quantitative conclusions about XTANDI’s market uptake based on currently available data. However, we have early indication that physicians have a high level of aided awareness of and interest in XTANDI. Our market research indicates that approximately 88% of surveyed oncologists were aware of XTANDI four weeks after launch and that more than half of physician reported details proposed chemo and CRPC products in the month of September were for XTANDI.
+I’d also like to say a quick word about utilization metrics for XTANDI. We understand that this is an area of intense investor interest. We fully anticipate reporting utilization metrics in the future, however at the moment we are not yet able to do so due to data limitations. Given our distribution model, we are dependent on our channel partners for all data on XTANDI utilization. As you know, our launch occurred three months earlier than expected. While we were fully prepared with the trained sales force and available product to launch XTANDI in September, the data sets we are receiving from our channel partners are not yet sufficiently mature for us to feel comfortable basing public statements upon. We expect this issue to be rectified by the time we report our full-year 2012 results.
+Turning to Medivation’s financial performance. Collaboration revenue for the third fiscal quarter was $64.8 million. I’d like to take a moment to step you briefly through our accounting for collaboration revenue, now that we’ve become a commercial company. Medivation’s collaboration revenue will consist of three parts; revenue attributable to U.S. XTANDI sales, revenue attributable to ex-U.S. XTANDI sales, and revenue attributable to upfront and milestone payments.
+The first part of our collaboration revenue is revenue attributable to U.S. XTANDI sales. You will recall that in the U.S. we and Astellas share profit, losses and reimbursable costs equally other than development costs that support both the U.S. and ex-U.S. market which are shared one-third by us and two-thirds by Astellas. Our collaboration revenue attributable to U.S. XTANDI sales in each period equals our share of the U.S. profit or loss plus reimbursement of our portion of the shared U.S. XTANDI cost for that period.
+
+Probably the easiest way to explain this is that mathematically our revenue from U.S. XTANDI sales in any period will be equal to one half of the U.S. XTANDI net sales as reported by Astellas for that period.
+For the third fiscal quarter, our collaboration revenue attributable to U.S. XTANDI sales was $7.1 million. The second part of our collaboration revenue is revenue attributable to ex-U.S. XTANDI sales. You may recall that outside the U.S. Astellas bears all XTANDI costs, retains all XTANDI profits and losses and pays Medivation tiered double-digit royalties on ex-U.S. sales.
+Our collaboration revenue attributable to ex-U.S. XTANDI sales consist of royalties we may receive from Astellas on sale of XTANDI outside the U.S. For the third fiscal quarter, there were no ex-U.S. XTANDI sales and hence no royalties to Medivation.
+The third part of our collaboration revenue is revenue attributable to upfront and milestone payments. For the September quarter, our collaboration revenue attributable to upfront and milestone payments was $57.7 million which included $45 million of development milestone payments we earned in the quarter under our Astellas collaboration agreements.
+For the nine months ended September 30, 2012 collaboration revenue was $144.5 million, $7.1 million of which was attributable to U.S. XTANDI sales and $137.4 million of which was attributable to upfront and milestone payments, including recognition of the final $72 million of the upfront payment we received in 2008 under our former collaboration with Pfizer which was terminated earlier this year.
+Total operating expenses for the third quarter were $64.4 million compared with total operating expenses of $26.4 million for the same period in 2011. These figures include non-cash stock-based compensation expense of $7.6 million in the third quarter of 2012 compared with $3.2 million in 2011. Total operating expenses for the nine months ended September 30, 2012 were $144 million, compared with total operating expenses of $76.4 million for the same period in 2011. These figures include non-cash stock-based compensation expense of $17.5 million in the third quarter of 2012 compared with $10.5 million in 2011.
+We reported a net loss for the quarter of $4.5 million or $0.06 per share, compared with a net loss of $10 million or $0.14 per share for the same period in 2011. For the nine months ended September 30, 2012, our net loss was $9.6 million or $0.13 per share compared with $28 million or $0.40 per share for the prior year period. The per share numbers reflect the 2 for 1 forward split of our common stock that we implemented on September 21, 2012.
+We had $340.4 million in cash, cash equivalents and short-term investments at September 30, 2012, compared with $145.1 million at December 31, 2011. We currently expect total operating expenses for 2012 net of cost sharing payments from Astellas to be between 205 and $215 million approximately $25 million of which consists of non-cash stock-based compensation expense. This represents an increase from our prior guidance of between 183 and $198 million. The increase in guidance is due primarily to increased compensation and royalty expense in 2012 resulting from XTANDI’s approval in the U.S. approximately one quarter earlier than we had anticipated.
+With that I\'ll now turn the call back over to David.
+David Hung
+Thanks Pat. While we’re very pleased with the progress made in bringing XTANDI to the market for post-chemotherapy PC, we continue to believe that the most substantial commercial opportunity for XTANDI lies earlier in future indications earlier in the disease continuum in pre-chemo patients.
+I’d now like to provide you with an update on our progress in developing enzalutamide in this patient population and also in breast cancer. The trial that is furthest along in clinical development is our Phase 3 PREVAIL trial. In the second quarter we completed targeted enrollment of approximately 1,700 patients in this trial. The co-primary endpoints in this trial are overall survival and radiographic progressions pre-survival. As with AFFIRM we have the option to review our interim analysis plans to factor in the available data. We wait with interest the results of the FDA’s review of the ZYTIGA pre-chemo sNDA which has been assigned a December PDUFA date.
+
+In addition to our PREVAIL trial, we continue to enroll patients in our two clinical trials that are comparing the effected enzalutamide head-to-head against bicalutamide, the most commonly used anti-androgen. The STRIVE trial is enrolling approximately 400 men with either metastatic or non-metastatic disease primarily in the U.S. The TERRAIN trial is enrolling approximately 370 men with metastatic disease primarily in Europe.
+Moving earlier in the disease progression, we’ve completed enrollment in our Phase 2 open-label study in hormone-naive patients. We plan to present the data at an upcoming medical conference. Given the robust AFFIRM data and a long patent life globally, we believe that investment to explore enzalutamide’s potential through additional trials including Phase 3 registration trials is warranted. We are currently working through the scope and design of those trials with our partner Astellas and we look forward to updating you in the future.
+In the second quarter we initiated a Phase 1 study evaluating the safety and tolerability of enzalutamide in breast cancer. This study includes a dose escalation stage followed by an expansion stage where women with andro receptor positive breast cancer will be enrolled. If the safety data are acceptable, our next step would be to advance into Phase 2 development.
+In summary, this has been a pivotal quarter for Medivation, with the rapid FDA approval and launch of XTANDI in the U.S., pivotal study results published in the New England Journal of Medicine, positive early qualitative signs on the U.S. launch and the XTANDI MMA accepted to review in Europe, we are excited about the opportunity that lies in front of us.
+In the near-term, our corporate focus is on maximizing the future growth and use of XTANDI in the U.S., obtaining approval of XTANDI in the post-chemotherapy indication globally and to successfully develop enzalutamide in upstream prostate cancer indications where we feel the larger commercial prostate cancer opportunity lies as well as in breast cancer.
+We thank all of you for your support over the years in helping us reach this critical milestone. I look forward to updating you further on our progress. With that I will now turn the call over to the conference coordinator to open the call for questions.
+Question-and-Answer Session 
+
+Operator
+(Operator Instructions) Our first question is from Lee Kalowski of Credit Suisse. Your line is open. 
+Lee Kalowski - Credit Suisse
+Very quickly, what is some of the utilization metrics that you had mentioned that we might see around Q4 results?
+Patrick Machado
+So, Lee this is Pat. I think things like numbers of prescriptions, pre versus post-chemo, identity of the prescribing physician’s things of that nature.
+Lee Kalowski - Credit Suisse
+And I understand given that some of the IT infrastructure or things like that may not be in place yet, but you guys are out in the field. Is there anything you can say and I get that you are saying the IMS data isn\'t reliable, is there anything you can say from the field, I mean, the trends we are seeing that you guys are seeing on the field different from what\'s being reported?
+Patrick Machado
+The one thing that I think you can say is that you look at what IMS reported for the September quarter and hold that up against the net sales reported by Astellas that signals that the IMS dataset is very incomplete. So, as we indicated in the document we filed the week or so ago, that is a block dataset and so we don\'t feel that represents a fulsome picture of what\'s going on in the market. In terms of providing you with that fulsome picture, obviously we have a pretty high data bar that we have to satisfy before comfortable speaking publicly to issues of this level of importance and we are just not quite there yet given the accelerated timing of the launch.
+
+Lee Kalowski - Credit Suisse
+And then, I guess a question on the guidance. So the guidance, if I look at R&D for example, is a pretty significant step-up in the quarter. What was the major driver of that? And if I look at Q4, it looks like on whole OpEx is going to be relatively flattish give or take versus Q3, can you talk about these trends a little bit?
+Patrick Machado
+Yes. I think the main drivers of R&D are really two things, one is people, so if you look at headcount, we were at about 97 R&D headcount at September 30 of ‘12 versus about 80 a year ago. So that\'s a big piece. Another big piece is milestone related payments to UCLA, so you will remember we owe them 10% of any development milestone payments that we get from Astellas, so we received 45 million from Astellas in Q3, so 4.5 million of that went through the UCLA, that\'s running through the R&D line. We also had a $2 million milestone payment to UCLA due to them under our license agreement for a receipt of the NDA approval in the U.S. that\'s also running through our R&D line. So those are the biggest components of the change year-over-year in R&D.
+Operator
+Our next question is from Yaron Werber of Citi. Your line is open.
+Yaron Werber - Citi Investment Research
+David, just a few questions, give us a little bit of sense first of all what\'s going on with the (inaudible) for first-line for XTANDI? Do you have a sense on timing there and then I have a follow-up?
+Lynn Seely
+This is Lynn. We have filed in requested (inaudible) approval and the (inaudible) guidelines to prostate cancer are currently being updated and we expect for them to be out by the end of the year?
+Yaron Werber - Citi Investment Research
+So, potentially by year-end. And then in terms of any sense can you help us understand a little bit in Europe. I know you got a standard review. Is there any chance that\'s going to be quicker than a typical standard review or what\'s your thought on timing?
+Lynn Seely
+That\'s a great question. I always have the right to do things more quickly than the standard, but we obviously have now insight to how they will actually perform at this time and can\'t comment.
+Yaron Werber - Citi Investment Research
+And can you confirm whether has Astellas and have you stated marketing XTANDI to urologists or you are focusing really on medical oncologists now?
+Lynn Seely
+We are marketing to both specialties, urologists and oncologist.
+Yaron Werber - Citi Investment Research
+And the distribution, can you give us a breakdown, is it 50-50 or is more skewed toward medical oncology?
+David Hung
+In terms of target list Yaron?
+Yaron Werber - Citi Investment Research
+Yes, and detailing percentage let say.
+Lynn Seely
+We are covering a majority of oncologists and we are covering as well the large urology physicians that see lot of metastatic castration resistant prostate cancer patients.
+Yaron Werber - Citi Investment Research
+And then finally any sense of the 14 million, can you help us understand how much of it was stocking versus how much of it was real demand?
+Patrick Machado
+The data point that we are able to really comment on is that in the period ended September 30 about three quarters of our channel partners reordered at least once. So, I think that provide some evidence of the answer to your question. I think in terms of speaking precisely to inventory stocking levels that’s a pretty flat area that we are really not in a position to go given the available data.
+Yaron Werber - Citi Investment Research
+And then I guess just final to sneak in. Astellas did give guidance for the next two quarters and it’s 86 million. I mean, depending how you look at the 14 million, if you are saying 75% of it reordered. That means only a quarter were potential stocking that means demand was about, let\'s say 10 million, that’s 12 days, which means about 20 million for a month, which means you suggested your guidance for the next two quarter is extremely conservative and you\'re essentially assuming a flat to down sales every month with no growth sequentially. In other words can you help us understand the guidance of 86 million for the next two quarters?
+
+David Hung
+Let me just comment on the assumption first of all with respect to the reorders. The statement is that three quarters of our channel partners have reordered at least once. So we are not saying anything regarding the magnitude of each order or reorder so three quarters of the people who bought once bought twice, so that’s what we are saying with respect to the September period. With respect to the Astellas guidance, this is something that they were required to do by Tokyo Stock Exchange rules this was a number that we had no involvement in determining and it\'s frankly a number that we\'re just not going to comment on because to us we don\'t yet feel that we have sufficient data to reliably start predicting the future at this point.
+Yaron Werber - Citi Investment Research
+I’d imagine that number has to have gotten evaded by the JV no before they actually provided our guidance?
+David Hung
+No. So, under our collaboration agreement, both partners have the latitude to do what they need to do to comply with their respective securities law obligations.
+Operator
+Our next question is from Geoff Porges of Bernstein Research. Your line is open.
+Geoff Porges - Bernstein Research
+I\'ll just ask Pat, could you take us through the 14 million, is that how you get to the 7 million and how we should be using 50% going forward. Is there some other adjustment elsewhere in the P&L for what we would have expected to be a profit sharing? It\'s hard to imagine that there is a profit on our 14 million revenue line in less than half a month?
+Patrick Machado
+So, Geoff, I mean the accounting is very convoluted, but I think the best way to understand it is take whatever your product level forecast is and divide by two, and that\'s going to be the portion of our revenue that\'s attributable to U.S. XTANDI sales. How you get there under the accounting rules is very convoluted, but that\'s the destination you get to.
+Geoff Porges - Bernstein Research
+And should we adjust Op expenses then for some true-up, is part of what\'s going on the expense line that you\'re being charged more expenses after this, the profit sharing in place?
+Patrick Machado
+The OpEx line is at all times that has been historically going to reflect our 50% share. So, we have true-up payments each quarter that flow through the OpEx line, and at the end of those payments what\'s left in our OpEx line reflects our 50% share. Now, what\'s going into our corporate OpEx line does not just include JV related items, right. So, there is corporate related items that are in there as well, but of the components of our OpEx that are related to the JV those components will represent half of the JVs cost. And if you look at the MD&A we have broken out very simply JV level P&L for the first quarter and as you surmise it was not a profit position for the first quarter.
+Operator
+Our next question is from Howard Liang of Leerink Swann. Your line is open.
+Howard Liang - Leerink Swann
+Just maybe a couple of question (inaudible), I think you said you\'re considering additional Phase 3s, if you could talk about what type of Phase 3s you might be considering. And also are you or when might you consider combination studies and if so what kind of agents would you like to combine XTANDI with?
+Lynn Seely
+Howard this is Lynn. So, we do believe that XTANDI is going to be has potential to treat the entire spectrum of prostate cancer disease and so we are looking aggressively at running additional registration trials, we are working with our alliance partner Astellas in the design of these as well as with regulatory authorities. As you know this drug has phenomenal patent life and so we want to take full advantage of that and we look forward to discussing to you the details of those studies when they\'re little bit further along and getting ready to start, but that\'s something that we wanted to signal will be coming in the future. I think with respect to combination, again we believe XTANDI is going to be our foundational therapy and that is a very good drug given the safety profile to add to additional agents and I think combination study is something else you are going to seeing more of in the future.
+
+Operator
+Our next question is from Biren Amin of Jefferies. Your line is open.
+Biren Amin - Jefferies
+I guess first on PREVIAL, I know you made some comments on potential disclosures around andro post-ZYTIGA pre-chemo, should we expect in Q1 I guess?
+Lynn Seely
+Certainly you know we have an interim currently in the trial. We have the rights to revise that should new information become available and we are awaiting with interest the results of ZYTIGA pre-chemo sNDA which the PDUFA date is in December. So, I think that that gives you good guidance of where we are.
+Biren Amin - Jefferies
+And then, I guess on your current Phase 2 versus Casodex, just an update regarding patient enrollment for both TERRAIN and STRIVE.
+Lynn Seely
+Sure. There are two trials which are ongoing. So STRIVE is a trial that we’ve begun accruing to this quarter. It\'s a trial that is enrolling both metastatic and non-metastatic patients and we are pleased with the progress to-date in that trial. TERRAIN is a trial that\'s been operationalized by our colleagues at Astellas and that trial is enrolling metastatic only patients. So, the guidance from that will come from them.
+Biren Amin - Jefferies
+And then, on the ADT naive study, I believe you mentioned that data at upcoming conference, I think your partner Astellas data on their call that it\'s going to be at ASCO GU. What type of data will be released at ASCO GU?
+Lynn Seely
+So, first just to point out that we are shooting for ASCO GU, but no acceptances for that program are yet available and I think we will be planning to report the safety and what efficacy data there are from those monotherapy on the label study, so we are pretty much looking forward to it.
+Biren Amin - Jefferies
+Can you remind us maybe what the primary endpoint was for that study?
+Lynn Seely
+Sure. of course, this is the first study of men\'s who were not previously castrate, so the first study was enzalutamide alone and we are looking of course at safety but also PSA response.
+Biren Amin - Jefferies
+I guess maybe an accounting question for Pat. Where should I assume that the cost of good is going to flow through in my P&L model?
+Patrick Machado
+It will be baked into the OpEx line, Biren.
+Biren Amin - Jefferies
+So is it simply going to be like SG&A or R&D?
+Patrick Machado
+Yes, that will be in SG&A.
+Operator
+Our next question is from Eric Schmidt of Cowen and Company. Your line is open.
+Eric Schmidt - Cowen and Company
+Just one quick follow-up that last comment, Pat. So, I just wanted to understand all of the JV expenses that you incurred are baked into your SG&A line, right?
+Patrick Machado
+No. All of the SG&A JV expenses, so the R&D JV expenses are baked into our R&D line.
+Eric Schmidt - Cowen and Company
+So in your SG&A line is cost of goods and SG&A.
+Patrick Machado
+Correct.
+Eric Schmidt - Cowen and Company
+And R&D is R&D.
+Patrick Machado
+Correct.
+Operator
+Our next question is from Ling Wang of Summer Street. Your line is open.
+Ling Wang - Summer Street
+A follow-up on the PREVAIL study, just wanted to clarify that you are going to decide on the interim analysis after the PDUFA date for ZYTIGA, is that correct?
+Lynn Seely
+I think we believe there will be some very interesting information coming out of the FDA review of ZYTIGA and that may or may not be informative to what we chose to do, but we certainly want to give ourselves the opportunity to see that.
+Ling Wang - Summer Street
+And also, can you comment from your field feedback how is (inaudible) is being used in relative to ZYTIGA right now?
+Cheryl Cohen
+This is Cheryl. Unfortunately, we can\'t comment on that data at this point, because we don\'t have enough data.
+Operator
+Our next question is from Yi Chen of Aegis Capital. Your line is open.
+Yi Chen - Aegis Capital
+My first question is have you started dosing the first patient for the breast cancer trial?
+
+Lynn Seely
+Yes we have. That Phase 1 study has been enrolling, it\'s dose escalation study followed by an expansion phase and that trial has definitely been enrolling.
+Yi Chen - Aegis Capital
+Do you have an expectation as to when you will finish enrollment?
+Lynn Seely
+We haven’t commented on that.
+Yi Chen - Aegis Capital
+My second question is whether you have a timeline for resolution of the lawsuit with Aragon Pharmaceuticals?
+Patrick Machado
+That matter is still in the discovery phase. It\'s in the (inaudible) which is working fairly slowly due to budgetary constraints, but the judge has indicated that these are guiding towards a potential trial data in 2013?
+Operator
+Our next question is from David Miller of Biotech Stock Research. Your line is open.
+David Miller - Biotech Stock Research
+In terms of the NCCN guidelines, that organization has talked before about including order of treatment sequencing in there. Do you have any idea whether have you gotten any signal from them and whether the update you were talking about by the end of the year will include a sequencing recommendation?
+Lynn Seely
+This is an ongoing process and certainly nothing we can comment on it at this point.
+David Miller - Biotech Stock Research
+How are you approaching the issue of convincing urologists and oncologists to use XTANDI before ZYTEGA, is it different for the two groups or is it the same message and can you give us some color about what that message might be.
+Cheryl Cohen
+This is Cheryl. It is the exact same message it\'s going off of our label and our product profile and going over our safety profile.
+David Miller - Biotech Stock Research
+When you are talking with the doctors how much are you hearing about prednisone versus escape things how geekier they are being about the science or is it just simply a matter of showing them the side effect profile and the median and the KM curve and that’s a quick visit kind of thing?
+Cheryl Cohen
+Each specialty is different, the oncologists care more about the science and the urologists care more about give me the short synopsis about the efficacy and safety of your profile. So that’s the only major differences, but it\'s gone very well since launch with our messaging and it\'s been very receptive on the physicians as we stated, we have an 88% awareness of XTANDI.
+David Miller - Biotech Stock Research
+Where are you in terms, are you on track for making the number of calls that you had planned to make are you ahead of track or how is that sales going?
+Patrick Machado
+We are really not in a position to speak anything prospectively, right now. So we\'ve said we can say about the September period with respect to what’s ongoing this quarter we\'ll be speaking to that when we release our full-year results.
+Operator
+Thank you. And I’m not showing any further questions in the queue. I\'d like to turn the call back over to management for any further remarks.
+David Hung
+Well, thank you all for joining the call today. We appreciate your continued support and interest in Medivation and look forward to keeping you apprise of our progress. Thanks again.
+Operator
+Ladies and gentlemen, thank you for participating in today\'s conference. This concludes today\'s program. You may all disconnect. Everyone have a great day.

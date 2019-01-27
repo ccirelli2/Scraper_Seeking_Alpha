@@ -1,0 +1,185 @@
+Metalico, Inc. (NYSEMKT:MEA) Q3 2012 Earnings Call November  9, 2012 10:00 AM ET
+Executives
+
+Carlos Agüero – Chairman, President and CEO
+Mike Drury – EVP
+Kevin Whalen – SVP and CFO
+Analysts
+
+Karen – DA Davidson
+Victor Simonte – Hudson Bay Capital
+Jack Thompson – Private Investor
+Robert Litterman – Private Investor
+Saurabh Kapadia – Corre Partners
+
+Operator
+Good morning. My name is Richard, and I’ll be your conference facilitator. At this time, I would like to welcome everyone to the Metalico 2012 Third Quarter Results Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question-and-answer period.
+I would like to remind you that today’s call is being recorded for transcription purposes. The purpose of today’s call is to discuss the results of the company’s operations for the quarter ended September 30, 2012.
+Earlier today, Metalico issued a press release announcing third quarter results and filed a report on Form 8-K in connection with the release. You can access copies of Metalico’s filings through the SEC’s EDGAR online files or directly through the company’s website at www.metalico.com. Just log on to the website, click on Investors at the top of the homepage and then click on SEC Filings in the left column. Then click to download the report.
+Metalico’s filings are also available at the SEC’s website at www.sec.gov. In addition, an audio replay of the call will also be available at 888-843-7419 or at 630-652-3042 for the first week after this call’s conclusion. To access the recording, callers will be required to enter the conference identification number of 33535630.
+As is customary, let me reiterate the Safe Harbor statement under the Private Securities Litigation Reform Act of 1995. The following discussion contains forward-looking statements that are subject to risks and uncertainties, including those risks set forth in Metalico’s filings with the SEC. These risks could cause actual results for the current period and beyond to differ materially from those expressed in any forward-looking statements made by, or on behalf of the company.
+We refer you to Metalico’s periodic reports that are filed from time to time with the SEC. For a more detailed discussion of forward-looking statements and a discussion of the factors that could cause results to differ materially from the discussion today, please refer to the Risk Factor Discussion in Metalico’s Annual Report on Form 10-K for 2011, which is also available online.
+In addition, during the course of the conference call, certain non-GAAP financial measures may be described in which should be considered, in addition to, and not in lieu of comparable GAAP financial measures. The company has provided reconciliations of these non-GAAP measures to what it believes are the most directly comparable GAAP measures in the earnings release.
+Thank you ladies and gentlemen. I would now like to turn the call over to Mr. Carlos Agüero, President and Chief Executive Officer of Metalico.
+Carlos Agüero
+Welcome every one and thank you for joining our call. With me here today are Michael Drury, our Executive Vice President and Chief Operating Officer of PGM, Minor Metal and Lead Operations and also Kevin Whalen, our Senior Vice President and Chief Financial Officer.
+After my remarks, we’ll be available for questions. We will also post a transcript of our remarks along with the question-and-answer session on our website, when the transcript becomes available after the call.
+As we reported earlier today in our news release, this was a disappointing quarter for the company. Although we still achieved positive EBITDA, we were buffeted by declining prices for scrap metal throughout the industry and intense competition for sourcing materials in our markets.
+
+We also took a significant impairment charge against the carrying value of goodwill in our PGM reporting unit and we recorded a book-to-physical adjustment for ferrous inventory.
+Excluding these unusual charges, our adjusted loss was $1.3 million or $0.03 per share. Even as adjusted, our performance for the quarter was certainly not acceptable. Nevertheless, we do expect that the fourth quarter will be stronger as many market indicators such as ferrous pricing are moving in a positive direction.
+With the exception of our Elizabeth, New Jersey location, Hurricane Sandy had a minimal effect on our operations, most of which are well away from the coastal areas that were the hardest hit. Our Elizabeth, New Jersey location, which only regained power yesterday, remain busy buying and selling scrap metal with the use of multiple back-up generators.
+Early in the quarter we identified a potential covenant issue under our senior secured lending facility. I’m pleased to acknowledge the cooperation of our lenders and the efforts of our management team in working through this matter. At all times we’ve conducted business normally and met our obligations on a very timely basis as usual.
+As reported earlier this morning, the company’s ferrous and non-ferrous recycling business generated a $2 million loss, principally as a result of $1.5 million inventory shrinkage recognized in the third quarter.
+PGM recycling margins continued to be impacted by competition and volatile prices and continues to operate at a loss. Consequently, we reviewed the current value of intangible assets for the PGM segment and determined that an adjustment was appropriate. In the third quarter, the company took a $12.1 million non-cash charge to write down the intangible assets in this reporting unit.
+The Lead Fabricating segment continued to improve performance, reporting operating income of $1.4 million compared to $854,000 in the prior year’s period. Third quarter results also compared favorably to $1.1 million that was reported in the sequential second quarter of 2012. Better product mix, higher selling prices and a continued focus on productivity aided improved results.
+Year-over-year comparison to the third quarter of 2011 shows shipments, except for non-ferrous scrap – shows lower shipments except for non-ferrous scraps with ferrous scrap volumes down by 1%. Lower PGM volumes accounted for majority of the drop in our revenue.
+Revenue decreased 21% to $133 million from $169 million. The company had adjusted operating income of $188,000 versus an income of $6.5 million in the prior period. A net loss of $10.7 million was reported of which $8.4 million was the non-cash impairment and $955,000 related the book-to-physical inventory adjustment compared to a reported net income of $5.1 million in the prior year quarter.
+Reported loss per share was $0.22 compared to earnings of $0.11. EBITDA fell to $3.5 million from $9.8 million sequentially and from $10.8 million year-over-year. Shipments of non-ferrous metals increased 31% to 42.9 million pounds and ferrous shipments were relatively unchanged at 134,000 gross tons. PGM volumes contracted to 9,000 troy ounces shipped versus 29,000 troy ounces in the prior period. Minor Metal shipments declined 20% or about 99,000 pounds to 395,000 in the period. Lead product shipments decreased by 11% to 11.3 million pounds.
+I would also like to recap operating results for the year thus far. During the nine months ended this September 30, we generated $15 million in cash flow from operations compared to $23 million in that same nine-month period of last year.
+Let’s review some other key comparisons of both nine-month periods with 2012 income figures that have been adjusted for the impairment and the inventory charges that I described above.
+
+Salas of $445 million is down 16% from $529 million last year. Operating income dropped to $7.7 million from $34.9 million last year. Net income up $3.8 million, although positive, dropped significantly from $20.5 million last year. Earnings per share of $0.07 compared to earnings per share of $0.43. Interest expense declined slightly to $6.8 million from $7.1 million. EBITDA of $24 million is almost half of what we achieved last year of $47.4 million.
+Ferrous shipments of 411,000 gross tons compared to 428,000, and non-ferrous shipments of 134 million pounds versus 110 million pounds, is an increase of 22% and is on-track to be a record for the company. PGM troy ounces sold 40,000 versus 92,000 in the prior period. Minor Metal shipments of 1.6 million pounds is up slightly from 1.4 million pounds. And finally, lead product shipments of 34.2 million pounds are up just 5% compared to the 36.2 million pounds. All of these, of course, are for the nine-month period of 2012 to 2011.
+Moving on to the balance sheet, Metalico’s liquidity continues to be strong with $117 million in working capital, which is $2 million higher than it was at the start of the year. Debt increased by $3 million to $132 million as of September 30, 2012 from $129 million at December 31. The net increase resulted principally from borrowings under the company’s revolving credit facility, and as Bob said, by reductions in the principle balance of our convertible notes.
+Our debt reduction efforts continued during the quarter. As compared to June 30, debt was – debt totals were reduced by nearly $4 million. However, we did not repurchase any of our convertible notes in the third quarter.
+Shareholders’ equity decreased by $4 million to $188 million as of September 30, 2012. That’s from $192 million as last year’s – at year-end 2011. Outstanding shares are still virtually unchanged from the prior year. Availability under the revolving credit facility, as of the close of business yesterday, was a healthy $49 million, providing more than ample liquidity to operate the business.
+Despite a difficult environment, we continue to invest in our business, so we may be prepared for a rebound. Through September 30, we have invested over $18 million in capital expenditures, particularly in equipment and related projects of our scrap metal operations.
+Looking ahead for next year, our primary strategic objectives are as follows: first, to maintain discipline practices on sourcing scrap with emphasis on expanding metal margins. We want to maximize inventory turnover and accelerate collection of our receivables. We want to maintain our strong working capital and liquidity position to pursue all scrap buying and other business opportunities as they arise.
+We want to continue to review our operations with the goal of reducing expenses while preserving customer service and operating in a safe environment. We want to continue to build our successful efforts to ramp up volume in all of our new operations. And finally, with some luck, we want to successfully complete the divestiture of our Lead Fabricating business to achieve our objective of becoming more of a pure play scrap metal recycling company.
+Reiterating previous comments, we believe that stronger economic consumption and industrial production in the U.S. will help to generate more scrap and that additional industry consolidation would help to rationalize conditions a very tight supply in the scrap metal market. At Metalico we are focused on improving scrap margins and are concentrating on our buying strategies on achieving this objective.
+Before I start on our business outlook, I wanted to remind listeners of our policy on guidance and on forward-looking statements.
+Metalico’s practice, as is common in our industry, is to not provide guidance on earnings estimates. Nothing we say today should be interpreted as an earnings guidance. The scrap recycling industry is highly cyclical and commodity metal prices regularly fluctuate widely. We have consistently stated that earnings estimates could prove to be unreliable because of the unpredictability and potential magnitude of commodity price swings and the related effect on scrap volume shipments.
+
+Now moving on to our business outlook; starting with ferrous; although ferrous sales is expected to remain stable through year-end, ferrous scrap metal prices have experienced unprecedented price volatility off late. This instability renders it ever more difficult to provide even short-term price and demand outlook although the company is on track to exceed 0.5 million tons, gross tons of ferrous shipments in the year 2012.
+The fourth quarter is typically the slowest quarter for ferrous product demand. We expect this trend to remain intact although pricing and indicators for November and December appear very favorable at this point.
+On our non-ferrous, including our aluminum de-ox products, we anticipate that non-ferrous unit shipments will follow the lower seasonal trends associated with typical fourth quarter activity, but we expect record annual non-ferrous shipments of approximately 160 million pounds, which will significantly surpass that of 2011.
+Three non-ferrous metals that we track, aluminum, copper and nickel are expected to trade at the low end of this year’s price band due to the sluggish domestic and foreign industrial demand, but may experience a seasonal rebound beginning next year as supplies are impacted by winter weather.
+If monetary easing continues or inflationary pressures accelerate, base metal prices could experience some strength.
+On the PGM side, third quarter PGM pricing was volatile and recent downward pressure is expected to continue through year end. This restricts units available in the marketplace and competition for those units in the Northeast is easing, while buying prices and competition remain very high in the Southern part of the country.
+Minor Metals, during the quarter, Minor Metals principally molybdenum, experienced pricing weakness although many in the industry feel a price floor has been established. Aerospace demand was weaker early in the quarter but has rebounded of late.
+Finally, on Lead Fabricating, higher selling prices and product mix, and a continued focus on productivity continue to support improved results as compared to 2011. We’re encouraged by new business quoting activity for both near and longer-term business prospects.
+Earlier in this quarter we announced plans to explore strategic alternatives for the Lead Fabricating segment, including a possible sale. We have retained DA Davidson & Company to assist us in our evaluation.
+It would be premature however to speculate on the final outcome at this time. At this time, our financial advisor has begun to contact potential interested parties and we’ll see how the process goes.
+As frustrating as the third quarter was, we’ve gotten past the worst of it and we think we’re positioned for a rebound. We are determined to further strengthen and expand the Scrap Metal Recycling business, which will enhance our competitiveness.
+I want to thank our customers and suppliers for their support. I also want to thank our management team and our employees for all their hard work and for their ongoing commitment to the company. And I thank all of our shareholders, for your investment and continued interest in Metalico, particularly as we continue to navigate through these very challenging times.
+And with that, this concludes our prepared remarks. So operator, we’d like to open up the call for any questions you might have.
+Question-and-Answer Session
+
+Operator
+Thank you. (Operator Instructions) We have a question on line from Brent Thielman from D.A. Davidson. Please go ahead.
+Karen – DA Davidson
+Good morning, gentlemen. This is Karen filling in Brent this morning.
+Carlos Agüero
+Good morning.
+Karen – DA Davidson
+Good morning. We are happy to see that you guys decided to work with Davidson, to explore other alternatives for your Lead Fab segment, but I was just wondering if you could provide any further color on that and talk about like timeframe?
+
+Mike Drury
+Sure. This is Mike Drury. The process is well under way. The offering memorandum is finished, prospective interested parties are being contacted. Obviously the results that the Lead segment had posted for the last couple of years, and this year in particular, should bode well for thinking folks interest. But, again, as we said in the past, we’re looking to get what we feel is real value added without that realization, we’ll continue to operate the segment. So, at this point we’re in the process of going through the, I guess, the steps that are necessary to determine whether or not there will be a transaction.
+Karen – DA Davidson
+Okay. Perfect. Thank you. And then I know you mentioned that impact from Hurricane Sandy was minimum, but could you – were there any implications for the PGM business?
+Mike Drury
+As, I think, Carlos mentioned, we just regained power in Elizabeth yesterday, but pre-yesterday we were buying, I won’t say as normal, because it’s a little more difficult when you don’t have full power. But we were buying and processing material including converters with the use of some back up generating capacity that we have. So, were we impacted? Yes. Are we back online today? Yes. And I doubt there will be much of an impact in the quarter from Hurricane Sandy.
+Karen – DA Davidson
+Okay. And then we’re seeing continued cost reduction efforts. And I was just wondering if you could provide us any detail and what to expect for SG&A levels in Q4 and in 2013?
+Carlos Agüero
+We are – we continue to work in the area of reducing our SG&A cost, consolidating where we can, and reviewing also operational expenses, not just SG&A. Very difficult to give you a prediction on the number, but is an area that is of continued interest to us and focus, and we expect there will be additional reductions during the quarter as well as into the year. But, to give you a precise number at this time would be difficult.
+Karen – DA Davidson
+Okay. Perfect. And then lastly, if you had any update on the Buffalo shredder. How much did they contribute to the ferrous volumes this quarter and any update for Q4 and 2013?
+Carlos Agüero
+It continues to ramp up. As we have said on the last few calls, sourcing material for the business and particularly for shredders is a very competitive profit today. We are probably operating at about 60% of the – maybe 65% of the capacity that we feel is the appropriate one for that shredder. We did about between 17,000 and 18,000 tons of shipments for the quarter, which is certainly less than we would expect.
+Over the next few months, we expect to tighten up on our sourcing efforts and be able to increase that to a more optimal level, where we can get up to our initial goal of about 10,000 tons per months that’s – for that 10,000 tons of shipments per months. That’s our initial goal. Once we reach that and we’ll set the bar a little bit higher. But that’s our goal for this time.
+Karen – DA Davidson
+Thank you.
+Carlos Agüero
+You’re welcome.
+Operator
+(Operator Instructions). We have a question on line from Victor Simonte from Hudson Bay Capital. Please go ahead.
+Victor Simonte – Hudson Bay Capital
+Good morning.
+Carlos Agüero
+Good morning.
+Victor Simonte – Hudson Bay Capital
+Just a few questions. You mentioned there was a covenant issue and then you worked it out. What was the issue and how was it worked out?
+Mike Drury
+Hi, Victor, I’m Mike Drury. It was a covenant compliance issue. We worked it out by lending facility. The amendment was done in a very timely fashion and I would say with great cooperation from all the participating banks.
+Victor Simonte – Hudson Bay Capital
+Is that kind of – or is the amendment going to be posted in 8-K?
+Mike Drury
+It’s in the Q.
+Victor Simonte – Hudson Bay Capital
+It will be in the Q? Okay.
+
+Mike Drury
+It will be in the Q.
+Victor Simonte – Hudson Bay Capital
+Thanks, guys. Great.
+Operator
+Thank you. We have a question on line from Jack Thompson who is a private investor. Please go ahead.
+Jack Thompson – Private Investor
+Good morning, everyone. How are you?
+Carlos Agüero
+Good. Good morning.
+Mike Drury
+Hi, Jack.
+Jack Thompson – Private Investor
+First, I want to express my extreme disappointment with the company’s performance this past quarter. I’ve been a long-term stockholder. The question I have is regarding so-called resignation of Mueller, is that position going to be – are you seeking a replacement for that position or is Mr. Drury going to handle those responsibilities?
+Carlos Agüero
+At the current time, our goal is to reallocate all of Mr. Mueller’s responsibilities to the existing management team. It will fall on Mr. Drury and myself and others in the senior management team here in Cranford. But for the time being we don’t expect to have a replacement.
+Jack Thompson – Private Investor
+Okay. So that will be saving the company his salary and compensation for the upcoming – for the near future, correct?
+Carlos Agüero
+That is correct.
+Jack Thompson – Private Investor
+Okay. Thank you.
+Carlos Agüero
+You are welcome.
+Operator
+At this time I show no further questions.
+Carlos Agüero
+Richard, we will wait about 60 seconds and see if any other questions show up, if none do then we’ll conclude the call.
+Operator
+Mr. Carlos we have Robert Litterman, Private Investor, on line with a question. Please go ahead.
+Robert Litterman – Private Investor
+Hi, good morning gentlemen. Couple of quick questions. One, just for the shredder, with the impact of Hurricane Sandy, basically making a lot vehicles available for recycling, do you have a special effort to try to grab a bigger share of that market?
+Carlos Agüero
+Well most of the vehicles that are available are on the extreme East Coast of the country. And all of shredding operations are really too far away from this area to be able to benefit from it. There is always going to be some flow related to it but I wouldn’t deem it significant since it’s mostly related to New Jersey, Pennsylvania, Delaware et cetera. So we are probably – by truck to get that material over to our shredders is no less than six to eight hours away. So it’s just not economic to be able to shift them that far. They will likely just benefit the other companies that operate on New Jersey coast.
+Mike Drury
+Hey, Rob, it’s Mike Drury. We do expect to see an increase in scrap flow of all grades through our Elizabeth facility. So, unfortunately or fortunately that is the benefit of the storm and we will participate again in Elizabeth (inaudible).
+Carlos Agüero
+One example would be as those cars gets scraped, you’ll see an increase flow of converters, batteries, radiators, aluminum wheels, things like that, those things we can participate in but not the actual car work itself.
+Robert Litterman – Private Investor
+Okay. Thank you. The other question, this $12 million non-cash impairment of intangible assets in the company’s platinum group, could you add a little color to that? Are you – did you have inventory that you’re writing down because prices shrank or did you have some kind of intangibles build up that relates to having (inaudible) past, if you don’t think it’s worth would you pay for it?
+Kevin Whalen
+Yeah, this is Kevin Whalen. The impairments related to the fair value of the reporting units and it’s measured on a discounted cash flow basis. So when we look at our discounted cash flows, we come up with a value (inaudible) to those units. And if it supports all of the goodwill, there is no write-off. In this case, the discounted value of the cash flows, came at some value less than what we were carrying and the difference was the actual amount that we wrote-off.
+
+Mike Drury
+But to be clear, Robert, these were non-cash, non-physical assets write-offs.
+Carlos Agüero
+And it did relate to the original acquisition of the business, not to any subsequent investment, cash investment beyond the original.
+Robert Litterman – Private Investor
+All right. Okay. I understand what you’re (inaudible). So that means if it’s back right now but if that volume picks up in the future, it’s basically although you probably won’t win.
+Carlos Agüero
+Really, once you write something off like that accounting principles don’t allow you to put it back on.
+Robert Litterman – Private Investor
+Right, right, right. You’re going to have to look future value of the company, if it comes back. All right. Thank you very much gentlemen.
+Carlos Agüero
+All right. You’re welcome.
+Operator
+(Operator Instructions) Our next question on line comes from Saurabh Kapadia from Corre Partners. Please go ahead. Mr. Kapadia, your line is open.
+Saurabh Kapadia – Corre Partners
+Hi, guys. I had a question about the $1.5 million pre-tax book-to-physical adjustment for ferrous inventory. Can you give a little more detail on that? And maybe why you guys don’t add it back I think to the adjusted EBITDA number?
+Mike Drury
+Well, I guess, we haven’t – to just start at the back end first, we didn’t look at adding it back to the adjusted EBITDA number, but the write-off was related to the book to actual inventory. The Buffalo facility had, over the last year or so, experienced an increased in inventory, primarily related to building up feedstock for the shredder when it opened earlier this year. As we drew down the inventory, it became apparent that there had been a shrinkage in the inventory. And the shrinkage was related to a combination of probably best and acceptance of non-grade, non-spec material into the yard.
+There have been – there was an issue in the Buffalo facility. Individuals have been prosecuted or will be prosecuted. We are extremely confident that the entire losses reflected through September 30 and there will be no additional impacts to our financial statements.
+Saurabh Kapadia – Corre Partners
+Great. Thank you, guys.
+Carlos Agüero
+You are welcome.
+Operator
+(Operator Instructions) At this time I’m showing no further questions.
+Carlos Agüero
+Okay. Hopefully we’ve answered everyone’s questions. So I want to conclude the call. I want to say thank you to everyone for joining in our call today and for your continued interest in Metalico’s results and developments. Now we look forward to speaking with you once again in March of 2013 when we present our fourth quarter and year-end results. Until then, thank you for your participation and be well. Have a good day.
+Operator
+Thank you. Ladies and gentlemen, this concludes today’s conference. Thank you for participating. You may now disconnect.

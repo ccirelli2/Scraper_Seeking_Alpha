@@ -1,0 +1,123 @@
+StemCells, Inc. (STEM) Q3 2012 Earnings Call November  8, 2012  4:30 PM ET
+Executives
+Martin McGlynn – President & CEO
+Rodney Young – CFO
+
+Analysts
+
+Stephen Dunn – LifeTech Capital
+
+
+Operator
+Good day ladies and gentlemen and welcome to the Q3 2012 StemCells, Inc. Earnings Conference Call. My name is Coby and I will be your operator for today. At this time, all participants are in a listen-only mode. We will conduct a question-and-answer session towards the end of this conference. (Operator Instructions).
+I would now like to turn the call over to Mr. Martin McGlynn, President and Chief Executive Officer. Please proceed sir.
+Martin McGlynn
+Thank you, Coby. Welcome everybody and thank you for joining us today. So on our call today, Rodney Young, our Chief Financial Officer and I will deliver some prepared remarks. Rodney’s remarks will include a discussion on the financial results for the third quarter of this year; I will follow up with a discussion of some of the exciting activities going on at company. And then, we’ll open the lines for question-and-answer period.
+So to begin, I’d like to hand over to Rodney Young, our Chief Financial Officer.
+Rodney Young
+Thank you, Martin. Before we proceed, I would like to remind everyone that again, during today\'s call, we will be making some forward-looking statements, which reflect our current views and are based upon certain assumptions that may or may not ultimately prove valid. We assume no obligation to update these statements anytime in the future and the company\'s actual results may differ materially from anything projected during today’s call due to risks and uncertainties to which we are subject. These risks and uncertainties are described in our public filings with the SEC and at the end of today’s press release which you are encouraged to consult.
+So to the numbers. In the third quarter, we continue to make good progress in our clinical development efforts, while keeping tight control of our expenses and cash burn. Importantly, we strengthened our balance sheet giving us additional capital to pursue our clinical development objectives. Our highlights for the quarter include revenue from our SC Proven product business up 11% year-over-year, operating expenses continue to trend down. They were down 17% year-over-year. Cash used in operations was $4.2 million for the quarter on just under 15 million for the nine months. So that puts us on track to hit our anticipated 2012 cash burn rate which is in the range of $18 to $20 million.
+Pro forma, our cash balance at the end of the quarter was $27.4 million. This includes 5.6 million from warrant exercises and sale of shares subsequent to the end of the quarter. As you know, during the quarter, the California institute for regenerative medicine or CIRM approved two disease team awards for up to $20 million.
+So give you a little bit of color about the numbers starting with the top line. Our revenue from product sales increased 11% to $203,000 in the quarter so that\'s up 11% compared to Q3, 2011. For the nine months period, the product revenues were up 33% which is very encouraging for the SC Proven business given that that comes on top of 57% sales growth in 2011.
+Moreover the growth in our SC Proven business is primarily being driven by higher unit volumes rather than price increases. So we expect continued growth in our SC Proven business via the combination of increased unit sales of existing products and the launch of the number of new products including several of which we just launched a couple of weeks ago.
+On the expense side, our total operating expenses declined 17% to $5.3 million in Q3 of 2012 compared to 6.3 million in last year 2011. R&D expenses were 23% lower and SG&A expenses were 6% lower. These numbers reflect the actions we\'ve taken over the past couple of years to reduce our cash burn and our continued focus on cost control and on doing more with less.
+
+Overall then our loss from operations declined 18%. We reported $5.1 million loss from operations in the third quarter compared to 6.2 million in Q3 of last year. This quarter, we reported $11.3 million in other expenses net. This is almost entirely due to a non-cash expense to reflect the increase in the fair value of our warrant liability. As you know, under GAAP accounting, warrant liability accounting, increases and decreases in the warrant liability are pass through the income statement as expense or income. And since our share price at the end of the third quarter was higher than at the end of the second quarter, our warrant liability increased which led to this noncash expense.
+So as a result, when you report the bottom line, we reported the net loss of $0.54 per share or an aggregate of $16.3 million for the third quarter and again the expense related to the warrant liability accounted for about $0.37 per share.
+On a cash flow basis, cash used in operating activities was 4.2 million in third quarter and 14.9 million for the nine months. So again, we’re on track to hit our target cash burn rate of about t $18 to $20 million for this year.
+Turning to the balance sheet. This quarter we further strengthened our financial position. Our cash balance as I said, as of September 30th was 27.4 million on a pro forma basis and again, that includes $5.6 million in net proceeds that we received subsequent to the end of the quarter and that was from the exercise of warrants and the sale of shares.
+Lastly as I mentioned, CIRM approved two separate $20 million awards to help fund our efforts in developing our HuCNS-SC cells. The first award was for cervical spinal cord injury and the second one was Alzheimer’s disease. The goal of these awards is to fund preclinical development and IND enabling activities needed to file INDs for both indications within four years. We and the CIRM are currently in a confidential negotiations to work out terms and conditions of the award.
+With that, I\'ll turn the call back over to Martin.
+Martin McGlynn
+Well thanks Rodney. Obviously another very successful quarter for the company. I’d like to direct my remarks to our translational efforts and progress to date. Last month we finally published two papers demonstrating the therapeutic potential of our human CNS stem cells for the range of myelination disorders. The papers were published simultaneously in the October 10th issue of Science Translational Medicine which is a peer review journal of the American Academy of Science.
+I am told that this is indeed a very rare occurrence to be able to see simultaneously the preclinical data that provided rationale for a clinical trial alongside the actual results of that trial. But also a wonderful example of what can be done when scientists, clinicians and companies work together as a cohesive team.
+The first paper summarized the preclinical data showing that transplanting our human neural stem cells in to the (inaudible) mouse which is a widely use model of myelin deficiency results in new functional human myelin. Sophisticated techniques were used to confirm the changes measured by magnetic resonance images or MRIs were in fact derived from new human myelin generated by the transplanted human neural stem cells. The demonstration that myelin was functioning as it was supposed to was in itself encouraging and helped provide the rationale for a clinical study in PMD but equally important was that the results gave cadence to the use of such analytical techniques to detect and evaluate the degree of myelin and our PMD trial.
+The results of our Phase I trial and PMD completed earlier this year were summarized in the second paper. But before I summarize the key findings of the trial, I would like to borrow a quote from Dr. Nalin Gupta, who is the lead author of the article and a neurosurgeon at the University of California, San Francisco which in my opinion really captures the essence of this devastating disease. He states, you wouldn’t expect lumber to assemble itself into a house, yet neurons in a newborn baby\'s brain perform a similar feat with the help of myelin-producing cells called oligodendrocytes. Most infants are born with very little myelin and develop it over time. In children with early-onset Pelizaeus-Merzbacher disease, or PMD, a genetic mutation prevents oligodendrocytes from producing myelin, causing electrical signals to die out before they reach their destinations. This results in serious developmental setbacks, such as the inability to talk, to walk, or breathe independently, and ultimately causes premature death. I think this is a very stark description of what’s clearly is a devastating disease.
+
+So now let me summarize the results of the trial. Number one, following transplantation of ourselves, the MRI showed evidence of progressive and durable novo myelination in all four patients transplanted with the cells.
+Secondly, there were measurable gains in neurological function in three of the four patients were transplanted. Of the fourth patient remained clinically stable. So given what we know about the natural history of the disease, these are very encouraging results and provide the first demonstration of the measurable biological effect of our cells in humans.
+So the question now is, where do we go from here? We have filed the clinical study report, the CSR with the FDA. And have begun the process of determining what are controlled Phase II study would look like? We’re thinking about among other things in consultation with experts in the field such critical factors as how many patients we would seek to enroll, how to incorporate a control and what we would seek to measure and how. And once we have answers to these critical important questions, we will meet with the FDA to review our intended protocol design. In terms of timing, we expect that to occur sometime early next year.
+Moving on to our spinal cord injury program, in September, Dr. Armin Curt, the principal investigator of our Phase I(2) chronic spinal cord injury trial which is underway in Zurich Switzerland, presented six month data for the first patient cohort, at the 51st International Spinal Cord Society meeting in London. Patients in the first cohort present with the most severe type of spinal cord injury in which there is no neurological function, meaning no motor function and no sensory function below the level of the injury.
+These are so called complete injuries or classified as Asia A injuries. This trial is firstly evaluating safety and Dr. Curt reported that the six month data showed that the cells to procedure and the immunosuppression were well tolerated. In addition however, Dr. Curt also reported that two of the three patients showed considerable gains in sensory function compared to their own pre-transplant baselines. Again, given the severity of the injuries and the natural history of this condition, these gains were unexpected and are very encouraging.
+We\'re continuing our efforts in Europe, Canada and the United States to enroll four patients into the Asia B cohort. Unlike the first cohort, the patients in this group will have some limited sensation and function below the level of injury. This condition is referred to as an incomplete injury. We dosed our first Asia B patient in September and we believe that this patient, a young Canadian man is the first patient with an incomplete injury to the spinal cord ever to be transplanted with neurostem cells.
+So I’d like to now wrap up my remarks with a brief update on our Alzheimer\'s and AMD programs and then turn it over Q&A. So in July, we present a preclinical data at the Alzheimer\'s association annual meeting in Vancouver, Canada. The data demonstrated that our cells restored memory in two animal models relevant to Alzheimer\'s disease. What is particularly striking about this data is that the results did not require reduction in beta amyloid or tau burn that are the hallmarks of AD pathology suggesting that our neural stem cells may represent a novel therapeutic approach to restoration of memory in this devastating disease.
+With regards to the AMD study in October, we enrolled and dosed the first patient in our Phase I(2) trial for dry age related macro generation and we’re working to add an additional site for this trial with the goal of accelerating patient accrual.
+So I’d like to now throw the conference over to the operator and we’ll take questions. Thank you.
+
+Question-and-Answer Session
+Operator
+(Operator Instructions). Your first question comes from the line of Stephen Dunn with LifeTech Capital. Please proceed.
+Stephen Dunn – LifeTech Capital
+I guess you did a very good background on the PMD publications last month by inviting the investors to watch that again up on YouTube through your website. So it was very, very good and it was extremely unusual to have both the animal data and the human data at the same time. A couple of some housekeeping questions here. On the proposed Phase II design, if you’re going to go with the control arm in there is it possible to use the results of that Phase II for registration? PMD is such an ultra-orphan indication?
+Martin McGlynn
+Steve to be quite honest with you, I don\'t have an answer to that question. The orphan disease are in the ultra-orphan disease area are very, very hot topics right now. And both Congress and the agency have indicated a very definite willingness to do anything that they can to accelerate potentially excitement treatments into the client. But when we do engage in our discussions with the FDA, this of course will be an important point of discussion for us and the pathway to registration.
+Stephen Dunn – LifeTech Capital
+
+And I’d like to follow-up on the ultra-orphan indication, my next question. We saw in Europe Glybera, which is a gene therapy enzyme replacement drug for another ultra-orphan indication familial hypercholesterolemia, is going to propose to sell for $1.6 million per patient because it’s once in a lifetime treatment. I in the past have continued to model that as a pricing strategy forced StemCells Inc. in ultra-orphan indication of PMD and if you have a once-in-a-lifetime injection for dry AMD, the value could rack up pretty quickly as well. Do you think there is parallel in such a high pricing per patient if it cures gene therapy versus your stem cell therapy?
+Martin McGlynn
+Thanks for bringing that up. I mean obviously we took careful note of that development. Obviously genetherapy has been knocking on the door for quite a while and this is a very significant development in Europe and it does provide all kinds of folks an interest in this field with ways and means to start thinking about how payers and sponsors might approach the whole question of payment and reimbursement and value capturing. The notion of a one-time intervention with an endurable clinical benefit for the life of the patient is one of the intriguing prospects for our human neural stem cell technologies.
+So the question of course does arise, how are you going to price something like that assuming you come out of the clinic with good clinical data supporting that claim. And the idea of a single payment of those orders of magnitude certainly gets everybody’s attention. There are discussions and there are different models to approach this including mechanisms whereby there is a specific reimbursement amount that is agreed upon which is set aside by the payer and which can have a revenue stream over multiple years as long as the patient is being treated by the medication. And so, this particular development and the particular details of the reimbursement mechanism certainly would have some parallels for how one would have to start thinking about dosing and transferring a therapeutic that was stem cell in nature with it an enduring benefit and a one-time intervention. So it very definitely would have some parallels.
+Stephen Dunn – LifeTech Capital
+
+Yes, I think they are currently talking about payment over five years. Just two more quick questions, any color on your strategy to exploit the CIRM awards and a little color on biomedical, your recent partnership with them in the IPS, a Proven tool space?
+
+Martin McGlynn
+
+Could you be more specific with regard to your question on the CIRM funding?
+
+
+Stephen Dunn – LifeTech Capital
+
+Certainly, both are structured as forgivable loans. I guess the mechanism to use them requires some commitment on StemCell’s part financially. What are your thoughts on using that CIRM award both in cervical spinal cord and Alzheimer\'s?
+
+Martin McGlynn
+
+Well the funding that would come from CIRM once all of their terms and conditions have been ironed and agreed to by both parties, would come in the form of the product backed loan and so these funds would be made available to StemCells Inc. to further the objectives of the awards and in both cases, these would be to fund the company’s activities designed to successfully deliver the endpoint which would be an IND filing within four years of the commencement of funding. So you might consider it as a funding provision that could be accessed by the company at certain intervals of time.
+
+Stephen Dunn – LifeTech Capital
+
+I guess that\'s kind of my question, since the matching loan, or maybe this is more of a Rodney question, what kind of outlays do we look for, going into 2013, for each of those two indications?
+Martin McGlynn
+So quite honestly I think it’s premature for us to start talking about that kind of subject matter. At this stage we’re focused on completing our discussions with the California Institute of Regenerative Medicine with regards to the terms and conditions of the loans, how the money would be accessed, what the final budgets might look like. So it’s premature to start talking about impact on burn and so on and so forth.
+Stephen Dunn – LifeTech Capital
+But you intend to pursue both those projects?
+Martin McGlynn
+We’re currently in negotiations with CIRM to iron out the terms and conditions that would apply to the provision of those monies to the company.
+Stephen Dunn – LifeTech Capital
+And the final was the Biomedical IP, I guess it looks like they are going to be doing more work for you in the SC Proven line?
+Martin McGlynn
+Right, right. So R Biomedical which is located in Edinburgh, Scotland are focusing on the development of enabling cells and cell culture media for the hold IPS sale. We have entered into a collaborative endeavor with R Biomedical to develop cells and reagents that could be used to enable researchers who are developing cells and assays for the IPS sale.
+
+Operator
+
+Your next question comes from the line of (inaudible) Capital. Please proceed.
+Unidentified Analyst
+Marty, you mentioned perhaps bringing up a second site for the AMD study. How long do you think that might take to have them in a position to begin screening enrolling patients?
+
+Martin McGlynn
+Well we’re currently engaged in discussions with a couple of sites specifically. We’re at the stage where we’re engaged with the internal IRBs. So our discussions are quite advanced.
+Unidentified Analyst
+With respect to that study, is there any specific inclusion criteria that is making it more difficult to find the appropriate patients/
+Martin McGlynn
+Well the paradigm with stem cell trials, currently at least is that you have to start off pretty much in the worst of the worst and then move your way, move along into the less severely impact. The patients that we’re seeking to enroll for all intents and purposes are legally blind. So they are very severely impacted and once we get up and running and through that first cohort, we anticipate that the enrollment will accelerate, not just because of potential addition of an additional site, just because of the prevalence of the patients and the particular state of their condition.
+Unidentified Analyst
+Okay, great. And then when we think about your initiatives in Alzheimer’s what other preclinical study do you need to do and how should we think about timing of when you might be in a position to go to humans with that?
+
+Martin McGlynn
+The objective of the funding, the CIRM funding is that we would file an IND within four years of commencement after funding. So in terms of preclinical data, for the most part the work that we will do will be confirmatory and we will be doing studies that meet GLP requirements that are laid down under the rags in order to file an IND. The proof of principal has been established in the two animal models that have been described as triple transgenic and the (inaudible) so it will be mostly confirmatory and under GLP rules if you will.
+Unidentified Analyst
+Okay, and then finally with the spinal cord study. You had the publication of the interim results of the first cohort. How is that helping you in any way recruiting the Asia B patients? I realize that there are fewer of them, but in terms of interests and screening potential candidates, how is that looking now as opposed to before those results were presented?
+Martin McGlynn
+I think we prefer to say that we have seen an uptick in the number and the level of interest in patients who want to present themselves as possible candidates for the trial. But you rightly stated Kay that the Bs are not as prevalent as the As, there are less of them. and the challenge of course is to find patients in that cohort who meet all of the enrollment criteria. So while they might have the clinical fingerprint if you will of an Asia B patient there may be other limiting factors that might disqualify them from enrollment in our particular trial including that they may have participated in another trials, in another experiment treatments etcetera, just to name one.
+Operator
+Your next question comes from the line of Joe Pantginis with Roth Capital Partners.
+Unidentified Analyst
+This is (inaudible) for Joe. Thank you for taking the question. Actually most of my questions have been answered but I do have a question. Can you please summarize in terms of the upcoming data stream from the spinal cord injury trial, what should we expect and also with regards to follow up from the first Asia cohort. Thank you.
+Martin McGlynn
+So the patients who were enrolled in the Asia cohort will complete the study by December next month and we will be reporting out that data as soon as it becomes available. So we will be looking for that early next year. with regards to the Asia B cohort, that\'s going to be a function of how quickly we enroll the patients but the first patient was only enrolled last month and in the past what we have done, we have reported that on the six month data. So you’re looking at four months into next year before we be in a position to start looking at that data in the Asia B program. That would be earliest.
+Operator
+At this time, there are no further questions in the Q&A session.
+Martin McGlynn
+Well thank you very much everybody for taking the time to join us today. Appreciate your continued interest and the exciting activities going on here at the company and we look forward to talking to you again early next year when we we’ll be reporting on our fourth quarter results and on the results for fiscal year 2012. Thank you very much.
+Operator
+Thank you for your participation in today\'s conference. This concludes the presentation. You may now disconnect. Good day.

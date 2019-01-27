@@ -1,0 +1,246 @@
+Cox Radio, Inc. (CXR)
+Q1 2006 Earnings Conference Call
+May 3, 2006, 11:00 a.m. EST
+Executives
+Robert Neil - President & CEO 
+Neil Johnson - CFO 
+Analysts
+Victor Miller - Bear Stearns 
+Jonathan Jacoby - Banc of America Securities 
+Marci Ryvicker - Wachovia Securities 
+Eileen Furukawa - Citigroup 
+Laraine Mancini - Cox Radio, Inc. 
+Lee Westerfield - Harris Nesbitt 
+Anthony DiClemente - Lehman Brothers 
+John Kim - Credit Suisse 
+Jim Boyle - C L King & Associates 
+Tom Kerr - Reed Conner 
+Jim Goss - Barrington Research
+Operator
+Good morning. My name is Cynthia and I will be your conference facilitator today. At this time I would like to welcome everyone to the Cox Radio\'s first quarter 2006 earnings conference call. (Operator Instructions) 
+It is now my pleasure to turn the floor over to your host, Robert Neil. Sir, you may begin your conference.
+Robert Neil
+Thanks, operator, and good morning. Welcome to our first quarter 2006 earnings conference call. As always, I\'m joined today by Neil Johnston, our Chief Financial Officer. We\'ll start today\'s call by reviewing our first quarter operating performance and then Neil will provide a financial overview. As usual, we\'ll then be available to take your questions. Before we begin, let me remind you this morning\'s call will contain forward-looking statements that are subject to risks and uncertainties that could cause the actual results to differ. Please refer to our recent 10-K filing for the list of risks and uncertainties that could impact the actual results.
+Our first quarter performance demonstrates our ability to deliver consistent, favorable results. I\'m pleased with our team\'s performance in the quarter. A year ago, when our revenues were up 6% in the first quarter, we knew that comparisons this year would be difficult. 
+However, this quarter we were still able to grow station operating income by 3% and free cash flow by 4%. This highlights the strength of our business model and our success at generating free cash flow. 
+We effectively managed our business for the benefit of our shareholders, keeping our expenses down, while still investing in our station brands and spending a significant amount of marketing dollars to launch a new station in Atlanta, WSRV-FM, The River, which I\'ll update you on a little later. 
+During the quarter we grew our station operating income margin from 37.7% to 39%, and our net income by 2%. In addition, we bought back $13 million of our stock, while maintaining our leverage ratio at 2.5 times. I think you\'ll agree that we did a great job operationally, while still maintaining our financial flexibility.
+During the quarter, our strongest advertising categories were financial, health care, education, entertainment, and utilities. However, on the downside, we saw a continued weakness in media, department stores, grocery stores, and telecom. Auto, our largest category, was down 13%. 
+Looking specifically at our market performance for the quarter, nine of our 18 markets experienced growth during the quarter, led by our station clusters in Miami, Orlando, Tampa, Greenville, Honolulu, and Stamford-Norwalk. Weaker markets included Birmingham, Richmond, Long Island, and Jacksonville. 
+In Atlanta, our revenues were down 4%. However, this was due to the reformatting of The River which went commercial-free in January, and had very little revenue in quarter one as a startup, and no revenue from the Atlanta Hawks basketball this year, because we gave up those rights because it was unprofitable. All in all, if you take those two things out, both Atlanta and Company-wide revenues for the quarter would have been roughly flat. So far we have just a few rating books in, but they present a good story for Cox Radio on Long Island. Both of our stations were up 25 to 54 with WBAB up 21% from the fall and up versus last winter, as well. In Houston, three of our four stations were up 25 to 54. In Tampa, we had another solid rating book. And in Miami, three of the four were up 25 to 54, including WHQT, which had a record 9.2 share of adults 25 to 54, making it number one with a 21% advantage over the number two station. 
+
+Our AC station, WFLC also had an excellent book, ranking number one in  25 to 54, and in this market, Cox has three of the top six stations, 25 to 54. Finally, to Atlanta, where we launched The River on January 1, and we saw the most dramatic start-up in at least 20 years in that market, as the station debuted with a 6.6 share of adults 25 to 54, ranking it third in the market. The classic hit station grew its audience in all three phases of the rating book, and it didn\'t hurt our AC station, B98, which grew its share 25 to 54, winter over winter. All in all, very proud of our Atlanta team on this startup, and these ratings for River will have a major positive impact on revenue in quarter three and beyond.
+Also, after conducting local research in southern Connecticut, we reformatted our oldies station there, WKHL, to a new format we call Coast, starting in March. The new format\'s adult contemporary play list was designed and developed by local listeners with songs from the \'60\'s through today and provides a higher than normal amount of local traffic, news, and event information, including local news every hour. Initial responses to this flip have been positive. Although we\'ve seen no rating information on it, we would expect to see some good performance in the spring book when it\'s released. 
+During the first quarter, we announced our participation in the Smart cell phone meter test in Houston. While this is in its experimental stage, we believe it represents an excellent opportunity to test new audience measurement devices that could potentially, in the long term, provide us and our advertisers with new electronic technology to measure our listener base. While I cannot predict the outcome of these tests, optimistic about the initial steps taken to develop a new measurement device, and we\'ll keep you abreast of any developments. 
+Our industry as a whole is committed to electronic measurement. Specifically, the right kind of electronic measurement. Our participation along with many other radio companies in the recent RFP process signals our willingness to move forward quickly with an accurate and affordable system.
+On the HD radio front, last week we announced the launch of seven new HD sub-channels in Atlanta and Tampa. With the launch of these new channels, Cox has officially entered the new age of digital radio. We\'ll aggressively test these platforms, with the goal of further developing the product to best the position for Cox Radio and digital marketplace. While the HD rollout will take a while, I\'m pleased with our progress and remain optimistic about the opportunities that we have on the horizon for our stations with HD.
+In conclusion, a strong first quarter performance, delivering solid free cash flow growth and we successfully launched two new radio stations in Atlanta and southern Connecticut and began broadcasting our HD two subs in Atlanta and Tampa. With our solid local brands, internet distribution platform and the new opportunities presented by digital radio, we remain excited about our business model. With that I\'ll turn it over to Neil.
+Neil Johnston
+Thanks, Bob. Good morning, everyone. Before I begin, let me point out that in accordance with SEC Regulation G, we have provided full reconciliations of all non-GAAP financial measures in our earnings release. These reconciliations include station operating income to net income and free cash flow to net income. These are the most comparable GAAP measures. 
+For the first quarter revenues decreased 1% to $97.6 million. Local revenues were down 3%, while national revenues were up 3%. As Bob noted, our strongest markets for the quarter were Miami, Orlando, Tampa, Greenville, Honolulu, and Stamford-Norwalk. 
+A bright spot on the revenue front was our internet revenues, which were up 36% over prior year. Operating expenses for the quarter, which includes operating and selling and administrative expenses, decreased 3.2% for the quarter to $59.5 million. The lower level of expenses relates primarily to savings and programming costs, including the Hawks in Atlanta and Lexintary in Jacksonville. 
+
+Station operating income for the quarter increased 2.6%, as margins improved from 37.7% to 39%. We generated approximately $19.1 million in free cash flow in the first quarter. That equates to $0.19 per share, $0.01 ahead of last year\'s first quarter, or up 6%.
+Interest expense for the first quarter decreased 15.5% to $6.2 million, attributable to lower overall outstanding debt. Our leverage ratio at the end of the quarter was 2.5 times. 
+Our effective tax rate for the first quarter was 39.9%, consisting of a current effective rate of 25.5% and a deferred effective rate of 14.3%. 
+Net income for the quarter was $14 million or $0.14 per share, and capital expenditures for the first quarter were $2.2 million. In accordance with our board-approved $100 million share repurchase program announced in August, 2005 as of March 31, 2006, we\'ve repurchased 3.7 million shares with an aggregate purchase of $53 million. 
+For next quarter and the full year, we expect station operating expense growth in the low to mid-single digits, depending on how the revenue picture shapes up. Corporate G&A expense will be approximately $20 million for the year. 
+Interest expense for the year is still expected to be around $26 million, and our effective tax rate will be around 40%, 28% current and 12% deferred. Capital expenditures for the full year will be approximately $12 million, as we continue to rollout HD radio. Regarding the adoption of FAS 123(NYSE:R), we still expect total non-cash compensation expense to be approximately $8 million for the full year.
+That concludes the financial overview. At this point, Bob and I\'d be happy to take any questions. 
+Question-and-Answer Period
+Operator
+(Operator Instructions) Your first question comes from Victor Miller of Bear Stearns.
+Victor Miller - Bear Stearns
+Good morning. One for Neil and two for Bob. Quickly, Neil, what was the one quarter revenue expense impact of the Hawks, and what was the 2005 loss that you had on the Hawks? 
+Bob, southeast-southwest markets are 85% of your revenue. Those markets seem to be doing, on a relative basis, pretty well. Could you characterize how they are in second quarter? 
+Lastly, you have 35.4 million shares of float. You already repurchased 9% of your float for $53 million. If you bought all the stock at a 15% premium, you\'d be levered under six times by year end. You have only bought $7 million worth of assets during the last four years. Is it time to just use this as an opportunity to buy yourselves in? Thanks.
+Robert Neil
+While Neil\'s looking up the financial numbers, I\'ll try to do the best I can on those two questions, Victor. Southeast and southwest stations, the markets have generally been better, quite a bit better, than the northeast. 
+I know many of you are aware that particularly New York\'s revenue was not very exciting in the first quarter, and that spills over for us to Connecticut and Long Island, as well. Generally, in markets where you\'re seeing a stronger economy, Florida, for example, Texas, the economy has generally been stronger. But again, as you move around not all of the southeast markets quite fit that profile and not all of the southwest markets fit it either. It really is, as I\'ve said several times on these calls, a dichotomy between markets. As we look at the market growth and just see, you know, what a roller coaster that is, some up, some down, and it continues to be that way.
+The best answer I can come up with for you on the second question is that this is an area that we\'re always doing some analysis on. We continue to look at it, continue to look at the best way to deploy the leverage that we have. It\'s something that we\'ll continue to look at. So that\'s about the best answer I think I can give you on that, unless I fall into the orange jumpsuit zone and I\'m not going to do that. 
+
+Neil Johnston
+Victor, on the Hawks, the Hawks actually went away in 2005. So, essentially, the first quarter was pretty much all of the expense and revenue that you would have seen in \'05 because it\'s a year-over-year comparison. The Hawks, essentially, for first quarter of \'05 had expenses of just over $1 million and revenues of approximately $0.5 million.
+Victor Miller - Bear Stearns
+What was the loss in \'05 on the Hawks?
+Neil Johnston
+The difference, probably $0.5 million.
+Victor Miller - Bear Stearns
+Loss for the year -- for the season?
+Neil Johnston
+Yes. Remember they only run through April, and then they go away. So, essentially, first quarter is very close to the full year.
+Victor Miller - Bear Stearns
+Okay, thanks.
+Operator
+Thank you. Your next question comes from Jonathan Jacoby from Banc of America Securities.
+Jonathan Jacoby - Banc of America Securities
+Two questions. If you could just give us a little color on how the second quarter has started? You did speak about increased marketing on the two new stations. Also in the release it says that there were some cost savings offset by marketing costs in the first quarter of \'06.  I\'m wondering, it sounds like overall marketing costs were down. Was there something special last year, or have you looked at trends and figured out ways sort of to create some savings?
+Robert Neil
+Jonathan, on the second-quarter pacing, it\'s bumpy at this point. April was down a bit, May looks better than that, and June it\'s a little early to tell. But it\'s been a little on the bumpy side. The same thing I said a couple of minutes ago, varies a bit from market to market. Still not really good news out of the northeast, as far as I can tell. We\'re going to be on a bumpy ride here in the second quarter. We expect our revenues, again, to be somewhere in the flattish to down slight mode. That\'s pretty much the way we\'ve been talking about it all along. Nothing\'s changed from that.
+On marketing costs, I\'m really not aware of anything that was specifically going on a year ago at this time. We have said in past calls we are looking at ways to run our business more efficiently. We\'re going to pull out the fire power when we need to. And when we launch a new radio station, particularly in a market with Atlanta, where we\'re going to use television to launch it, it\'s going to be a pretty costly thing to do. But when we need to do that, we certainly haven\'t shied away from it. 
+I think that we\'ve proven that we can launch these radio stations and do the things that we need to do and still deliver good operating results, and really not have to use that as a crutch. So, we just try to manage the business in a smart way, and I think that\'s what we did in the first quarter.
+Neil Johnston
+Jonathan, just to add to what Bob said, remember we always talk about the quarterly spread. The difference between first, second, third, and fourth. Generally the first quarter is not a big spend in terms of promotion. Really it\'s the second quarter when you will see that expense. So when you look at the guidance, guidance for second quarter on expenses is higher than first quarter.
+Jonathan Jacoby - Banc of America Securities
+Okay. And overall for the year? I apologize, you may have said that.
+Neil Johnston
+The full year remains the same as it was before, in the sort of mid to high single digits. And that\'s consistent with the second quarter, as well.
+Jonathan Jacoby - Banc of America Securities
+Okay. So some of this draft is also moving things around a little bit?
+Neil Johnston
+I\'m sorry. it\'s not mid to low. But low to mid --
+Jonathan Jacoby - Banc of America Securities
+Low to mid, okay. 
+Neil Johnston
+It\'s moving around, correct. That\'s a big difference there. You know, generally as we\'ve always said, 3% to 4% on the full year on expenses. You should see that in second quarter. You know, first quarter tends to always be a low expense quarter.
+
+Operator
+Our next question comes from Marci Ryvicker of Wachovia Securities.
+Marci Ryvicker - Wachovia Securities
+Thanks, two questions. The first is National was stronger than local in this quarter, which is very different than what happened in Q4, when national down 10% and local was only off 1%. Can you tell us what changed in Q1 from Q4 and what you\'re seeing in national going forward for Q2? 
+The second question is just where is internet revenue in the line items? Is that in the NTR line?
+Robert Neil
+I believe the internet revenue is in the NTR line.
+Neil Johnston
+Correct.
+Robert Neil
+Okay. So that answers that one. You know, we always get asked this question about national and local. I wish I could give you, you know, specific answers , but I can\'t. The way that we sell our inventory, we don\'t look at it the way you guys do. 
+We look at it based on pricing the inventory to the highest available bidder. If that highest available bidder in that quarter is national, then national tends to go up. If local is the highest bidder in that quarter, then local tends to go up. We don\'t set aside inventory for national. We don\'t do things like that. It\'s sell the inventory to whoever\'s willing to pay the most for it. So whoever\'s willing to do that can cause the numbers to fluctuate from quarter to quarter. For as long as I can remember, you know, they do, and we don\'t necessarily move in time with the way the industry is doing. So hopefully that explains it to you.
+The only thing that I can tell you in Q1 that would have been a fairly large revenue impact item is that television stations is one of the reasons why the media category was down. Due to the Olympics, television stations did not advertise for the February sweeps as they usually do. 
+What happens is the other local TV stations that were not NBC affiliates just kind of throw in the towel and really don\'t do anything in February. So there just was not any appreciable amount of advertising in February from the local affiliates. That could have certainly an impact on revenue. But it could also have some impact on that local to national mix.
+Operator
+Thank you. Our next question comes from Eileen Furukawa of Citigroup. 
+Eileen Furukawa - Citigroup
+I just wanted a clarification. You talk about this accelerated expense growth later in the year, in part due to timing. Where else is this expense growth coming from? Would you categorize it as increased programming spin more than you did last year and give a little color on that? 
+Historically you\'ve been opposed to trying to sell ads on a second-length basis. CCU stated on their call that they\'re seeing increased demand on shorter length ads, which now represents about one-third of the ads sold. So I\'m just wondering, have you seen advertisers asking for shorter ads, and if you did, would that make you rethink your strategy?
+Neil Johnston
+Eileen, I\'m going to begin with expenses. We are not seeing accelerated expense growth at all. We are just seeing normal changes in timing in expense growth. We\'re not seeing accelerated expense growth.
+Eileen Furukawa - Citigroup
+So the only reason that the back half is greater is because it\'s just timing for the first quarter?
+Neil Johnston
+Absolutely. You know, we use every promotional dollar as effectively as we can. The key books are the spring and fall books. Sometimes promotion will begin early; sometimes it\'ll begin late. You know, that\'s the problem with quarterly reporting, that it causes fluctuations between quarters, but overall, it really is mostly dependent on the revenue picture. 
+Our core expenses are remaining fairly flat or slightly up. So really it varies by revenues and it varies by when we spend the money.
+Eileen Furukawa - Citigroup
+Okay. Then on the shorter length ad?
+
+Robert Neil
+Well, I think the jury\'s really out on that whole concept. And unless I\'m mistaken in looking at the year-over-year numbers Clear Channel is still in the hole from where they were in the first quarter a year ago versus their growth this year. So I think the jury is out on whether or not that\'s a very successful concept. 
+We\'ve always believed, okay, and we still do believe that listeners count units, not minutes. They count commercial interruptions. So if you\'re running ten minutes of time but you decide you\'re going to split it all up and run 18 or 19 units, that\'s not necessarily a good thing from a listeners point of view. 
+We look at each unit that we have, and we say we\'re going to run a maximum number of units. If an advertiser wants to buy a 30-second commercial, we\'re willing to sell them the 30-second commercial at whatever our unit rate is at that time. I think there\'s a feeling that splitting up ad time results in some of the smaller incremental pieces of time as being nothing more than packaging units. So, to get someone to buy time, we\'ll throw in some fives or we\'ll throw in some 15\'s or whatever it is. From my point of view, I think the jury\'s out on it. And no, we just don\'t get a lot of requests from advertisers about it.
+Operator
+Our next question comes from Laraine Mancini from Merrill Lynch.
+Laraine Mancini - Merrill Lynch
+Two questions. You said that your internet revenue was in 36% and that that\'s in NTR line. But the NTR line\'s obviously bigger than that. So as a percent of your total business, how big is internet initiatives and other digital, and how big do you think they can get? Will we see type of growth pretty consistently until it gets there? 
+On the auto category, obviously it was weak overall. Was there any particular area of weakness? Is it mostly GM and are other guys making up for some of it, or is it broad based?
+Robert Neil
+On internet, Neil, correct me if I\'m wrong, but I think it\'s in the 1% to 2% range of total revenues. Is that right?
+Neil Johnston
+That\'s absolutely correct, Bob.
+Robert Neil
+Obviously, it\'s a very rapidly growing category. I mean, if you look at internet ad sales, not just for us but across the board, you\'re seeing continued growth anywhere 25% to 50%, depending. Now our pacing for internet for the year is very, very strong at this point. I can\'t give you a number on how big I think it can get. I think it\'s going to continue to grow at a much more rapid pace than traditional advertising growth. 
+It\'s just one more thing that we have to provide as a solution to advertisers. And you\'ve heard us say before that in essence, we look at our stations as brands and then we have more than one distribution platform. So if somebody wants to stream our stations to get access to that brand, we\'re excited about that. We\'re providing that to them. If we have advertisers that want to use that streaming audience, which is significant, to try to do some things in marketing, we can present that option to them. 
+We really don\'t know just how big it can get, but we really do believe in the concept that each one of these stations is a brand. Then we have our analog distribution platform over the air, we have the HD distribution platform, we have the sub channels, and then we have the internet. So we have a lot of different ways to deliver branding of the radio stations to the consumer.
+On the auto side it\'s again, pretty obvious. The weakness is coming from the domestics. And some of that is being made up by imports, but not all of it because, frankly, demand is high for them at this point, so they\'re not as aggressively advertising. 
+I am a little bit heartened to read in the last day or so that both GM and Ford seem to be resisting that temptation to really dramatically discount as they did a year ago at this time. That was not good for local dealers, and that was not good for local dealers\' advertising expenditures. So we\'ll have to take a look at it. I know that both GM and Ford talk about growth in auto sales, but what was hurting them, particularly Ford, was their SUV and truck sales were down. So I think we\'ll just have to see how these guys decide to market themselves as we go through the next three or four months in preparation for the \'07 model year.
+
+Laraine Mancini - Merrill Lynch
+One more follow-up. Is there a way to characterize what your rates and your competitors\' rates in your markets are like? Is there more rate integrity in radio now?
+Robert Neil
+I think that\'s maybe a little bit of a loaded question. I think if you listen to these calls, probably everybody says they have high rates and everybody else is giving it away. And that\'s probably not accurate any more so than saying, yes, we always have the highest rate of integrity. I think that we\'re all adjusting to changes in the business. 
+One of the changes that we\'re having to go through is Clear Channel\'s adjustment, both in their commercial loads and the way they sell time. That\'s different from a year ago. Obviously, a year ago they were really struggling to get that going. This year, at least in the first half, you know, the comps will be a little bit different. So I think I\'m going to maybe avoid that loaded question and just say I think everybody wants to try to get as much for their ad time as they can.
+Operator
+Thank you. Our next question comes from Lee Westerfield of Harris Nesbitt.
+Lee Westerfield - Harris Nesbitt
+Really just two questions, if I may, and the first turns back to the interactive. Are streaming royalties at all a factor in terms of expense growth? I recognize that it\'s not a large item, but I\'m just trying to assess some of the delta in the end costs, which are overall in control. 
+Neil, this may be visiting at the D-Mark and the Sconce Systems that I believe you use. I wonder if you could help us understand in a little more detail how you use D-Mark and, more importantly to me, if you can explain whether there is data that is purely retained by you or shifts back over to D-Mark concerning the placement and execution of commercials? Thank you.
+Robert Neil
+Streaming rights, they obviously grow as we have more uniques and more streams open. That growth has been very aggressive, so the rights costs are up aggressively but it\'s a very small number. I mean, it\'s just such a small number, it probably wouldn\'t even be worth putting on anybody\'s radar screen. We\'re talking, as we get expediential growth in streaming, we\'re probably talking, you know, at most $10,000, $20,000.
+Lee Westerfield - Harris Nesbitt
+Thank you. That\'s pretty much where I was thinking. I just wanted to be very clear. And the D-Mark million Sconce Systems?
+Neil Johnston
+The intent of D-Mark we just used Sconce Systems as our automation software. We don\'t do any of the -- the announcement is Google, I\'m not sure exactly what they\'re doing. But I think that they are, you know, hoping that, ultimately, they\'ll be able to feed spots to the systems. We just don\'t have any of that. 
+All of our programming and commercials are fed from our traffic system. And, you know, D-Mark really doesn\'t share any systems with us, and we certainly don\'t have any information flow going between us and D-Mark. We really just are using their hardware, which is their automation software, which, you know, works well for us.
+Lee Westerfield - Harris Nesbitt
+I want to be clear and to reiterate that just because I think there\'s misunderstanding in the market that you use the systems but there\'s no upstream of information flow from you back to D-Mark at this stage?
+Neil Johnston
+Yes,, absolutely. That information is proprietary information, and we retain all of that. Yes.
+Lee Westerfield - Harris Nesbitt
+Good. Gentleman, thank you very much.
+Operator
+Thank you. Our next question comes from Anthony DiClemente of Lehman Brothers.
+Anthony DiClemente - Lehman Brothers
+Hi, thanks for taking the question. Just on the M&A front, Bob, do you see in the private market radio stations continuing to trade at a significant premium to where your publicly-traded stock trades? Given the strength of your balance sheet, are you in the market looking to continue to consolidate? Are you looking for anything in the market? Thanks.
+
+Robert Neil
+Anthony, about all we can do is compare the most recent sales that we\'ve seen and take a look at the arithmetic really on the Citadel-ABC deal and the Susquehanna-Cumulus deals. And both of those deals certainly traded at a significant premium to where most of the radio companies publicly traded multiples are right now. 
+In terms of what sellers are expecting going forward, again, very difficult to get a handle on that because asking price usually is not what selling price ends up being. 
+I think, at least in the short term, we certainly see that the deals that have been announced to date are trading at a higher multiple than most of the radio company stock multiples. As always, we continue to look at opportunities when they come up, and if they\'re compelling opportunity for us, then we dig further and see if it makes any sense. We\'ll continue to do that.
+Anthony DiClemente - Lehman Brothers
+Okay. And as a follow-up to that, in lieu of creative acquisition opportunities, would you look toward a regular dividend as your peers at Citadel and Intercom have done?
+Robert Neil
+We constantly evaluate this. We look at it about every six to eight months and try to make a decision on what we think is the best way to use our free cash flow. And we\'ll continue to do that.
+Operator
+Thank you. Our next question comes from John Kim of Credit Suisse.
+John Kim - Credit Suisse
+Could you just give us an idea of what you all are expecting in terms of political ad dollars for the year and then remind me how much political you had in \'04? If you could just give us an idea of how your average unit rates are trending year-over-year and sequentially, I\'d appreciate it. Thanks.
+Robert Neil
+John, on political, we don\'t really budget a big number for political. In the fourth quarter of 2004 and, Neil, you can jump in here if I\'m wrong -- I\'m doing this by memory -- it was about $1 million of political revenue. Is that right?
+Neil Johnston
+It was actually more than that. In total in \'04, political revenues were about $5 million. Big political year there. With the majority of it, about $3 million falling in fourth quarter.
+Robert Neil
+There was a Presidential election in that one. Now in Florida and in Georgia where we have some big radio stations, there are some pretty significant races. There\'s a Senate race in Florida. There\'s an open governorship in Florida and Georgia. There\'s an incumbent governor running for re-election. So  I would expect that there\'ll be some political ad dollars around. But to be able to give you an accurate number on it now, I really don\'t have it. 
+A lot of it also depends on whether some of these ballot initiatives that are being talked about in states actually come to fruition and end up getting on the ballot. Because that money also comes in. And we really don\'t know, at this point, which initiatives are going to make it on the ballot. In terms of AURs, I would say that year-over-year, they\'re down slightly.
+Operator
+Thank you. Our next question comes from Jim Boyle of C L King and Associates.
+Jim Boyle - C L King & Associates
+Bob, can radio clusters regain any sustainable pricing power if the auto category and at least one other top five ad category continue to spend significantly less on radio?  
+Neil, which new distribution technology for radio content, whether it be cell phones, WiFi, internet or something other, which one excites you the most today, or is it still too much in the future?
+Neil Johnston
+I\'ll begin. To me, by far the most exciting distribution channel is our internet channel. You know, as we stream over the internet, as we build web sites that form part of the community of our listeners, we just see tremendous potential there. And I think, you know, if there\'s one area that I\'m very excited about, it\'s that area.
+
+Robert Neil
+I think to answer the second question is that automotive has historically been, you know, about 15% of our business. So it\'s never going to be a good thing when automotive is not doing well. I think from our perspective, we tend to not like to whine too much about that and try to get our sales staffs focused on doing a better job of calling on advertisers locally that we haven\'t seen or that we think we could do a good job for. Be more aggressive in that area. 
+At the end of the day, I think that\'s what we have to do. We have to get more aggressive on the sales front. We have to bring more advertisers into the medium. 
+Historically, you know, the size of radio station sales staff have been low compared to some of our media peers. So another area I think we can improve in. But at the end of the day, the automotive sectors are a very important part of the United States economy. And if it\'s not doing well, it is going to impact not just radio; because I think you said, you know, will radio ever regain its ability on pricing pressure. 
+Just about any advertising-supported medium is struggling right now. A lot that has to do with the sickness in the automotive sector. So it\'s not just radio, it\'s any ad-supported medium, and it\'s more difficult when that very important sector isn\'t doing well.
+Jim Boyle - C L King & Associates
+Could you quantify, given the new business development needs, how much of your ongoing client base renews typically?
+Robert Neil
+You know, that\'s something I think I\'d have to get for your offline. I don\'t have it off the top of my head.
+Operator
+Our next question comes from Tom Kerr of Reed Conner.
+Tom Kerr - Reed Conner
+Morning, guys. Could you clarify one thing you said on the domestic auto industry? As they\'re gearing up for another round of incentives, zero percent financing and so on, did you say that it was materially bad for the local dealers and good for the national advertising? Just explain that a little further, what these incentives mean for radio advertising?
+Robert Neil
+Well, national advertising, auto advertising is a very small number compared to the money that stations get locally from dealer groups. And while a zero percent financing kind of incentive is not a bad thing necessarily from a local dealer perspective, what the car manufacturers did last year was not good for local dealers. 
+Here\'s why. Basically, by saying no matter where you shop to buy a car, the price is going to be the same because of employee pricing, I mean, you could go from dealer to dealer, and the price they had was exactly the same; it gave the dealers absolutely no flexibility at all in terms of how they priced the vehicles. As a result of that, the dealers didn\'t advertise locally. Their margins were hit pretty significantly. 
+What drove the advertising for those incentives last year was national. Again, which I\'m telling you is a smaller piece of the pie. So at the end of the day, it hurt the dealers, and it hurt the bulk of the big advertising that we get from the local dealer groups. 
+Now the kind of incentives they\'re talking about this year, zero percent financing, cash back, those are a lot different in terms of allowing the dealers to set their prices from dealership to dealership, then they just have to deal with how they want to treat the incentives. Do you see the difference?
+Tom Kerr - Reed Conner
+Okay, that makes sense. So it\'s incrementally better in theory this year?
+Robert Neil
+Well, we hope so. You know, we hope that there isn\'t going to be anything like there was last year. That the incentives will remain, you know, pretty much more traditional, either cash back or financing deals, those kinds of things.
+Tom Kerr - Reed Conner
+Great. Thanks.
+Operator
+(Operator Instructions)  Our next question comes from Jim Goss of Barrington research.
+
+Jim Goss - Barrington Research
+Bob, are you implying as you analyze your business that the weakness in the automotive industry is overall a much bigger problem than the potential of any ad shifting to the internet? Or other issues that the industry, both radio and other ad-supported media might be facing? Is a potential of pickup in advertising and the foreign automaker side a potential, at least partial solution to this issue?
+Robert Neil
+Well, Jim, I think that when you look at the sheer dollars of how much local dealers spend in advertising, again not just with radio, newspapers, television, cable, interconnect, if they\'re not spending that money,  or they\'re spending less money, that is going to significantly impact all of us. And because of the dollars are so big, I can\'t quantify this for you, but compared to what we talk about in terms of the internet, while the internet is growing very fast, what did I tell you it was? 1% to 2% of our revenues, now automotive makes up 15% of our revenues. So it\'s a much bigger impact item in terms of the cash involved. 
+So yes. I mean, I think to me that\'s a bigger issue than whether somebody is spending more on the internet because we have internet platforms inside all of our radio stations that are capable of bringing that solution to the table if somebody wants to use it. We really don\'t have a solution in our quiver necessarily for the domestic auto business. 
+I think that\'s a significantly larger issue than whether or not, you know, a few advertisers are moving some bucks to the internet one way or the other.
+Jim Goss - Barrington Research
+One other issue. I know there have been some studies recently showing that time spent listening is still very high, although it might have leveled off or edged down slightly. While I know it accounts for a significantly greater number of hours than a lot of other media types get, is a leveling or even a slight decline in the TSL going to be an issue in terms of your pricing, as well?
+Robert Neil
+No, I really don\'t think so because if you look at the TSL numbers and the PUR numbers, there is some fluctuation from book-to-book, and some of that is seasonal. The number fall-off is very, very slight. Let\'s remember that network television has seen its audience in TSL decline for a long, long time, and is still a very, very active and important part of any advertiser\'s plans. 
+As long as we continue to do what we do, which is deliver large audiences and active audiences to advertisers, I don\'t think some slight decrease in TSL or a slight decrease in PUR numbers is going to have much effect on how we price. The fact that New Orleans revenue was up and they haven\'t had a rating book since last spring. Maybe not having to deal with those numbers and just having to go out and sell your inventory for the highest price isn\'t such a bad thing.
+Jim Goss - Barrington Research
+Thanks very much.
+Operator
+Thank you. There are no further questions. At this time, I would like to turn the floor back over to management for any closing remarks.
+Robert Neil
+Thanks again for a series of some great questions. As usual, Neil and I will be available offline if you need us, and we\'ll see you next quarter.
+Operator
+Thank you. This concludes today\'s conference call. You may disconnect your lines, and have a great day.

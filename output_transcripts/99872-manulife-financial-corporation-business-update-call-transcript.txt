@@ -1,0 +1,278 @@
+Manulife Financial Corporation (NYSE:MFC) Business Update Call October 14, 2008 10:00 AM ET
+Executives
+Amir Gorgi – Investor Relations
+Dominic D\'Alessandro – President and Chief Executive Officer
+Simon Curtis – Executive Vice President and Chief Actuary
+Peter Rubenovitch – Senior Executive Vice President and Chief Financial Officer
+Analysts
+Colin Devine – Citigroup
+Michael Goldberg – Desjardins Securities
+Andre Hardy – RBC Capital Markets
+Mario Mendonca – Genuity Capital Markets
+Tom MacKinnon – Scotia Capital
+John Reucassel – BMO Capital Markets
+Jukka Lipponen – Keefe Bruyette & Woods
+Darko Mihelic – CIBC World Markets
+Eric Berg - Barclays Capital
+Jim Bantis – Credit Suisse
+Operator
+Welcome to Manulife’s conference call. (Operator Instructions) Your host for today will be Amir Gorgi.  
+Amir Gorgi
+If anyone has not yet received their press release and slides for this conference call and webcast, they are available in the Investor Relations section of our website at www.manulife.com.  As in prior quarters, our executives will be making some introductory comments.  We will then follow with a question and answer session.  
+On behalf of the speakers that follow, I wish to caution investors that the presentations and responses to questions may contain forward-looking statements within the meaning of the Safe Harbor provisions of applicable Canadian and US Securities law. Forward-looking statements involve risks and uncertainties and undue reliance should not be placed on them.  Certain material factors or assumptions are applied in making forward-looking statements and actual results may differ materially from those expressed or implied in these statements.  
+For additional information about material factors or assumptions applied in making these statements and about the material factors that may cause actual results to differ materially from expectations, please consult the Power Point presentation for this conference call as well as management’s discussion and analysis section of our most recent annual report under the headings Risk Management and Critical Accounting and Actuarial Policies.  
+When we reach the question and answer portion of the conference call, we will ask each participant to adhere to a limit of one or two questions.  If you have additional questions, please re-queue and we will do our best to respond to all questions.  With that, I’d like to turn the call over to Dominic D\'Alessandro, our President and Chief Executive Officer who will make some introductory remarks.  
+Dominic D\'Alessandro
+Last week we became aware of concerns swirling in the marketplace regarding Manulife’s guarantees with respect to variable annuities, the condition of our credit portfolio, our investment portfolio generally, and our overall capital position.  We thought that rather than let these concerns go unanswered that we would issue a full press release and also make ourselves available today to respond to the questions and concerns that may exist out there. And as I hope you’ll conclude, as we go through the items individually that the concerns that exist as they relate to Manulife are grossly exaggerated.  We remain very well capitalized and we have no intention to issue equity capital contrary to speculation that came to our attention.  
+So we’ve prepared a presentation to deal with some of the issues that we’ve talked about that I’ve just mentioned and I’d like to ask our Chief Actuary, Simon Curtis, to take us through the presentation of the impact of equity markets.
+Simon Curtis 
+This morning I’d like to give you an update on how the recent equity market volatility is impacting Manulife’s overall capital position as well as provide some context on the risks associated with variable annuities and segregated fund guarantees and then discuss how the capital and reserve requirements for the guarantees have moved with the recent market volatility.  
+
+Turning to Slide 3, this slide provides an overview of how equity market volatility is impacting Manulife’s capital position in the third quarter.  As I believe most of you know, Manulife operates through two primary operating company streams, one the acquired John Hancock companies, and one the older Manulife which has most of our variable businesses.  On this slide we concentrated on the capital position of Manulife because the other stream, the acquired John Hancock stream, has limited equity exposure and has very limited equity sensitivity.
+For the Manulife stream, basically all of our variable annuity businesses such as the variable annuities, guaranteed segregated funds, are held in this company so it is the company that is the most responsive to equity market movement.  As you can see on this slide in the box in the middle, we are expecting to close the third quarter in our target MCCSR range of 180% to 200% albeit at the lower end of that range.  
+As you can see, the required capital has increased and the primary driver of the increase in required capital is the impact of the equity markets on the segregated fund guarantees.  Available capital has also increased through the notches by expected earnings but also by some capital re-positioning whereby we’ve moved excess capital from other components of the organization into Manulife.  
+I would just caution at this stage that the Q3 numbers are still estimated as we’re still preparing our final close of the books so all the Q3 numbers that you see in this report are preliminary.  
+Turning to Slide 4, we just provided some comments on our first quarter outlook as I know with the volatility that we have seen in the first few days of the fourth quarter there is interest in how that volatility would impact us.  Obviously the fourth quarter equity markets would put downward pressure on our capital ratios because of the segregated fund guarantees if markets were to remain significantly pressed below September 30 levels.  
+However, looking at the volatility that we’ve seen to date in the fourth quarter we would still expect to be able to close the quarter above regulatory to minimum target levels, however probably slightly below our own target levels.  If markets do respond and what we’ve seen in the last day continues, we could well be within our target range.
+In the fourth quarter we’re anticipating continuing the number of capital initiatives that we’ve already undertaken in the third quarter with capital repositioning such as rebalancing capital requirements within our corporate structure and potentially looking at other transactions such as reinsurance to help manage our equity risk.
+External equity capital raising is not anticipated to be necessary to maintain our fourth quarter capital ratios.  I would also point out that because our capital and reserve regime capitalizes market impact in the current period that is being looked at, there is really no subsequent period drag on our balance sheet or in a material way on our income levels from the current market volatility.  So it’s important to realize that once we get through the period of market volatility and lower markets, our balance sheet will be a strong solid platform to both rebuild the capital base and grow the capital base from organic means.  
+Turning to Slide 5, what I’d now like to do is just review our segregated fund guarantees and how the reserve and capital requirements for those guarantees are determined.  Our segregated fund guarantee offerings are primarily in three jurisdictions:  our US business, our Canadian business, and our Japanese business, and we have approximately $72 billion of net in force of guarantees.  
+It’s important to note that the benefits from these guarantees are extremely long dated. They’re expected to be paid over prolonged periods in the future and as we’ll see on the next graph, most of the cash flows are 7 to 30 years out in the future.  There are very limited cash flows over the near term.  
+
+The guaranteed benefits provided under our segregated fund guarantees cannot be accelerated by the policy holder.  Effectively guarantees are only payable on specified dates or events such as policy holder death.  The guarantees that we offer take several forms including minimum death benefits, minimum annuitization benefits, maturity benefits, or periodic withdrawal benefits.  The vast majority of new business that we’re selling worldwide are guaranteed minimum withdrawal benefits where the key benefit is a structured minimum amount that can be withdrawn spread over a number of years over the lifetime of the contract.  
+In many ways, the segregated fund guarantee products operate as private pensions, allowing investors to invest in equity and bond funds that having the comfort of some minimum level of guaranteed structure payments.  There is no cash call or liquidation risk associated with these guarantees. As we said earlier, they cannot be accelerated and most of them are paid many years into the future.  We’ll also show on the following graph the potential cost of these guarantees is well within the existing resources of the company and that the reserves and capital that we provide for these guarantees provide a very high level of coverage to the risks.  
+Turning to Slide 6, this is a cash flow graph for our overall segregated fund guarantee flow file that we put together reflecting what we would think would be the net cash flows on these guarantees for the whole book that we have in force at September 30 worldwide.  I’ll just take a minute to explain this graph because it’s an important graph to understand the nature of these guarantees.  
+First off we have shown three levels of cash flows for these guarantees with different lines which reflect different calculations of the confidence levels of these cash flows.  The cash flows shown are the level of payments we would pay under these guarantees less the fee income associated with these guarantees. So as you can see, in the first few years, the cash flows tend to be negative as the revenues that we charge will exceed the guaranteed benefits and potentially in later years there are situations where the guarantee costs that we will pay for these guarantees exceed the revenues.  
+The three lines that we’ve shown here are a blue-black line which is the expected cost.  That’s labeled the CTE(0) line.  A red line which is effectively a level at which we reserve CTE(70) over  longer periods of time, which is about a 90% confidence level, and then the green line are the cash flows that would get reflected in a capital calculation.  These are the CTE(95) or very high confidence levels such as over 98th percentile.
+As you can see, at an expected level, the cash flows are negative for many years up to about 15 years in the future and only very slight positive costs thereafter and in fact on a present value basis, on an expected level fully reflecting where markets were at September 30, the revenue that we charged for these guarantees is still expected to exceed the cost of these guarantees.  
+The red line looks at a much higher confidence level, the CTE(70) level about the 90th percentile and you can see even for this cash flow line that there are still positive cash flows for approximately 10 years before we see some costs associated with the guarantees.  It’s the red line here that gives rise to the reserve that you see on the balance sheet which at the end of the second quarter was about $750 million and as we’ll show in later slides, will be larger this quarter up to about $1.4 billion.  
+The green line are the cash flows that get reflected in our capital calculation and these are the only scenarios in which there are material costs.  However, I would point out that the costs in this line, the annual cost are all at maximum well under $1 billion pretax and this needs to be looked at in the context of our total revenue stream flow worldwide businesses that include all of our non-equity linked businesses which are much higher levels of income over $4 billion pretax. In other words even in a very extreme scenario the expected income from the non-variable annuity business is well, well in excess of even the worst single year cash flows that we would get from these businesses.  
+
+The key message is that these cash flows are extremely long dated and at most confidence levels fully reflecting the September 30 markets, there is still very limited cost associated with these cash flows.  
+Slide 7 actually takes the previous numbers and turns them into a bit of a present value cost presentation.  The notional amounts at which the guarantees are in the money to date is about $12 billion.  That’s if someone could accelerate and crystallize all the costs which can only be achieved if the million variable annuity policy holders all died tomorrow, we would actually have a total potential exposure of $12 billion.  
+As we covered on the previous slide, that cash flow profile is well deferred into the future, cannot be accelerated, and will be largely defused by fee income charged explicitly for those guarantees.  You can see at the CTE level which is the average of all the scenarios that we’ve run, the expected results, the actual values of the guarantees you would expect to pay is only $0.7 billion with fee income of $5.5 billion expected over the same periods on the guarantees for actually a net revenue exceeding cost of $4.8 billion.  
+The capital level calculation looks at the 5% average worst scenario.  There you can see that the cost is actually larger, materially $8.9 billion offset by $3.2 billion of revenue for a $5.7 billion net cost in that scenario. In other words, at an expected level there is significant net revenue only at the capital level do we see a significant net cost.  That net cost of $5.7 billion is held on our balance sheet as a combination of reserves and required capital as we point out below.  About $1.4 billion reserves are expectancy to be held at the third quarter and $4.3 billion of capital. 
+On Slide 9, you can see we’ve just done a roll forward of the net amount of risk exposure, the reserves and capital that we hold.  You can see at September 30 the reserve number of $1.4 billion, the required capital of $4.3 billion, for a total of $5.7 billion.  What we’ve also done here to highlight is that over time as we build to a target 200% MCCSR ratio, you can see that when you actually consider the scale up on required capital which really doubled the MCCSR required capital point.  We’re actually holding resources quite close to dollar for dollar the notional net exposure if all of these guarantees could be paid off today.  
+I’d also point out that looking at a 200% MCCSR ratio, one could consider that the resources that we will be holding $10 billion would be versus an expected cost of $4.8 billion net revenue so almost $15 billion more than the net cost is expected on these guarantees.  
+Just one last comment I’d make on this slide.  As I know, a number of you have raised this question.  When we look at the $1.4 billion of reserve that we’re expecting to hold at September 30, we’ve actually strengthened our reserves to the maximum level at September 30 given the equity market volatility so when one looks at that increase of approximately $650 million from $750 million at the second quarter, about $400 million of that is an increase associated with increasing CTE level of reserve and the other $250 million of that would be the normal market movement.  The $400 million increase from increasing the CTE level is going to be offset in the Q3 earnings by a release of some excess interest rate reserves which will lead the overall PfAD levels unchanged and neutralize that component from an earnings perspective.  
+So in summary looking at Slide 10, three key components that I would like to end with are to emphasize that the segregated fund guarantees are very long dated deferred contingent obligations. Any return to normal market movement conditions over the next several years will substantially reduce the current observed exposure and effectively reduce and reverse the reserves and capital that we’ve accrued because these are not amounts that can get crystallized.  
+
+Our overall balance sheet is extremely strong.  We have good organic growth in our earnings and a diversified business so we’re well positioned to cover existing exposures even with market conditions at current poor levels if they persistent in the future.  And generally we have a very diversified earnings base of non-equity sensitive businesses which would drive core earnings and offset a number of these exposures.  
+So with those comments I’d like to turn the platform back to Dominic D’Alessandro.
+Dominic D\'Alessandro 
+Simon, before we open up the call to questions, I’d just like to say with regard to credit losses that the number that we’ve disclosed of the impact for the quarter of $250 million largely relates to the troubled credits that we’ve previously discussed with you, the Washington Mutual situation.  Lehman I think is the bulk, and a little bit for AIG because most of our exposure in AIG is in the operating companies.  
+You’ll recall that we had our Analyst Day meeting on the very morning that Wachovia announced its troubles.  We’re very pleased with the resolution of the Wachovia situation.  None of our exposure to them will result in any loss given the arrangements that have been made with respect to that company.  We’ll just leave any other issues to be covered during the question and answer.  
+We’re ready now for the question and answer portion of the call. 
+Question-and-Answer Session
+Operator
+ 
+(Operator Instructions) Your first question comes from Colin Devine - Citigroup. 
+Colin Devine – Citigroup 
+Dominic, looking at the jump here from Slide 3 with the required capital of 19% in a single quarter, frankly on Page 9 of 139%.  What does this say about the quality in the Manulife hedging program should or are we at the time where this thing needs to be substantially more hedged where you can have this kind of volatility?  That’s the first question.   
+The second question on the use of reinsurance, are you considering the use of surplus release as number two, and then third, if you can comment on the stability of Manulife’s dividend please.  
+Dominic D\'Alessandro 
+With regard to the increase in the required capital of $1.5 billion dollars markets have moved very, very dramatically since the end of the second quarter and given the size of our business and the size of our equity exposures, I’m not surprised that there’s been an increase in the required capital.  
+With specific reference to your question about can you hedge all of this away or is this the time to start hedging all of it away, we’re going to do more hedging but the volatility and the cost of using hedging is very, very high.  At this time we’d like to exhaust other avenues.  I don’t think it’s realistic to expect that we would be able to go and hedge away all of our exposure in a very short time frame, and I don’t think it’s the right use of our resources.  
+We are looking at the use of reinsurance for purposes of providing us additional capital relief should that become necessary. There are blocks of business in our company that would lend themselves to that.  These are being explored in the event that they become necessary. 
+Finally with regard to the dividend, we have no plans to reduce the dividend.  Our capital is at, even after the market fall off which was very substantial, is at $183.  We think that there are other steps that we could take in the fourth quarter should the market deteriorate or not show improvement.  We’ll judge that as we go along.  The dividend cut is not something we’re contemplating.
+Colin Devine – Citigroup 
+Dominic specifically asked on the use of surplus relief insurance and if you could just comment on that and then also what you’re showing here I think just relates to what’s in the US.
+Dominic D\'Alessandro 
+
+No, this is worldwide. 
+
+Colin Devine – Citigroup 
+This includes everything, including the Japanese business.
+Dominic D\'Alessandro 
+Yes, everything in the world.
+Peter Rubenovitch
+We’re not looking at surplus relief.  If we did reinsurance, it would probably be coinsurance on the blocks that have big embedded value and it’s a choice that we’re inventorying but not actively advanced yet.
+
+Operator
+Your next question comes from Michael Goldberg - Desjardins Bank Securities.
+Michael Goldberg – Desjardins Securities 
+So judging from your comments, it sounds like there’s going to be a seg fund guarantee strengthening this quarter of about $650 million.  You said there would be an offset on release of reserves related to interest rate assumption.  Is that the $400 million increase in the CTE level just so I have that correct?
+Simon Curtis 
+Just to caution you again, these numbers are all preliminary but if you take the reserve we booked at the second quarter which is about $750 million and then you use the $1.4 billion as a reference for the third quarter, the increase in the CTE level would be about $400 million, $250 million would be the movement in the reserve at the starting CTE level.  It’s the $400 million that would be offset by repositioning some of the existing PfAD so that we would leave our overall PfADs unchanged.  
+Michael Goldberg – Desjardins Securities 
+And these are all pretax numbers, right?
+Simon Curtis 
+That’s correct. 
+Michael Goldberg – Desjardins Securities 
+So we could just apply a normal tax rate to figure it on after-tax impact.  
+Dominic D\'Alessandro 
+That would be in the ballpark.
+Michael Goldberg – Desjardins Securities 
+Can you also comment on the expected impact of the market volatility on the sales of these products? 
+Dominic D\'Alessandro 
+The sales have been effective because of the market volatility.  That’s no big surprise that people are deferring investment decisions given the uncertainty that’s confronting them every day. So our sales are down.  They’re going to be down anywhere from 20% to 30% I expect during the period.  
+Operator
+Your next question comes from Andre Hardy - RBC Capital Markets.
+Andre Hardy – RBC Capital Markets
+Simon or Peter, can you please comment on the impact of weak equity markets on areas other than VAs?
+Peter Rubenovitch 
+Our fee income is on average asset balances so that’s a direct function of equity markets we would average value.  Of course our owned equities would be reflective of market conditions.  These would be the only other key area and we’ve discussed it in some detail so you can understand it.  The others are exactly what you would expect relative to our fee income on the asset portfolios and the owned equity positions.
+Andre Hardy – RBC Capital Markets
+So if we go back to your Q1 disclosure which was very good to break out the different impacts, today you address what costs you $105 million after tax in Q1?  Would it be fair to assume a similar impact as Q1 on your earnings from non-VA impacts?
+Peter Rubenovitch 
+Yes, it would be similar relative to the move.  That’s fair.  
+Andre Hardy – RBC Capital Markets
+The other thing I wanted to clarify is this interest rate reserve release, is that related to capturing some of the increased spreads that we’ve seen in your expected future income or it’s your reserves related to or your PfADs related to the level of risk free rates?
+Simon Curtis 
+It’s really looking at the scenario that the [inaudible] actuaries requires us to cover versus the scenarios we use to book our reserves and certainly with changes in some of the risk free rates and market spreads, the scenarios we used to book our reserves have become overly conservative versus those prescribed scenarios. So we were already in discussions with our auditor about releasing some of that excess conservatism so we felt with what we’ve seen in the market this quarter it was a good time to make that adjustment.
+
+Andre Hardy – RBC Capital Markets
+You talked about not raising equity capital and you talked about a lot of potential alternatives to strengthen capital in Q4.  Would that potentially include the issue of debentures or preferred shares?
+Dominic D\'Alessandro 
+
+Those are some of the alternatives we’re looking at.  
+I should remind everybody that I mentioned that our sales were soft this last month or so.  I was speaking about our variable annuity sales, our savings products sales in fact our life insurance sales remain very strong across the system.
+
+Operator
+Your next question comes from Mario Mendonca - Genuity Capital.
+
+Mario Mendonca – Genuity Capital Markets
+Dominic, you explained that there was some capital movement probably from the holding company into this operating company to take to the 183% MCCSR.  The question I have is what is the MCCSR at the holding company?  Is there any excess capital there or is there capital anywhere else in the operation that can be moved to this subsidiary if needed?
+Dominic D\'Alessandro 
+The answer to the second question is there are a number of things we can do to bolster the capital if it should be required in our operating company.  We’ve talked about some of them.  With regard to the capital at the holding company level, I’m not sure we know what that is just now, do we?  
+Simon Curtis 
+We haven’t got final calculations of those numbers.
+Mario Mendonca – Genuity Capital Markets
+Is the MCCSR in the holding company greater than the MCCSR in the operating company normally?
+Dominic D\'Alessandro 
+No.  Normally that would not be the case. 
+Mario Mendonca – Genuity Capital Markets
+The holding company’s MCCSR is normally lower than that, is that what you’re saying?
+Dominic D\'Alessandro 
+Yes.  Of course it’s regulated differently because it is a holding company.
+Simon Curtis 
+The holding company is not regulated on a MCCSR basis.  It’s really only the operating company.  It’s a different metric for the holding company and I would point out that we are looking at some restructuring so that by the end of the year actually most of our operations would be combined in one company that would be subject to MCCSR so at that time you’ll see that.
+Mario Mendonca – Genuity Capital Markets
+What I’m getting at is we don’t have disclosure of holding company MCCSR. 
+Peter Rubenovitch 
+There isn’t any such measure.  Is there an MCCSR for the holding company?
+Mario Mendonca – Genuity Capital Markets
+It’s submitted to OSFI.  I don’t think it’s reported anymore but every other insurance company submits their holding company MCCSR to OSFI, at least that’s what they tell me.  
+Simon Curtis 
+Nobody does a formal MCCSR filing to OSFI on a holding company MCCSR.  We all talk about different risk makers for our regulator but it’s not a formally reported number, therefore, it wouldn’t be one that would get disclosed.  
+Mario Mendonca – Genuity Capital Markets
+So maybe I’ll ask it this way, is there any excess capital in this company anywhere?
+Dominic D\'Alessandro 
+Well I think we’ve got the 183% MCCSR ratio.  We’ve got a number of other initiatives we can undertake to improve that ratio, including we talked about some of them, reinsurance and the redistribution of capital within our subsidiaries and additional hedging perhaps.
+Mario Mendonca – Genuity Capital Markets
+Is there any room for mortality reinsurance in this market right now?  Is there any appetite for that?
+Peter Rubenovitch 
+Yes, of course there is.  The fact is we like our mortality risk but there obviously is an appetite. We have mature and seasoned blocks that we.
+Dominic D\'Alessandro 
+We’re not very keen and we don’t see the need at the moment.  We would do these things because in essence if you reinsure, you’re giving away future profits and we really don’t see the need to do that.  We’ve got a wonderful book of business.  We’ve got a portion of our operations which have been affected by. We’re trying to communicate to you that even in these extreme situations, these books are structured in the frames and the fees and so on.  
+
+What Simon was showing you is the CTE(95) assumes that the September 30 situation which was already quite a bit affected by the decline in equity markets would suffer a further decline of some 20% to 30% which would persist and never be recovered. And so we’re maintaining capital at that level and so the discussion this morning was an attempt to clarify for you that the capital resources for the company under almost any reasonable expectation of what’s going to happen are more than adequate today. 
+I can’t predict the future and the other thing we’d like to communicate to you is if markets do deteriorate, we’re a big strong company, and we’ll go and do something else to re-establish our capital levels at an acceptable threshold.  
+Mario Mendonca – Genuity Capital Markets
+On Slide 3, you show that the Q3 ’08 estimated required capital is $9.3 billion.  October 10 where would that be?  I don’t imagine its linear going from the $7.8 billion to the $9.3 billion.  Can you give us a sense of where the required capital would be at October 10?
+Simon Curtis 
+We haven’t done that calculation for the post September 30 that we would want to talk to.  You have to understand that these calculations are quite complex and until we actually finish our Q3 we don’t want to roll the stuff into the fourth quarter.
+ 
+Operator
+Your next question comes from Tom MacKinnon - Scotia Capital.
+Tom MacKinnon – Scotia Capital
+As a key takeaway, I think you had somewhere around $3 billion in excess capital at the end of last quarter.  Can you give us any expected level right now?
+Dominic D\'Alessandro
+If you take the information we’ve given you which is that the $7.8 billion on Slide 2.  Here’s how I would use it. The $7.8 billion of required capital at the end of Q2 has grown to $9.3 billion largely because of the decline in equity markets and so that’s an increase of $1.5 billion.  That’s required capital at 100%.  
+Now if you have a target of 180% to 200%, you just say, well all right, so my required capital or my target is level.  Now I need an extra $3 billion.  So if you had $3 billion excess to start with and now markets have moved in a way that it’s consumed that $3 billion, wouldn’t you conclude that?  
+Tom MacKinnon – Scotia Capital
+So if you want to run at your top level then you’ve erased it but if you want to be somewhere else then you’ve got some more.  So if you’re sitting at a $190, somewhere around there, you might have somewhere around $1 to $1.5.
+Dominic D\'Alessandro
+Exactly, what we wanted to do today was to respond to some pretty extreme concerns that we saw that people were raising with us about whether or not the equity and meltdown that’s occurred was going to cause us to have to undertake a massive dilutive capital issue and these numbers are intended to show you that that’s clearly not the case.  There’s no reason for that.  
+Tom MacKinnon – Scotia Capital
+This $6 billion that you speak of, gross unrealized losses on fixed securities. What was that number at the end of the second quarter?
+Peter Rubenovitch 
+It was $3 billion.
+Tom MacKinnon – Scotia Capital
+And then finally the CTE level?  You talk about there’s a 400 increase as a result of an increase in the CTE level.  I think it was 69 at the end of the second quarter?
+Simon Curtis
+We would expect to book CTE to the maximum that we would be permitted to at the end of the third quarter given the volatility.
+Tom MacKinnon – Scotia Capital
+You ran at the end of the first quarter somewhere around under 70.  Looking back over several quarters I haven’t seen this thing ever above 75.  What was the decision then to run it closer to 80 at this time?
+Dominic D\'Alessandro
+We have an average amount of PfAD, some of which were for interest rates let’s say and were thought to be excessive and some are for the seg fund guarantees which because of market movements could be strengthened.  We thought to give comfort to the marketplace we would move the excess reserves from the interest rate PfAD to the reserve for the seg fund guarantee.  The aggregate on that amount of total pad stays exactly the same but they get reported on different lines.
+
+Operator
+Your next question comes from John Reucassel - from BMO Capital Markets.
+John Reucassel - BMO Capital Markets
+Just a follow up on the capital. You have put some money from the holding company into MLI, was that Tier I capital or Tier II or could you talk about that?
+Peter Rubenovitch
+We’ve done a number of things and the end result is to strengthen Tier I and Tier II capital in the operating company in the quarter and we have a number of other things that are in process for the fourth quarter.  Perhaps the most important of which is that combination of the US operations where we had the MLI and the ex-Hancock pieces operating separately.  The importance of that, we mentioned it in the Investor Day, is that each of those businesses has different risk concentrations and a significant portion of our capital and by combining them the risks will be over a more stable capital base and more diversified.
+John Reucassel - BMO Capital Markets
+So if we look at the distribution between your Tier I and Tier II, Q3 disclosure should be proportionately roughly the same?
+Peter Rubenovitch
+I think so, I’m not positive, but I don’t think it would be dramatically moved.  
+Simon Curtis
+I don’t think it moved dramatic.  A number of the capital transactions we’re going to put Tier I in through common shares.  So that may increase slightly.  
+John Reucassel - BMO Capital Markets
+RBC ratio, is that still around the 400%, 439%?
+Simon Curtis
+I don’t have the exact number drawn but it’s still high, it’s still well in excess of the 300% level, so I’m not sure if it’s the 400% or 430% but it’s way above the 300%.
+John Reucassel - BMO Capital Markets
+Peter or Simon, you have been in the past running I don’t know if mishmash is the right way to call it in the US business.  Is that now part of all this?  Has that now gone away? Interest rate?
+Dominic D\'Alessandro
+No, that’s unchanged. 
+John Reucassel - BMO Capital Markets
+I guess the ISB is allowing at least European banks to look at amortized costs for some of those assets.  Any developments here?  And does this, what’s happened in the last few weeks limit your appetite for acquisition?
+Dominic D\'Alessandro
+I’m not aware that we’re looking at modifying the way we’re carrying our investment portfolio so the amortized cost question, we haven’t had that debate in that discussion.  We’re following developments closely and are intrigued with the efforts made to improve stability of all financial institutions. But as regard to Manulife, we haven’t had any concrete discussions regarding adjustments.  
+Your second question is a very interesting one, does the turmoil affect our appetite for business expansion and MA activity.  I would answer it this way.  When you see your stock drop by 25% in two days, it focuses your mind that maybe you ought to pay attention to reassuring and making your investors understand your position.  We think that Manulife was sideswiped by the meltdown in the markets in a way that grossly exaggerates any impact that they’re going to have on us.  I want to put that to rest, and so that was the first priority.  Of course we are interested in growing our business.  There is opportunity in this marketplace and we expect to take advantage of the opportunity.
+Operator
+Your next question comes from Jukka Lipponen - KBW.
+Jukka Lipponen – Keefe Bruyette & Woods 
+The John Hancock RBC ratio you said way above 300.  On the second quarter call you said your target was maybe 300 to 350.  Would it be fair to say that for a AAA rated company the target probably is at least 350 in terms of the rating to satisfy rating agencies?
+Dominic D\'Alessandro
+I think that the range and it depends on your operations and your earnings stream.  I don’t think it’s clear that is an accurate statement. 
+
+Jukka Lipponen – Keefe Bruyette & Woods 
+Whatever that level is, anything above that basically could be considered excess capital, correct?
+Peter Rubenovitch
+I think that’s fair.  
+Jukka Lipponen – Keefe Bruyette & Woods 
+Then my other question, experience gains have been a significant component of your earnings and you made reference at the Investor Day that the investment related gains have been an important part of that.  If we remain in a less favorable investment environment, and I don’t mean the days and weeks we’ve had recently but less favorable than what we’ve had in the last several years, would that not put pressure on you achieving your 15% EPS growth targets over the next several years?
+Dominic D\'Alessandro
+It depends.  Again this current quarter I would expect our experience gains will be more modest than they have been in the past for obvious reasons.  Going forward, I would remind everyone that our expected reserves are very conservative and we would nonetheless under most scenarios expect to continue to enjoy experienced gains.  
+Will they be at the same magnitude that they’ve been in the past? I think that will depend on a number of things, the overall level of interest rates.  There’s some scenarios where you can say they might be even higher than they’ve been in the past depending on what happens to interest rates.  It will depend on what happens with credit losses and how quickly or how severe any economic corrections are. 
+So it’s a long answer but if the interest rate, if the economic conditions remain very depressed or no-growth scenario and it may be more challenging for us to earn 15% consistent ROE, but I’m not sure we’re there yet.
+Operator
+Your next question comes from Darko Mihelic - CIBC World Markets.
+Darko Mihelic – CIBC World Markets 
+I think Simon and Peter, you helped us out with some of the items that are affecting the quarter, but I’m just curious why have you elected to not provide a range of earnings per share for the quarter.  Most of the life co’s south of the border who have preannounced have certainly provided a range.  
+My second question is with respect to one of your competitors actually sold a piece of their business to raise some capital and they’ve got their reasons I suppose for doing it. Is that possibly a last-ditch thing you might have to do or are considering to do rather than raise capital.  
+Finally my last question is with respect to pricing of product.  Is the environment causing you to rethink any pricing parameters for any of the products that you sell?  
+Dominic D\'Alessandro
+We’ll start off with the Q3 comment.  We report slightly later in the cycle than many of those that pre-released.  Also our closing includes more actuarial input than typically would be the status in the US so as a consequence we’re a little earlier in the cycle.  As well, the discussions that we were concerned about didn’t relate to our results but rather these matters than we have spoken of in some detail.  
+With respect to the two other questions you asked, we are not contemplating selling any significant businesses.  As we’ve said many, many times, we like the businesses we’re in.  We’re very careful about what businesses we get into and we like the ones we’re in.  
+With regard to pricing action, I think it’s safe to say there are a number of products that are undergoing review with the idea of making them more appropriate for the times that we’re living in.  I expect that you’ll see that be an industry phenomena, that there will be a systematic review of products to make sure that they reflect current conditions.  
+
+Operator
+Your next question comes from Eric Berg - Barclays Capital.
+Eric Berg - Barclays Capital
+What would you anticipate would be the enduring effects of this market turmoil on consumer behavior in the life insurance business and how distributors behave?  How do you think the industry is going to be affected long term from those perspectives?
+
+Dominic D\'Alessandro
+I think that we’re in for an extended period of re-regulation of many activities.  I don’t think the insurance industry has been as unregulated as some other sectors in the financial services, but I think regulation will be a bigger feature.  
+Going forward I believe that consumers will be more discriminating about who they do business with and I think there will be more care and attention directed at who is the provider of financial services.  I think there will be an increased awareness on the part of consumers that what you buy and who you buy from is important and I think that the appetite for some of the products that we sell will actually increase.
+Eric Berg - Barclays Capital
+The other question I have relates to the financial impact that has been recorded so far by the North American Life Insurers.  Manulife has relatively modest exposure to some of the structured securities that have been in the papers every day, the sub-prime, the OSFI, CMBS and so forth. And your competitors stateside, while they have recorded large unrealized losses, have really done very little to record permanent impairments or what is called in the auditing profession other than temporary impairments suggesting that they believe they’re going to get back close to 100 cents on the dollar from these structured finance securities.  
+My question is it’s just curious that the industry has essentially taken the position that it has largely sidestepped this entire fiasco in structured finance.  Is this luck?  Is this wishful thinking?
+Dominic D\'Alessandro
+I really don’t know. I think you’d have to know the details of everybody’s portfolio to answer that question with any degree of confidence.  I would say though that, just as an observer looking, the movements and the volatility is so huge, I don’t think anybody can know exactly what values to ascribe to some of these positions.  
+Just look at the Wells Fargo and Citibank evaluations of Wachovia.  In the space of a couple of days, two very sophisticated purchasers had radically different views of what that entity was worth and what those portfolios, what losses that may have been embedded in those portfolios. So I’m somewhat sympathetic to trying to put a pin at a particular spot given how difficult that is.  
+I don’t know how to answer your question other than in those generalities.  I would remind everybody that we don’t have any of those instruments on our books.  That wasn’t an accident by the way, that was a conscious decision we made not to participate.  Our credits are more conventional in nature and I think more than adequately reserved for them. 
+Operator
+Your last question comes from Jim Bantis - Credit Suisse.
+Jim Bantis – Credit Suisse 
+With respect to your capital ratios at October 10, you suggested they would be below your targeted range but above the regulatory minimums.  I’m just wondering, Peter, to what extent would your AAA rating be at risk with respect to your ratios being below your range?  Maybe you can add a little bit of color on that in terms of what would put that in jeopardy.
+Peter Rubenovitch
+We just went through our discussions with the rating agencies. Again it was before this extreme market turbulence.  There wasn’t particular issues or problems.  It’s my view that if it’s a short term situation that has remedies that it’s unlikely to have an impact but at some juncture of course the rating agencies will look at your ratios and market conditions and they’d be reflected in ratios.  So we’re not currently of the view that’s an issue for us but clearly we’re keeping an eye on the matter.
+
+Operator
+There are no further questions registered.
+Dominic D\'Alessandro
+Thank you everyone for joining us and I hope our comments have helped to clarify our position and hopefully given you the confidence that Manulife is in a pretty good position all things considered.  Of course having the markets rebound another few thousand points would be good too.  Anyway, thanks very much.

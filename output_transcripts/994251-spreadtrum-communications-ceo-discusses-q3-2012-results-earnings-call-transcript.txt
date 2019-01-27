@@ -1,0 +1,364 @@
+Spreadtrum Communications, Inc. (NASDAQ:SPRD) Q3 2012 Earnings Call November  8, 2012  8:00 PM ET
+Executives
+Leo Li – Chairman and CEO
+Shannon Gao – CFO
+Analysts
+Dan Heyler – Bank of America Merrill Lynch
+Bill Lu – Morgan Stanley
+Randy Abrams – Credit Suisse
+Matt Ramsay – Cannaccord Genuity
+Jay Srivatsa – Chardan Capital Markets
+Quinn Bolton – Needham & Co.
+Jessica Chang – Deutsche Bank
+Yolanda Wang – HSBC
+Eric Chen – Daiwa Capital Markets
+Jack Lu – RBS
+Operator
+Welcome to the Spreadtrum Communications\' third quarter 2012 results conference call.
+At this time all participants are in a listen-only mode. Following management\'s prepared remarks, there will be a Q&A session. As a reminder, this conference is being recorded.
+Joining the conference today are Dr. Leo Li, Chairman and CEO, and Ms. Shannon Gao, CFO.
+Shortly before the start of this conference call, Spreadtrum issued a press release announcing its third quarter 2012 financial results, which is also available along with the quarterly results presentation on the company\'s IR webpage at ir.spreadtrum.com. This call is also being broadcast live over the internet and will be available on the company\'s website.
+Today\'s call will include forward-looking statements that involve risks and uncertainties that could cause Spreadtrum\'s actual results to differ materially from management\'s current expectations. Such forward-looking statements include, without limitation, statements regarding revenue, cost, profit, competition, customers, products, technologies, partners, business models, M&A, shipments, market share and market trends. Spreadtrum encourages you to review the Safe Harbor Statement contained in today\'s earnings release as well as the risk factors discussed in its Annual Report on Form 20-F filed on April 10, 2012, as well as other documents filed from time to time with the SEC. The company undertakes no obligation to revise or update publicly any forward-looking statement to reflect future events or circumstances.
+Today\'s call will include a discussion of certain non-GAAP financial measures. These non-GAAP financial measures should be considered in addition to and not as a substitute for or in isolation from GAAP measures. A reconciliation of the non-GAAP and GAAP reporting for the period discussed can be found in today\'s earnings release.
+All numbers discussed today will be in US dollars unless otherwise noted.
+I would now like to turn the call over to Dr. Leo Li. Please go ahead, sir.
+Leo Li
+Thank you. Welcome, everyone, and thank you for joining us today. I\'m pleased to report that Spreadtrum outstanding top-line results in the third quarter, with revenue up $187.9 million, which was above the top end of our guidance. This growth resulted from very strong demand for our TD-SCDMA and EDGE smartphone products. In Q3 we recognized 11 million units in smartphone chipset sales, exceeding our target by 10%. For the year, we now expect more than 30 million smartphone chipsets.
+In the domestic China market, TD-SCDMA smartphone demand skyrocketed in the third quarter, fueled by consumer interest in low-cost entry-level devices. Using our highly integrated low-cost smartphone chipset, our customers have defined new market segments, launching TD-SCDMA smartphones that offer an outstanding user experience for only RMB500 to RMB600, which is about $80 to $100 million unsubsidized.
+The new low-end segment has very strong appeal to the first-time smartphone consumers. China Mobile which operates a TD-SCDMA network now has close to 700 million subscribers. Each year, more than 200 million of these consumers will be replacing their handsets. This new entry-level smartphone segment will be a strong catalyst for these large numbers of consumers to switch from their older 2.5G handsets to TD-SCDMA smartphones for the next several years.
+
+During the Q3 we also had a robust increase in demand for our EDGE smartphone chipset. The demand for our EDGE smartphone product is coming from the handset market selling to overseas market where 3G networks aren\'t yet fully deployed. Our customers of EDGE smartphone design activity and shipments to overseas brands are growing rapidly. Much of the demand earlier in this year for EDGE smartphone chipset in China has been from OEMs selling the handsets in domestic China market.
+We believe that early EDGE smartphone demand is now shifting to low-cost TD-SCDMA. Entry-level TD-SCDMA smartphones which were not available this year are similar in cost to EDGE smartphones but provide more benefits to the consumers. We expect that the market growth in EDGE smartphones going forward will be more oriented to export markets, and our EDGE smartphone shipments are already focused on the handset market that\'s starting overseas.
+Turning to 2.5G, I am very pleased to report that we\'re now in the first -- we are now the first Asia-based handset vendor to supply 2.5G-based chipset directly to the number one handset-maker in the world which is Samsung. During Q3 we qualified SC6530, which is our 40nm GPRS and GSM multimedia chipset with Samsung. In the fourth quarter, Samsung\'s 2.5G handsets with our baseband chipsets have started to ship to consumers around the world. This significant accomplishment expanded our addressable market and demonstrates the quality and maturity of our solutions.
+We have various exciting product introduction coming later this quarter and earlier next year. Before I talk about these new products and our long-term growth prospects, I will ask Shannon, our CFO, to review the financial highlights for the third quarter. Shannon?
+Shannon Gao
+Thank you, Leo.
+Total revenue in the third quarter increased 8.5% sequentially and 1.7% year over year to $18791 million, exceeding the top end of our guidance. Gross profit for the quarter was $70.1 million, up 9.1% sequentially and down 9.2% year over year. Gross margin was 37.3%, up from 37.1% in the previous quarter and down from 41.8% in Q3 2011.
+Operating expenses for the quarter were $44.9 million, up from $40.8 million in the previous quarter and $37.6 million year over year. The sequential increase in operating expenses was due to non-recurring legal fees, lower recognized government subsidies, and the cost related to business and product expansion. The non-recurring legal fees related to arbitration cases that were both decided in our favor.
+Operating income in the third quarter was $25.1 million, up 7.2% sequentially and down 36.5% year over year. Operating margin was 13.4%, in line with the previous quarter and down from 21.4% in Q3 2011. GAAP net income in Q3 was $23.2 million, up from $21 million in the previous quarter and down from $39.3 million in Q3 2011.
+Non-GAAP net income was $29.3 million, down 1% sequentially. Net income per basic and diluted ADS in the third quarter were $0.50 and $0.44 respectively, an increase from net income per basis and diluted ADS of $0.45 and $0.41 respective in the second quarter. Non-GAAP net income per diluted ADS for the quarter was $0.56, down from $0.58 in the second quarter and a $0.83 in Q3 2011.
+Turning to our balance sheet, as of September 30, 2012, we had $190 million in cash, cash equivalents and short-term deposits, which is an increase of $28.2 million from June 30. In the third quarter we generated $45.7 million in cash from operating activities, used $26.7 million on expenditures related to capital equipment, intangible assets, equity investments and our quarterly dividend.
+Inventory, not including deferred costs, as of September 30, 2012 was $124.5 million, an increase from $26.2 million from June 30. Inventory days increased from 86 days, up from 67 days in the second quarter.
+
+Deferred costs decreased from $18.9 million as of June 30, 2012 to $16.2 million as of September 30. We expect this balance to continue to decline.
+In the third quarter we continued to return capital to shareholders. We declared our sixth quarterly cash dividend and distributed $0.10 per ADS on October 25, 2012.
+That completes our financial review. I will now hand the call back to Leo for his additional comments and outlook.
+Leo Li
+Thank you, Shannon. As many of you know, 2012 has been a product transition year for Spreadtrum. During this year we have successfully expanded our portfolio to smartphones and invested in R&D to expand to WCDMA, LTE and connectivity as well. We\'re now well-positioned to resume strong growth over the next few years as a result of our five key drivers.
+The first growth key driver is continuing expansion of TD-SCDMA market. I talked earlier about the importance of the new entry-level smartphone segment in shifting large number of China Mobile subscribers from older 2.5G feature phones to TD-SCDMA smartphones. With the strong momentum from the new first-time smartphone users, we expect that the market for the TD-SCDMA baseband SoC\'s will grow to 140 million units in 2013, up from 85 million units this year. In tandem, China Mobile expect that the handset distribution through open market channels will increase from what was a very small amount this year to 50% next year. This will make low-end smartphones broadly available in diverse retail channels where the China consumers buy mobile handsets.
+Spreadtrum\'s SC8810 is uniquely positioned to address the high-growth entry-level smartphone segment and our best-in-class modem are the preferred TD-SCDMA chipset for the very high-end smartphones such as Samsung\'s Galaxy S3, the HTC\'s OneX. Our dual-core smartphone chipsets, which are sampling now, and the quad-core platform, which will be sampled early next year, will further expand our portfolio to address the midrange segment.
+The second growth driver is expansion to WCDMA. WCDMA is a new large high-growth opportunity for us. Between now and 2015, Gartner expect that China and emerging markets will grow from 57% to 75% of global WCDMA shipment. We will be shipping our first HSDA-plus products in a small volume to Southeast Asia and India late Q4 this year and we\'ll be following this with a full range of smartphone products -- platforms and products in Q1 and Q2 next year.
+The third growth driver is shifting in sales mix to smartphone products which have a higher ASP and margin than the feature phone chipsets. China is the largest smartphone market in the world and our current product offering in TD-SCDMA and EDGE are well-positioned already at both the high-end growth -- high-growth entry-level and premium segments of the market. Our dual-core, quad-core and WCDMA smartphone platform will lay the foundation for further long-term smartphone volume growth, both in China and overseas market. In 2013, we expect we will ship 80 million to 100 million smartphone chipsets.
+The fourth growth driver is the evolution of LTE portfolio, a market that we expect to develop a large consumer volume in China in 2014 and beyond. We have already qualified a single-chip multi-mode TD-LTE/TD-SCDMA and EDGE modem with China Mobile during the second quarter of this year. In Q2 and Q3 next year, we\'ll be introducing a single chip [bi-mode] LTE modem supporting TD-LTE, SCD-LTE, TD-SCDMA, WCDMA and EDGE. This will allow us to move into higher-value segment in tandem with the market expansion of LTE in China in 2014.
+Finally, in 2.5G, we are now shipping to Samsung, the number one handset-maker in the world. This achievement -- the achievement demonstrates the quality of our products and of our ability to meet the needs of the global first-tier handset-makers, and can help to drive continued unit growth in the segment in the coming year. This will also help us to withstand the fear of pricing pressure within the China 2.5G market.
+
+People might not understand the significance of this achievement, however, it is extremely difficult to meet the very stringent requirements for global first-tier customers. In the past it has only been done by American and European companies. Many IT companies have tried but failed. Spreadtrum is the first Asian IT company that has ever achieved shipments of the baseband chips to global first-tier handset-makers.
+Also I would like to mention that several of 2.5G chipsets have been qualified by a large -- a major operator in Europe. We expect the volume shipments starting either Q1 next year or early Q2 next year.
+Winning business in the first-tier handset-makers and major operators will greatly expand our business well beyond the China local 2.5G market. In addition, these winnings and close cooperation will further help our other product lines such as WCDMA, LTE to launch globally. In all, as a result of these five growth drivers, we are confident that over the next few years, starting next year, we will be able to achieve double-digit revenue growth annually.
+Moving to a slightly shorter time horizon, I would like now to provide the financial guidance for the fourth quarter 2012. Although Q4 in China is seasonally lower than Q3, we expect that we will be seeing sequential growth as a result of increasing shipments of smartphone units -- chipsets, rather. In Q4, we expect to achieve revenue in the range of $189 million to $196 million, which is a 0.6% to 4.3% increase over Q3 with a flat gross margin.
+I thank you for your time today, and now Shannon and I will be happy to address any question you may have. Operator?
+Question-and-Answer Session
+Operator
+Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions]. Also during the Q&A, please limit your questions to one question and a follow-up.
+And your first question comes from the line of Daniel Heyler of Bank of America. Please ask your question.
+Dan Heyler – Bank of America Merrill Lynch
+Thanks for that, and good morning, Leo and Shannon, appreciate the update. I just had first a quick question just on the roadmap and then maybe a short one on financials. So, Leo, when -- you\'ve talked about the low-end TD market being quite strong. I wonder how the pricing segmentation there needs to be in that market of RMB500 to RMB700 phone? Is that a relatively aggressive environment where you need to -- where your customers need to price pretty low to sustain unit growth? Or are you getting a premium margin on that product?
+Leo Li
+Like I said in my earlier opening statement, the low-end smartphone in China, beginning actually second half this year, is very, very -- we saw very, very -- uptick strong in volume. Reason being, like I said, it is the first-time buyers from 2.5G switching their 2.5G products to smartphones. And I think we just saw a very early stage of this trend. For the RMB500 to RMB700 smartphones, which is like $80 to $100, which actually is more affordable to the first-time buyers and also to the -- because our platform, 8810 and 6820 for EDGE, have offered to our customers of vendors to enable them with a very healthy margin to engage with RMB500 to RMB700 type of smartphones. So that\'s --
+Dan Heyler – Bank of America Merrill Lynch
+I was asking more about your price --
+Leo Li
+Very good performance too. Yes, go ahead, Dan.
+Dan Heyler – Bank of America Merrill Lynch
+Sorry. Thanks. No, I was asking more about your pricing. Can we -- should we think of the margins in that segment for you to be currently at your corporate average or above the corporate average or below the corporate average for the 8810 right now?
+Leo Li
+For the smartphones, I think it\'s above our corporate margin. Usually we don\'t go to too detail to the numbers.
+
+Dan Heyler – Bank of America Merrill Lynch
+Got it. Okay. Thanks. And then finally, on the dual-core that you talked about, the Cortex A5 which is a TD and EDGE product, 1.2 gigahertz, are you currently sampling that? And if so, when would see volume production of that product?
+Leo Li
+Right. Like I said, we are sampling this one in Q4 to customers and we expect a small volume ramp-up in Q1 next year.
+Dan Heyler – Bank of America Merrill Lynch
+And is that 40nm or 28nm, Leo?
+Leo Li
+That\'s 40nm, that\'s 40nm.
+Dan Heyler – Bank of America Merrill Lynch
+That\'s 40nm, thank you. And then, Shannon, on the inventory, I noticed a big inventory increase there. Could you let us know what the dynamics there are, what the mix in that inventory is of products, smartphone versus feature phone? Thanks.
+Shannon Gao
+Sure. A lot of our inventory balance are for the smartphone stocks. So we expect the smartphone shipment will continue to grow in Q4. So we have some inventory ready for the shipment. And the inventory increase is still in line with our top-line growth. So I think that our inventory level is healthy by end of Q3. And in October, a lot of the inventory balance has been absorbed. So we should have good, pretty healthy inventory balance by end of Q4. No worry about that, and we don’t expect to see any inventory write-off in Q4.
+Operator
+Your next question comes from the line of Bill Lu of Morgan Stanley. Please ask your question.
+Bill Lu – Morgan Stanley
+Yeah, hi. Good morning. I\'m sorry if I missed it, but, Leo, you said that smartphone is going to grow in 4Q, but did you give an actual guidance for the number of units in smartphones in 4Q? And also, can you help us with, if you look at the 4Q smartphone shipments, what will be the breakout between TD and EDGE?
+Leo Li
+For the Q3 we saw the higher percentage of -- for TD than the EDGE smartphones for our shipment. I think that the trend will continue, maybe slightly more TD than EDGE. Like I said in my opening statement, earlier this year or second half of last year, there is mostly a 2G or EDGE type of smartphone in China market. Basically they\'re starting to trend for low-end smartphones. However, TD coverage are much improved and then user experience much better. And then on top of that, the cost of TD is much closer to EDGE smartphones than ever before, so that the consumer is sometimes willing to buy the 3G which is now the TD-SCDMA smartphones, than the 2G.
+But overseas we saw that maybe starting more and more interest in buying EDGE smartphones overseas market. This trend will continue.
+Bill Lu – Morgan Stanley
+So you shipped 11 million smartphones in 3Q. What is the number for 4Q?
+Leo Li
+Yeah. Actually you use 30 million minus, what, 12 million, right? Then that gives us -- but I believe the number will be higher than what I, you know, the 30 million minus 12 million.
+Bill Lu – Morgan Stanley
+Okay. So more than 18 million units.
+There\'s been some chatter that maybe some of your suppliers are supply-constrained, for example, for maybe the TD PA and such. If you look at your 4Q shipments, is it supply-constrained or is it demand-constrained?
+Leo Li
+That\'s a good question. In Q3, actually, and also including October, we saw some constraints from the suppliers. Namely, you said that it\'s a PA and some of them, even the memory-related issues. But memory-related issues come into the all the vendors, all the chip suppliers. I think by second half of November PA supply issue will be resolved. And then December, I don’t see major issues.
+So it seems to me that the things limiting us before in late Q3 and the entire October I think will be going away in the second half of Q4.
+Bill Lu – Morgan Stanley
+Okay. And then just a quick question for Shannon. The deferred cost line only came down by a couple of million in 3Q. You have said previously that that I think goes away by end of the year. Should we still expect that?
+
+Shannon Gao
+Well, we expect the balance will continue to decline. However, like I said, we do not have 100% control over it. We need to negotiate with the customer. Now it\'s, you know, Q4 is a quarter that we will launch more new products and we don\'t want to really push the customer too hard for that. However, that balance will definitely not increase because we do not need to offer this return policy anymore based on our improved product quality. However, I cannot really have -- actually predict how fast it will decline.
+Operator
+Your next question comes from the line of Randy Abrams of Credit Suisse. Please ask your question.
+Randy Abrams – Credit Suisse
+Yes, hi. Good morning. The first question, wanted to ask a follow-up on the sales and gross margin guidance. On sales, if you could give your expectation on the feature phone unit and pricing and also, on that line, smartphone pricing, if any aggressiveness into fourth quarter [inaudible]. And on the gross margins, you\'re guiding flat gross margins but mix is improving to smartphones. So maybe de facto keeping margins flat, and if you expect some improvement into 2013?
+Leo Li
+Yes. I\'ll try to emphasize the last part of what you said is true. Definitely the improvement of gross profit margin 2013. And the reason now we guided actually seasonally higher -- higher than seasonality revenue growth and then flat gross margin. Yes, we saw an increase of the smartphone units. And also we\'re actually also seeing the increase of 2G units. In the local China market, you know the pricing pressure, the 2G gross margin actually is pretty low. So the mix -- the result of the mix at this moment still fairly flat for the overall corporate margin guidance. But like I said, so next year we definitely have a much improved product mix and also we will have a more and more -- even 2.5G 40nm product. We are the only company in the world offer 40nm 2.5G product. So we are ramping up in Q4 and more in Q1 and Q2. So even that will further improve our margin.
+So I am confident that further down the road, a few quarters from now, we\'re definitely going to see a much improved gross profit margin.
+Randy Abrams – Credit Suisse
+Okay. And I mean, if you could, in terms of the pricing environment for feature phone and smartphones, what you\'re seeing in the market?
+Leo Li
+Yeah, the feature phones for 2.5G, I think still, you know, this industry is still declining, the ASP. However, I think the downward trend momentum not as strong as earlier this year. So that we still saw some declining and then that\'s inevitable for this industry. But the momentum or the trend may not be as strong as before. And obviously the smartphone and other things with higher gross margin helps.
+Randy Abrams – Credit Suisse
+Okay. The second question, I want to see if you could give a comment on the TD market. Last year we had a real strong surge into yearend on I think China Mobile using up subsidy budget. Could you talk about what you\'re seeing if we may get that similar pattern on strong second half? And then, any kind of slowdown into first half?
+And also, curious on the EDGE market, if you saw any pull-back or slowdown when some of the supply constraints eased, that we had -- or MediaTek was constrained I guess through most of third quarter, but as that eased, if you saw any slowdown on the EDGE channel.
+Leo Li
+Yeah. First, the TD market, like I said, the year-over-year TD market grew so much. This year is 85-something million, last year was around 40 million or 50 million, right? And next year, like I said on my opening statement, 140 million units, which is a tremendous growth in volume, just the TD market.
+And I think you asked for second half of this year, for TD-SCDMA for China Mobile market -- controlled by China Mobile, usually second half is much stronger than the first half, in particular this year because the first half there was management shake-up, there were some issues within China Mobile. But now those issues have not only been resolved, China Mobile determined to push the volume to TD-SCDMA, and also they started to stick TD-SCDMA network deployment, mostly to cover rural area. So I definitely can see that next year the coverage will further improve and then we\'ll definitely see the user experience and other surprising of the handset will be more available to the general consumers next year also.
+
+I forgot your last question. What was it?
+Randy Abrams – Credit Suisse
+One on TD real quick was if there maybe any pause in first half. The market will be strong for all next year, but if we might get a bit of digestion like we had last year. And the other was just on EDGE, if there was any slowdown in EDGE once the supply constraints cleared.
+Leo Li
+Yeah. Before I forget, I\'ll answer the EDGE question first. Yeah, like I said, the EDGE, I think it was very strong in China actually, and now we saw the pricing of TD-SCDMA close to the EDGE and then offer a 3G experience, so that we saw some rising volume in the TD-SCDMA kind of replacing EDGE business, so to speak.
+However, we also see more and more interest in the emerging markets [inaudible] what happened in China, right? Because China, there\'s such a complete surge or change from 2G to smartphones, and also emerging markets we saw more and more interest for the EDGE smartphones too because of lower costs. No royalty and then the overall system cost is lower.
+And then for early next year, I think overall volume is such. I think it\'s not going to be as low as the beginning of this year. But Q1 in China, there were three weeks out, right, I mean the lowest season of the year. So with that, it will be much lower seasonality wise than anything else for the year. However, we definitely see the, in general, in Q1 compared with this year Q1, I think next year Q1 will be better, much better than this year.
+Operator
+Your next question comes from the line of Matt Ramsay of Cannaccord Genuity. Please ask your question.
+Matt Ramsay – Cannaccord Genuity
+Thank you very much for taking my questions. Good morning, Shannon and Leo.
+I guess the first one, Shannon, I just wanted to follow up on the deferred cost program on the balance sheet. You mentioned in your prepared remarks and in response to an earlier question that you expected that program to continue to unwind. I just wonder if you could reconcile the fact then that the advances from customer\'s liability line on the balance sheet was up sequentially and how that relates to that program.
+Shannon Gao
+The advance from customer, it\'s higher for Q3, by end of Q3. It\'s basically because that we got a lot of rush payment from the customer to secure the shipment for the September before October holidays. So that is partially related to the deferred costs. But for this quarter, most of the preferred -- most of the prepayment is not actually related -- directly related to the deferred costs.
+Talking about deferred costs, I think the total amount of that balance has been decreased to in material amount relative to our top line. I think it\'s now not really a significant amount to the total revenue. So I think I answered your question.
+Matt Ramsay – Cannaccord Genuity
+Yes. Thank you very much. I guess as a follow-up -- question in regards to some of the new metrics that you guys have shared about the mix of revenue from smartphones versus feature phones in the quarter. You talked about 11 million smartphones shipped in this quarter and expectation for 18 million for next quarter. First, am I right to [inaudible] smartphone shipments from Spreadtrum excludes any thin modems [inaudible] tier 1 OEMs? And I guess, if you take then -- okay, sorry.
+Leo Li
+Yeah, I answered your question yes. Yeah.
+Matt Ramsay – Cannaccord Genuity
+Okay. And I assume that, could you then take that 37% of revenue that you guys just said this quarter was from smartphones, and divided by that 11 million metric, and is that a pure ASP calculation for smartphones or are those thin modems included in that 37% of revenue mix number?
+Leo Li
+Yeah, 37% mostly address the smartphones. Smartphone include both TD and EDGE. Yeah, like I said, they\'re pure smartphone shipments, not include thin modem, this quarter and next quarter. So, yes, the percentage will be higher because of higher volume, right? However, like I said, also we have increased the 2.5G shipment. We just say, we\'re not declining or stay flat of the 2G shipment numbers, right? So both we see rising numbers, 2G numbers and 3G or smartphone numbers.
+
+Operator
+Your next question comes from the line of Jay Srivatsa of Chardan Capital Markets. Please ask your question.
+Jay Srivatsa – Chardan Capital Markets
+Yeah, thanks for taking my question. Leo, you mentioned more smartphones are going into the open market [inaudible] I guess the question is, is the dynamic in the open market such that it\'s more competitive in terms of pricing? And if so, does it change your own pricing strategy as you look ahead into 2013?
+Leo Li
+I think for the -- as far as open market next year, it will be -- even China Mobile said more than 50% for open market. Open market actually [inaudible] pricing competition [inaudible] actually contributes several [inaudible] China Mobile people sometimes [inaudible] handsets, and obviously, the total volumes. So when you have a so-called open market, you\'re going to have such a variety of the products, right, for different channels.
+And also, China Mobile has a new policy that they\'re going to say provide some money, we call it [inaudible] or calling plans for the open market. So, for the -- to benefit the consumer, for more diversified and richer product features and this and that, China Mobile really wanted to encourage open market. So that\'s more for volumes and the features of the handsets and sales channels than, say, the pricing competition.
+Jay Srivatsa – Chardan Capital Markets
+Okay. My second question was related to LTE. With China Mobile putting a huge subsidy program in place, certainly they want to proliferate the TD handset. What does it do to your own LTE plans and how do you hope to react to that given that China Mobile might be looking at LTE more in 2014 or later?
+Leo Li
+Yeah. Like I said, we have a first ship Q2 this year, we qualified a path to China Mobile\'s outdoor and indoor text. And that\'s a TD-LTE, TD-SCDMA and EDGE. And next, Q2 and early Q3, I don’t know which one, that period we\'ll be launching, introducing what we call a [Fi-mode] LTE modem. [Fi-mode] is TD-LTE, [FTD-LTE], TD-SCDMA, WCDMA and EDGE. And also China Mobile required all the TD -- all the LTE modem was compatible with TD because of network coverage.
+And I think 2014 is a year and then next year, 2013, second half of 2013, maybe small consumer -- commercial deployment by LTE, but larger volume license agreement and everything will be done in 2014. So I think our portfolio and this strategy in line with China Mobile LTE plan. So we work very closely with China Mobile on that too.
+Jay Srivatsa – Chardan Capital Markets
+Thanks.
+Operator
+Your next question comes from the line of Quinn Bolton of Needham & Co. Please ask your question.
+Quinn Bolton – Needham & Co.
+Hi, Leo. I just wanted to ask, you guys are obviously doing a good job on the TD smartphone market, but I was wondering if you might have an update for us on what you think your market share is in the TD segment. And then I\'ve got a couple of follow-on questions.
+Leo Li
+I didn’t really do the calculation, but at least I can more than 50% market share. The real number could be much higher than this. I\'m afraid, I don’t want to say that number because that number is not quite sustainable. So, more than 50% is the right number. Go ahead.
+Quinn Bolton – Needham & Co.
+Okay. And potentially much higher than 50%?
+Leo Li
+Yeah.
+Quinn Bolton – Needham & Co.
+Second question, I think you said in your prepared comments but I just wanted to clarify, for 2013, given the design wins at Samsung for the 2.5G units plus the operator, European operator certification, did you say that you thought your 2.5G units in 2013 would be up from 2012 levels?
+Leo Li
+That\'s my thinking. Actually engaged with first-tier customers and then operators really offers us much improved quality execution and then the feature of the handset and then the other things. I think this is a very important step for Spreadtrum to get into this first-tier customers, because the first tier, not only they have a global view, right, their deployment is global, not just so-called emerging markets, to everywhere. And then also with improved quality, I think our 2G shipments will be more stable, because you know [inaudible] their forecast [inaudible].
+
+Quinn Bolton – Needham & Co.
+And then [inaudible] that you\'ll be shipping small volumes to Southeast Asia and India I believe late in the fourth quarter, was that for verification or testing or is that actual production shipments?
+Leo Li
+It\'s production shipments, small volume. And also we -- I think we [inaudible] trialing in much wider than the area I mentioned [inaudible] and also those products to ship in the area, we have to [inaudible] local operators [inaudible] also.
+Quinn Bolton – Needham & Co.
+Great. Thank you very much.
+Leo Li
+Thank you.
+Operator
+The next question comes from the line of Jessica Chang of Deutsche Bank. Please ask your question.
+Jessica Chang – Deutsche Bank
+Hi, good morning, Leo and Shannon. Can I clarify, currently your gross margin for smartphone product is higher than corporate average?
+Leo Li
+I think so. Yeah, definitely. Shannon reminded me, definitely.
+Jessica Chang – Deutsche Bank
+Yeah, yeah. Because I was a little bit confused, the way you sounded, very --
+Leo Li
+No, no. I -- because I don’t want to get into detail. Remember that there\'s always detail, I don’t want to, you know.
+Jessica Chang – Deutsche Bank
+Right, right. But still moderately higher than average, right?
+Leo Li
+Yeah. Shannon said that definitely higher, so I [inaudible].
+Jessica Chang – Deutsche Bank
+Great. And may I follow? In terms of your margin target going to next year, what\'s the target range for your gross margin and operating margin?
+Leo Li
+I don’t have a so-called, you know we only give guidance for next quarter, right? It will be very dangerous to go too deep. However, I think I said in an answer to some of the questions, we\'re definitely going to see an improved margin next year and year beyond. And also we definitely see, also see the growth top line as well. So, because we have -- we\'re going to have a better product mix, right, and then we\'re going to have a much better customer base, stable customer base, and thirdly, also, we\'re going to have a much better technology, right, more in 40nm instead of 0.152. So with those things and then the TAM, total available market, TDs and others are growing, and then we get into W, and later next year, year after, we\'re getting to LTE, so that we definitely are confident that we\'re going to move into higher growth mode, and both with the top line and bottom line. That includes gross profit margin.
+Jessica Chang – Deutsche Bank
+So, can I say, maybe gross margin improve to around 38% to 40% range is likely range for next year?
+Leo Li
+Like I said, I cannot get into the detailed numbers, right? So I\'ll be, you know, improved margin.
+Jessica Chang – Deutsche Bank
+All right. My last question is regarding your smartphone shipment target for next year. I heard you said 80 million to 100 million units, right?
+Leo Li
+Yeah, eight-zero to 100 million, yes.
+Jessica Chang – Deutsche Bank
+Yes. And then based on this kind of volume, what\'s your, regarding the breakdown TD, EDGE and WCDMA?
+Leo Li
+This is an interesting question because I don’t even know [inaudible] answer TD versus EDGE [inaudible] TD such strong momentum in China market, and also see an increasing interest for emerging markets. So, of the two, which one will be higher, it\'s difficult for me to say. But [inaudible] both of the demand, both of the interest is very strong and rising and going up.
+Jessica Chang – Deutsche Bank
+And then how about WCDMA smartphone?
+Leo Li
+WCDMA demand is naturally, it\'s only just we haven\'t had a product to engage with the market segment yet. So I think Q1 we\'re going to start the sampling and then I think Q2, no more than Q3 I hope, we\'re going to start shipping WCDMA smartphones to that segment.
+Jessica Chang – Deutsche Bank
+Okay. Thank you.
+Leo Li
+Thank you.
+Operator
+Your next question comes from the line of Yolanda Wang of HSBC. Please ask your question.
+
+Yolanda Wang – HSBC
+Hi, morning, Leo and Shannon. Leo, is the first release of WCDMA R4 or R5 or R6 or R7? This is my first question.
+Leo Li
+Maybe R7, right?
+Yolanda Wang – HSBC
+Will be R7.
+Leo Li
+I can get back to you, because this is a little bit too detailed. I think what we offer is the most advanced so far to the market. Because I need to be sure it\'s R-something. I will get back to you.
+Yolanda Wang – HSBC
+It\'s definitely R-something, but you sure it\'s R7?
+Leo Li
+I will get back to you, but it\'s pretty -- because I don’t have the technical with me, so, don\'t put me, you know, sometimes I answer wrong, I\'m put on trial or something, right?
+Yolanda Wang – HSBC
+Okay, okay. I know some of the TD software can be using WCDMA, but how many software engineers are working on Android software porting, not including QA people and sales support people?
+Leo Li
+I don’t know, 300 or 400 software people both in-house and third party. This is what we call platform software people. Yes, about 400-something people working on the --
+Yolanda Wang – HSBC
+Four hundred.
+Leo Li
+Yeah. We don\'t have people working on Windows yet. So I think all my people platform for the smartphones, they are currently working on this, yeah, Android-based.
+Yolanda Wang – HSBC
+Okay. So, all 400. And my last question, how many people are working on Samsung?
+Leo Li
+I don’t know. Many, many of them. Too many I think, yeah. No, no, working with first tier usually requires a lot of resources, right? I don’t know the details, so again, I will get back to you if I think I can answer this question --
+Yolanda Wang – HSBC
+Okay.
+Leo Li
+-- something, and then with some number. I don’t really know actually.
+Yolanda Wang – HSBC
+Okay, sure.
+Leo Li
+But many people --
+Yolanda Wang – HSBC
+Thank you very much.
+-- difficult. Yeah.
+Yolanda Wang – HSBC
+Okay. Thank you.
+Leo Li
+Sure. Thank you.
+Operator
+Your next question comes from the line Eric Chen of Daiwa Capital Market. Please ask your question.
+Eric Chen – Daiwa Capital Markets
+Hi, Leo. My first question is regarding to your -- the product roadmap and in terms of the TD-SCDMA and the EDGE with smartphone and in the first half next year. Could you give us the idea, how much the cost down and what kind of geometry you are going to use? Thank you.
+Leo Li
+I think it\'s this year it\'s only smartphones and next year, at least the first half of next year, the smartphones will be 40nm-based. And actually people sometimes think, if you have a dual-core, replace the single-core, or quad-core replace the dual-core. Contrary is true. Smartphone as a segment, just like feature phones and many other consumer products. Actually we saw lower end of single-core, if the performance is good enough, which our platform very, very good performance, then single-core 1 gig or 1.2 gig, actually it\'s the largest segment for smartphone market, because thinking of the first-time buyers switching from 2G feature phones to 3G. And we have -- we offer new more and more products with higher and higher level of integration. And obviously also with the higher volume of smartphones, our cost structure will be further improved next year also.
+Eric Chen – Daiwa Capital Markets
+So, how much percent cost down roughly you believe? Could you give us idea --
+Leo Li
+This is the number, I have the numbers, I won\'t tell you, right? Because I have -- definitely will further much improve.
+Eric Chen – Daiwa Capital Markets
+Okay. I see. And can I say the other way, what kind of [inaudible] you will see for the TD-SCDMA, and followed by your new TD-SCDMA, the smartphone IC and the EDGE smartphone IC? Right now the end-product price for the TD-SCDMA smartphone is more like the 500-something, right? And we see a new product, what kind of end-product price you believe will reach?
+Leo Li
+Well, I think 400 to 500 today, even 500 depends on the screen and others. There are multiple factors that determine the handset price, because [most likely] actually determined by the screen size, if it\'s 3.2 or 3.5 or 4.0, right?
+
+Secondly, also we saw further improved -- or the overall system cost of the smartphone, not mentioning the LCDs, and also like other than, say, baseband, there are other like peripherals, connectivity, memory, and this and that. So we definitely see that RMB400, can be going to RMB350, and then smaller screen can go even like around RMB300 or further lower. Price obviously -- usually this is a natural thing for consumer products that the higher the volume, the lower the selling price.
+Eric Chen – Daiwa Capital Markets
+Okay. So, RMB350 is likely to be reached, right?
+Leo Li
+Yeah. It can be further lowered. It depends. There\'s a lot of factors. So it\'s very difficult to strictly classify or characterize the thing.
+Eric Chen – Daiwa Capital Markets
+Yeah, very helpful. And my last question, regarding to your Q4, the revenue guidance. And I may have missed something. The one hand I see, the smartphone IC shipment grew like 50% into the 80 million in Q4. And on the other hand, maybe I\'m wrong, you probably talked about your feature phone IC shipment now decline. So I thought that probably is because of ASP down significant. And if [inaudible] based on my calculation, more like the feature phone ASP was down even over 15% quarter on quarter. Does that make sense or something I missed?
+Leo Li
+I can\'t comment on specific numbers, like I usually do. However, I think I can comment on the -- I can say, yes, we expected higher volume for smartphones. However, for the 2G, actually it is following called seasonality of the Q4. The Christmas is there, right, and then there\'s the New Year, there\'s some other things. There\'s a higher season for Q3 and then lower season for Q4. But like I said, we definitely see that the pricing pressure for 2G -- first half of this year is up much, much higher than the second half, so the pricing pressure is not as strong as before. However, whatever percentage down, I can\'t comment on that.
+Eric Chen – Daiwa Capital Markets
+I see. And then may I have one more question? Regarding to the TD-SCDMA, what kind of market size? And this year you talked about 85 million, right? And in terms of smartphone and feature phone breakdown percentage-wise? And how about the next year, the total market size, how you think, and the smartphone surpass, will be very high percentage. How much percent you believe? Thank you.
+Leo Li
+Yeah. For this year, even China Mobile\'s numbers, this year\'s smartphone percentage higher than 65%. Higher the actual number we see actually higher than that. For next year, again according to China Mobile official numbers, higher than 75%. Again my thinking is the number will be higher than 75%, will be 80% to 85% range, all smartphones. So, percentage is very, very high.
+Eric Chen – Daiwa Capital Markets
+Okay. How about the market size, the TD for next year, you\'ll be --
+Leo Li
+Yeah, the market, as I already said, this year is 85 million, next year at least 140 million. Actually some other numbers, some other surveys are much higher than 140 million.
+Eric Chen – Daiwa Capital Markets
+Okay, very helpful. Leo, thank you.
+Leo Li
+Thank you.
+Operator
+Your next question comes from the line of Jack Lu of RBS. Please ask your question.
+Jack Lu – RBS
+Yeah. Hi, Leo. Two questions on your product roadmap. First of all, on the WCDMA smartphones, so it seems that it\'s been delayed for a quarter. What\'s the reason for that?
+Leo Li
+Mostly for a few trial, because this is not -- we\'re shipping that for the Southeast Asia and then for this -- the Indian market, right? Because the [21-meg], actually there are some pretty -- I think a few trial and then making sure passing the operator -- local operator requirement takes longer than we thought. So, yeah, like I said, that\'s the reason we saw small shipments end of this year and then more, ramping up other things Q1 and Q2 next year.
+
+Jack Lu – RBS
+Okay. So the qualification taking longer, is that because of your -- what\'s the issue leading to that?
+Leo Li
+This is the first time for the team have ever engaged. So, usually -- yeah. Actually, if it\'s not without delay, usually they don\'t call a project, right? So when we start a project, we anticipate some kind of a delay.
+However, I think we\'re pretty happy to see the performance of the handset, and also we\'re very happy to see the [acception] of a local operator of our WCDMA product, which is a very good beginning.
+Jack Lu – RBS
+Okay. Two more questions if I may. First of all, on the dual-core TD and EDGE solutions, I think my impression was that this solution is going to integrate connectivities. But on this -- the new slide, it looks like the connectivity becoming external device. So what\'s the reason for that?
+Leo Li
+No. For the first dual-core, because we have -- a few dual-core solutions. So, for the first dual-core we introduce, we do not include connectivity. The reason being actually we -- it\'s not very easy for us to do as good connectivity as those in the first-tier customers. We actually partner with many first-tier customers working very closely to offer connectivity solution on our platform, so that we -- our overall solution could be very competitive both in performance, we can beat anybody in the world, and pricing, we\'ll be very competitive.
+So I think short term we saw a very good cooperation with a third party and then we see the, you know, we don\'t have an immediate to incorporate that in the silicon. And then long term, obviously, we incorporate that in the dual-core and quad-cores, and then moving forward.
+Jack Lu – RBS
+Okay. So basically you find a third party partner you trusted so you decided to make this external first, and ultimately you want to integrate this?
+Leo Li
+Right, right. I think that\'s why we\'re satisfied in the third party bundling solution result. I mean, very competitive both in performance and pricing. I\'m pretty happy about that, yeah. Yes, at this moment we do not see the need yet. So we don\'t incorporate that in our guidance.
+Jack Lu – RBS
+Okay. Lastly, just to clarify, so you are expecting feature phone, 2G feature phone volumes to go down in Q4, what about TD feature phone volumes?
+Leo Li
+TD feature phone is going to be further down. So, actually it dropped from Q1, Q2, Q3 and Q4, further down Q4. Every single quarter the feature phones of TDs going to be dropping. So, yes, that -- not necessarily 2G volume dropping, rather it\'s the TD feature phone volume dropping, replaced obviously by the TD smartphone. However, yeah, the TD feature phone dropping also has an impact negatively on the revenue, total revenue. However, rising smartphones and then small volume rising too in [handset] would help stabilize the volume down-trend and also give us an uptick, outperform the seasonality of Q4 than others.
+Operator
+Your next question comes from the line of Daniel Heyler of Bank of America. Please ask your question.
+Dan Heyler – Bank of America Merrill Lynch
+Okay. Thanks for taking my follow-up. I just wanted to clarify, Leo, because on the feature phone in the fourth quarter, just to confirm, you\'re saying the unit growth for overall feature phones, including TD and EDGE, everything, 2G, is growing in the fourth quarter, is that right?
+Leo Li
+No. The TD feature phone is definitely going to drop.
+Dan Heyler – Bank of America Merrill Lynch
+Okay, in aggregate, all feature phones together?
+Leo Li
+No, no. Yeah, usually, because when I do the comparison, usually bundle the smartphone chips together and the rest of it the feature phones. However, actually among the feature phones, the 2G actually going to go up. However, for the TD feature phone, definitely going to go down.
+
+Dan Heyler – Bank of America Merrill Lynch
+Okay, because I\'m trying to understand, so it sounds like, I\'m just trying to understand this margin question because you\'ve got a massive increase in the smartphone growth from 11 million to 18 million in the fourth quarter and you indicated earlier that the margins on that are definitely higher than feature phones, but your overall margins are flat. So I\'m just trying to understand the dynamic, whether it\'s --
+Leo Li
+This is very easy. I don’t have to go into the detail, but thinking of the feature phone too and the handset volume, much, much higher than the 2G -- than the smartphone volume. Even I give a guidance for like total year for 30 million, however, my 2G volumes are going to be almost 200 million or something. So --
+Dan Heyler – Bank of America Merrill Lynch
+Okay. So you\'re attributing that to pricing then?
+Leo Li
+Right, right. 2G pricing is not as good as the smartphone pricing, that everybody knows.
+Dan Heyler – Bank of America Merrill Lynch
+Okay. And could you give us a sense of the trend line on that 2G pricing? That\'s I think a pretty mature and competitive market in 2G. So the next few quarters, when we think about the 2G decline, because it is such a big part of your units --
+Leo Li
+Yeah, overall declining. This industry, always going downward, not upward. However, I think the pricing pressure was higher earlier this year, first half of this year than second half. So I think its downward pressure is not as strong. And then with our 40nm things improve the cost structure, I think we are going to be doing even better in 2G than before, next year than this year.
+Dan Heyler – Bank of America Merrill Lynch
+Maybe we think about a 5% quarter-on-quarter decline just for the purpose of modeling over the next few quarters?
+Leo Li
+Again, I never, yeah, I can\'t give you specific comments or specific numbers, right? So, sorry.
+Operator
+My apologies. We have now run out of time. And I would like to turn the call over to management for closing remarks.
+Leo Li
+Thank you. We are very pleased with the growth in our smartphone products and our engagement with the global first-tier handset-makers. Look forward to continuing growth in 2013 with more smartphone offerings, a four WCDMA product portfolio, a multimode LTE solution, and more highly-integrated products. We thank you for continuing interest and support today.
+Operator?
+Operator
+Thank you for your participation in today\'s conference. This concludes the presentation. You may now disconnect. Have a good day.

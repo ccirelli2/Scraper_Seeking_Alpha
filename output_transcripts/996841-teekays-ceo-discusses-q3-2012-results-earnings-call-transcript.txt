@@ -1,0 +1,176 @@
+Teekay Offshore Partners LP (NYSE:TOO) Q3 2012 Results Earnings Call November  9, 2012 12:00 PM ET
+Executives
+Peter Evensen - Chief Executive Officer
+Vince Lok - Chief Financial Officer
+Kenneth Hvid - Chief Strategy Officer
+David Wong - MLP Controller
+Analysts
+Michael Webber - Wells Fargo
+Richard Diamond - Strait Lane Capital Partners
+Christopher Combe - J.P. Morgan
+Edward Rowe - Raymond James
+Martin Roher - MSR Capital Management
+Operator
+Welcome to the Teekay Offshore Partners’ Third Quarter 2012 Earnings Result Conference Call. During the call, all participants will be in listen-only mode. Afterwards, you will be invited to participate in a question-and-answer session. (Operator Instructions)
+As a reminder, this call is being recorded. Now for opening remarks and introductions, I would like to turn the call over to Mr. Peter Evensen, Teekay Offshore Partners’ Chief Executive Officer. Please go ahead, sir.
+Company Participant
+Before Mr. Evensen begins, I would like to direct all participants to our website at www.teekayoffshore.com, where you will find a copy of the third quarter of 2012 earnings presentation. Mr. Evensen will review this presentation during today\'s conference call.
+Please allow me to remind you that our discussion today contains forward-looking statements. Actual results may differ materially from results projected by those forward-looking statements.
+Additional information concerning factors that could cause actual results to materially differ from those in the forward-looking statements is contained in the third quarter of 2012 earnings release and earnings presentation available on our website.
+I will now turn the call over to Mr. Evensen to begin.
+Peter Evensen
+Thank you, [Ryan]. Good afternoon, everyone. And thank you for joining us on our third quarter of 2012 investor conference call. I’m joined today by Teekay Corporation’s Chief Financial Officer, Vince Lok; Teekay’s Chief Strategy Officer, Kenneth Hvid; and MLP Controller, David Wong.
+During our call today, I’ll be walking through the third quarter of 2012 earnings presentation, which can be found on our website.
+Starting on slide number three of the presentation, I’ll briefly review some of Teekay Offshore’s recent highlight. We generated distributable cash flow of $38.6 million in the third quarter, which is in line with last quarter, if we exclude the one-time charter termination fee, which we received in June.
+For the third quarter, we declared and today paid cash distribution of $0.5125 per unit, which is consistent with the last quarter. During the quarter Teekay Offshore agreed to acquire the Voyageur Spirit FPSO from Teekay Corporation for $540 million.
+The unit is expected to generate approximately $70 million in annual cash flow from vessel operations and is expected to close upon first oil on the Huntington field, which is targeted for mid-December. We will provide specific guidance next quarter with respect to the Voyageur Spirit acquisition, which is expected to be accretive to distributable cash flow per unit.
+However, I want to note that we will likely not be able to pass-through the entire amount of accretion from the Voyageur, as some of it will be needed to absorb lower cash flow, which we expect from some of our older shuttle and conventional tankers whose charters are rolling off over the near-term.
+And as you will the just note from some press releases crossing the wire. I\'m also pleased to announce that today Teekay Offshore has agreed to acquire a Hiload DP offshore loading unit from Norwegian company Remora AS for approximately $55 million and this acquisition is subject to securing a 10-year charter contract with Petrobras in Brazil. I\'ll discuss this exciting acquisition in more detail later on today\'s call.
+
+Finally, as I highlighted last quarter, Teekay Offshore remains in a strong financial position with $569 million of liquidity in the form of cash and undrawn revolving credit facility, which only $170 million will be used for the completion of the Voyageur, FPSO acquisition.
+Turning to the slide number four, I wanted to update you on the Voyageur Spirit FPSO acquisition. Last November, Teekay and Sevan begin jointly working toward the completion of the necessary upgrades on this FPSO, to service a new contract with the German Power and Gas Company E.ON.
+Those upgrades are now complete and the unit is in the final process of cooking up on the Huntington field in the U.K sector of the North Sea. Once first oil is achieved which is targeted for mid December, the FPSO will commence a five-year firm period chart of contract. With extension option, the total contract length would be 15 years.
+Teekay Offshore has agreed to buy the FPSO unit once it commences its charter. The acquisition will be financed through a portion of the net proceeds from the partnership $211.5 million public equity offering which we completed in September, of $40 million equity private placement to our sponsor, Teekay Corporation, upon completion of the transaction and the new $330 million debt facility.
+On slide number five, I will discuss the acquisition we announced today of a 2010-built HiLoad Dynamic Positioning unit from Remora AS for a total purchase price of approximately $55 million, including approximately $17 million of required upgrades necessary for the contract.
+The HiLoad DP unit is an innovative, dynamic positioning technology that temporarily attaches to conventional tankers to enable the direct offloading from offshore oil field units. This process allows conventional tankers to load offshore and transport the oil long-haul directly to the refinery without the need for a shuttle tanker or an onshore storage terminal or even an offshore storage terminal.
+This acquisition is subject to finalizing a 10-year contract with the HiLoad unit with Petrobras in Brazil and includes Teekay Offshore’s commitment to upgrade the unit to meet the required specifications of the Petrobras contract.
+We’ve been following this technology for several years and are excited about the application of this technology in the offshore space. And this fixed-rate charter with Petrobras, one of our largest existing customers validates the technology.
+Under the terms of the Petrobras contract, the $55 million total acquisition cost represents an enterprise value to EBITDA of approximately 4.5 time. And we expect this unit to start earning the full contract rate in December of 2013.
+As past of this transaction, our sponsor Teekay Corporation has also agreed to acquire a 49.9% ownership interest in Remora and the partnership will also enter into an omnibus agreement similar to the agreement we currently have with Sevan whereby Remora is obligated to offer future HiLoad units to Teekay Offshore.
+Moving on to slide number six, this transaction with Remora has a number of strategic benefits to Teekay Offshore. The HiLoad DP technology compliments our existing shuttle tanker operation and broadens our offshore loading service offering.
+In long-haul export markets such as Brazil where you have a lack of transhipment terminals and increasing oil production for export, the HiLoad DP unit is a necessary offshore loading solution.
+We also see further growth opportunities for the HiLoad Technology down the road as other deepwater markets develop such as West Africa. In addition, the omnibus agreement between Teekay Offshore and Remora creates another channel for future growth opportunities for our partnership.
+In addition, to potential direct acquisitions of organic offshore projects and third-party asset, Teekay Offshore will now have access to three project development houses in Remora, Sevan Marine and our sponsor Teekay Corporation.
+
+Turning now to slide number seven, I’ll review our consolidated operating results for the quarter, comparing an adjusted Q3 2012 income statement to an adjusted Q2 2012 income statement, which excludes the items listed in Appendix A of our third quarter earning release and reallocates realized gains and losses from derivatives to their respective income statement line items.
+Net revenues increased by $5.1 million due to an increase in project revenues from our shuttle fleet, primarily related to the Scott Spirit being used for early well testing at the Bentley Field. FPSO revenue also increased as the Petrojarl Varg returned in the third quarter from its planned maintenance shutdown in the second quarter.
+This was partially offset by the scheduled dry-docking for the Navion Saga floating storage. Vessel operating expenses increased slightly due to maintenance on the Navion Saga unit during its dry-dock, Time-charter higher expenses increased by $1.9 mainly due to higher spot in chartering to serve our contract of affreightment contract.
+Depreciation and amortization expense decreased by $2.2 million mainly due to the completion of amortizing dry-dock expenditures on several vessels last quarter. General and administrative expenses increased by $1.2 million primarily due to higher cost in the FPSO segment. 
+Net interest expenses remained relatively flat compared to the prior quarter. So looking at the bottom line, adjusted net income attributable to the partnership increased to $24.3 million in the third quarter of 2012, up from $20.6 million in the previous quarter. 
+I won’t walk through all of slide number eight, which was included in our earnings release. However, I would like to highlight the information in the box at the bottom of the slide.
+We generated approximately $38.6 million in distributable cash flow, which when compared to our total distribution payout resulted in the coverage ratio of 0.87 times for the third quarter. The coverage ratio would have been 0.97, if we exclude the issuance of the 78-- 7.8 million new units in September 2012.
+We expect our results for the first quarter of 2013 to improve meaningfully, as a result of the pending acquisition of the Voyageur Spirit FPSO.
+Thank you for listening. And operator, I\'m now available to take questions.
+Question-and-Answer Session
+Operator
+(Operator Instructions) And our first question comes in from Michael Webber from Wells Fargo. Please go ahead.
+Michael Webber - Wells Fargo
+Hey, guys. How are you?
+Peter Evensen
+Fine. Thanks.
+Michael Webber - Wells Fargo
+Good. Wanted to touch on couple of things and obviously or not, Remora release, the deal you just highlighted just came across. I guess, when you are talking to the accretion on Voyageur, you mentioned that you had incurred a loss and some terminations that we would kind of beat away with that.
+The accretion from the Voyageur, we need to absorb some of the impacts. And I know that some of those older tankers are basically laid up, waiting for expansion FPSO conversion. So, I was just curious if you could maybe give a per share or distributable cash impact at least at this point to those older tankers, so we have an idea about what the take out from the Voyageur?
+Peter Evensen
+Thanks for asking, but we are not ready to give guidance on that yet. All we are saying is that the full $70 million won’t be through the dividend, but the vast majority of it will.
+Michael Webber - Wells Fargo
+Okay. No. That’s fair. On the Teekay parent call, you mentioned or you highlighted, I guess kind of reworking the shuttle tanker operations at the parent level. I’m just curious what sort of kind of lead or impact you think that will have down at TOO if any?
+Peter Evensen
+Well, that’s right. We are looking at redoing the shuttle tanker operations in order to save costs and make them more efficient and safe. And we haven\'t given specific guidance on it, but I would imagine the savings that will come on a run rate, probably mid-2013 would be somewhere on the order of $5 million to $8 million.
+
+Michael Webber - Wells Fargo
+Okay. That’s helpful. And I think it’s the same what we are hearing on parent. I guess lastly and I will turn it over. But just on Remora, they were all kind of still processing, but it certainly seems like it add an attractive valuation on its differentiated assets.
+Can you maybe give some color in terms of what they asset base looks like up at Remora with the parent taking up the decent size, given the role it seems like a decent drop down pipeline, but is not sure what their asset base looks like and then how that could actually impact you guys down the line over the next couple of years?
+Peter Evensen
+Sure. Well, first of all, you should look at the technology and I\'m sure you can Google, Remora. They have a nice website, Remoratech, all one word.com and you can see how the technology works. They only have one unit and it\'s just been in development testing. So we needed to have it validated by Petrobras.
+And then Teekay’s operations can really help Remora with getting contracts going forward. So they only have this one unit. We believe that there is space to fill many more units going forward, which is why Teekay Corporation is taking 49% stake in Remora. So we have to prove it with the customer, but we are comfortable having done our due diligence over the last few weeks, that it\'ll work and we’ve also been with Petrobras and working with it.
+So our units in Stavanger and Rio have been involved with this acquisition. And so, I apologize that it came five minutes midnight before the call, but you have to put these things out as they finish.
+Michael Webber - Wells Fargo
+No.
+Peter Evensen
+We are excited about it and as you pointed out, the enterprise -- the EBITDA of four and a half times means it should be and will be an accretive transaction. But it doesn\'t start until December of next year. So there is some way out, but it adds to our growth pipeline, which I think is important.
+Michael Webber - Wells Fargo
+Sure. I mean, if memory is sharp, this has been putting around on your risk section for a while in terms of things you guys have been looking at, and seems like it wasn’t quite ready, at least from a technological perspective. I guess, Peter, I’m you sure you had these conversations before making investment there. I mean, you are king of waiting on validation and it seems like you are close to getting and if you don’t, you already have it from Petrobras. Can you maybe give a little color in terms of the level of interest from others at this point, or are these still kind of in a wait and see mode as well?
+Peter Evensen
+No. We actually also are already talking to other oil companies, mostly operating down in Brazil, because Brazil is a classic place as opposed to the North Sea where we see -- where we don\'t see that technology being as compelling as we do down in Brazil. Brazil suffers from the fact that it doesn\'t have on-land terminal, so your choice is either to bring shuttle tankers to floating FSOs, which is a cabotage trade meaning Brazilian flag shuttle tankers.
+And then re-transported onto conventional tankers or they have to build out berthing facilities for conventional tankers. And Brazil has so many fields that this is a perfect technology in order to eliminate the shuttle tanker step. And so, what it does is, is it turns the conventional tanker temporarily into having dynamic positioning capabilities, because the risk when you bring a conventional tanker up, which doesn\'t have bow thrusters or variable pitch propellers is that, it could collide with an offshore unit.
+So when you put this Remora unit onto it, it actually gives it the ability to maneuver in many more ways than a normal conventional tanker would be able to, and in doing that you can then come up and load it. So it loaded from onto the unit, onto the Remora unit and then the Remora unit just connects up into the normal flanges you have on conventional tanker.
+
+So you don\'t need all the expense of a shuttle tanker. But having said that, we still see a place for shuttle tankers, because there\'s a lot of shuttle tanking that will go on inside of Brazil but it does limit. It can reduce or eliminate the need for floating storage unit, or sending a shuttle tanker on long-haul routes, say from Brazil up to the Caribbean, which is an inefficient use of a shuttle tanker.
+Michael Webber - Wells Fargo
+Sure. Sure. That’s really helpful, Peter. I appreciate the time. Thanks.
+Peter Evensen
+Thank you.
+Operator
+And our next question is coming in from Richard Diamond from Strait Lane Capital Partners. Please go ahead.
+Richard Diamond - Strait Lane Capital Partners
+Good morning. I have two quick questions. Let me ask, one, sort of the Remora investment will not hurt our existing shuttle tanker utilization? And secondly there were rumors in the marketplace yesterday about Petrobras returning 10 older rigs, and I wondered if there were any -- if that is indeed the case, if there are any implications for Teekay?
+Peter Evensen
+Okay. So your first -- your second question was about Petrobras and your first was about the technological risk of this?
+Richard Diamond - Strait Lane Capital Partners
+Yeah. Are we eliminating, are we hurting our own shuttle tanker business?
+Peter Evensen
+Well, I think it is both defensive and offenses. However, what you have to remember with Brazil is they are trying to double their oil production by 2020. So they have a lot of units that. So we see this as complementary rather than as a real threat to our shuttle tankers, most of which operate in the North Sea.
+In the North Sea, we said we think it\'ll still be a point-to-point type of technology. But in the more benign waters of Brazil that also have long haul, we think this is an additive of service offering that will go forward to help and put more units into production. So on balance, I would agree that the growth in shuttle tankers might be less because of this. 
+But I think our partnership should try to -- our mission is to provide offshore loading. And whether it comes in the form of this unit or whether it comes in the form of shuttle tankers, we are still meeting the customer\'s requirements.
+But in order to -- but technology doesn’t -- isn’t always immediately accepted by the energy community and so you need to have it validated by the customers. So that’s why we are complementing our relationships with Petrobras and having Teekay operate the unit, has given more confidence.
+As far as the rumors of Petrobras (inaudible) rigs, I actually haven\'t seen those. So, I can\'t really comment upon them, other than to say we are in the production part of Petrobras’ supply chain, not in the exploration side.
+So, when our units come on, they\'re generally needed as the production is long tailed. So, I don\'t know whether those rigs were used for exploration or development drilling. But once you go into production, you don\'t need the drilling rigs per se.
+
+Richard Diamond - Strait Lane Capital Partners
+Thank you.
+Operator
+Thank you. And our next question is from Christopher Combe from J.P. Morgan. Please go ahead.
+Christopher Combe - J.P. Morgan
+Hello, everybody. A quick question on the acquired asset. When do the actual upgrades commence work?
+Peter Evensen
+We will start to do the upgrades in probably in the next 30 to 60 days. And then the unit will transport down to Brazil, and then it will go through testing with Petrobras, for four months and then we anticipate it will start in December of 2013.
+Christopher Combe - J.P. Morgan
+Okay. And, is that really the key milestone in terms of finalizing the contracts, successful testing?
+Peter Evensen
+That\'s right.
+Christopher Combe - J.P. Morgan
+Okay. And in terms of the $55 million, I think there was some flight but does that fully reflects the acquisition cost of the 49% stake in Remora.
+
+Peter Evensen
+No. That is the cost of the unit and Teekay Corporation will be taking a 49% interest for approximately $4 million.
+Christopher Combe - J.P. Morgan
+Got it. And the $55 million purchase price, what\'s a good assumption in terms of debt versus equity mix. It looks like you have about 40 million of access from the equity raise, if the math is correct?
+Peter Evensen
+Yeah. I think we could finance it 50% to 60%. We tried to finance our acquisitions at a lower leverage rate.
+
+Christopher Combe - J.P. Morgan
+Got it. Okay. And lastly, looking to -- just a bit more color on your comment about potential increase in Q1 ’13 on payout. How should we think about the path back toward the targeted coverage ratio in light of the numerous dropdowns between now and \'14?
+Peter Evensen
+If I understood your question correctly, we’re aiming toward a coverage ratio of 1.1 to 1.15 time. And so as the acquisitions come in, we were a little light as I pointed out. We were about 0.1 light. If you take out the equity offering that spend for the Voyageur then we’re at 0.97, so call it 0.1 light on that.
+And so, we’re -- that’s what we aim for 1.10 to 1.15 times coverage. And that\'s part of the reason we don’t want to pass through the whole coverage, the Voyageur because we want to rebuild that coverage ratio.
+Christopher Combe - J.P. Morgan
+Okay. That’s clear. Thank you.
+Peter Evensen
+Thank you
+Operator
+Thank you. And our question comes in from Edward Rowe from Raymond James. Please go ahead.
+Edward Rowe - Raymond James
+Hi. Good morning. In terms of the process of restructuring ownership improve the tax efficiency for the Foinaven and how\'s that coming along right now?
+Peter Evensen
+So, we’re not restructuring the ownership. We are working with BP and this for everyone’s knowledge, this is a FPSO, which is up at Teekay Corporation, where we have to make some changes to the contract that BP has to agree to before. It would be eligible to be dropdown.
+We’re still working with BP on it. And that involves changing around -- it’s actually structure as it comes off of effectively. So, we continue to work with BP, I am trying to finalize the documents. So it would be eligible to be dropped down into our partnership. I would see that, I guess I would say that’s probably second, third quarter 2013 of that.
+Edward Rowe - Raymond James
+Right. Thank you. And next question in regards to the Petrojarl I, FPSO how is demand looking for this vessel and would you -- because I think Statoil contract is going to roll-off April 2013. I would undergo for maintenance for say four to six months and then if you got a contract acquired for project we recommend six months after for redeployment?
+Peter Evensen
+Yeah. Again, just for everyone the Petro I is owned by our sponsor Teekay Corporation. So, even though, its contract is ending it. It has no effect on the distributable cash flow of our partnership. But what we\'ve said is we’re waiting for a new contract, before we would -- it would be eligible to be bought by our partnership.
+So, we see it is a real benefit because it -- this unit can produce up to 30,000, 40,000 barrels of oil a day, you was on a field where was only making 4,000 what that was producing 4,000 barrels of oil a day. So, we really weren\'t getting and we had a contract where we were incentive per barrel of oil.
+So, we weren’t getting the maximum cash flow that this unit can produce. So, we’re getting it about a year earlier than what we thought we would get of the expected depletion of it equipment field and so it actually gives us the opportunity to employ it earlier.
+The good news about this unit is that it is eligible to work on the Norwegian sector of the North Sea and it\'s been redeployed over 10 times, since there was built in 1986. So, I would actually see that, it has a good chance of getting the contract and that\'s why we said that it -- that we are already in discussions with people on reemploying it, because there\'s marginal oilfield in both the Norwegian sector in the U.K. sector that where if you put a new building FPSO on it that would cost too much.
+
+So, when you have an existing unit that’s eligible to work on the Norwegian sector. It’s actually in a very good position to get a contract. So, we\'re optimistic on getting contract that would ultimately mean it would generate more EBITDA and then we would -- it would be eligible for Teekay Offshore Partners to purchase.
+Edward Rowe - Raymond James
+All right. Thank you very much.
+Peter Evensen
+Thank you, Chris.
+Operator
+(Operator Instructions) And our next question comes in from Martin Roher from MSR Capital Management. Please go ahead.
+Martin Roher - MSR Capital Management
+Yeah. Congratulations on this acquisition, it looks attractive. The question I have is on the debt you’ve announced on the Voyageur Spirit that $30 million. Can you share with us the cost and maturity of that. I am curious what the market allows you to do these days?
+Peter Evensen
+Sure, Marty. Vince, do you want to take that.
+Vincent Lok
+Sure, Marty. It’s -- this is the existing facility on the Voyageur is $230 million, which is sitting with the volumes. Essentially what we are doing is upsizing that facility by $100 million to $330 million and the pricing is pretty difficult, other recent financing we’ve done. It’s little bit over a LIBOR plus 300 basis points or so. And that it’s the term of the E.ON contract, which is five years, so those are rough terms.
+Martin Roher - MSR Capital Management
+Terrific. Thank you.
+Operator
+Thank you. And there are no further questions at this point. Please continue.
+Peter Evensen
+Okay. Thank you all very much. As you see there is a lot going on in the partnership. We’re very excited about the Voyageur Spirit and as you see we’re already planning for future opportunities beyond that. So, I think this will help revitalized this acquisition moreover will help to revitalize our shuttle tanker franchise and of course, the FPSO franchise remains in a quite bullish mode. Thank you for all very much. We look forward to reporting to you next quarter.
+Operator
+Ladies and gentlemen, this concludes the conference call for today. We thank you for your participation. You may now disconnect your lines and have a great day.

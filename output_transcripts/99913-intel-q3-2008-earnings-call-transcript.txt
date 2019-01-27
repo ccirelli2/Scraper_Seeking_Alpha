@@ -1,0 +1,319 @@
+Intel Corporation (NASDAQ:INTC) Q3 2008 Earnings Call October 14, 2008  5:30 PM ET
+Executives
+R. Kevin Sellers - Vice President, Investor Relations
+Paul S. Otellini - President, Chief Executive Officer, Director
+Stacy J. Smith - Chief Financial Officer, Vice President
+Analysts
+Uche Orji - UBS
+John Barton - Cowen & Company
+Ross Seymore - Deutsche Bank
+James Covello - Goldman Sachs
+Glen Yeung - Citigroup
+Sean Connor - FAS
+Hans Mosesmann - Raymond James
+Sumit Dhanda - Banc of America
+John Pitzer - Credit Suisse
+Chris Danely - J.P. Morgan
+Joanne Feeney - FTN Midwest
+Srini Pajjuri - Merrill Lynch
+Tim Luke - Barclays Capital
+Auguste Richard - Piper Jaffray 
+Cody Acree - Stifel Nicolaus 
+Operator
+Good day, ladies and gentlemen, and welcome to the third quarter 2008 Intel Corporation earnings conference call. (Operator Instructions) I would now like to turn the presentation over to your host for today’s conference, Mr. Kevin Sellers, Vice President of Investor Relations, Intel. Please proceed, sir. 
+R. Kevin Sellers
+Thank you, Amanda and welcome everyone to Intel\'s third quarter 2008 earnings conference call. Joining me on today’s call are Chief Executive Officer Paul Otellini and Chief Financial Officer Stacy Smith. This call is being webcast live and a replay will be posted to our website at around 5:00 p.m. Pacific Time and will remain there for approximately two months. 
+Paul will start with a few comments on the quarter, as well as some thoughts about the macro environment, and Stacy will follow with more detail on both our financial performance as well as our fourth quarter outlook. 
+Two quick items as we begin -- first if during this call we use any non-GAAP financial measures or references, we will post appropriate GAAP financial reconciliations to our investor website, intc.com, after the call. And second, a reminder for everyone that today’s discussion does contain forward-looking statements based on the environment as we currently see it and as such does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. 
+So with that, let me now hand it over to Paul. 
+Paul S. Otellini
+Thanks, Kevin and thank you for joining our call today. Intel again delivered strong financial results, with Q3 marking the fifth consecutive quarter in record -- 
+[Technical Difficulties]
+R. Kevin Sellers
+Amanda, we’re having feedback problems. 
+Operator
+I heard it. 
+R. Kevin Sellers
+Amanda, can you hear us? Okay, it sounds like we are back online. 
+Operator
+Yes, sir, you sound fine. 
+R. Kevin Sellers
+Thank you. We can continue then? Okay. 
+Paul S. Otellini
+First of all, let me apologize for that glitch. That system clearly doesn’t have Intel products in it. Let me start again. Thank you, Kevin and thank you for joining our call today. Intel again delivered strong financial results, with Q3 marking the fifth consecutive quarter of record quarterly revenue. While revenue grew 8% over the second quarter, operating income grew a healthy 37% to just over $3 billion. In Q3, we shipped an all-time record number of microprocessors, driven by strength in mobile. The Atom family is off to a very good start, with Atom microprocessor and related chipset revenues approximately $200 million this quarter. Total microprocessor ASP was lower than Q2 but was approximately flat without Atom, reflecting strength in the core business. 
+Our chipset business also had record units and revenues in the quarter. Our disciplined execution is a critical strength to us. Our product lineup is extremely well positioned across the spectrum of computing. In particular, I am pleased to announce that we began shipments of our Nehalem product family during the third quarter and expect to formally launch these products in November. Nehalem brings a new micro architecture and new performance features. This new product family will further extend our performance leadership in microprocessors. 
+
+We also continue to see strong acceptance of our Atom microprocessor family, which was designed to enable new mobile Internet form factors at attractive system price points with healthy product margins for Intel. 
+I want to take a minute and reflect on a number of important actions that the company undertook in 2006 and 2007. These actions put us in an excellent operating position for changing economic conditions. 
+Our current employee base is approximately 20,000 heads lower than our peak in 2006 and we have removed over $3 billion in spending. We’ve made a large number of changes in our operations that have prepared us well for a variety of economic scenarios. Our business model generates strong cash flows with Q3 operating cash flows of over $3 billion and a current cash position of approximately $12 billion. 
+With very little debt, our balance sheet is in excellent condition. 
+Turning to NAND -- 
+[Technical Difficulties]
+Paul S. Otellini
+I’m assuming that you can hear me. Turning to NAND, last week Micron announced our joint decision to shut down 200-millimeter NAND operations. In addition, the IMFF planned Singapore fab is now on hold as we continue to take actions to reduce supply in light of current market conditions. 
+On the product side, we launched our solid state drive product family in Q3 to outstanding reviews and are currently ramping those products, giving us a lead in the higher margin segment of the NAND business. 
+Now let me speak briefly about what we see in the market today and how that has shaped our outlook. Q3 played out mostly as we expected it to when we began the quarter. We saw some softness in September in the corporate segment while consumer was more seasonal. As we head into Q4, we see some mixed signs. We expect the corporate segment to continue to show some softness as IT spending gets rationalized in this macro environment. 
+Inventories in total seem in reasonable shape, with Taiwan and channel customers cutting back and some OEMs building a bit. In general, consumer traffic overall is light at this point in the quarter but we do see continued healthy interest in notebooks and netbooks. Our channel business began Q4 in good shape in terms of inventories and sales out. 
+It’s clear that the financial crisis is creating some [inaudible] that may impact our business but the extent of that is difficult to quantify. As a result, we’ve made two changes for this quarter -- one, our outlook has a wider range than normal, reflecting our view of the boundaries of the risks, and two, we’ve decided to provide a formal mid-quarter update scheduled for December 4th to allow us to give you additional information about the state of Q4 business trends as the business and financial conditions unfold. 
+Let me now turn the call over to Stacy for a more detailed look at our financials. 
+Stacy J. Smith
+Thanks, Paul. Intel had a strong third quarter. We have third quarter record revenue, operating income of over $3 billion, gross margin of 59% and operating margin of 30%, reflecting the strength of our product portfolio, process technology, manufacturing operations, and focus on efficiency. 
+Revenue of $10.2 billion was up 8% from the second quarter, in line with average seasonal trends. Revenue of microprocessors excluding Atom was in line with seasonal patterns on flat average selling prices. Third quarter revenue for Atom based microprocessors and associated chipsets was approximately $200 million, including Atom microprocessor revenue, overall microprocessor average selling prices declined. 
+The mobility group accounted for over 45% of total revenue. This revenue of $4.7 billion was up 23% from the second quarter, with microprocessor strength in every notebook segment. 
+On a geographical basis, Asia-Pacific and Japan experienced better than seasonal revenue growth at approximately 12% each. Relative to seasonal patterns, EMEA was at the low end while the Americas lagged due to weakness in the corporate segment. 
+
+Gross margin of 58.9% was up 3.5 points from the second quarter and up over 7.5 points from the third quarter of 2007. Versus the second quarter, a couple of points of the increase came from lower microprocessor unit costs and about a point came from microprocessor volume increases in the third quarter. Versus the midpoint of the outlook range set in July, third quarter gross margin was up nearly a point on lower-than-expected microprocessor unit costs. 
+Spending on R&D and MG&A was $2.9 billion, flat to our forecasted range and flat to the second quarter. Gains losses on equity investments and interest and other income was a net loss of $265 million, higher than our outlook net loss of $30 million. Volatile conditions in the memory market segment resulted in a $250 million impairment on our investment in Numonyx. 
+The provision for taxes in the third quarter was at a 29% effective tax rate, lower than the 33% previously forecasted, primarily due to a tax reorganization enabling the recognition of previously unrecognized non-U.S. losses, and a provision to return true-up related to 2007. 
+Total cash investments comprised of cash, short-term investments, and fixed income trading assets ended the quarter at $11.8 billion, approximately $275 million higher than the second quarter. The credit quality of our fixed income investment portfolio remains high, with other than temporary losses during this tough credit environment minor at under $15 million in the third quarter. 
+Cash flow from operations was over $3 billion. Capital spending was nearly $1.4 billion, dividend payments were nearly $800 million, and stock repurchases were $2.1 billion. As we turn now to the outlook for the fourth quarter, please keep in mind that unless otherwise specified, the forecasts do not include the effects of any new acquisitions, divestitures, or similar transactions that may be completed after October 13th. I will use the midpoint of the forecast ranges when making comparisons to specific periods. 
+While our results in the third quarter were strong, and we have high confidence in the fundamentals of our business, the financial crisis is creating a high degree of uncertainty around fourth quarter demand. Therefore we believe there is a broader than normal range of possible outcomes for fourth quarter revenue, ranging from $10.1 billion to $10.9 billion. The low-end of this range is slightly down from the third quarter, while the high-end of this range is at the lower end of seasonal patterns. 
+Our expectation for gross margin percentage in the fourth quarter is 59%, plus or minus a couple of points, flat to the third quarter. Spending for R&D and MG&A in the fourth quarter should be approximately $2.9 billion, flat to the third quarter. Additionally, in a separate category for restructuring and asset impairment charges, we expect expenses of approximately $250 million. $200 million of this restructuring charge is related to the shut-down of 200-millimeter NAND manufacturing facilities that are part of the Intel Micron joint venture. 
+Our estimate for gains and losses from equity investments and interest and other income is a net loss of $50 million. 
+Our forecast for the effective tax rate for the fourth quarter is 29%, reflecting the R&D tax credit that was recently signed into law, restoring the credit to the beginning of 2008. 
+Spending for R&D and MG&A for the full year is now forecasted to be approximately $11.5 billion, down from our prior forecast of $11.7 billion, primarily due to revenue and profit dependent expenses and foreign exchange rate changes. 
+Our forecast for capital expenditures has been reduced $200 million to $5 billion, plus or minus $100 million. 
+Year-to-date, actual gross margin plus the midpoint of the forecast range for the fourth quarter, leads to full-year gross margin of approximately 57%, consistent with our prior forecast for an annual gross margin of 57% plus or minus a couple of points. 
+
+While the economic outlook has deteriorated over the past quarter, our competitive position has strengthened. Our strong product portfolio continues to get better. Our manufacturing leadership maintains us at a generation ahead of competition. Our healthy cash flow generation, a strong balance sheet, and the focus we have had on improving efficiency over the past two years has put us in an outstanding position to come out of this economic downturn even stronger. 
+With that, let me turn it back to Kevin for Q&A. 
+R. Kevin Sellers
+Okay, thanks, Stacy and Paul. Our apologies to those of you on the phone for the technical difficulties there. As we enter the Q&A section, if there is anyone that would like us to restate a portion of any scripts if they didn’t come through well, please do highlight that and we’ll be happy to do that for you. 
+Amanda, we’re going to now move into questions. What we would like to do is ask each questioner to limit themselves to one question and one follow-up and I will cue Amanda to do that. And again, if you need clarification of something that didn’t come through clearly, please do let us know and we will not hold that against you as a question. We will let you keep asking the questions. 
+So Amanda, we’ll now turn it over to the first questioner. 
+Question-and-Answer Session
+
+Operator
+(Operator Instructions)  Your first question comes from the line of Uche Orji with UBS.
+Uche Orji - UBS
+Thank you very much. First question, Paul, if I look at it, 3Q mobile revenue, that definitely came across very strong. How much of that do you think may have been pulling in from the fourth quarter? And also, if I look at the fourth quarter guidance, of course I know there’s a wide range of outcome but ideally, fourth quarter tends to be more front-end loaded. So what could influence this outcome, given that we’ve already seen some part of October? So are we -- hopefully you can clarify that. 
+Paul S. Otellini
+Well, let me just correct -- for us, Q4 is not necessarily front-end loaded and you have to remember that two of our largest customers have year-ends in -- or quarter ends in January, not in December, so they tend to ship right through the quarter. 
+But let me back up -- yeah, mobile was very strong in Q3 across the board, basically in all segments and I include Atom in that for the Netbook segment. To my knowledge, we’ve not seen any evidence of any pull-ins. And in fact, it wouldn’t make a lot of sense for an OEM to deliberately pull in products, to eat up expensive inventory on your assets. We have hub inventories with a lot of our major customers now, so there is no incentive for anyone to have pull-ins or ship aheads. So we really don’t see that and when I talked about inventory at the OEMs, it’s really a quite small change that we saw. 
+Uche Orji - UBS
+All right, that’s great. In terms of the gross margin guidance, it seems like you are managing to hold up gross margins and continue to improve it. A question for you here, Paul, is to what extent is the gross margin guidance, I know it’s plus or minus a couple of points but given that this is a very challenging macro environment, it seems like the gross margin guidance is fairly resilient. Are you -- this is definitely in many ways a reflection of Intel\'s clients competitive positioning but how bad can it get, really? I mean, what could influence any further weakness in gross margins? And by this I’m asking for clarification around things like 32-nanometer ramp or possibly any kind of mix change. If enterprise were to weaken further, could gross margins get even worse? You know, so just try to help me understand. 
+Paul S. Otellini
+Okay, let me give you a high level answer, Uche, and then Stacy can drill down but the range of revenue that we gave you is quite broad -- broader than we’ve ever done before. The range of margin that we gave you was plus or minus two points, around 59. So that range we think covers all the possible corner cases inside the revenue range that we talked about in terms of mix and those kinds of things, so we’re really pretty comfortable in that margin forecast. 
+
+Stacy J. Smith
+Yeah, I would just reinforce the range around gross margin encompasses the range that we have around revenue. I think it’s probably -- if you look Q3 gross margin, if I can just go there for a second, we anticipated a couple of points of improvement from Q2 to Q3 and we actually got three points, 3.5 points of improvement. They were in the elements that I anticipated. Part of it was mix. That was about a point, and then I got a couple of points of good news in cost as our costs get better through the different factory networks that we have. So that’s where I had good news to the forecast, was in cost and I think when I look at Q4, I’m comfortable with the gross margin guidance relative to the revenue guidance. 
+Uche Orji - UBS
+Going to next year on 32-nanometer, how -- 
+R. Kevin Sellers
+Uche, I’m going to have to cut you off. Amanda, next questioner, please. 
+Operator
+Your next question comes from the line of John Barton with Cowen. Please proceed. 
+John Barton - Cowen & Company
+Thank you very much. Paul, your competitors announced their intent from a manufacturing strategy perspective. My guess is you are not going to talk about your legal strategy to deal with that but could you give us a view if indeed they do work towards this JV, how it potentially changes things from a competitive dynamic perspective in your view?
+Paul S. Otellini
+You’re right, I won’t comment on the legal stuff. It’s a little hard for me to comment on the structure. I think all the specifics haven’t been at least not released to us. But from my perspective, nothing has changed. You still have someone that has to invest in capital at one end of the food chain. You have to put CapEx in the ground and build factories and develop technology and then optimize that to products and get a return on that capital and then build those products and now sell it to someone else for some price who then sells it to the end customer. 
+So the food chain really hasn’t changed in terms of the ecosystem except that there’s one more person perhaps looking for a return in the equation. 
+Stacy J. Smith
+And if I could add just competitively, we certainly believe for our business that the ability to integrate our design and manufacturing is a core asset and really leads us to be able to bring low power, low cost, you know, new feature high performance products to the marketplace. So when we look at our business, that integration of design and manufacturing is one of our core assets and the fact that we tend to be a generation plus ahead of the rest of the industry is absolutely key. 
+John Barton - Cowen & Company
+You talked about the strength in mobility. Obviously it’s observable in the numbers but also observable was a significant increase in the operating margins quarter on quarter, roughly 33% to 40%. Could you give us a breakdown of what drove that and probably more importantly how you think that trend is going forward?
+Stacy J. Smith
+I’ll answer the first part and probably not as much on the second part as you would hope but the -- inside of Q3, what you see in the mobility segment was nice revenue growth on the backs of this continued shift towards mobility. As Paul said, we had strength in every segment of the notebook market and we started to see the incremental revenue associated with Atom in there as well. So between the processors and the chipsets, we had a couple hundred million dollars worth of Atom revenue in that segment. And then on the cost side, our costs came down nicely from Q2 to Q3, so the combination of that revenue growth and the cost growth led to a nice improvement in operating margin. 
+You can see that cost impact on the DEG segment also. They just didn’t have the revenue growth. 
+Operator
+Your next question comes from the line of Ross Seymore with Deutsche Bank. 
+
+Ross Seymore - Deutsche Bank
+Can you give a little idea of -- cannibalization has been a concern with Atom moving up into the notebook stack. Can you give us any idea of if you saw any of that happen; if it did happen, did it hit the notebook side or do you believe that might hit entry level desktop more?
+Paul S. Otellini
+Let me take that one, Ross -- almost all the shipments to date are going into netbooks versus net-tops, so it’s principally a mobile product by large, large numbers. To date we have not seen any evidence of cannibalization and believe me, we’re looking. This is something we watch very carefully. We look at where these are sold, the reasons they are sold and the price points they are sold at and one of the best pieces of evidence we have in that is the strength in the core mobile business independent of Atom is still very, very good and in these times, I think that’s a reassuring fact. 
+Ross Seymore - Deutsche Bank
+In the follow-up question, on a different topic, if the macro conditions remain challenging, are there things on the capital expenditure side of things or the technology ramp that you could adjust, such as the timing of 32-nanometer? Or are those things set so far ahead that you really don’t adjust those by pulling them in or pushing them out by a quarter or two?
+Stacy J. Smith
+Well, it’s not a question of blindly executing to the schedule; it’s a question of process technology leadership is really the core competitive advantage. It brings us great ROI in terms of cost. It also allows us to bring new features, higher performance, lower power to the marketplace so for us, that is the game. 
+You did see us reduce the capital forecast for the year. I wouldn’t want you to take from that that we are reducing ramp rate in the quarter of 45-nanometer because we are not, nor are we pushing out 32-nanometer. What we are doing is taking tactical actions to -- some of the non-capacity related capital and you are seeing a continued focus on efficiency in the factory network and that’s pretty consistent with where we’ve been the last six quarters where we just find opportunities to reduce our capital spend while we stay focused on ramping the new process technology. 
+Ross Seymore - Deutsche Bank
+Great. Thank you.  
+Operator
+Your next question comes from the line of James Covello with Goldman Sachs.
+James Covello - Goldman Sachs
+Good afternoon, guys. Thank you so much. Stacy, if I could stay on the CapEx issue for a second, I think in the meeting at the developer forum, you had suggested that you had squeezed almost as much of the factory efficiencies out of the system as you could have. Has that changed or do you think that you are still pretty much going to need to spend in line with unit growth and die size requirements at this point?
+Stacy J. Smith
+No, it hasn’t fundamentally changed. We are at levels of yield and equipment utilization inside the factories that you are not going to see the same level of improvement going forward that we’ve seen going back, so the way I described it in the meeting in May was we have reset the trend line down because we now have higher utilizations and are more efficient but as die size changes or as units grow, we will spend capital more at a trend with that. We will just do it starting from a more efficient level. 
+James Covello - Goldman Sachs
+That’s helpful and then if I could just ask on the 32-nanometer, especially on the start-up costs, I mean, to the extent you suggested that the 32-nanometer is still on track, the timing for the start-up cost would still hit in the first half of 2009, is that right?
+Stacy J. Smith
+Yeah, my view hasn’t fundamentally changed from the famous graph I showed you last May. You know, we’ll start to see start-up costs in the first half of the year and that will probably be the peak of the start-up costs associated with the new process. 
+
+James Covello - Goldman Sachs
+And is that equally Q1 and then Q2 or is it biased towards one of those quarters?
+Stacy J. Smith
+I’m not getting into that level of granularity. I’ll provide a lot more insight on that when we get to January and provide a gross margin forecast and everything else. 
+James Covello - Goldman Sachs
+Thank you very much. 
+Operator
+Your next question comes from the line of Glen Yeung with Citigroup. 
+Glen Yeung - Citigroup
+Thank you. You know, I noticed that your inventories were up 4% or so in the quarter. It sounds a little bit more than normal, and you are obviously guiding for revenues that are a little bit less than normal, and yet gross margins look pretty healthy. Is there something here that has changed between you and your customers wherein you are holding more of the inventory, or is this something where we should be concerned about how utilization rates may trend looking into Q1?
+Stacy J. Smith
+As Paul mentioned, we have gone in some cases to situations where we’ll hold up inventory on behalf of our customers but I’d say in the scheme of things, that’s a minor impact on the overall inventory. It’s mostly what we have running through the fabs. 
+When I started Q3, and I think I said on the last call I expected to build a little bit of inventory. Where we ended up in the quarter is pretty much what I would have expected. In fact, I think I’ll build a little bit more inventory in the fourth quarter as I continue to ramp the 45-nanometer factories. 
+You know, obviously with the variability that we now see in demand, it’s something that we are watching really carefully but we’ll complete the ramp of 45-nanometer because of the reasons I said before -- it’s the best performing products and it brings us cost advantages. 
+Glen Yeung - Citigroup
+Just as a follow-up, you know, when you think about 2009 compared to other years where we’ve had a down cycle, and I’m sort of making the assumption that’s what is going to happen in 2009, can you talk about structurally -- and Paul, you alluded to this at the beginning and I wonder if you’d just be more specific with respect to gross margins -- what about Intel\'s gross margin profile is different in 2009 from say 2004 or 2001 that may give you some better protection on gross margin, if anything?
+Paul S. Otellini
+Let me give you some color and then Stacy can give you the very specific answer -- 
+[Technical Difficulties]
+I think -- who knows what ’09 is going to be but I do think that there’s some things that look like they are different. For one thing, this is not a post dot.com kind of downturn and one of the things I recall vividly in that one was that people stopped buying computers principally because there were so many available on eBay from companies that melted down. And that skewed demand in ’99 and ’01, and ’00 and ’01 as a result. 
+So I think there’s some things we have going for us. We’ve had continuous strength in emerging markets, including this last quarter. China rebounded nicely after the earthquake and again after the Olympics. China is on track to become our largest market in a reasonable amount of time, and I don’t see that changing. 
+The emerging market pattern of more people coming into computing every day is different now in terms of the dynamic we have than any of those prior downturns you talked about, principally because the cost of computing has come down so much relative to their income levels. And so I think this will have a different pattern coming through it, on one end on the PC side; on the other end, there’s still a need for efficiency in the data center, a need for new servers to handle virtualization and those kinds of things. So right now, I’m of the opinion that technology will probably do well during a downturn just because of the simple fact that we sell tools of productivity. 
+
+Stacy J. Smith
+I don’t really have anything to add to that. You know, we obviously have been comfortable all year long with our forecast for gross margin for 2008 and I’m not yet going to provide a forecast for 2009 but I think the way you started the question, you are a little ahead of us in terms of your expectation for demand. Right now as we look at the fourth quarter, we need to see the impact of what’s roiling through the credit markets and that’s what is giving us the higher range of potential outcomes for revenue in the fourth quarter and we’ve got to watch that and then we’ll have a better sense for 2009. 
+Operator
+Your next question comes from the line of [Sean Connor] with FAS.
+Sean Connor - FAS
+Just two quick questions -- first of all, Stacy, can you give any additional color around your expectations for ’09 CapEx?
+Stacy J. Smith
+No, unfortunately not at this time and not least because we want to see how Q4 plays out and I think that will give us a much better indication of 2009 from a unit growth standpoint and that will obviously have implications on our capital spending. 
+The hints I’ve given so far is that we still plan to do 32-nanometer as fast as we possibly can. We get great ROI for doing that and we’ll come back in January and provide our forecast for the 2009 year. 
+Sean Connor - FAS
+Okay, thank you. That’s good enough. 
+Operator
+Your next question comes from the line of Hans Mosesmann with Raymond James.
+Hans Mosesmann - Raymond James
+Thanks. Most of my questions have been answered but one question on the server side -- on Dunnington, since it was introduced here fairly recently, what has the competitive dynamic been since the introduction there for that product?
+Paul S. Otellini
+Well, we have been doing very well with the new Xeon line over the last year or so in gaining share  and the latest tracker numbers out of IDC continue to reflect that. Dunnington just makes us more competitive. It gave us a great boost in the MP arena. You know, you can get -- these are six core machines that scale up to 16 sockets, so that’s a lot of cores and a lot of threads in there and they are pretty stunning performance, so I’m comfortable with those and then they get bumped up again as the Nehalem generation comes out in successive periods. 
+Hans Mosesmann - Raymond James
+And Dunnington would still hold its own against -- you know, AMD is going to introduce sooner or later this Shanghai product at 45-nanometer. Would Dunnington still do well in the very high-end of the server market?
+Paul S. Otellini
+Well, we’re pretty comfortable that we’ll maintain the performance leads throughout that introduction and we haven’t been able to measure anything yet from the competition but given what they said, if we just believe what they said, I think we’ll do fine. 
+Hans Mosesmann - Raymond James
+Okay, thanks. 
+Operator
+Your next question comes from the line of Sumit Dhanda with Banc of America.
+Sumit Dhanda - Banc of America
+Just a couple of questions -- Stacy, if you could give us a sense of how you expect your Atom contributions to progress into Q4? I mean, not a number but would it be up sequentially from your Q3 number? Is that where most of the growth is going to come from on a dollar basis in terms of how you incorporate in your guidance for Q4 versus Q3?
+Stacy J. Smith
+The second part of your question first, and I will give you a little bit more commentary on how we see Atom, but it’s just impossible to say, Sumit. It’s the issues we’ve been talking about. If you just look at Q3, you’d expect a pretty strong Q4, you know, seasonal or maybe even a little better. It was a strong quarter for us but with the issues that we’ve seen over the last few weeks, I think there’s a wide range of potential revenue outcomes so given that, it’s impossible for me to say the percent of contribution that Atom would be around an uncertain base. 
+
+The first part of your question, between the microprocessor and the chipset, we had a couple hundred million dollars worth of revenue from Atom in the third quarter. We do expect that to grow rapidly in the fourth quarter. You know, we’re at the C part of the ramp on that. Paul talked about how this product is being positioned to drive incremental growth and then the part of this I look at is the margin characteristics and I’ll tell you what we’ve seen in the third quarter, it’s a very healthy product margin. I think it should provide some comfort to you as it does to me that with that kind of a ramp of Atom, we had 59% gross margin in Q3 and 59% in Q4. 
+Sumit Dhanda - Banc of America
+I know you can’t give numbers here but Paul or Stacy, if you could just give us a sense on how much the impact on the server business was because of the enterprise weakness in Q3, and are you assuming a similar level of weakness into Q4 in terms of the magnitude of sequential potentially decline into the fourth quarter?
+Stacy J. Smith
+Yeah, that’s a level of granularity that we wouldn’t give. It was weak in September relative to what we would normally expect and I think that’s part of a wide range of outcomes for Q4, is how does that play out? For sure the financial services industry was hit over the course of the quarter and what we are really watching for is as these credit issues play out, what does it do to the end market? So -- 
+Paul S. Otellini
+What I can tell you though is that financial services represent only about 15% to 18% of our server business, so even if that particular segment has continuing problems, it’s not drastic. 
+Operator
+Your next question comes from the line of John Pitzer with Credit Suisse.
+John Pitzer - Credit Suisse
+Thanks for taking my question. First question to Paul -- if you look ex-Atom, ASPs were flat sequentially in microprocessors, which is kind of a reversal of a trend we’ve seen over the last couple of quarters. Any color as to what was driving that flat ASP, and what might the outlook be going forward?
+Paul S. Otellini
+We won’t comment on outlook but I think if you look back, we had a very strong quarter in mobile and mobile tends to have a higher average selling price than desktop. One of the things we talked about in mobile though over the last couple of quarters is that as mobile grows, it’s inevitable that ASPs will come down. They won’t converge with desktop but they will come down because the volume price points will demand that. But I think it’s very simply a reflection of the strength in mobile this quarter. 
+Stacy J. Smith
+If I could just add a couple of points -- you know, if you look across the last four or five quarters, having an approximately flat ASP in the core business has really been more the rule than the exception. I think last quarter, not having Montevina probably hurt us a little bit more than we realized at the time and as it ramped, we saw stronger growth across all the segments. 
+Specific to Atom, our conversations are going to be really interesting going forward because the whole point of Atom is to set new price points and bring this technology and so if we are successful with that product, you are going to see the average ASP coming down, which is why we are trying to give you the with and without Atom. But it was really interesting, now that we have a couple hundred million dollars of revenue under our belt, when I look at the product margin, it’s a nice healthy product margin and it’s on a dollar basis equivalent to what we see in Celeron and on a product margin percent, it’s higher. So if you look at it kind of relative to the low-end of our mainstream stack, it’s generating nice profit characteristics. 
+John Pitzer - Credit Suisse
+And then for my second question, it is Atom related, can you help me understand how big the channel fill might be for Atom before we actually have to start really depending upon sell-through to continue to drive business? Clearly in the curve there’s going to be some -- 
+
+Paul S. Otellini
+We watch that at the OEMs and we watch it at the channels. We actually have reports coming in from the OEMs on sales out on those products for that very reason and we have seen zero evidence of a channel backed up on that on netbooks. They have essentially been flying off the shelves.
+And I will say that we did not meet demand in Q3 for the product, even though we were up substantially from the second quarter. We are up again substantially in the fourth quarter. Our expectation is that we will meet demand by the end of the year but the early part of the quarter is not. 
+John Pitzer - Credit Suisse
+Great, thanks, guys. 
+Operator
+Your next question comes from the line of Chris Danely with J.P. Morgan.
+Chris Danely - J.P. Morgan
+Paul, can you just take us through sort of what happened with the fall-off in demand? Has it been the last couple of weeks? You know, what are your customers telling you? Was it gradual? Do they have zero visibility for Q4? Can you just give us a little more color on what happened?
+Paul S. Otellini
+For Q3, we didn’t really see a fall-off on demand. We sort of did as we said we would do and the principal difference from the midpoint is NAND, where we just didn’t ship as much product. 
+For Q4, the business so far has been good. What we are trying to give you though is the interpolation of what I’ll call a series of very mixed inputs. Some customers in channels are seeing little to no impact and some are worried, and as we add it all up we don’t know how much of that worry will manifest itself into reality and how much of it will dissipate, which is why we gave you a wider range. 
+Beyond that, I really can’t give you much more input, beyond what I said in terms of the color on the retail sales and so forth. 
+Chris Danely - J.P. Morgan
+That’s fine, and then as my follow-up, it sounds like you are fairly optimistic for next year. If you had to take a guess on whether IT budgets will be up or down next year, which direction would you go?
+Paul S. Otellini
+Yes. 
+Chris Danely - J.P. Morgan
+Well spoken. 
+Operator
+Your next question comes from the line of Joanne Feeney with FTN Midwest. 
+Joanne Feeney - FTN Midwest
+I have a question about the characteristics of the server demand. You talked a little bit about it but perhaps you can give us a clue as to what you are seeing in the third quarter and what you expect in the fourth quarter in terms of high-end versus low-end? Are you seeing your customers shift towards lower end servers at this point or has that pattern not really changed?
+Paul S. Otellini
+Well, we had some pent-up demand that was satisfied in the third quarter with the introduction of Dunnington and that tended to skew the business a bit more towards the MP versus DP products. 
+I think looking out into Q4, I don’t want to be too granular here but I think that DP tends to provide pretty good value and it tends to sell in places that don’t have big data centers and IT shops. So if we were to look at corporate purchases versus the rest of the world small, medium business purchases, I would imagine that DP will do better than MP this quarter but I’m just guessing at this point. 
+Joanne Feeney - FTN Midwest
+Okay, and then if I could, a follow-up on the capital spending issue -- so you are cutting back a bit here in the second half of the year. I guess my concern is that with AMD creating a well-funded foundry through the Arab investment, that seems like a bigger threat to me, given now how well-capitalized they are. Are you contemplating backing off of capital spending because of the over-capacity situation more broadly in the world? Or are you going to maintain your capacity plans and also your [inaudible] strategy in the face of this new potential threat on the AMD side of the world?
+
+Paul S. Otellini
+We’re not changing our strategy. Our strategy is to provide our customers with the best technology in the world and make sure that we have enough capacity to do that in the volumes that they need. And on top of that, as Stacy implied, our lowest cost position is always on the newest technology and it’s our best competitive position. 
+So no, we’re not backing off and anything that’s going to be funded now is not going to be in production for some time. 
+Operator
+Your next question comes from the line of Srini Pajjuri with Merrill Lynch.
+Srini Pajjuri - Merrill Lynch
+Thank you. Stacy, I have a question on gross margins, a little different one -- if I look at your Q3, you did a little better and ASPs held up pretty well and you are guiding for revenue growth in Q3 and you were saying that your inventories will be up as well. So my question is why won’t the gross margins go up? Why are you guiding for flattish?
+Stacy J. Smith
+You’re asking from Q3 to Q4?
+Srini Pajjuri - Merrill Lynch
+Q3 to Q4, yeah. 
+Stacy J. Smith
+If you look across the elements of gross margin from Q3 to Q4, it’s one of those quarters where there’s -- you know, the elements of gross margin, there’s not a lot of variability. The mix of the company stays pretty flat. I’m not expecting a significant improvement in my manufacturing and factory costs, nor do I expect it to get worse, so it’s about flat. And when you look at the other elements, reserves and things like that, the pricing expectation is that it all stays fairly flat quarter on quarter, so it’s one of those quarters where the gross margin is flat and there’s not a lot of variability in the underlying issues. 
+I think your question is could it be better than that -- I’ll refer you back to the revenue range. If revenue ends up being stronger, I think the gross margin is a bit stronger. If it ends up being at the low end of the range, gross margin is probably at the lower end of the outlook that we set. 
+Srini Pajjuri - Merrill Lynch
+Paul, obviously you are launching a lot of new products with Nehalem and given the macro backdrop, do you anticipate any change to the timing -- you know, if macro gets weaker, should we expect these products to launch as expected? Thank you. 
+Paul S. Otellini
+We would -- we are trying to pull them in as fast as possible, so no. I mean, I think having those products simply makes us even more competitive and I think they generate some demand in some segments where we haven’t been participating, so that’s one where I feel pretty good about the product line and the sooner we get to it, the better across the board. 
+Srini Pajjuri - Merrill Lynch
+Thank you. 
+Operator
+Your next question comes from the line of Tim Luke with Barclays Capital.
+Tim Luke - Barclays Capital
+I was wondering, with respect to -- as you plan to raise the inventory a little bit moving into the fourth quarter, as you build 45-nanometer, do you have a range, Stacy, of where you feel that you are trying to target in terms of days and turns for [inaudible]? Thanks. 
+Stacy J. Smith
+Probably not at that level of granularity and it will obviously depend a lot on what demand actually looks like in the fourth quarter. But just based on the ramp of my 45-nanometer factories, I would expect to build a little bit of inventory in the quarter. 
+Tim Luke - Barclays Capital
+And secondly for Paul, maybe -- you provided some sort of helpful color in terms of how you perceive broadly the end markets in terms of consumer and corporate and how you perceive Taiwan versus OEM to date -- do you have any color further there with respect to sort of regional inputs and maybe as you see OEM versus channel in the consumer arena?
+Paul S. Otellini
+Sure, I’ll try, Tim. I think, as I said, China continues to be a strong driver. I think we all had some worries about the third quarter, not just because of the Olympics but because of the Chengdu earthquake and it bounced back from both of those and continues to be a strong driver of demand across all segments -- in notebooks, in desktops and servers and consumer and business. So that one is a good geography for us. 
+
+If you look at the geographies that sort of outperform seasonality for us in Q3, it was Asia-Pacific, principally China, and Japan, which is principally notebooks, where a lot of those notebooks are not necessarily consumer there but built there and exported. And the U.S. and Europe were a little slower than seasonality, which I think is consistent with the macroeconomic conditions we’ve seen in the last six to eight weeks. 
+Tim Luke - Barclays Capital
+And lastly just on Atom, you had a significant incremental jump from the second to the third quarter -- are you framing the same kind of range or should the acceleration be more significant from the third to the fourth as you get more availability?
+Paul S. Otellini
+I don’t think I want to get that granular. It’s a nice jump from Q3 to Q4. 
+Tim Luke - Barclays Capital
+Thank you, guys. 
+R. Kevin Sellers
+Amanda, we’re going to take a couple more questions, if you could, please. 
+Operator
+Your next question comes from the line of Auguste Richard with Piper Jaffray.
+Auguste Richard - Piper Jaffray 
+Paul, could you talk a little bit about -- you know, you’ve got a clear manufacturing lead, how you can turn that into gross margin performance? Will you ultimately move chipsets and what not into the leading edge? Or how else to drive the gross margin line?
+Paul S. Otellini
+Great question. I think it’s a couple of things. First, the obvious one is the faster we get to 45-nanometers across the board, the better the products and cheaper and we’re doing that. That allows us to do a couple of things -- it gets all of our chipsets then on to 65-nanometer factories, which are more efficient and cost-effective than the older in some cases eight-inch factories we still have running. So we can sort of move everything up the food chain, number one. 
+Number two, as we look forward to future generations of products, we are doing much more integration on to the chip in this technology. So both the high-end products and the low-end products will have more and more integration, which allows us to take advantage of the transistor budgets that Moore’s law gives us each generation and not necessarily drive only for performance but for cost-effectiveness at the platform level, so we can integrate platform functions at the bottom into things like system on chip. And you can only do that cost effectively at 32-nanometers and above. 
+Auguste Richard - Piper Jaffray 
+And then just as a follow-up, do you guys run into, as you integrate the chipset and graphics, do you run into issues with having enough pins or will you have to do a multi-chip type of strategy, or is that too high a level of detail?
+Paul S. Otellini
+Well we are already doing -- we already know how to do multiple chips in a package and we’ve done stacking before in our cell phone businesses, so no, that’s not a form factor issue. In fact, in some of the work we are doing for [inaudible], we are now working on the X, Y, and Z heights to be able to deliver these things in something that fits in your pocket and doesn’t catch it on fire. 
+R. Kevin Sellers
+Amanda, we’ll take one more question, thanks. 
+Operator
+All right, your last question comes from the line of Cody Acree with Stifel Nicolaus. 
+Cody Acree - Stifel Nicolaus 
+Thanks, guys, for fitting me in here. Stacy, I think it was the last analyst day that you showed the slide breaking down the differential between gross margins, desktop server to the Atom. Now with Atom’s volumes coming in, it sounds like you are a bit more encouraged about the gross margin contribution. Would you say that that slide is a bit conservative today, especially as it -- demand seems to be pretty strong?
+Stacy J. Smith
+Well, that slide was a projection prior to shipping any Atom and really understanding the dynamics of the market in terms of the pricing and the cost and everything else. And you also have to keep in mind what that slide showed was second half of ’09 and it was a comparison of platform costs, so processor and chipset, comparing quad-core generation products with duo-core generation products with the Atom generation products at the time a single-core Atom generation products. 
+
+I will update that when we get to the next investor meeting, which has now been scheduled for Q2 of next year. The point I wanted to make with my earlier comment is if we look inside the quarter where we now have significant volume of Atom, and I compare Atom relative to what a entry level mobile product would be for the notebook market, which is our Celeron brand, on a product margin dollar basis, it’s pretty equivalent and from a product margin percent basis, it’s actually better. 
+So the other slide was more of an average of duo-core, average of quad-core. This is comparing Atom to the entry level of the notebook market and its very healthy profitability relative to that. 
+Cody Acree - Stifel Nicolaus 
+So seeing a bit of cannibalization, not necessarily a bad thing. 
+Stacy J. Smith
+Well, certainly our goal is that Atom is enabling these new form factors and growing the market but if there is some cannibalization and it comes from that segment of the market, it’s at a nice healthy product margin. 
+Cody Acree - Stifel Nicolaus 
+And then lastly, Paul I think in the beginning you talked about channel inventories, especially out of Taiwan. Do you think that the stoppage has been enough to get those inventories down to where we are ready to -- we are ready for whatever the holidays are going to bring?
+Stacy J. Smith
+Well, you mixed two things in that sentence. When I talked about channel inventories, I meant our distributor channels and Taiwan is Taiwan, but I think if you go back to one of the earlier comments I made about our chipset business in Q3, it was record revenue and record unit volumes in the third quarter. Chipsets always lead computers. They go into Taiwan, they soldered on motherboards and eventually a microprocessor finds its way to those and it becomes a computer some six to eight weeks later. So I think what you are seeing is a reflection of chipset purchases for a fourth quarter that may have been a little bit more robust than people had thought and now they are just kind of tightening that down to where the reality of production is. I don’t really see anything unnatural with this at all. 
+Cody Acree - Stifel Nicolaus 
+Great. Thanks, guys. 
+R. Kevin Sellers
+Thanks, Cody. Amanda, I’ll just close here -- I want to thank everyone for joining our call today. As a reminder, our quiet period for the fourth quarter will begin at the close of business on November 28th until December 4th when we will have our mid-quarter update, as Paul mentioned. We will then re-initiate the quite period at the close of business December 12th, and our fourth quarter earnings conference call is scheduled for January 15, 2009. Again, thanks for joining us this evening and good night. 
+Operator
+Ladies and gentlemen, thank you for your participation in today’s conference. This concludes the presentation. You may now disconnect. Have a great day. 

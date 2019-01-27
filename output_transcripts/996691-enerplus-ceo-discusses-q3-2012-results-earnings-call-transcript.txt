@@ -1,0 +1,205 @@
+Enerplus Corporation (NYSE:ERF) Q3 2012 Results Earnings Call November  9, 2012 11:00 AM ET
+Executives
+Jo-Anne Caza - Vice President, Corporate and Investor Relations
+Gord Kerr - President and CEO
+Ian Dundas - Executive Vice President and COO
+Rob Waters - Senior Vice President and CFO
+Ray Daniels - Senior Vice President, Operations
+Eric Le Dain - Senior Vice President, Strategic Planning, Reserves and Marketing
+Rod Gray - Vice President, Finance
+Analysts
+Robert Bellinski - Morningstar
+Roger Serin - TD Securities
+Operator
+Good morning. My name is Laurel, and I will be your conference operator today. At this time, I would like to welcome everyone to the Enerplus Corporation 2012 Third Quarter Results Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question-and-answer session. (Operator Instructions)
+Thank you. Ms. Jo-Anne Caza, Vice President of Corporate and Investor Relations. You may begin your conference.
+Jo-Anne Caza
+Thank you, Operator, and good morning, everyone. I’d like to welcome you our third quarter conference call. Gord Kerr, our President and CEO will be summarizing the results of the quarter; and Ian Dundas, Executive Vice President and Chief Operating Officer will provide an update on our operations.
+To help answer some of your questions at the end of the call, we also have with us Rob Waters, Senior Vice President and Chief Financial Officer; Ray Daniels, our Senior Vice President of Operations; Eric Le Dain, Senior Vice President of Strategic Planning, Reserves and Marketing; and Rod Gray, our Vice President of Finance.
+Before we get started, please note that this call will contain forward-looking information. Listeners should understand the risks and limitations of this information and review our advisory on forward-looking information found at the end of our news release issued this morning, and included within our MD&A and financial statements filed on SEDAR and EDGAR, and also are available on our website at enerplus.com.
+Our financial statements were also prepared in accordance with International Financial Reporting Standards. All financial figures referenced during this call are in Canadian dollars, unless otherwise specified and all conversions of natural gas to barrels of oil equivalent are done on a 6:1 energy equivalent conversion ratio, which is not represent the current value equivalent.
+Following our review we’ll open up the phone lines and answer any questions you may have, and we’ll also have a replay of this call available later today on our website.
+With that, I’ll turn the call over to Gord.
+Gord Kerr
+Thanks for joining us this morning. I’ll be reviewing our results for the third quarter that we released this morning and then I’ll turn the call over to Ian to provide you with more detail on our operations and the progress we are making in our key plays.
+Now during the third quarter, we continued to focus the majority of our spending on our oil plays. We also executed on our plans to strengthen our financial position through the sale of some of our non-core assets.
+Our production averaged 81,573 BOE per day, up approximately 11% from the same quarter last year and down marginally from the second quarter. Our crude oil volumes continued to increase through the quarter. However, our natural gas volumes were lower than we expected due to delays in our non-operated Marcellus production coming on-stream.
+Our oil production from Fort Berthold grew by 10% from last quarter to average 12,800 BOE per day and our oil and liquids now account for almost half of our daily production volumes, consistent with our expectations of increasing our oil and liquids to approximately 50% this year.
+We’ve continued to invest in our non-operated natural gas assets in the Marcellus throughout the year in order to retain leases. However, activity levels with our partners have slowed versus what we expected.
+
+We’ve seen fewer wells being tied in this year and Ian will provide color on this point. As a result, we are reducing our production guidance and I’ll walk you through the impact of this on our guidance in a moment.
+We generated funds flow of $135 million or $0.68 per share during the quarter down approximately 8% from the second quarter. Our realized pricing improved along with commodity prices during the quarter, but we had a couple of one-time items that impacted us.
+Our operating costs were higher than expected by approximately $11 million related to charges either seasonal or non-routine. These costs included a newly enacted state impact tax fee in Pennsylvania that has application to newly drilled wells back to 2011.
+Charges for upgrading our U.S. Bakken facilities for emission controls and costs for a pipeline repair at Giltedge property. We expect operating costs in the fourth quarter will be lower. Fluctuations in the foreign exchange rate relating to our U.S. operations also impacted funds flow by about $10 million compared to the second quarter.
+During the quarter a portion of our exploration and evaluation assets were written-off which impacted our net income. We recorded impairments of approximately $114 million, $66 million of which relates to Marcellus operated leases in West Virginia and Maryland, that are expected to expire over the next 12 months as we don’t anticipate renewing them given our spending plans next year and the current outlook for natural gas prices.
+Now, certainly, these impairments have negatively affected our net income and reflect decisions we made to invest in certain place even though they had no impact on our reported funds flow.
+Capital spending was down quarter-over-quarter as planned. We spend $167 million or 20% less than in the second quarter. The majority of our activity was focused on our oil assets at Fort Berthold and on our Canadian waterflood properties, and Ian will provide more color on this as well.
+We continue to expect capital spending of $850 million in 2012. With a lower capital spending and dividend our adjusted payout ratio this quarter dropped 259%. As I referenced at the start, we also successfully executed on the monetization of non-core assets.
+In August, we sold our shares of Laricina Energy capturing proceeds of $141 million and last week we announced we had entered into an agreement to sell all of our working interest in Manitoba for approximately $220 million.
+Now the Manitoba assets are currently producing about 1,600 barrels per day of crude oil and have 8.4 million barrels of 2P reserves. The metrics on this transaction are quite favorable as seven times cash flow, 138,000 per flowing barrel of production and nearly $29 per barrel of 2P reserves. We expect to close this transaction in the back half of December.
+Our September 30th debt to trailing 12 months funds flow pro forma in the Manitoba sale proceeds is 1.5 times. Now the volatility of crude oil and natural gas prices has been a major theme throughout 2012, reducing this volatility and helping protect our revenue from risk of sharp declines is one of the key objectives of our risk management program.
+Given recent movements in oil prices due to uncertain global economics, our hedging program is expected to provide some certainty in protection to our funds flow. We have approximately 63% of our crude oil production and royalties hedged for the remainder of 2012 at $96.22 per barrel WTI, and approximately 58% of our 2013 net crude oil volumes hedged at US$100 per barrel.
+We’ve also hedged a portion of our natural gas volumes for 2013 and has 17% of our net gas production hedged through a combination of puts and swaps at an average floor price of $3.31 per Mcf. We continue to watch for opportunities to hedge natural gas as we move into the winter season.
+
+I’ll now turn the call over to Ian to give a more in-depth review of our operations.
+Ian Dundas
+Thanks, Gord, and good morning, everyone. We continue to have an active capital program during the quarter, albeit at a significantly slower pace then what we saw during the first half of the year. We invested $167 million during the quarter with the majority of spend focused on our oil assets.
+Our tight oil project at Fort Berthold, North Dakota continued to attract the lion share of our capital with $80 million invested there during the quarter. Year-to-date, we spent approximately $370 million in North Dakota.
+Our efforts this year at North Dakota are focused on growing production, improving our cost structures, managing lease expiries and advancing our understanding of Three Forks. So let’s start with production.
+We produced 12,800 barrels of equivalent a day during the third quarter, up 40% year-to-date and 10% over the second quarter. We’ve drilled a total of 24 wells year-to-date, 80 of which are long horizontals with 24 net wells brought on-stream.
+Our cost structure has been a significant challenge over the last 12 months and has obviously been a key focus area. We indicated earlier in the year we were focused on improving profitability with a strong focus on cost control.
+We’ve tested a number of different completion designs this year to understand if we can enhance well economics with smaller fracs. While we’ve seen cost reductions, these wells have not met our performance expectations and we believe we are sacrificing return.
+As a result, moving back closer to our original design, our recent completions for a 9,800 foot lateral would have 28 to 29 stages, with approximately 9,000 pounds of ceramic proppant per stage and higher gel weighting.
+Although the increased stages obviously puts cost pressure on our frac jobs, we are starting to see cost release in other line items on our completion entities such as the cost of proppants. Just to give you a sense of it, proppant is down about 20% per pound from the start of the year, and we expect that’s going to continue to fall.
+When you add it all up, we estimate that the cost of our current completion would still be in the $6.5 million range for facilities and tie-in costs, which is similar to where similar to last quarter, even though we are now pumping bigger fracs and are seeing better performance than we saw with the smaller fracs.
+Drilling performance has also improved significantly since the start of the year in part related to eliminating our two least efficient rigs. Drilling days from rig up to TD are averaging about 30 days for a single well drilled on a pad.
+This would give us drilling cost of approximately $5 million and a total D&C cost, before facilities and tie-in of under $12 million, which is consistent with where we were last quarter and generally consistent with what we are seeing for wells drilled on our non-operated lands in this area.
+As I mentioned earlier, our program this year was highly influenced by land expiries. This is net, we’ve drilled more single wells than multiple wells on pads. We have one four well pad that we drilled earlier this year and we saw the average drilling days drop to under 25 days on these well.
+Once we’re able to move to more high-density pad, we should see a further reduction in cost. At this point, we would expect the move to pad drilling could save more than $0.5 million of well. Our current plans involve a partial move to more pad drilling next year.
+We’ve tested seven Three Forks wells this year and although, we’ve seen some variability, we’ve been quite encouraged by the results. For reference, we are currently modeling the Three Forks well to be approximately 70% as productive as the Bakken well.
+
+We have six Three Forks well that have more than six months production history, four of which are cracking at or above our current Three Forks type curve, several wells tracking what looks like to be a Bakken curve.
+Our best Three Forks well with any significant runtime is a 4,500 foot short lateral with about 10 months of production history. This well will produce more than 100,000 barrels in its first year.
+We’ve also recently tested a 9800 foot lateral long Three Forks well which has produced just over 30,000 barrels of oil in its first month. Both of these well appear to be performing like strong Bakken wells at this point.
+Based on our results this year, we have growing confidence in the prospectivity of the Three Forks throughout acreage. Although to date on the prolific Three Forks wells have tended to be in the northern portion of our acreage block.
+Our plans next year include continuing to advance our understanding of the Three Forks. And at this point, we would expect to drill approximately another half dozen wells in Three Forks next year.
+We’ve been talking a lot about the impact of our non-operating leasehold has had on our overall capital invested in Fort Berthold. Out of $370 million in capital, we have spent year-to-date, over $50 million is on non-operated acreage versus only $10 million that we expected in our original plans.
+When we established our 2012 plans, we had expected to drill approximately one net operated well. Through the end of Q3, we have participated in about four net non-operated wells with 2.5 net wells brought on-stream.
+Now, a few comments on our marketing efforts. We currently ship 70% of our Bakken crude by pipeline on the Enbridge and Duke systems with the remaining 30% being shipped by rail to the Gulf Coast. Differentials continue to be very volatile.
+We’ve seen Fort Berthold field differentials tighten from a $15 barrel discount to WTI in the first half of the year to less than $10 in September. And in October, we saw differentials in the $2 per barrel range.
+While differentials remain tight in November, we continue to expect volatility in the region and are continuing to forecast wider differentials in 2013. Our rail capacity has been providing some pricing production with approximately 15% of our total Bakken production being priced off of Gulf Coast markets which have been more closely linked to Brent pricing.
+In late October, we estimate field production in Fort Berthold surpassed our exit target of just over 15,000 barrels of equivalent a day. We expect to remain at approximately this level over the balance of the year with declines being offset by two additional completions and some production optimization work.
+Although we haven’t finalized our 2013 plans, we would expect our capital spending to be lower in Fort Berthold next year. Economics in Fort Berthold are still attractive, however, the combination of lower oil prices and sticky costs has eroded significant margins with rate of returns under strip pricing for our Bakken wells in the 30% to 40% range.
+Although we are expecting to see cost reduction next year, we’re not prepared to adjust our spending plans beyond our current two rig program until we see sustained improvements and cost performance.
+Let’s move to Canada and talk about our Crude Oil Waterflood assets. We continue to advance our Waterflood programs throughout the quarter, spending approximately $25 million and focusing the majority of our efforts on our Medicine Hat Glauc C project in Alberta and our Freda Ratcliffe project in Saskatchewan.
+We continued with our capital program at the Glauc C in the third quarter. We drilled three net wells and continued with battery enhancements and injector conversions. During the summer, we started to inject polymer into the formation and while it’s too early for definitive results, early indications are quite promising.
+
+As a result of our drilling and enhanced oil recovery activities, we expect production will grow this year in this asset by almost 50% from 3,800 barrels of equivalent a day, start of the year to an expected exit of 5,600 barrels a day.
+We also continue to develop our assets in the Ratcliffe formation at Freda Lake to evolve this play into a full-fledge Waterflood scheme along the entire trend. We’ve drilled a total of nine net wells with another expected to be a rig release in November.
+We’ve also converted 10 vertical injector wells into producers with another two conversions remaining this year. The economics of this program are strong. We expect to see full program returns over 65% with a $60 break-even supply cost and capital efficiencies in low 30,000 equivalent barrel range.
+New wells drilled in this area have a tight curve IP of 120 barrels a day over the first 30 days with expected recoveries of 140,000 barrels. Our results to date have exceeded these expectations.
+Seven of the nine new wells we’ve drilled in 2012 have IP-ed over 200 barrels a day during the first month and six of them produced an average of 170 barrels a day over the first two months. Our Waterflood production has grown to almost 16,800 barrels of equivalent a day this year, which is up about 12% from this time a year ago.
+Now, moving to the Marcellus, non-operated activity has slowed throughout the year in response to lower gas prices. Our program this year was designed primarily to retail leases with our non-operated partners in Northeast Pennsylvania, which is clearly one of the most prolific parts of the play.
+I’m pleased to say we have achieved good success in this regard. We have now satisfied the remaining portion of the carry amounts associated with our original purchase in the Marcellus.
+At this time, we expect that by year-end we will have over two-thirds of the core acreage in our non-operated projects held by production. Year-to-date, we spent about $90 million with our non-operated partners and expect full-year spending will be approximately $120 million, somewhat lower than we had initially anticipated.
+Despite strong well performance, we’ve done a poor job of forecasting the timing of the production build. Delays in the pace of production are related to several factors, including changes in timing of on-streams due to changes in partner plans as well as infrastructure delays.
+In addition to delayed timing of on-stream this year, we now expect approximately three net wells that were expected to be brought on in 2012 will slip to 2013. We had originally expected that our production would grow from about 25 million a day to 70 million a day throughout 2012.
+Given the slower pace of activity, I indicated, we now expect our production will anchor between 50 million and 60 million a day. During the third quarter, production averaged around 40 million cubic feet of gas a day, and at this point we estimate we’re producing just under 50 million cubic feet a day.
+With the focus on lease retention, we have not seen any significant reductions in drilling costs. Well results continue to be positive, particularly in Susquehanna and Bradford counties.
+Drill, complete and tie-in costs have been averaging just over $8 million. Based on an expected EUR of between 8 and 10 Bcf, we expect to achieve rates of return between 15% and 25% using current strip price. Given our outlook for natural gas prices, we plan to judiciously allocate capital in this region in 2013 and would expect a lower level of spending than we have experienced in 2012.
+Based on our price outlook for gas, we do not expect to allocate any capital next year to our leases in West Virginia or Maryland. And as a result, you’ll see me take a financial write-down in the amount of $66 million related to approximately 40,000 acres that are expected to expire over the next 12 months.
+
+Finally, a comment on the Duvernay. We drilled our first vertical well in Duvernay in September, which we’ve now recently cored and logged. We’re in the process of analyzing that core.
+One of the key data points that we’re looking for is to confirm maturity in order to support our view that our lands are in the liquids-rich fairway. In the meantime, our process regarding a potential joint venture or sale of our Duvernay and Montney lands continues.
+And with that, I’ll turn the call back to Gord to talk about our guidance.
+Gord Kerr
+Thanks, Ian. So, in terms of guidance for the remainder of 2012, we are revising our production outlook based upon our results to date. We indicated in the second quarter that there was uncertainty in our exit production from the Marcellus and the delay in this production in the third quarter will impact not only our exit but our annual average for 2012 as well.
+We now expect our daily production volumes will average 82,000 BOE per day, down from our expectation of 83,500 BOE per day. Exit production volumes will now have more variability than we originally thought and we are now guiding to a range of 85,000 BOE per day to 88,000 BOE per day.
+As I said, these changes are directly attributable to the delays in the Marcellus. Production in October was running at approximately 84,000 BOE per day. The sale of our Manitoba assets is not expected to have a material impact on our excess production forecast as we are assuming this deal closes at the end of December. Our forecast for operating cost is now $10.70 per BOE versus our original guidance of $10.40 per BOE due to the revised production outlook.
+General and administration costs are not expected to change and remain at 330 per BOE. We continue to expect capital spending of $850 million, again with the majority of this spending focused on our crude oil assets.
+We also expect to release our 2013 guidance early in December and based upon our activities to-date and our current outlook for commodity prices, we expect that capital spending will be approximately 20% lower in 2013 than this year. We’ve made significant improvements to our financial strength this year. And we’re looking to preserve that strength.
+Our focus will be on improving the profitability of our business with lower capital spending next year and the sale of our Manitoba assets, which was 1,600 barrels a day of our production. Our production growth expectations will be reduced.
+Should we see improved commodity prices or improved operating efficiencies? We have the ability to increase our capital program and production to capture additional value for our shareholders.
+So with that, I’ll now turn the call back to the operator for questions.
+Question-and-Answer Session
+Operator
+(Operator Instructions) And your first question comes from the line of Robert Bellinski with Morningstar.
+Robert Bellinski - Morningstar
+Good morning, everyone. I was just wondering if you could give an update on permitting in Fort Berthold, which you see as terms of utilization for your rigs into coming next year?
+Ian Dundas
+If you go back a year ago permitting was a big challenge for us. When we look at where we are right now, we’ve got permits well in hand. It’s not an issue at all next year and so rig utilization for our two rigs, it’s effectively 100%. These rigs have been in the fold for a couple of years now and they’ll be kept busy throughout next year with our current plans.
+Robert Bellinski - Morningstar
+Okay. Great. And then my second question is, do you guys have estimate as far as total cost for those Duvernay wells or something you are targeting at this point?
+Gord Kerr
+Yeah. We haven’t drilled one and just to be clear, I have seen you talking about the horizontals. So we’ve drilled a vertical strat test. The development now here will be a horizontal development and we’re going to kick off our first horizontal next year.
+
+Our expectations for that first well would be about $15 million. If you look forward, guys are talking about lower numbers as you move towards pad drilling and such, but I think $15 million is a good number to think about for horizontal. That strat test would be, call it, a third of that level.
+Robert Bellinski - Morningstar
+Okay. Great. Thank you.
+Gord Kerr
+Welcome.
+Operator
+(Operator Instructions) Your next question comes from the line of Roger Serin with TD Securities. Your line is open.
+Roger Serin - TD Securities
+Good morning, everybody. I need a little clarification on a couple things. On the Canadian gas realized price, you’ve generally been more or less in line with what I’ll call vehicle-based pricing. This quarter, it looked like you were a bit below that. So for modeling purposes, did something change or was it just a mix of spot versus monthly contracts?
+Eric Le Dain
+This is Eric, Roger. I’d say the latter is appropriate mix of spot. We had a decent amount fixed through the summer period that we’ve put in place early in the spring with the risk of that storage overhang and that has an influence in the quarter.
+Roger Serin - TD Securities
+Okay. So, going forward, go back to more or less the historical trends, which was pretty close to equal pricing?
+Eric Le Dain
+Yeah. I think so.
+Roger Serin - TD Securities
+Operating costs, Gord, I was writing almost as quickly as I could. It sounded like about $11 million of costs, some of them are more one-time. Is the $11 million the aggregate of what you would think would be more one time on both Pennsylvania, the U.S., Bakken, and Giltedge.
+Gord Kerr
+To be clear, the Pennsylvania did the catch-up thing as you’re going back to 2011. So there is an ongoing fee associated with the State of Pennsylvania for wells. And it’s got some price sensitivity in it. I think graduated to reduce for wells over time. I think it starts at about $50 a well.
+Then also we had some pipeline repair work that I mentioned we had to do. We had it still in one of our properties -- one of our properties to clean up. We also had an equalization come out of it. So it was about three years of equalization costs.
+Equalizations are a normal part of the business but not necessarily in the timeframe of three. So, that was somewhat unusual. Also, the timing on some of our lease costs, we book them when they show up. And so we’ll see that drop off in the fourth quarter.
+So, I would expect that from Q3 to Q4, we are going to see a reduction in our op costs in the order of about $10 million to $15 million.
+Roger Serin - TD Securities
+Which is about the bump that they moved up quarter-over-quarter. In terms of your rail, you’ve got about 30% of your Bakken volumes on rail. You’re obviously getting some benefit there. Is there -- can you give me a rule of thumb as to first of all whether it’s firm or whether it’s spot and secondly, what sort of ditch you need for that to be profitable?
+Eric Le Dain
+So the commitment to the rail capacity and with our buyer has a firm commitment and that 30% receives Louisiana light sweet equivalent. Rail costs from loading through transport to unloading can be in $15 to $20 range. And therefore you need that kind of differential versus WTI to offset.
+Roger Serin - TD Securities
+Okay. Maybe I’m not sure whether it’s Ian or Gord. So, Gord, I think you said that next year you’d probably spend less and the order of the magnitude was approximately 20% less. So does that get me to $675 million to $700 million for capital programs in ‘13?
+Gord Kerr
+It was the math there, Roger. That’s pretty darn close, yeah.
+Ian Dundas
+That’s what we’re suggesting. We’ll come out with our guidance at the back end of the year, but just to give you a sense for where we’re thinking in terms of capital allocation.
+
+Roger Serin - TD Securities
+To be clear, I used a calculator.
+Ian Dundas
+Yeah.
+Roger Serin - TD Securities
+So when I look at that and you talked about spending a little bit less in Fort Berthold, are there areas -- and you’re obviously spending a little bit less in the Marcellus. Are there areas that are actually going to see an increase in CapEx?
+Gord Kerr
+No. I think we’ll moderate our plants in number of areas there. So there might be a few sort of smaller property areas that we’ll receive less allocation of capital. Now, again, part of our strategy has been to get more focused in our property portfolio here overall.
+I mean we don’t talk about the fact that we sold off some smaller property interest here, because the aggregation of the proceeds isn’t that great, but in terms of improving our focus. So there will be properties that I’d say is smallish in nature that won’t get capital allocated that they might have had this year.
+Roger Serin - TD Securities
+Okay.
+Eric Le Dain
+Roger, the only thing I’d add to that and it’s not going to move the numbers in a big way, but I think obviously that Duvernay is one that has some contingencies associated with it. Based on success and based upon how the JV unfolds, at this point I wouldn’t say we’re planning for a JV. We are working on it and we’ll see what comes out of that process. And so if we actually get something there, that could move the numbers around, but that will come with some liquidity as well.
+Roger Serin - TD Securities
+So if I looked at the Duvernay and some of your plans. It seems to me on a net basis you might be as much as two to three verticals and maybe one horizontal. Are those kind of numbers before JV considerations possible?
+Eric Le Dain
+Directionally not that. I’m not sure you’d be up to, if you didn’t have a JV, I’m not sure you’d be up to four verticals. But one or two horizontals or verticals, somewhere in there.
+Roger Serin - TD Securities
+Okay. Now, I’m not using a calculator but you got to be getting there for the $40 million to $50 million?
+Eric Le Dain
+If you went to those levels?
+Roger Serin - TD Securities
+Yeah.
+Eric Le Dain
+Yeah, you would be recognizing. We are not in a 2013 guidance conversation yet…
+Roger Serin - TD Securities
+I understand…
+Eric Le Dain
+We are working through those plans. And this quarter is going to be important for us too, right. We are analyzing that right now. And this course of time they give us confidence in liquids content and help us drill the horizontal and optimize it. Is that equivocal? We want to see that could influence our plans.
+Roger Serin - TD Securities
+I’m guessing you think that the well you drilled was in the gas liquids window and you can say yeah. And then with that in mind what information did you have to come to that conclusion prior to getting the core information?
+Ian Dundas
+This is acreage that we -- an acreage position we purchased, built up over the last year-and-a-half. So, it’s not legacy. So, we went here by design and like industry, you’re looking for a series of things that thermal maturation is a key driver as to where you want to set up to find your way between dry gas and oil.
+And so, we built our position and if you actually look at our website, you can see we’ve got sort of a cartoon where we indicate where we think our fairway is. And so, we chose this first location to be in an area that we thought was more perspective.
+But the reality is the whole position we think could be in the liquids-rich fairway. And we’ll find out as new information comes at us. You’ve got -- you have faulting out here as well. That could influence it and it’s a work in progress obviously.
+Gord Kerr
+And we’ll see more results coming out here as we go as well as come out of confidential status here towards the back end of the year.
+
+Roger Serin - TD Securities
+Will you plan to release the thermal maturity information on your Duvernay vertical test more or less when it becomes available or will it be in due course with the quarterly or how do you think you’ll hear about that?
+Gord Kerr
+We haven’t made a decision on that Roger.
+Roger Serin - TD Securities
+Okay. And last question, so at a very high level you dropped your CapEx notionally for next year. We’ve seen a little bit of an improvement on commodity prices, you’ve hedged more back of the envelop again without a calculator. It looks to me to keep the current dividend payment. And on a net basis, you’d be spending maybe 15% to 20% more than cash flow. But you’ve also got given your asset sales a fairly strong credit capacity. Is that a kind of overspending that is consistent with the business model you guys have in mind?
+Gord Kerr
+Well, I think as Ian said earlier, hold that until we come out with our guidance here at the back end of December. But I think what we’re trying to indicate is that, we don’t expect it to going to 2013 at the same spending levels despite the fact that we’ve monetized some of our non-core assets including the Laricina.
+Roger Serin - TD Securities
+Yeah. Blame me for asking.
+Gord Kerr
+I’d be disappointed. If you didn’t.
+Operator
+There are no further questions. I’ll turn the call back over to Mr. Kerr.
+Gord Kerr
+Well, first of all I want to thank everybody again for joining us here today. We know that the market and while we have reactions at different points in time, we’re pretty confident about the direction that we’re going with our asset base and the things that we’re doing for our shareholders.
+So, hopefully that will get reflected and as we believe it should in the market. So thank you again for joining us and everybody have a great weekend.
+Operator
+This concludes today’s conference call. You may now disconnect.

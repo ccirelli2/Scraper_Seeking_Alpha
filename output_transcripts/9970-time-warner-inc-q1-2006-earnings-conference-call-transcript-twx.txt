@@ -1,0 +1,227 @@
+Time Warner Inc. (NYSE:TWX)
+Q1 2006 Earnings Conference Call
+May 3, 2006, 8:30 a.m. EST
+Executives
+James Burtson - IR 
+Dick Parsons - Chairman, CEO 
+Wayne Pace - CFO 
+Jeff Bewkes - President, COO 
+Analysts
+Anthony Noto - Goldman Sachs  
+Jessica Reif Cohen - Merrill Lynch
+Michael Nathanson - Sanford Bernstein  
+Lowell Singer - Cowen & Company  
+Richard Greenfield - PALI Research  
+Doug Mitchelson - Deutsche Bank Securities  
+William Drewry - Credit Suisse First Boston  
+Gordon Hodge - Thomas Weisel Partners  
+Kathy Styponias - Prudential  
+Jason Bazinet - Citigroup  
+Operator
+Hello and welcome to the Time Warner first quarter 2006 earnings call. (Operator Instructions) Now I will turn the call over to Mr. James Burtson, Senior Vice President of Investor Relations for Time Warner. 
+James Burtson
+Thank you and good morning, everyone. Welcome to Time Warner\'s 2006 first quarter earnings conference call. This morning we issued two press releases, the first detailing our first quarter results and the second reaffirming our 2006 business outlook. 
+Before we begin, there are a number of items I need to cover with you. First, we refer to non-GAAP measures, including operating income before depreciation and amortization, or OIBDA, and free cash flow. We use these measures when we analyze year-over-year comparisons. In order to enhance comparability, we eliminate certain items, such as non-cash asset impairments, gains or losses from asset disposals, amounts related to securities litigation and government investigations. We call this measure adjusted operating income before depreciation and amortization, or adjusted OIBDA. 
+Schedules setting out reconciliations of these historical non-GAAP financial measures to operating income and cash provided by operations are included in our trending schedules. These reconciliations are available in today\'s earnings release and on our Company\'s website at www.timewarner.com/investors. A reconciliation of our expected future financial performance is also included in the press release. It is now available on our website. 
+Second, let me remind you that our historical results and business outlook reflect the impact of expensing stock options for both 2005 and 2006, in accordance with the Company\'s adoption of FAS 123R, share-based payments, effective January 1, 2006. 
+Third, as a result of the sales of the Time Warner Book Group and Turner South, the Company has presented the financial condition and results of operations for these two businesses as discontinued operations for all periods presented. 
+Fourth, the Company changed its methodology for recognizing programming inventory costs at HBO. All prior periods presented in the financial statements and trending schedules have been recast to reflect this change. 
+Fifth, today\'s announcement includes certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on management\'s current expectations or beliefs and are subject to uncertainty and changes in circumstances. Actual results may vary materially from those expressed or implied by the statements herein due to changes in economic, business, competitive, technological and/or regulatory factors. 
+More detailed information about these factors may be found in Time Warner\'s SEC filings, including its most recent annual report on Form 10-K and quarterly report on Form 10-Q. Time Warner is under no obligation to, and in fact expressly disclaims any such obligation, to update or alter its forward-looking statements, whether as a result of new information, future events or otherwise. With that covered, I thank you, and I\'ll turn the call over to our CEO, Dick Parsons. 
+Dick Parsons
+Thanks, Jim and good morning, ladies and gentlemen. We appreciate your joining us today. Here is the morning\'s agenda. I will share my perspective on our Company\'s progress and then ask our CFO, Wayne Pace, to briefly take you through the results for the first quarter. That should leave us plenty of time for your questions, during which our President and Chief Operating Officer, Jeff Bewkes, will join Wayne and me. 
+
+We delivered solid results in the quarter that position us well to meet our full year financial expectations, all of which we reiterated this morning. We posted healthy 8% growth in adjusted operating income before depreciation and amortization, or adjusted OIBDA. Even more impressively in my view, we delivered $1.6 billion in free cash flow, converting 58% of our adjusted OIBDA to free cash. Our adjusted earnings per diluted share were $0.20, up 18% from the prior year. 
+This solid performance drew strength from across our businesses, led by robust growth at Time Warner Cable, Filmed Entertainment and our network segments. We achieved these results despite an anticipated decline at AOL due to difficult comparisons to last year\'s larger subscriber business and the impact of executing on our strategy to more aggressively grow our broadband subscribers. 
+Before discussing our progress at AOL, however, let me first highlight the source of most of our growth this quarter. In my opinion, Time Warner Cable delivered the best quarter in its history. This quarter represented the 21st in a row that subscription ARPU has grown at a double-digit rate for our Cable company. Besides setting new records for net additions to both its residential high-speed data and digital phone services, overall revenue generating units were up almost 90% from a year ago. 
+We added 82,000 basic video subscribers, which is more than we have in any quarter over the last six years and more than we did in all of last year. Digital video penetration now represents over 50% of basic subscribers. The obvious and correct conclusion to take from all of these stellar results is that the triple play bundle is working. We are driving customer satisfaction up and churn down, and all the while, we are insulating our expanding base of customer relationships from our competition. 9% of customers are now in the triple play bundles. 
+Many in the investment community have raised questions about the cable industry\'s ability to compete and maintain margins over the longer term. To begin with, we have faced and continue to face tough competition every day, but we know how to compete. Despite the competition, we keep performing better and better. 
+Looking ahead, for as long as we execute on our strategy, we only see Cable\'s competitive position getting stronger. So, while the phone companies are only starting to dig up your yard, cable is already in your house, providing the best products and services available. This is critically important. With our robust infrastructure already in place, we are delivering triple play bundles right now, and we are only going to get better at it, moving faster, broadening and deepening millions and millions of customer relationships. 
+Time Warner Cable\'s continued excellent performance serves only to bolster our eagerness to complete the Adelphia and Comcast transactions. The regulatory process is well underway. We have received approval from the FTC with no conditions and we have obtained almost all of the local franchise approvals. We still await FCC action, which we anticipate will be forthcoming shortly. And, as has been widely reported, we\'re also awaiting for resolution to the creditor issues in the Adelphia bankruptcy proceeding. Nonetheless, we expect the transactions to close on or before July 31st of this year. 
+Now turning back to AOL. At the end of last year, we laid out two overarching goals for that business. First, we are encouraging more of our subscribers to move proactively to broadband. Earlier this year, we introduced a series of attractive broadband offers from a group of access providers stretching from coast-to-coast. In addition, we raised the price of our unlimited access plan, in part to help drive our members to adopt these broadband services. Although it is still early, the results so far have largely been in line with our expectations. 
+
+This initiative is designed to solidify AOL\'s base of customer relationships by growing broadband subscriptions and by increasing the opportunities for AOL to sell more subscription services at scale. Given our initial progress, we are hopeful that we will be in a position later this year to predict better how and when the AOL subscriber base will essentially be stabilized. 
+These broadband efforts should also benefit AOL\'s other main priority, enhancing our advertising performance to take even greater advantage of continuing strong, secular online trends. 
+In the first quarter, we continued to build on our 2005 performance. AOL\'s advertising revenue was up 26% for the quarter, largely in line with or even higher than our perception of the domestic industry average. Importantly, this growth was evenly distributed across all three types of advertising products: display, paid search, and Ad.com\'s performance-based advertising. In particular, the improvement in display advertising demonstrates the significant progress that AOL\'s sales force continues to make. 
+Going forward, we plan to drive more traffic to AOL\'s network of online properties, as well as drive higher usage of them and then continue to monetize that audience effectively. We believe our expanded partnership with Google, which we closed last month, will give us renewed momentum in this regard. 
+Touching briefly on our other segments, we are very pleased with the performance of our studios and networks, which puts them squarely on track to meet their respective full-year expectations. 
+In taking a look at Time Inc.\'s first quarter for a moment, it is fair to say that they were less robust than we had expected. Overall, the consumer magazine business struggled, as advertising demand was not as high as we had expected. This shortfall is not meaningful enough to cause us significant concern as we look out to the rest of the year. It is important to keep in mind that the first quarter is by far the smallest quarter of the year for Time Inc. 
+Before I ask Wayne to review the specific quarterly results in greater detail, I want to update you on our share repurchase program and give you some perspective on discussions that we are having regarding potential transactions. 
+To date, we have purchased a total of approximately $8 billion worth of our stock, $5 billion of it since we last reported to you in early February. Since the inception of our share repurchase program, we have bought back almost 10% of our outstanding shares. At current prices, we have every expectation that we will continue to aggressively purchase our stock. 
+I also want to update you on a couple of matters related to potential transactions we have been working on. As you know, Court TV is a 50-50 joint venture we have with Liberty. We are in discussions with Liberty regarding purchasing their interest in Court TV for cash, and we are hopeful we will have something to announce in the very near future. 
+We are also in discussions with Liberty regarding its ownership in Time Warner, including a possible exchange of a significant portion of that interest for a subsidiary of ours that contains a mix of non-strategic assets and cash. We are hopeful that we will be able to reach a mutually acceptable arrangement, but as is usual in these types of negotiations, we can\'t be sure that these discussions will be successful.
+So with that, I thank you and turn the call over to Wayne for more detail on the quarter\'s performance.
+Wayne Pace
+Thank you and good morning, everyone. The slides that I will refer to this morning are now available on our website. Let\'s take a look at our first quarter results. As you can see on this first slide, our revenues increased $92 million over the prior year to $10.5 billion. Adjusted OIBDA grew 8% in the quarter to $2.7 billion, and our margin was 26%. That is the highest it has been in four years. 
+
+Moving to the next slide, diluted EPS was $0.26 in the quarter compared to $0.19 in 2005. Both of these years had items that affected the comparability. Included in the current quarter were pre-tax gains of about $240 million and $51 million related to sale of equity investments in Time Warner Telecom and Canal Satellite Digital, respectively. 
+Combined with an approximate $90 million tax benefit associated with the realization of some net capital loss carry forwards, the net benefit of these items to our diluted EPS on the quarter was $0.06 per share. These items, as well as those impacting the prior year, which amounted to $0.02 per share, are detailed in our press release and the trending schedules.  Again, as Dick mentioned, we had a nice 18% increase in adjusted EPS on a fully-diluted basis. 
+Looking at free cash flow, we are off to a very strong start once again this year, generating $1.6 billion in free cash flow in the first quarter, and we converted 58% of our adjusted OIBDA into free cash. This next slide shows the usual detail that we give you each quarter on free cash flow. Give us a call if you have any questions on the individual items that are on this slide. 
+As this next slide shows, we ended the first quarter with net debt of $17.8 billion, up $1.7 billion from year-end. This increase reflects $3.9 billion in share repurchases during the quarter and $225 million in dividend payments. This increase was offset in part by the free cash flow of $1.6 billion and proceeds of $532 million from the sale of the Time Warner Book Group and $239 million from the sale of a portion of a Time Warner Telecom investment that we own. 
+As shown on this slide is our cumulative progress with our share repurchase program through yesterday\'s close. Since inception, we have repurchased about 460 million shares, or about 10% of our shares outstanding. Looking forward, we plan to enter into approximately $3.6 billion of prepaid stock repurchase contracts that will provide for repurchases over at least the next three months. 
+Turning to our next slide, as Dick mentioned, we are reaffirming our full-year business outlook this morning. We are pleased with the start of this year and feel confident that we are on track to meet our financial objectives for the year. As Dick mentioned, we continue to expect full-year free cash flow conversion to be between 35% and 45% of our adjusted OIBDA. It is important to keep in mind that we manage our free cash flow on an annual basis and quarterly variations will occur from time to time. 
+We\'ll next move through the results for each of our segments and we will start first with Cable, where we posted very strong financial results for the quarter and record operating results. Revenues grew 15%, led by high-speed data growth of 24%, higher digital phone revenues, and a 20% increase in enhanced digital video revenues. Ad revenues declined 2% due to softness in local and national advertising. 
+Average monthly subscription revenue per basic subscriber for the quarter was $87, up 15% over the prior year. We have now had 21 consecutive quarters with double-digit, year-over-year growth. 
+OIBDA increased 17%, reflecting higher revenues, offset partially by a 9% increase in video programming costs and higher general operating expenses for new services.
+In addition, growth in the quarter benefited from a $23 million adjustment related to a change in estimate associated with medical benefits accruals, an $11 million benefit from an adjustment in the amortization of certain launch support payments, and a $9 million legal accrual in the prior quarter. If you exclude these items, growth in OIBDA would have been 12% for the quarter. 
+Moving to subscribers, we had a very strong first quarter, adding a net 944,000 revenue-generating units or RGUs, more than any other quarter in the Cable company\'s history and 89% higher than the prior-year quarter. Looking at our services individually, basic subscribers grew 82,000 representing the largest quarterly increase in six years. We added 241,000 digital video customers, more than doubling the prior-year quarter\'s net additions and accelerating 21% over the fourth quarter. DVR customers grew 212,000 in the quarter, a 56% increase over net additions in the first quarter of last year, bringing our penetration of digital subscribers to 30%. 
+
+Residential high-speed data subscribers increased a robust 346,000 marking the first quarter ever with more than 300,000 net additions. Demand for digital phone service remained strong. We added 270,000 digital phone subscribers in the quarter, more than any other quarter. This brings our total customers to 1.4 million, or 8% of service-ready homes. 
+Moving to film, revenues declined 8%, due primarily to lower worldwide theatrical revenues. These results were impacted by difficult comparisons to the prior year, which included revenues from Ocean\'s 12, Constantine, and Million Dollar Baby. Also contributing to the decline were television revenues from theatrical products and a decrease in television home video revenues, primarily from Friends and Seinfeld, compared to the prior year. 
+Despite these lower revenues, OIBDA grew 19%. This was driven by higher contributions from new theatrical home video releases, such as Harry Potter and the Goblet of Fire, and Wedding Crashers; also an increase in consumer products and a $42 million benefit from the sale of certain international film rights. This growth was offset partly by higher theatrical film valuation adjustments. 
+Turning to Networks, revenues increased 3% in the quarter, reflecting growth in subscription and advertising revenues, offset in part by lower content revenues. Subscription revenue growth of 8% was led mostly by higher rates at both Turner and HBO. Ad revenue growth was driven by a 6% increase at Turner, offset partly by a decline at the WB. Content revenues decreased 23% due to the absence of HBO\'s licensing revenue from Everybody Loves Raymond, which ended its broadcast network run in 2005, and lower ancillary sales of HBO original programming products. 
+OIBDA growth of 8% was driven by higher subscription and advertising revenues and a decline in stock compensation expense. This growth was offset partially by higher programming and marketing expense and lower contributions from content revenues. 
+Moving to AOL, revenues were down 7% due to a decline in domestic AOL brand subscribers and a negative impact from foreign currency exchange rates. This was offset in part by a 26% increase in ad revenues. Ad revenues benefited from over 25% growth in each of traditional paid search and pay-per-performance advertising. Adjusted OIBDA declined 17%.  Lower subscription revenues were offset partly by higher advertising revenues, a reduction in network costs, and an $18 million reduction in an accrual related to employee incentive compensation.  
+Adjusted OIBDA at AOL Europe of $2 million versus the prior year quarter of $29 million was negatively impacted primarily by higher network costs. In the second quarter, we expect AOL\'s adjusted OIBDA growth to decline at a similar rate to the first quarter.  After that, and as we indicated in our previous earnings call with you, we expect adjusted OIBDA to improve as the year progresses.
+Let\'s turn for a moment to AOL\'s membership base.  AOL\'s overall U.S. brand subscriber base declined 835,000 in the first quarter to 18.6 million.  Monthly ARPU declined slightly to $18.43 from the prior quarter and the prior year. This next slide depicts AOL audience metrics.  For the first quarter, AOL\'s domestic ad revenues, less traffic acquisition costs or TAC, were $275 million.  Average monthly domestic unique visitors were 107 million, the second-largest domestic online audience, and total domestic page views were 52.6 billion.  As a result, we averaged 163 monthly page views per unique visitor.  Advertising in the quarter was driven by yield rather than by inventory or volume. 
+Looking at Publishing, let me remind you as Jim mentioned that these results exclude the Book Group, which was sold and are reflected accordingly as discontinued operations.  Revenues were essentially flat compared to the prior year.  Ad revenue growth of 2% benefited from higher online ad revenues, including gains at cnnmoney.com and si.com, the acquisitions of Essence and Grupo Editorial Expansion, as well as higher revenues from recent magazine launches, such as Life.  
+
+This growth was offset partly by lower advertising at certain domestic and international magazines. Adjusted OIBDA was down 12% due to decline in international magazines and $12 million in restructuring charges during the quarter.  This was offset in part by lower stock compensation expense and a decline in startup losses at certain magazines. That completes our prepared remarks.  We will go back to Jim to start the Q&A process. 
+Question-and-Answer Session
+James Burtson
+Thanks, Wayne.  Operator.
+Operator
+(Operator Instructions) Your first question comes from Anthony Noto - Goldman Sachs.
+ Anthony Noto - Goldman Sachs
+Thank you very much.  Dick or Jeff, I had a question on AOL.  Specifically, the 26% year-over-year growth despite the decline in page views is quite impressive; it is an acceleration.  I was wondering if you could talk specifically about what is driving better sell-through? Wayne had mentioned it was not due to pricing CPM, so I assume the RPM is up due to better sell-through.  If you could talk a little bit about what\'s driven that. 
+Second, as you look through the back half of this year, are you worried at all that the greater than expected sub losses in the first quarter could hurt your page view inventory by the back half of the year?  Thanks.
+Jeff Bewkes
+As Wayne said, and it\'s in your question, our sales effort has been improving steadily.  Essentially, we stabilized it in the last quarter of 2005, and we are pretty happy with the progress we\'re making there.
+Basically we think that AOL either kept pace or in some cases exceeded most of its online competitors in terms of monetization.  So our year-over-year ad growth was up considerably, 26% in the first quarter; every quarter before that we\'ve been increasing that performance.  Some of it has to do with getting DoubleClick online.  We benefit from Ad.com\'s ability to bring systems to us.  So we think that is working very well. We believe that our progress will continue in that.  
+We think the Google arrangement will also combine with that well, and so we see all of that working pretty well.  It is in a fairly good stage of execution in terms of our ability and our habits of knowing how to do this. 
+In the second half, let\'s go to subscribers first.  We are driving for these broadband subs. On fact, we are driving it so that we can move over reasonably quickly to broadband.  Therefore, we think that the subscriber trends will continue in the second quarter; we will have a similar kind of decrease there as we have in the first quarter. We think that\'s going to start to improve in the second half and that the advertising and audience and page view trends will be improving in the second half.  
+So it is basically part of our plan that it\'s going this way.  We feel pretty good about the unique visitors  at the AOL.com site.  Page views are low from non-members on that site, but they are growing. 
+ Anthony Noto - Goldman Sachs
+Thank you. 
+Operator
+Our next question comes from Jessica Reif Cohen - Merrill Lynch.
+ Jessica Reif Cohen - Merrill Lynch 
+I have two questions.  One, Dick, if you could just clarify what you said about the share buyback for the rest of the year.  Does that include the potential Liberty transaction for Court TV and buying back some of the stock or would this be incremental?
+As part of that question on Court TV, could you discuss the potential for integrating that asset if you get it in terms of cost-cutting, as well as upside.  Given management\'s past success, how would you integrate them into the organization? 
+The separate question is could you give us some more detail on the margin expansion in Filmed Entertainment?  How much was the revenue mix change and how much was cost-cutting? 
+Dick Parsons
+Okay, Jessica.  That actually sounded not like two but three questions to me, but there are three of us here.
+
+ Jessica Reif Cohen - Merrill Lynch 
+Sneaking it in. 
+Dick Parsons
+There are three of us here, so we will handle it.  I will take the first part.  Jeff, why don\'t you handle the AOL part, and Wayne, margin improvement.  
+In terms of amplifying what I said about share buyback, I said, as you know, since we announced the program late last summer we\'ve done about $8 billion in repurchase, which is about 10% of our outstanding shares, about 460 million shares. 
+We have already said that it\'s our expectation that in this pricing range, we feel we will be at about $15 billion all-in by the end of the year.  So that is another $7 billion worth of repurchase activity. So if we did something on the Liberty front, that would be sort of subsumed or included within that overall number.  
+Then we have said that we would do the remaining $5 billion on that $20 billion commitment in \'07, and that would still be our expectation, subject of course to the price levels of the stock.  
+Jeff Bewkes
+Court TV, if we conclude a deal where we get all the rest of the ownership, and we have been involved this with Liberty all along; we have built a strong programming and brand and marketing capability at Court TV, including a lot of original programming.  So clearly will keep that.  We\'ve been instrumental in building it for the last ten years.  We will preserve the strengths over at Court TV in our people there to continue to increase the strength of the programming, the original programming, and the marketing. 
+Having said that, there are clearly some improvements in the business we can do by using some of the Turner capabilities in either back office in terms of costs, or in distribution in terms of affiliate representation.  So that would, we think, increase the competitive power of Court TV, including the financial results. 
+I will give it to Wayne, but on the Warner Brothers side, which he already spoke some about, we have got a fairly diverse studio there.  Because we are more diverse than our competitors, we have been producing superior results and superior predictability across films, television, international and DVD, etc.  So we are essentially continuing to enjoy those advantages. 
+You can look at the revenue lines and see that there is a flattening in the home video side.  But we have strong slates coming out in DVD, as you saw in Wayne\'s remarks, and we have a very strong slate at Warner through the summer and the rest of the year theatrically.  
+Wayne Pace
+Yes.  The first quarter, you did see margin improvement.  Revenues were down 8% and OIBDA on a year-to-year first quarter compared to first quarter, OIBDA was up 19%, so obviously margins had a dramatic increase. A couple of things are working there.  
+One is we had help coming from home video release, Harry Potter and the Goblet of Fire and Wedding Crashers, which were high margin contributors.  
+Then two other things took place in the quarter which improved OIBDA, but did not have any revenue impact. One was we sold at Warner Brothers some international rights to one of our distribution partners, which had a $42 million impact at the OIBDA line and did not impact revenues, so it was a straight margin improvement there.  
+Then in last year\'s first quarter, which we disclosed, we wrote down one of our Consumer Products products.  So there was a write-down in the first quarter last year; didn\'t have a corresponding type of a write-down for that business this year, so that improved margins there. 
+This business, as Jeff talked about, because of the timing of releases into the marketplace, both theatrical and TV can have some quarterly swings.  We really look at it on an annual basis, and both New Line and Warner Brothers will have a very nice year on an overall basis this year. 
+
+Operator
+Our next question comes from Michael Nathanson - Bernstein.
+ Michael Nathanson - Sanford Bernstein
+I have two.  The first would be if you could share with us how the broadband strategy has worked in terms of conversion, how many dollar customers have you seen converting to AOL broadband in the past quarter or even quarter to date?  So some color on that. 
+You\'ve talked in the past about how the Film Entertainment division has tough compares, but you\'ve started the year off really well.  The question is do you think it will be up for the year on an OIBDA basis, given how you\'ve started so far?  
+Jeff Bewkes
+I\'ll take the Film things first.  We don\'t give specific guidance for divisions.  So I think Wayne just covered what we can say or are willing to say about the Film performance.
+On the broadband deals, they are working well in relation to our plans and expectations for them.  It is too early to say quantitatively to you exactly how to break it down because there\'s a difference between the different providers.  
+For example, the deals with the pre-existing partners -- that would be Time Warner Cable, Verizon -- where the provisioning capabilities are in place are working very well.  Whereas the newer broadband distributors, it has been a more mixed performance in terms of their ability to take the leads that are generated and hook these people up to DSL.
+So overall, because even in those we see a steady improvement in our ability to work together with them and their ability to take up the leads that are fairly substantial coming out of AOL\'s subscriber base, we think it is going well and I think we will be a position to give more quantification later in the year. 
+ Michael Nathanson - Sanford Bernstein
+At what point in the past quarter did most of these deals start hitting in terms of the impact? 
+Wayne Pace
+We only signed them, Michael, really the bulk of them were signed at the end of January and announced then.  A few of them actually did not really get signed even and announced until into February.  So as far as them coming online, I think Jeff is right.  We had pre-existing arrangements in place and had been working with Verizon and Time Warner Cable.  Through the fourth quarter, those hit the ground running much more as you come through the year.  The rest of them have been ramping up as you go. 
+ Michael Nathanson - Sanford Bernstein
+Okay.  Which is why you guys are going to wait for another quarter to figure out how it\'s flowing? 
+Wayne Pace
+I think we are figuring it out every day, I hope.  I think we don\'t have enough experience yet to where we really feel comfortable giving you directional perspective on it right now. 
+ Michael Nathanson - Sanford Bernstein
+Thanks. 
+Operator
+Our next question comes from Lowell Singer -SG Cowen. 
+ Lowell Singer -SG Cowen
+Good morning. Jeff, I wanted to ask you about the magazine business.  Clearly it has been a difficult ad environment for that business over your varying parts of the last couple years.  What is your longer-term outlook for that business?  What kind of bottom-line growth do you think you can drive over the next few years?  How much of that is really the traditional ad business versus new revenue streams, whether it is online or other sources of revenue? 
+Jeff Bewkes
+We are very optimistic about the Publishing business over time because we have this unrivaled collection of brands.  So even though there\'s some softness right now, even in the print side, in some of the male-oriented titles, and that is mostly because of weakness in specific advertiser categories, for example domestic autos.  Our lifestyle magazines had another great year -- that would be Real Simple, People, Southern Living, etc. 
+So to your question on the longer-term, whether it is by acquiring some existing properties like Golf.com or by leveraging strong brands like our CNN/Money, Fortune.com, which is just launched three months ago and it is now the third most visited finance site on the web, we think that the brands that we have going to be very strong, and in fact now are presently getting very strong, as we evolve them beyond print to online and we deliver on those platforms. Online includes mobile etc. 
+
+So basically our focus is to drive these brands online, to keep our readership and brand position strong.  We\'ve been maintaining number one position for audience and in terms of quality ratings in some of the surveys, People being number one.  We have been working on costs, because that transition on the print side is going to mean continued changes in the business there and lower costs, and it is going to mean increased investment in our capabilities for these brands online.  But we expect earnings for the year to be up. 
+Operator
+Our next question comes from Richard Greenfield - PALI Research. 
+ Richard Greenfield - PALI Research 
+A couple questions.  One, when I look at the Cable unit, if I look at what Wayne said in terms of looking at an apples-to-apples comparison, if I take it to the next level of looking at before merger and restructuring costs as well, your EBITDA growth was about 10% relative to your revenue performance of up 15%.  
+I wondered if you could spend a little time explaining the reason for the lower margins year-over-year and whether that is a trend we should expect over the course of the year? 
+Two, for Dick, could you just comment -- you are increasingly bullish about the Cable business.  Your Cable quarter in terms of sub metrics was phenomenal.  Has this changed your view relative to actually creating a public cable sub for Time Warner Cable?  Do you want to just own all of cable within Time Warner, given the strength in that business? 
+Jeff Bewkes
+On your first question on Cable, it is the advertising numbers which were offsetting the high subscription numbers in every category, as Wayne and Dick went through.  So that is the answer to that.  What was the second question? 
+Dick Parsons
+The second question was given my bullishness on Cable, are we still committed to taking a piece of the company public. Well, Richard, you are right.  I have been, I continue to be bullish on Cable.  I just think the guys are shooting the lights out and I identified the reason in my opening remarks.  
+I think this ability to offer consumers this bundled package not only giving us an opportunity to go back and resell people whose homes we passed but don\'t currently sell product to, so you now go back with a phone offering and can load the back end of the truck up with the other things they have -- that they\'ve passed on in the past.  It\'s just making the whole thing stickier.  Churn is going down. 
+I think it\'s showing not only in our results.  I think our results are probably at the top of the heap for the cable industry, but the whole industry seems to be getting an uplift now that everybody is on this wicket.
+Now how does that translate into our commitment to spin a part of the company?  We\'re still committed to the deal we structured with Adelphia and Comcast.  I continue to think that, both for strategic reasons in terms of continuing to play in cable consolidation, having a cable currency is an appropriate way to go.  I also think that will give our Cable company more flexibility as they evolve into what I call a 21st century, fully empowered, fully loaded telecommunications platform.  So yes, we are still going down that road. 
+Operator
+Our next question comes from Doug Mitchelson - Deutsche Bank. 
+Doug Mitchelson - Deutsche Bank
+The cable trends are pretty clear, so I wanted to ask Jeff a networks question this quarter.  Ad growth slowed to 6% in the first quarter.  Why the slowdown from the fourth quarter pace?  Also, can you talk about your expectations for Turner\'s Cable Upfront this year?  I am interested in your view as to whether the cable network business as a whole looks more like a single digit or a double-digit advertising growth rate going forward. 
+Jeff Bewkes
+Hi.  I am not concerned about the ad performance at Turner, TNT, TBS, or Cartoon or CNN this year.  In the first quarter, there\'s some timing issues on scheduling.  In the second and third quarter, we have some very strong programming, including the western division NBA playoffs.  We also have a big miniseries from Stephen King called Nightmares and Dreamscapes, along with the return of our hit original series, The Closer, and we have a new one called Saved.  Remember, Closer was the number one new original series on cable last year.  So we think we are fine and strong and will be through the year in both ratings and ad performance at Turner. 
+
+On your questions on ad market growth, in terms of scatter, it is moving pretty steady with a lot of activity hitting in the next few weeks.  We think it will be at least high single-digits in most of those.  
+Your longer-term question in cable, I can\'t give you exactly the projection of what ad revenues will be over the long run, but we think in the bottom line of those businesses, they are going to be strong on an ongoing basis across our networks, both ad-supported and pay, for the foreseeable future. 
+Doug Mitchelson - Deutsche Bank
+Just the Upfront, any thoughts on Turner\'s Upfront? 
+Jeff Bewkes
+We did well last year.  We think we\'re going to be in a lead position this year. 
+Doug Mitchelson - Deutsche Bank
+Okay, thank you. 
+Operator
+Our next question comes from William Drewry - Credit Suisse.
+ William Drewry - Credit Suisse 
+Just AOL-related questions.  Given what Wayne said about better results, EBITDA growth, et cetera, in the second half, can you see margin expansion in the second half as you trend into better results there? 
+On the cost side as you transition subscribers to broadband, do you feel that you\'ll be able to take out the networking cost at a commensurate rate as you are taking subscribers off the narrowband services?  
+Jeff Bewkes
+Yes, in the long run, but the costs don\'t come smoothly in a variable way.  But in the long run, yes, as we move to broadband we will be able to lighten up our narrowband network costs. 
+On the margin side, they would expand and will expand as the year goes on due to our dynamic as we move them over from narrowband subs to broadband subs, and have the audience part with ad support become an increasing part of the mix.  And as you have been hearing, that is the part that is growing rapidly. 
+Dick Parsons
+We have been pulling a lot of network costs out from the domestic access business, as we have disclosed to you for the past couple of years.  That will start slowing down, in fact.  As we have talked about in Europe, it goes the other way.  As subscribers are moving to the bundled, those network costs start to go up.  So on a total reported basis for AOL, your network cost line item starts to look flattish going forward. 
+ William Drewry - Credit Suisse 
+Great.  Thank you very much. 
+Operator
+Our next question comes from Gordon Hodge - Thomas Weisel Partners. 
+Gordon Hodge - Thomas Weisel Partners
+If you could comment about the home video environment.  I think you had a pretty strong profit performance at Warner with new releases, but I\'m just curious what the trends are with Catalog and with TV on DVD. And then lastly, you mentioned Court TV and another deal with Liberty potentially.  Do you have any interest or would you comment on whether you have any interest in Univision? 
+Jeff Bewkes
+In the home video side worldwide, video is slowing overseas as well.  The Catalog category is the most challenged. It\'s not going down, but it is the one that is under the most unit and pricing pressure for all studios worldwide.  
+The sale of TV DVD continues to be the faster-growing section, but DVDs overall are slowing a little bit.  So it\'s not growing quite as fast as it was.
+We have a very strong position in Catalog and in general distribution and in TV inventory for DVD, which is one reason why, as you heard in Wayne\'s remarks, our video and home video yield is going up and has been very strong.  So that is the general outlook on DVD for us.  I guess the other question was Univision. 
+Dick Parsons
+On Univision, clearly a terrific company, terrific asset, great business target at an attractive demo.  Having said that, and of course being the biggest player in all of these spaces, we look at everything, but we don\'t comment on transactions.  But let me give you some context within which to think about how we\'re thinking about things. 
+
+As you know and I just went through it with Jessica, we are committed to continue our very aggressive share buyback, at least these levels.  As we are looking at other investments for the still substantial capacity of our Company, we are looking at things and looking at them in a way that we are very focused on returns on investments we make.
+We think the return on our share buyback is going to prove to be quite spectacular in the fullness of time, and that is a pretty aggressive hurdle rate to clear.  But if we see something where we think we can get even greater returns and we can show our investors that there are greater returns, we would look hard that. 
+Operator
+Our next question comes from Kathy Styponias - Prudential. 
+ Kathy Styponias - Prudential 
+Dick, this question is for you.  You recently suggested that you would be looking to take about $1 billion out of Time Warner\'s cost structure.  I was wondering if you can tell us where you are in the process and where you expect it to come from, either by division or the types of cuts you expect to make and over what time period. 
+Dick Parsons
+I will start off, but I want my money guy on this one as well, so I\'m going to ask Wayne to sort of bat clean-up. As we announced when we increased our share buyback to $20 billion, first of all, we had already, in terms of the current year 2006 operating plan, we had already built in -- because we got started on this last year -- a savings I\'m going to say of at least $500 million over last year. Then we committed to extend that program and have a similar level of cost reductions or cost savings in 2007.
+We are clearly on plan to meet our 2006 objectives.  We haven\'t gotten fully into the budgeting process for 2007, but it is certainly our commitment to meet our commitment.  Now Wayne, do you want to add to that? 
+Wayne Pace
+In trying to be fully responsive, Kathy, when we set our budget for 2006, we identified specific areas that got to the at least $500 million that Dick was speaking to earlier, and it affected every division, including corporate.  We had specific areas of focus and dollar amounts set up for every division, and then targeted areas within every division, including corporate, and vetted it fully during the budgeting process with the people responsible for running those budgets.
+We set up targets for the outer years as well.  Now we\'re just starting our budgeting process, the detailed bottoms-up budget for 2007, and we will make it.  Every division has jumped in with full support for this and we will be fine in that regard.  Again, it includes every division, including corporate. 
+Operator
+Our last question comes from Jason Bazinet - Citigroup. 
+ Jason Bazinet - Citigroup 
+I just had one quick question.  Could you just comment on how you guys are thinking about AOL Europe from a strategic standpoint?  Is that an important asset for you? Thanks. 
+Jeff Bewkes
+Yes, we have to look at how the business in Europe is competing with access providers, many of whom our incumbent national telephone companies.  We have been doing well over the last few years in that competition, but as we evaluate the future of it, we look at whether the thing would be more profitable in another structure.  We\'re not saying we have reached that conclusion, but we want to make AOL Europe as profitable as it can be in whatever ownership structure would bring that about. 
+Jason Bazinet - Citigroup 
+Okay.  Thank you very much. 
+James Burtson
+Thanks, everyone.  We appreciate you listening to the call today. 
+Operator
+Thank you.  At this time, the conference call has ended.  You may all disconnect at this time.  Thank you.

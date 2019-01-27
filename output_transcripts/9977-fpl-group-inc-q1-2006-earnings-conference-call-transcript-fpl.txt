@@ -1,0 +1,314 @@
+FPL Group Inc. (FPL-OLD)
+Q1 2006 Earnings Conference Call
+May 02, 2006, 9:00 a.m. EST
+Executives
+Jim Von Riesemann, Director, Investor Relations
+Lewis Hay, Chairman, Chief Executive Officer and President
+Moray Dewhurst, Chief Financial Officer and Vice President of Finance
+James Robo, President, FPL Energy
+Armando Olivera, President
+Analysts
+Greg Gordon - Citigroup
+Ashar Khan - SAC Capital
+Steve Flesch - Merrill Lynch
+Daniel Eggers - Credit Suisse First Boston
+Paul Patterson - Glenrock Associates
+Paul Ridzon - Keybanc Capital Markets
+Daniele Seitz - Dahlman Rose
+Shalini Mahajan - UBS
+Michael Goldenberg - Luminus Management
+Operator
+Good day everyone and welcome to the FPL Group First Quarter Earnings Conference Call, today’s call has been recorded.  At this time for opening remarks and introductions I’d like to turn the call over to Mr. Jim Von Riesemann, please go ahead.
+Jim von Riesemann
+Thank you good morning and welcome to our 2006 first quarter earnings conference call.  Moray Dewhurst, Chief Financial Officer of FPL Group will provide an overview of our performance for the first quarter, Lou Hay FPL Group’s Chairman, President and Chief Executive Officer, Armando Olivera, President of Florida Power & Light company and Jim Robo President of FPL Energy are also with us this morning.  Following Moray’s remarks, our senior management team will be available to take your questions.
+Before I’d turn it over to Moray, let me remind you that this communication is not a solicitation of proxy from security holder of Constellation Energy, or FPL Group.  Constellation Energy intends to file with the Securities and Exchange Commission, a registration statement that will include a joint proxy statement and perspectives and other relevant document to be mailed to security holders in connection with the proposed merger of Constellation Energy and FPL Group.
+Let me remind you that our comments today will include forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995.  Any statements made here and/or about future operating results or other future events or forward-looking under the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.  Actual results may differ materially from such forward-looking statements.  The discussion of the factors that could cause actual results or events to vary as it contained in the appendix here and in our SEC filings.  These risks as well as risks associated with the proposed merger between FPL Group and Constellation Energy will be fully discussed in the joint proxy and perspectives that will be included in the registration statement on Form S-4 that the companies will file with the SEC in connection with the proposed merger.
+And now I’d like to turn the call over to Moray Dewhurst.  Moray?
+Moray Dewhurst
+Thank you Jim, good morning everyone.  FPL Group is off to an excellent start in 2006 powered by the outstanding performance of the FPL Energy and despite rather tepid results from Florida Power & Light.  In fact for the quarter, FPL Energy’s contribution to our earnings exceeded that of Florida Power & Light.
+The outstanding performance of the FPL Energy reflects strength across the board.  We ended the year highly hedged, but good market conditions and incremental generation from outstanding operational performance coupled with the wind resource index a little above normal led towards succeeding our expectations in virtually every part of the FPL Energy portfolio.
+Year-over-year comparisons benefited from the contributions from new assets including the Duane Arnold Energy Center which join the portfolio in January.  While we do not expect FPL Energy to outperform Florida Power & Light every quarter in terms of earnings contribution, we believe the results show the strength of the business model that we’ve developed for serving competitive wholesale markets.
+
+Florida Power & Light earnings contribution was up over last year but the results were below our expectations.  First quarter weather was even milder than last year.  Looking forward, we remain intensely focused on solid execution for the remainder of the year.  With the high degree of hedging and the advanced state of development of the 2006 wind program at FPL Energy, our major focus needs to be continued outstanding execution.  At this stage, we continue to expect FPL Group to deliver adjusted earnings per share of 280 to 290 in 2006.  And, I’ll have additional comments on this later in the call.  Our earnings expectations assume normal weather for the balance of the year and exclude the effect of adopting new accounting standards, merger-related costs and the mark-to-market effect non-qualifying hedges, none of which can be determined at this time.  Finally, as you all know much has happened recently in Maryland that could have an barring on our agreement to merge FPL Group and Constellation Energy, I would provide some additional comments at the end of this call.
+Now let’s look at the financial results of the first quarter.  In the first quarter 2006, FPL Group’s GAAP results for $248 million or $0.63 per share compared to $137 million or $0.36 per share during the 2005 first quarter.  FPL Group’s adjusted 2006 first quarter net income and EPS is $228 million and $0.58 respectively compared with $168 million or $0.44 per share in 2005.  Our adjusted results exclude the mark-to-market effect of non-qualifying hedges and merger-related costs.  Please refer to the appendix of the presentation for complete reconciliation of GAAP results to adjusted earnings.
+FPL Group’s management uses adjusted earnings internally for financial planning per analysis and performance for reporting of results to the Board of Directors and for the company’s employee incentive compensation plan.  FPL Group also uses earnings expressed in this fashion and communicating its earnings outlook to analysts and industrials.  FPL Group management believes that adjusted earnings provided more meaningful representation of FPL Group’s fundamental earnings power.
+FPL’s performance for the first quarter was somewhat disappointing.  On the good side, customer growth continued at a strong base, so it will be slower than in recent years.  Usage for customer was roughly flat with the exception of the weather impact which was negative even relative to a weak 2005.  Increases in O&M and interest expense plus reductions in AFUDC are into the introduction to service of the Martin and Manatee expansions more than offset reductions and depreciation resulting from last year’s rate case and its settlement agreement.
+Overall, earnings were up but we had hoped to do better.  In regulatory matters, we completed hearings just over a week ago on our petition to recover our prudently incurred 2005 storm restoration costs and to rebuild a storm reserve fund to $650 million.  We also filed our new 10-year site plan detail in generation expansion options for the coming years; I would provide updates on these in a moment.
+In the first quarter of 2006, Florida Power & Light’s GAAP and adjusted results were $122 million or $0.31 per share compared to $111 million or $0.30 per share during the 2005 first quarter.  Growth in new customer accounts continued at a strong pace in the first quarter, the average number at FPL customer accounts increased by 92,000 or 2.2% this is slightly below the pace of the last couple of years but still very good.  You may recall that our general expectation to the next few years is to continue at about 2% level.
+Overall, retail kilowatt-hour sales grew 1.7% during the quarter.  Customer growth accounted at 2.2%.  Usage growth associated with weather was down 0.5% year-over-year largely reflecting the mild whether, underlying usage growth mix and all other effects were flat with the year ago comparisons.
+
+As a remainder, our statistical model for usage takes into account weather effects, general economic conditions, price elasticity and long-term trend data.  Our 2006 earnings expectations continue to assume no growth in usage for customer going primarily to the price elasticity effect associated with the significant increase in customer bills associating with rise in fuel costs.
+For 2007 and beyond, we believe underlying usage growth will return to its long-run average of 1% to 1.5%.  For the first quarter, FPL’s 2006 O&M increased $20 million to $330 million, 2 areas account for essentially all the increases, nuclear and distribution.  The nuclear plants continued to experience cost pressures associated with increased doping to meet enhanced regulatory requirements and to ensure long-term reliability.  Distribution costs were driven by increases in fleet vehicle costs and additional restoration expenses although there has been no decline in overall system reliability.
+Looking forward we expect to see increases for the full year in generation, transmission and distribution and customer service as well as continued increases in employee benefit costs.  Distribution expenses and capital are likely to be further increased as a result of our strong secure initiative which we announced earlier this year.
+Depreciation and amortization expense decreased $35 million to $195 million for the first quarter of 2006.  There are 2 primary factors for the decline, the extension of the useful lives on our generation fleet and the elimination of the nuclear decommissioning accrual, both of which were implemented in the result of last year’s base rate proceeding in the august 2005 stipulation and settlement agreement.
+The annualized net effect of these 2 items is to lower depreciation by approximately $140 million on an after-tax basis.  And as a reminder, depreciation should by down for the year but not by the full amount of these 2 items, normal capital spend in the half year impact following the addition in the Martin and Manatee generating facilities will be partial litigants to the expansion of the usual life’s and the necessitation of the decommissioning accrual.
+To summarize, Florida Power & Light’s first quarter earnings per share were effected by the following, customer growth positive $0.03, usage due to weather negative $0.01, underlying usage growth mix and other zero, O&M negative $0.02, depreciation positive $0.06, AFUDC and interest expense negative $0.05 other including share dilution and rounding zero for a total $0.01 improvement for the quarter.
+Let me now update you on the status of storm cost recovery proceedings.  As you will recall, in January we file the petition with the FPSC seeking recovery of approximately $816 million of prudently incurred restoration cost relating to the 2005 storm season.  In that petition, we proposed combining these amounts with the remaining un-recovered desist from 2004, as well as rebuilding the storm reserve to approximately $650 million.  We proposed two alternatives, the use of securitization as our primary recommendation and a surcharge as our alternate.
+Since the petition was filed, we had further refined our estimates of final cost based on new information and have reduced the total estimated and recovered in 2004 and 2005 storm cost by approximately $46 million.  Two weeks ago, the Commission held 3 days of hearings on the prudence of the 2005 costs as well as the considerations that should lead to choosing securitization or surcharge and the level of the reserve that should be targeted.  The Office of Public Counsel proposed a number of disallowances and adjustments, altogether totaling approximately $166 million to the 2004 and 2005 costs and intervene as generally recommended that the reserve be rebuilt to a level of $150 million to $200 million.  We believe our witnesses provide it excellent responses to all the issues raised and continued to believe that our actions were prudent and our accounting approach is appropriate.  However, there can be no guarantee that the Commission will agree with our position on all the issues raised.
+
+You will recall that the 2005 rate stipulation settlement specifically states that the parties agree and the company will entitled to recover prudently incurred restoration costs.  This proposition was effectively challenged by staff witness who proposed that the Commission arbitrarily impose up to a 20% sharing of prudently incurred costs.  As we indicted in our response, not only with this meeting consistent with the rate agreement which the witness acknowledged, it would also be inconsistent with basic principles of rate making.  Since the rated agreement specifically excluded storm cost from recovery through base rates the imposition of so-called sharing approach would effectively preclude the company from ERCOT the opportunity to recover that portion which has been shared.  What we believe we could provide with sound responses to this proposal, I must note that during the hearings one party to the 2005 agreement mainly the Attorney General of the state of Florida took the position with the 2005 agreement either contemplated or at least allowed for the imposition of sharing.  The commission is due to vote on votes outstanding issues in this matter on May 15th.
+In early April, we filed our latest 10-year site plan with PSC.  This planning document identifies our capacity needs for the next ten years and the assumptions on which they are based.  It incorporates the Turkey Point 5 expansion doing service in mid 2007, as well as the proposed West County Energy Center targeted for 2009 and 2010.  We have included plans for additional demand side programs.  The plan also indicates that in 2012 and 2013 the company is tending, intending to pursue the introduction of new clean coal capacity, we are currently working on identifying suitable sites.
+Finally, in early April, we notified the nuclear regulatory commission of our intent to submit a license application in 2009 for a new, new nuclear plant in Florida.  New nuclear resources in Florida would help balance FPL’s generation mix, ensure reliability and provide greater price stability for our customers.  A decision to build is still several years away and will be evaluated on several factors including regulatory climate, financial market conditions and competing fuel technologies.  The contemplation of a new nuclear plant is not incorporated in our recently filed 10-year site plan since, it would likely coming to service beyond the 10-year planning period.
+Let me now turn to FPL Energy which delivered outstanding results driven by strong operational performance coupled with favorable market conditions and weather resources that were closer to long-term historical averages, especially in the wind category that we have seen in recent periods in the, all of the core elements of the FPL Energy portfolio delivered result that were better than expected.
+In terms of factors affecting future periods, the first quarter generally saw forward price fall however the effect on our business is muted by the high degree of hedging for the next couple of years.  And the backend of the curve did not move significantly.  Our wind is open continues to make good progress thus far in 2006, FPL Energy has about 760 megawatts of new wind projects that have either been completed or expected to reach commercial operation around the end of the year.
+Consequently today’s 2006 wind development pipeline is slightly ahead at the upper end of our original target 625 megawatts to 750 megawatts.  We expect another 625 megawatts to 750 megawatts of new wind to be placed into service in 2007, given the 2 year extension of the production tax credit program authorized by last year’s Energy Policy Act.  The combination of new wind projects and the expected increase in contributions from our merchandise assets has all the hedges roll off and they are replaced by sales at higher prices are the 2 major drivers that we expect to power the growth at FPL Energy’s earnings for the next few years.
+
+FPL Energy’s 2006 first quarter reported earnings were $151 million or $0.38 per share compared to $37 million or $0.10 per share in last year’s first quarter.  Adjusted earnings which exclude the effect of non-qualifying hedges were $128 million or $0.32 per share compared to $68 million or $0.18 per share last year.  The non-qualifying hedge category so gains a $23 million consistent with the general decrease in forward prices.  As always we have provided more detail on these transactions in the appendix and we continue to believe that FPL Energy’s current period performance is best understood by excluding these amounts whether gains or losses from consideration.  Other things equal gains or losses in this category will turn around in future periods as the underlying contracts go to delivery.
+Turning to the drivers of the increase in the FPL Energy’s adjusted earnings, new investment contributed $0.05 per share, since last year we have added 537 megawatts of new wind capacity and the recently completed acquisition of Duane Arnold nuclear plant in Iowa as well as the solar generation facility in California that we acquired last year both of which were under long dated purchase power contracts also contributed to growth.  Contributions from our existing assets increased $0.16 per share but $0.04 coming from the existing wind portfolio as wind resources return to more normal conditions.
+The wind index for the first quarter 2006 was 102 versus an index of 88 in last year’s comparable period.  Please refer to the appendix in the presentation for additional detail on the wind index.  The combination of favorable market condition, higher planned output, and generally favorable pricing levels for our merchant portfolio, particularly in NEPOOL, out of $0.10 of the $0.16 per share improvement.  Seabrook and our main assets both fossil and hydro fuel experience were positive environments with opportunities provided by ships in the gas-oil price ratio being particularly notable.  The remaining $0.02 increase came in the contracted portion of the portfolio.
+Asset optimization trading activities were flat quarter-over-quarter while restructuring activities declined $0.03 with no contribution this year versus the modest gain last year.  All other items were down $0.04 primarily driven by higher interest expense associated with underlying growth of the business and higher rates.
+Overall, we are pleased with the strong adjusted earnings growth that FPL Energy was able to achieve this quarter.  We had expected good performance as we ended the year well hedged.  But the combination of excellent tactical and operational effectiveness coupled with favorable market conditions lead the better results than we had anticipated.  FPL Energy’s performance this quarter confirms for us the observation that we had frequently made that success in the business is very much a function of coming as close as possible flow of execution.
+Let me now review changes in key market indicators during the quarter, you can see from this chart the 2007 forward commodity prices fell modestly in our major markets during the first quarter.  However with the exception of the worst they remain well above where they were a year or so ago.  In addition, since the end of the quarter, prices have risen again and the backend of the curve has shown continued strength.  In fact, when we go update the chart today, we would chose life increases in natural gas prices.  The 10 year strip natural gas is above $8.  The natural consequences of the first quarter retreat in forward prices are the gains in the non-qualifying hedge category that I described earlier as well as some reduction in our 2007 cope in positions since we are not fully hedged the next year.
+
+The former course are offset by the unmarked losses in the underlying unmarked physical positions, where the latter, although we are in the band of expectations that we said out for you last year when we shared expectations for 2007 results.  As a consequence, the commodity price volatility of the first quarter and had little net impact on our outlook and the price increases in April have roughly brought us back to where we are at the end of the year.  We expect to see continued volatility in forward markets but the underlying strengths in fuels market seems likely to endure for sometime and fundamental supplying demand for power in our major markets continue slowly to improve.
+Let me now update you on our contract coverage at FPL Energy, I would encourage you access the slide that are available on our website www.fplgroup.com under the investor sections and say we will not review every number on the slide.  These slides are also emailed through our analyst distribution list this morning with the press release.  There has been little change in our 2006 position.  Overall, on our contract coverage on a capacity basis for 2006 is 87% for the balance for the year, translating to approximately 90% of our 2006 expected gross margin from our wholesale generation fleet being protected against fuel and power market volatility.
+As always we expect to maintain some open positions to take advantage of potential market opportunities during the more volatile summer months.  We’d continued to add to our 2007 hedges and the capacity coverage fractions now stands at 72% translating to over 80% of our expected 2007 gross margin being protected against commodity price volatility.  We’re very comfortable with this level of hedging at this point in time.  And we expect to add only incrementally to this over the few months depending upon market conditions.  To summarize the 2006 first quarter, FPL contributed $0.31, FPL Energy contributed $0.32, and Corporate and Other contributed a negative $0.05.  That is a total of $0.58 compare to $0.44 in the 2005 first quarter on an adjusted basis.
+Turing now to 2006 and 2007, there have been no developments that would cause us to change our expectations significantly.  Accordingly, the ranges shown here are the same as previously discussed and remain valid to characterize our expectations for FPL Group is a standalone case, i.e., prior to considering the effects of the announced merger with Constellation.  For 2006, we currently see an EPS range of 280 to 290.  And for 2007, we see a range of 315 to 335.
+As a reminder the key drivers behind the growth are continued healthy growth of Florida Power & Light, additional accredited contributions from investments in new wind projects the impacts of rising commodity prices reflected in hedges rolling over at FPL Energy and the addition of Duane Arnold to the portfolio.  In the appendix, we have included additional detail and again these have not changed significantly since the yearend earnings conference call.
+Having said that, there are few developments that are worth noting, first the outstanding performance of the FPL Energy in the first quarter clearly puts us ahead of where we could expect it to be at this point in the year.  This is partially offset by two factors.  The first quarter weakness of Florida Power & Light and the general rise in interest rates which is likely to pressure the Corporate and Other segment by a few cents per share over the course of the year.
+Putting these together and noting that we’re still early in the year, we remain comfortable with the overall range for this year.  Our outlook for Florida Power & Light assumes normal weather the balance of the year, normal operational conditions and the satisfactory outcomes of the storm cost recovery proceedings.  We’ve ahead of much better feel for Florida Power & Light position after the second quarter.
+
+Before taking your questions, I’d like to make a few comments on the status of our proposed merger with Constellation Energy Group.  As you all know much is happened in Maryland over the last three months.  We have not been directly involved in the negotiations but we have been monitoring them closely and of course have been in close contact with the senior executive team of Constellation.  We remain very positive on the strategic rational for the merger which holds the prospect of enabling us to build the industry leading competitive energy business, while simultaneously offering modest incremental benefits to the customers of the two regulated utilities.  Our initial integration planning activities have reinforced the positive views we developed during our due diligence efforts.
+At the same time, however, we cannot be blind to some of the negative political developments in Maryland which under some possible scenarios would inhibit to prevent us from realizing the potential value of the deal.  We continue to believe that FPL Group is a strong independent company with excellence standalone growth prospects and we will not allow the potential value of the deal to be compromised simply in order to meet politically imposed hurdles.  We remain committed to protecting and enhancing FPL Group shareholder value.  And now we will be happy to answer your questions.
+Question and Answer Session
+Operator
+Thank you.  (Operator\'s Instructions).
+And we will go first to Greg Gordon, Citigroup.
+Greg Gordon - Citigroup
+Thanks good morning Moray two quick questions.  One, the cash flow in the quarter across both businesses but especially at FPL was fairly very light can you comment on you had about $282 million cash out the door for storm-related cost.  So, and then the $382 million associated with change in margin cash deposits and $238 million of other.  At what point should we expect these negative cash flow do start to reversing?
+Moray Dewhurst
+Okay the cash flows, if you just look at the first quarter is a little difficult to treat it out of the statements, comparisons with prior year somewhat confusing and the 12 ‘05 yearend balances frankly make an odd starting point.  Most of the complexity is on the FPL side.  FPL Energy operating cash flow is affected by, high up oil prices, so we’ve got more expensive oil in the tanks and some minor increases in restricted cash flow which we pulled out in April.  But those are all pretty minor things and they will essentially turn around within the course of the year.  So there is really nothing noteworthy at FPL Energy despite the numbers in here.  The big issue is really boiled down to Florida Power & Light.  For the quarter, we got a big unfavorable driver which you noted, which is the return of cash collateral about $380 million, but in, in the sense this just inflated our prior period cash flow and the yearend balance.  The true picture can strip everything away and look at FPL really year-over-year is, on a cash basis pretty unfavorable, it is really driven by two things fuel and storm.  And if you go back to where we were roughly a year ago the combination of those two things fuel and storm, we are approximately $1.3 billion worse off from a cash flow perspective.  Now much of the fuel will come back in the course of this year, we ended, ended last year little over $1 billion under recovered on fuel and about $750 million of that will be recovered through this year’s fuel factor with about $300 million spilling over in 2007.  The storm, obviously depends upon the outcome of the PSC’s judgment on May 15th, assuming that they approved the securitization route and we are able to securitize in let’s say the August timeframe then that would deal with the cash flow implications of the storm base, if they opted for the surcharge route, then obviously the cash would come in over, a longer period 3 years, but on…
+
+Greg Gordon - Citigroup
+That’s right, that’s, that’s a lot of coverage, clear, thank you.  The second question is as you look at the snapshot of the, the Maryland financial or regulatory backdrop today.  Has anything that’s occurred in terms of Maryland Public Service Commission rate decisions, inconsistent with your expectation on the proforma financial outlook for the company?
+Moray Dewhurst
+Let me ask Lou to comment on merger issues.
+Lewis Hay
+Greg this is Lou.  In regard to Maryland, obviously the situation has not played out the way we would have hoped it would have played out, but I think its still pre-matured or really know exactly what’s going to happen there, there has been a lot of noise but so far, we really don’t have a final determination of, how things are going to work, we obviously we’re expecting there to be some kind of a rate stabilization plan and, we’ll just have to see how it goes.
+Greg Gordon - Citigroup
+Okay thanks guys.
+Operator
+We’ll go next to Ashar Khan, SAC Capital.
+Ashar Khan - SAC Capital
+Good morning.
+Moray Dewhurst
+Good morning Ashar.
+Ashar Khan - SAC Capital
+Could you, elaborate the existing assets in FPL Energy $0.16 increase, could that be broken down between the assets classes a little bit to help us?
+Moray Dewhurst
+What do you mean by the assets classes on…
+Ashar Khan - SAC Capital
+I mean, how much is wind, how much is Seabrook, I am just trying to understand what the assets in the FPL Energy added to the success, is there better break that up to $0.16.
+Moray Dewhurst
+Okay, with $0.04 is wind on the existing portfolio and that’s basically just the wind resource.
+Ashar Khan - SAC Capital
+Okay.
+Moray Dewhurst
+$0.10 is the merchant portfolio, we haven’t, we don’t separate out Seabrook as a separate asset its all part of New England cluster, I don’t know but the, the vast majority of that $0.10 was actually in the NEPOOL region.
+Ashar Khan - SAC Capital
+Okay.
+Moray Dewhurst
+And then $0.02 was in the contracted segment.
+Ashar Khan - SAC Capital
+Okay.  And then, if I can just Lou just going back to Moray said at the end of the call, what scenario does do the economic stone work.  Could you just amplify a little bit more on that statement?
+Lewis Hay
+The answer is pretty hard for me at this point to speculate on scenario it is, of course a lot to do with scenario that could played out at this point and I think the appropriate thing for us to do is, is really as I said before just to watch and see how would those play out and there is not much more we can do at this point of time as Moray said, we continue to believe in the strategic rational of the deal, I’d say the integration teams are working very, very well together and, we’re just, very hopeful and confident that the situation in Maryland will sort of help out.
+Ashar Khan - SAC Capital
+Okay thank you very, very much.
+Operator
+We’ll go to Steve Flesch from Merrill Lynch.
+Steve Flesch - Merrill Lynch
+Hi can you hear me?
+Moray Dewhurst
+Good morning Steve.
+Steve Flesch - Merrill Lynch
+Hi good morning.  A couple of questions, Moray first could you discuss a little more in the quarter, the dynamics in NEPOOL that you mentioned I guess oil spread helping, it was on the other hand a pretty mild weather winter in NEPOOL, but you still go as well.  So maybe if you could just kind of give some flavor?
+Moray Dewhurst
+Yeah, it’s kind of a combination of things.  Although, it was a somewhat mild winter prices held up pretty well.  We had good water flow, and I guess the biggest single driver that I’ve just mentioned in the script, the gas-oil ratio as you know we got the unified assets in main.  They sort of, on a forward basis, they drift in and out of the money particularly for the Jan, Feb and summer periods.  So we had previously hedged the Jan, Feb iterated with those assets, so the time when oil was relatively low compared with gas of course oil has risen much, sharply recently in gas.  So we were able to buyback those hedges very profitably and still end up with some high-valued oil in the tanks.  So that was a big extra bonus, it sort of caught a wheel rope portfolio optimization that we able to do and I think it was great as well.  What you can do when you have mixture of assets in a region.  So that, when you can say that at this particular period that was a sort of chanced event but it’s a chanced for this happened quite frequently over the years, because oil and gas just don’t move in long step as you know.
+
+Steve Flesch - Merrill Lynch
+Right, okay.  Second question is there any developments you’re hearing or seeing in the Florida legislature, discussion?
+Moray Dewhurst
+Let me turn that one over to Armando who is monitoring that closely.
+Armando Olivera
+It is, as you know they probably Florida legislature is, has really the rest of the week and the session and officially ends on Friday, the one piece of legislation that affects our business that’s still under consideration is effectively an omnibus energy bill and the energy bill would create a commission that would advice the Florida legislature on energy issues and so they would be looking at renewables they would be looking at energy infrastructure in the state and where the state has vulnerabilities, part of this is a net growth of ’04 and ’05 hurricane seasons, when I think some of the state leaders recognized the vulnerabilities that we have with both the delivery of gasoline and diesel fuel into the state through the, compressively two ports and the dependency that we have in two natural gas pipelines in to the state.  So what maybe in it for us and its really a lot of activity will go on the last couple of days of the session would be some changes in the roof that would facilitate the sighting and permitting of both transmission lines substations, possibly co-plants and nuclear plants and there also be an opportunity to recover some of the development cost associated with a co-plant or a nuclear plant.  But it is still early and a lot of things can happen between now and end of the week.  But needless to say, we’re looking at it very closely.
+Steve Flesch - Merrill Lynch
+Okay, one last quick question on the merger, Lou you commented that you guys were expecting when you did the merger that it’d might be some kind of RSP planned to face the rate hikes, that seems kind of done now, so I assume the lingering issue for the most part is the actual merger approvals and synergy sharing and all that kind of stuff?
+Lewis Hay
+For the most part, you’re probably right.  At least I hope you’re right.  It’s, everyday is, there are new events in Maryland.  And we would hope that the rate stabilization plan is over and done with, but it’s my understanding that it’s still subject to appeal.  And the legislature could still come back into sessions; I am not going to say anything more on that, I think Moray commented on that appropriately the other day, yeah.  So, we don’t have any we definitely don’t have any better inflate than he does is delivered the session will, they will call a special session or not.  But there has been a enough twisted terms along the way over the last several months that, it’s, I think it’s pretty much odd to say we are done with that.
+Steve Flesch - Merrill Lynch
+Okay thank you very much.
+Operator
+And we’ll go to Dan Eggers, Credit Suisse.
+Daniel Eggers - Credit Suisse First Boston
+Hi good morning.
+Moray Dewhurst
+Good morning Dan.
+Daniel Eggers - Credit Suisse First Boston
+The first question on the expanded or the step-up or the extension of wind projects are more capital going there.  Can you just give a color on the market forgetting capacity and the ability to build us like everybody is talking about adding wind?
+Moray Dewhurst
+Yeah, let me let Jim comment more but we are in pretty good shape Dan.
+James Robo
+And we feel very good about obviously ’06 much of that is more service-oriented construction.  Our ‘07 pipeline is also very full and we feel good about that and frankly we are very focused on doing, doing what we can to continue to grow that business and we feel very confident that we are going to be able to continue to do that.
+Daniel Eggers - Credit Suisse First Boston
+All right cost of equipment going up just as demand has risen and then manufacturing capacity is probably tightened a bit?
+
+Moray Dewhurst
+For every thing that we have laid out in terms of our expectations for winds for both this year and next year, we have equipped another option during the periods, so equipment availability is not an issue for us through this PTC cycle, obviously they’re been displayed demand, pressures in the industry and I think its pretty well known in the industry that there is been more equipment tightness in, say in the ’02 ’03 timeframe and but I feel very good about our position there and how we manage them so.
+Lewis Hay
+Dan to your specific question on equipment pricing, yeah clearly prices have gone up compared with where they were, two or three years ago both due to commodity price increases and also due to the equipment vendor price increase since couple of years ago they frankly won’t making any money.  So I don’t think the favorable environment that we enjoyed two three years ago was sustainable.  But the economics projects still look good.
+Daniel Eggers - Credit Suisse First Boston
+Okay got it, can you give a little more color or talk a little bit about your plan for bidding in some of these asset auctions that are coming up under those network plans and coal asset, you’re going to be on the market.  How do you guys planned to bid those, in a context of the merger of Constellation and your strategy, can you talk about that a little bit?
+Moray Dewhurst
+Dan, I don’t think there’s been a lot of change in our approach to the asset markets.  So in maybe just let me review a few key points there.  In terms of asset acquisitions, our number one priority remains wind where we can see incremental opportunities to build the wind portfolio, we will do that.  Second has been new nuclear acquisitions and I think we have said before that you can expect that any time that there is some activity there, we will certainly at least be taking a look that doesn’t mean we will participate in every situation depends on the specifics and I don’t want to comment on specifics.  But clearly we like the position that we have in nuclear, there are scale benefits to the portfolio.  So we are going to continue to try and build there.  And then third, in order priorities has been continues to be trying to round out to be existing regional portfolios, the major areas that we focus on our new England, Texas, The West and PJM, where we have seen that when you have a cluster of assets different points in the dispatch curve, different fuel mix that inherently has more value for a dollar capital committed that when you have a small and a more homogenous fleet in a region.  So those are the priorities, they haven’t really changed.  We continue to look at a great many things.  But we are also very conscious as the importance of getting the economics right.  And, that really hasn’t changed either or so.  It’s a, it will continue to be as we see the specific opportunities come up.
+Daniel Eggers - Credit Suisse First Boston
+Okay and just one last one.  Can you give a little color or talk about how you guys are planning to manage, the Florida Commission vis-à-vis the deal?  Are you going to have the entire negotiations and try to work something directly with them or is it categorized as a scheduled process?
+Moray Dewhurst
+Again, Armando can comment on Florida issues.
+Armando Olivera
+I think at this point, our inclination is just the kind of let the process be out, as more initiate as far as the stone cost recovery, we expect decisions on May 15 and I would say that probably is a small chance albeit, not as zero.  There could be some negotiations between now and then.  But I’d say that that the answers there a pretty, pretty small and I think we just going to led it play out.
+Daniel Eggers - Credit Suisse First Boston
+Okay thank you.
+
+Operator
+We’ll go next to Paul Patterson, Glenrock Associates.
+Paul Patterson - Glenrock Associates
+Good morning guys.
+Moray Dewhurst
+Good morning.
+Paul Patterson - Glenrock Associates
+Just want to, just brief on two things.  First of all, with respect to FPL Energy and you guys being so far ahead, it looks like you’re probably contracted, is there, is that is being so conservative I guess with respect to your outlook for the per earnings in 2006 February in the year, or is it some potential swing back or some thing that I might be missing, I mean a rise of wind might, there obviously could be some variation but, but it looks like you guys are doing so well that, that one might think that your performance is, it could be considerably better.
+Moray Dewhurst
+Yeah, I think if you would just focus on that, energy and isolation.  We would say definitely that is, that is true.  The things that are making us little cautious, this early in the year are really on the, on the other side.  First of all, Florida Power & Light did had a weak quarter and most of the year is still ahead.  So we can’t like to see how things play out, with not a lot more of currency in the second quarter.  And then the other thing that I also mentioned in the prepared remarks is, we have seen obviously interest rates, short-term rates in particular, have come up quite a bit.  And that will definitely as I look out over the course of the year, cost us a few cents, I mean, well, cost the Board.  So for the moment, I think that the right thing to do is stick with the existing range, but certainly we feel very good about where we are, relative to that range.
+Paul Patterson - Glenrock Associates
+Okay great.  Then the sensitivity to interest rates I guess was, what should we, what kind of I mean, when you mention the, I guess, I guess, a touch work from that, I don’t know what kind of other financial instruments you might have that might be interest rate variable but can you give us the rule of thumb, if we see I don’t know the Turkey Point rates go up another 50 basis points or what is the if there is a any rule of thumb we could use in terms of calculating the potential interest impact associated with higher interest rate?
+Moray Dewhurst
+I think you can get to it from just looking at the short-term debt balances that variable balances in the appendix there is a slide that indicates +/- 100 basis point shift is about $0.02 per share.
+Paul Patterson - Glenrock Associates
+Okay.
+Moray Dewhurst
+For the rest of 2006, it maybe a little light actually.  But I think we’re talking something in the, in the few cents per share range.
+Paul Patterson - Glenrock Associates
+Okay but there is no derivatives or anything that we have to?
+Moray Dewhurst
+No.
+Paul Patterson - Glenrock Associates
+Okay and then just finally, if I understands you Lou with respect to the merger, it sounds like currently rate base in plan and what’s currently progressing seems to be okay, the concern I guess, is that the political situation being since storming there, that if, there’s only the potential I guess from the kind of environment, something might come out of less fuel, but that, as things currently look, you guys are still pretty optimistic as, am I putting original amount or am I interpreting correctly?
+Lewis Hay
+I guess, think the word helpful is probably the best word there.  We will add it out, the environment in Maryland is worse now than it was 6 months ago.  And that clearly has a concerned but, I think we have to let, as I said it is play out and let the fact speak for themselves as to what really happened.  Environments, I think, its almost any regulated company we see environments sort of have been flow, as you got two cycles, some times they are good, some times they are not so good, you all have been following this industry for many years and you’ve seen it and yet, I think pretty much consistently throughout those cycles, the regulated businesses tend to do, okay some years little bit better, some years not so, so good, so I think we have to take everything that’s happening in Maryland right now with the, our growing result, its an election here.  There is a lot of political rhetoric going on and, so what we are feeling is we just have to be patient and wait this out and see it how it plays out.  There has been a lot of things said, but so far, most of it has been just rhetoric and a lot of the really terrible things that were potentially going to play out in the legislative session, it didn’t happen.  So that makes us to feel a little bit better, but how well its, but what it could have been, but as I said we could fill up a special session and we just don’t know yet, how this is going to play out.
+
+Paul Patterson - Glenrock Associates
+Let me add into the special session, we should in the absence of that kind of activity just relating to going out the Maryland Public Service Commission, you guys would remain, I mean, it wouldn’t have been that bigger deal, guess what I am saying, I know that you, you got to be cautious, but am I interpreting that correctly?
+Moray Dewhurst
+Well the, sorry about that, just a little technical difficulties here, the Commission is yet to do anything in regard to the mergers.  So we really have to see, how they, what actions they take in terms of merger approval, and clearly there has been, a lot of pressure on Commission and, I wouldn’t be surprised that, that pressure impacts their behavior at least on the margin.
+Paul Patterson - Glenrock Associates
+Okay, thank you.
+Operator
+We will go next to Paul Ridzon with Keybanc.
+Paul Ridzon - Keybanc Capital Markets
+What does your backlog of options for wind equipments look like and how does that benefit you relative to someone who perhaps wanted to just kind of fill the wind business from scratch, in at this current environment?
+Moray Dewhurst
+Well I think as Jim said, we are in very good shape for our 2006, 2007 programs; obviously we are the largest single fire of wind equipment.  So other things equal that, confers certain competitive advantages on us, I think it would be challenging for somebody to be trying to start this new wind development construction business at this point.
+Paul Ridzon - Keybanc Capital Markets
+Do you have (multiple speakers).
+Lewis Hay
+Hey I would like to add something to that before you go to the next part of the question.  We also, for several the major manufacturers of wind equipment, not only do we buy wind equipment from them but we buy lots of other stuff from them.  So I was just like we’re an important customer, and that doesn’t guarantee a supply, but it’s definitely get us succeed at the table in discussions about future supply.
+Paul Ridzon - Keybanc Capital Markets
+I don’t want to hop on this too much, but back to Maryland, does the existing 600 million of sharing is that, does that force you to look at the terms at all, of the deal, but would it take something incremental with synergy sharing on top of that 600 before you have to perhaps thinks about maybe the changing the terms of the deal?
+Moray Dewhurst
+I don’t thinks its appropriate at this point in time for me to comment on that, as I said we just really have to see what if any other conditions are imposed on the merger, before we take a position on this.
+Paul Ridzon - Keybanc Capital Markets
+And then just wind options, passed ‘07, Dewhurst?
+Moray Dewhurst
+We are in good shape for wind options passed ’07.
+Paul Ridzon - Keybanc Capital Markets
+Thank you very much.
+Operator
+We will go next to Daniele Seitz, Dahlman Rose.
+Daniele Seitz - Dahlman Rose
+Following up on the wind power issues, do you anticipate that there will be a request for an extension of the tax credit on wind fairly soon.
+Moray Dewhurst
+I actually have not been following the political developments on the PTC program Jim you may have some thoughts here.
+James Robo
+I think you probably saw several weeks ago that centered a graphically proposed, a multiyear extension of wind PTC, as something that we are following very closely, I think its safe to say around the PTC is, that is oil prices are hitting $75 and gas prices, the 10-year gas trip is over $8 that renewable energy is important to, these are important part of the future energy policy in the country, and I think, you’ll see wind to get broad support on both side of the oil.  So, I don’t want to necessarily comment on the specifics of wind and what’s going to happened but I think, I think you can be comfortable that wind is going to continue to be supported in the and going forward in the US.
+
+Moray Dewhurst
+Having said that, recall that we here in the, early part of 2006 and the current program goes to the end of the next year and compared with past political cycles that is a long time away.  So when I said what Jim says I personally would not be at all surprised if it were a while before any thing actually happened.
+Daniele Seitz - Dahlman Rose
+And in your guidance you have mentioned $0.12 to $0.24 on the new investment in ’07 most of the days are less assumes them some of it is obviously the wind program that you have right obviously when you see new investment; I think that we don’t know about that net.
+Moray Dewhurst
+No when we share our expectations they don’t include any thing for currently sort of unidentified asset acquisition or any thing like that.
+Daniele Seitz - Dahlman Rose
+Okay 
+Moray Dewhurst
+In ’07 the new is really coming from the 2006 wind programs so that goes into play in 2006 will be provided by the end of the year.  So it’s really generating its earnings beginning earnings contribution in 2007.  So we are in very good shape there.
+Daniele Seitz - Dahlman Rose
+Okay, so is it $0.12 to $0.24 is the wind program you already have mentioned today?
+Moray Dewhurst
+Correct.
+Daniele Seitz - Dahlman Rose
+Thank you.
+Operator
+We will go to Shalini Mahajan with UBS.
+Shalini Mahajan - UBS
+Hi good morning.
+Moray Dewhurst
+Good morning.
+Shalini Mahajan - UBS
+A few questions on Florida Power & Light.  The underlying usage excluding weather is been a bit weaken more you have mentioned by your philosophy could be a bit fractional there.  Then what gives you the confident that usage would going to bend back 1% or 1.5% beginning next year.  Is it just the time factor of people getting used to high bills or?
+Moray Dewhurst
+Yeah when you look at the history of how price elasticity works, obviously it’s a response to a change in prices and that has been fairly significant this year as we look out over the future hopefully, we are not going to see the same kind of rate of increase in prices and therefore the negative impact price elasticity will fade away and you will be left with the underlying usage growth and we don’t really see anything at this stage that causes is to change our view on the long-term trend of underlying usage growth which is fundamentally that has income increases, people consume more electricity, electric intensity of the economy does slowly increase particularly down the year when you have people you don’t get an larger houses and further inland where there air conditioning load is higher, greater intensity of electronics appliances; those trends are pretty long-term trends.  So what we are seeing the we hope certainly is just back underlying trend being masked by the negative impact of price elasticity.  Now obviously if we see another 20% increase in the bill because we have another 30% of fuel prices that would change but, but is don’t be a forward curves are in the moment I think, once we get through this big, big shift hopefully we will settle back down to that underlying trend.
+Shalini Mahajan - UBS
+And in a fuel, recovery that you guys avail the $750 million that you mention that you would recover this year and, depending on how the storms that has to securitization or surcharges are recovered what would be the potential increase in bills for the customers ’06 versus ’05.
+Moray Dewhurst
+I feel, what impacts the bill is about, sort of depending over 20%, the residential consumer of ’05, I think that it is better to think this stage will be for ’07 impact will be other than that, we will see the 30 point expansion income, in the middle of the year that will according to the, 2005 great agreement will see a slight bump in base rates.  But from a customer perspective, that bump in base rates will be offset by reductions in fuel cost because it will be displacing higher heat grade units pushing them out of dispatch occurs.  So actually the earlier we can get Turkey Point 5, into services, the better it is for our customers.  So with that, carry out I think that’s, that’s all I can say about ’07 at the moment.  If we look at, each month we go through and mark the portfolio if you like on the FPL side to mark it based on the current forward curves and see how much we might be overall under recovered at the end of the year and that number can bounce around easily by a couple of 100 million each month just because of a huge size of the fuel burn that we have at FPL.  So it’s a little difficult say what the 2007 impact might be, but we are optimistic that it’s we are not going to be anything like we have forced impose on customers issue.
+
+Shalini Mahajan - UBS
+Well, could you provide any sensitivity to usage growth, when you look Florida Power & Light guidance for ’07?  Or should we thinking about, you might read, 1% growth how much of that could add to the earnings?
+Moray Dewhurst
+If it is not in the appendix I’ll commit to getting you something.
+Shalini Mahajan - UBS
+Okay and then with respect to the West County Energy Center proposal that you guys have put forward.  How should we monitor the timeline for approval of that?
+Moray Dewhurst
+Armando you want to comment on that schedule.
+Armando Olivera
+I don’t have the schedule right at the top of my head but we are, it will go to hearings early this summer.  And so we would expect that we would be going to a decision at Florida cabinet as which you sited as the power plant signing board would be late this year, probably late November, early December we would anticipate that it would in all like it would coming we would get that approval before the end of this year.
+Shalini Mahajan - UBS
+Okay.
+Armando Olivera
+So we are still very much on track for an in service date of ‘09 for the first unit and ‘10 for the second unit.
+Shalini Mahajan - UBS
+Great thank you so much.
+Operator
+We will go next to Michael Goldenberg Luminus Management.
+Michael Goldenberg - Luminus Management
+Good morning guys.
+Moray Dewhurst
+Good morning, take one more question after Michael.
+Michael Goldenberg - Luminus Management
+Okay I had just wanted took follow-up on the merger.  You obviously aren’t willing to share your position at this time and keep referring to need for more information to come out of Maryland.  Assuming that current schedule Maryland PSG has put up if that goes through when do you think you will have enough information to form an opinion or to an express an opinion as to the results this process of Maryland?
+Moray Dewhurst
+Michael the, under the current schedule we would expect to have a rolling from the commission sometime near the end of September.  However, keep in mind that whatever comes out of the Commission could be litigated or appealed so it’s really impossible to come up with a full schedule at this point of time, thus give you a definitive answer to your question.  But, and its also possible we may not really be waiting that along assisted function of sort of how we’ve read the climate and how things play out over the course of the next three to six months.
+Michael Goldenberg - Luminus Management
+But I guess for us investors living here, we’ve not exactly sure what it is that you are looking for or how much information you already have, in terms of May 10, decision.  Anyway to provide us more color as to, if your opinion at this point is 70% complete or it’s really no mans land.
+Moray Dewhurst
+Well, I think in some regards one of the exact thing to position as you are I don’t think there is any information that we have that you don’t have, and but I think I can say that with great deal of confidence.  So….
+Michael Goldenberg - Luminus Management
+Understood.
+Moray Dewhurst
+You have everything you need to note formal opinion on that.
+Michael Goldenberg - Luminus Management
+Understood, so I just take up the overall days in September, this sounds to be awaiting something from FPL or is it likely to come before that time?
+Moray Dewhurst
+I don’t even think it’s fair to speculate.  On that I wish I could give you more definitive answer.  The only other thing I would add to it is, I mean virtually daily contact with mail and other members of our team are in daily contact with the folks of Constellation, they have been wonderful to work with throughout this process despite the difficulties of everything that’s going on up there.  And whatever, we do we are going to working through this together.  And I feel confident that that’s you will be hearing from both of us at the same time.  So this isn’t sort of just a situation where, we’re just sitting back and watching, waiting for the final, finally answer on this, it is even though its clearly a Constellation DGE issue where we all been kept informed and there is a lot of discussion and coordination about what the impact of the event in Maryland is like what, what the impact is likely to be on, each of our company is on a standalone basis and, the merger itself so, beyond that, as I’ve been saying over already and I apologize that I can’t tell you more it just left and we just have to wait and see how it plays out.
+
+Michael Goldenberg - Luminus Management
+Understood.  Thank you very much.
+Moray Dewhurst
+You are welcome.  Thank you.
+Operator
+And having no further questions I would like to turn the conference over to Moray Dewhurst for any additional or closing comments.
+Moray Dewhurst
+We have no closing comments.  We thank you all for attending.  Thank you all for your questions.
+Operator
+This does conclude today’s conference.  Thank you for your participation.  You may now disconnect.

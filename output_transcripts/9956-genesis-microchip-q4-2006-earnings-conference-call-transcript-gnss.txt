@@ -1,0 +1,357 @@
+Genesis Microchip (GNSS)
+Q4 2006 Earnings Conference Call
+May 2nd 2006, 5.30 PM
+Executives
+Elias Antoun, President and Chief Executive Officer
+Michael Healy, Chief Financial Officer
+Tonya Chin, Investor Relations
+Analysts
+Adam Benjamin(?), Piper Jaffray 
+Quinn Bolton, Needham and Company
+Michael Bertz, WR Hambrecht & Co
+Jennifer West, Merriman, Curhan, Ford & Co.
+Jason Pflaum, Thomas Weisel Partners
+Jay Srivatsa, Roth Capital Partners
+(Sayid Cha of Longrove Research?)
+Craig Berger, Wedbush Morgan
+Brian Alger, Pacific Growth Equity
+Tore Svanberg, Piper Jaffray
+Operator
+Good day, ladies and gentlemen, and thank you for joining us for the Genesis Microchip Q4 2006 earnings conference.  Operator instructions.  And now, for opening remarks and introductions, I would like to turn the conference over to Tonya Chin, Director of Investor Relations.  Please go ahead.
+Tonya Chin, Investor Relations
+Good afternoon, everyone, and thank you for joining us today.  With me today are Elias Antoun, President and Chief Executive Officer and Mike Healy, Chief Financial Officer.  Today\'s discussion contains forward-looking statements, including without limitation, forward-looking statements regarding the company\'s revenues, growth margins, operating expenses, product yield and new product development.  The forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected.  Those risks and uncertainties include growth rate of the flat panel TV and LCD monitor markets, the company\'s ability to introduce new products, gain design wins and ramp new design to production volumes, changes in expected product yield and unexpected manufacturing capacity constraints, rate of customer transition to the company\'s newer single-chip solutions from older, dual-chip solutions, competitive pricing pressures, availability and pricing of panels and other display components, costs and outcome of litigations and factors that affect stock-based compensation expense and tax rates.
+Other risk factors are listed in today\'s press release and the company\'s SEC reports, including but not limited to the company\'s quarterly on form 10-Q for the quarter ended December 31st 2005, and its annual report on form 10-Ka for the fiscal year ended March 31st 2005.  The forward-looking statements made today are the company’s targets and not predictions of actual performance. In the past, the company’s performance has deviated from its targets as of the beginning of a quarter.  Participants are cautioned not to place undue reliance on these forward looking-statements, which speaks only as of today’s date.  The company does not undertake to publicly update or revise these forward-looking statements even if experience or future change makes it clear that any projected results expressed or implied in this discussion will not be realized.  Any statements made by persons outside the company, speculating on the progress of the quarter or any other aspects of the company’s business, will not be based on internal company information and should be assessed accordingly by investors.
+During the call, the company will refer to both GAAP and non-GAAP financial information.  The reconciliation of GAAP and non-GAAP results in accordance with the SEC’s regulation G is included in today’s press release which has been posted on the company’s website. Please note that an archived version of the broadcast is available on the company\'s website at www.gnss.com in the investor, events and webcast section.  Additionally, a replay of this conference call will be available through May 8th by dialling 719-457-0820.  Replay access code is 9758492.  And now I would like to turn the call over to Elias.
+Elias Antoun, President and Chief Executive Officer
+
+Thank you, Tonya.  Good afternoon everyone, and thank you for joining us today.  I will first recap our 2006 fiscal year, and then talk about our fiscal Q4.  For the year, Genesis delivered a solid financial performance with substantial improvement over FY2005.  Revenues increased 32% to $269.5 million.  More significantly, the company\'s flat panel TV revenues increased 81%, while monitor revenues increased 7% over the prior year, despite the continued price pressure in that segment of our business.  We also registered an increase of 37% in total unit shipments over FY2005, to a total of 62.6 million controllers, a new record for Genesis.  The shift in our revenues toward flat panel TV controllers, along with a diligent effort toward managing product costs, drove a gross margin increase from 42.3% to 45.8% in 2006.  As a result, the company\'s delivered net income of $18.4 million in FY2006, as compared to a net loss of $9.4 million in FY2005.  
+We also accelerated new product introductions during the year.  In our flat panel TV controller business, we launched the Cortez Advanced and Cortez Plus editions to the Cortez family, broadening our product portfolio to cover the full range of our customers\' platforms.  Both products have been designed in at leading customers, and have ramped into production.  In our LCD monitor controller business, we introduced the gm5766, the latest member in our Phoenix family that addresses the growing requirements for higher performance in mainstream monitors.  This product has already ramped into production at customers in Korea and Taiwan.  In FY2006 we also expanded our addressable markets by introducing the gm7746, the company\'s first timing controller, targeted at high-definition flat panel LCD TVs and 10bit video processing.  The gm7746 has also been designed in at one of the world\'s leading panel manufacturers, and we expect to generate revenue from this product in the September quarter of FY2007.  
+In addition, we co-developed an audio/video receiver reference design with Cirrus Logic, enabling us to leverage additional Cortez-based revenues from the AVR market with minimal incremental investment.  In terms of design wins during FY2006, we substantially maintained our position at our leading customers and made some measurable progress at other tier one customers where our penetration was historically lower.  We also strengthened our market at leading positions in China and Taiwan, which we expect to leverage into significantly better results as the trend for outsourcing flat panel TV design and manufacturing accelerates in the future.
+I will now turn to our fiscal Q4 results.  The March quarter revenues were $60.9 million, a decrease of 18% from Q3.  Revenues of $34.9 million in the TV market were down 21% due to a couple of factors.  First, we experienced a softer than expected demand from our TV customers in Europe and China.  This impacted our flat panel TV controller shipments, as well as shipments of our digital CRT controllers in China.  Second, our customers\' transition from two-chip to single-chip designs continued in the March quarter.  We estimate that this transition negatively impacted our TV controller revenues by approximately $2.5 million in Q4.  We expect the impact to decrease sequentially until it is substantially completed over the next four quarters.  I would like to emphasize that this transition is also being reflected by significant growth in shipments of our Cortez product family.  
+Our TV market share has slightly decreased in the past two quarters, primarily as a result of the performance of our customers in their end markets.  Additionally, the loss of LG\'s entry-level TVs and the shift of a few Toshiba models to their own internal solution has also had a small impact on our market share.  However, based on our current design wins, we fully expect to benefit from the anticipated rebound in the China and Europe markets in the second half of this calendar year.  Revenues from our LCD monitor controllers were $26 million, a decrease of 12% from the prior quarter, and in line with our expectations going into the March quarter.  Total monitor controller unit shipments grew slightly during the quarter and were consistent with the overall end market growth.  
+
+Non-GAAP gross margins decreased to 43.2%, primarily as a result of the lower than expected yield on our Cortez Advanced controllers.  We are very close to completing the requalification process on the new version of Cortez Advanced with our lead customer, and expect to begin volume shipments of this new version in the latter part of the June quarter.  Therefore we expect that the effects resulting from the lower yield on our gross margins will be concluded by the end of the June quarter.  Our non-GAAP operating expenses increased to $26.3 million, reflecting continuing investments in our digital TV product development.  Finally, non-GAAP net income for the March quarter was $1.6 million, or $0.04 per share.
+Overall, I am encouraged by the demand for our Cortez family of TV controller products and the ramp in our Hudson product for the entry-level flat panel TVs, as well as the demand for the Oak family of MFM products.  The Cortez products account for over 40% of our total flat panel TV revenues in the March quarter.  Hudson, which also integrates the Faroudja video processing technology for entry level TVs is being very well received in China.  Hudson revenues increased more than 40% QoverQ, and we expect them to continue to grow again the current quarter.  Our digital TV product development is on track for volume production in our fiscal Q2 of 2007.  We are focusing on bringing our early access partners into production and we are accelerating the development of the company\'s single-chip digital and analog TV solutions, in order to ensure that it will be ready for the calendar 2007 design win cycle.  
+I would also like to address some recently announced strategic developments.  First, I am very pleased to announce that the new display port standard was adopted by Visa at the end of April.  We are on track to lead the market with new products that incorporate this new interface.  We believe that the open display port standard will enable our customers to create new, innovative products that are free from field of use and performance restrictions imposed by earlier interface technologies.  The display port promoter group, which includes Dell, HP, Samsung, Philips, NVidia, ATI and Genesis, has recognized the need for a royalty-free, open interface standard that meets the bandwidth and performance requirements of next generation PC and consumer electronics products.  We expect that the earliest consumer products that will take advantage of display ports will be high-end workstation displays, direct drive monitors, the interconnect between panel and motherboard on notebooks and the internal connection within TVs. These systems will leverage display ports highly scaleable performance, supporting increased color depth, higher resolution, faster data and frame rates and better cost effectiveness.
+Over the past 12 months, I have personally experienced the noticeable shift amongst leading-edge customers in anticipation of display port products.  We expect to see rapid adoption within the PC industry of this new open standard, and we expect the company to start realizing meaningful revenues from display port integrated products in our next fiscal year.  Also, shortly after the end of the fiscal Q4 we announced that the United States court of appeals upheld the lower court\'s ruling that our patent litigation suit against Silicon Image was settled.  We have already been accruing estimated amounts that may be viewed to Silicon Image under the Memorandum of Understanding since the original judgment in December 2002.  The company also recently filed a motion with the ITC requesting enforcement of the exclusion order against MStar\'s TSU, or Tsunami Controllers.  Last year, U.S. Customs refused to enforce the ITC exclusion order against the TSU.  We disagree with Customs\' decision.
+
+Therefore we have requested that the ITC rule on a motion to enforce our exclusion order against MStar\'s TSU controllers.  The process involved with this type of motion is generally less costly and more expeditious than a full ITC trial.  We currently estimate that the timeframe for a final ITC decision will be within a year.  The company believes that our patented intellectual property is one of our greatest assets, and we intend to continue to vigorously pursue offenders who infringe our patents.  We also recently signed a cross-licensing and co-development agreement with Mobilygen, the leader in H.264 codec technology.  This agreement includes a strategic investment by Genesis in Mobilygen.  This partnership will give Genesis and Mobilygen access to each others\' technologies for select markets, and enable future joint product development.  Mobilygen\'s H.264 encoding and decoding technologies are a perfect complement to our digital TV strategy, which is aimed at providing solutions that will enable end-to-end enhanced imaged quality within the digital TV platform.  The availability of H.264 technology in our solutions will be important to our success in the European high-definition TV market, as well as the IPTV market in the future.  
+In summary, we made substantial progress in FY2006, but I\'m not satisfied with how we have ended the year and started FY2007.  I will focus on four major areas in the upcoming fiscal year.  We will accelerate our product development efforts in digital TV, display port and value added LCD timing controllers, all of which represent major opportunities for revenue expansion and differentiation on the basis of image quality enhancement.  We will also continue to aggressively pursue the penetration of additional tier one accounts, building on our new design wins with customers such as Sony and Samsung.  We will realign our structure to drive down operating expenses as a percentage of revenues, and most importantly I\'m taking the necessary steps internally in order to significantly improve our execution in all of these key areas.  Recently, (Berus Iatogar?) joined us as Senior VP of Product Development.  Berus(?) brings with him more than 20 years of semiconductor experience and engineering execution at Intel, Silicon Graphics, MIPS Technologies and MediaQ.  I think that these initiatives, combined with the expected unit growth in 2006, in the flat panel TV and LCD monitor markets will enable us to resume double digit growth in our second fiscal quarter.  With that, I will turn the call over to Mike to review the financial details for the quarter and for the fiscal year.
+Michael Healy, Chief Financial Officer
+Thanks, Elias.  First I will discuss the financial results of Q4.  Next I\'ll provide a summary of our FY2006 performance.  Finally I\'ll provide further details on our outlook for the first fiscal quarter.  For the March quarter, total revenues were $60.9 million, a decrease of 18% from the prior quarter.  Our combined TV revenues were $34.9 million, a decrease of 21% over the prior quarter.  Total LCD monitor revenues decreased 12% over the prior quarter to $26 million.  Our product mix did shift a little bit toward monitors in the quarter, representing 43% of our total revenue.  Total TV controllers shipped in the quarter were 4.1 million units.  Of that, our flat panel TV controller units were 3.85 million units, representing a decrease of 14% from Q3.  The main reason for the decline in flat panel TV units was due to a significant drop off in volume from some of our Chinese and European customers, as well as the continued transition of some customers from two-chip solutions to more integrated single-chip solutions, which had a negative impact over approximately 500,000 units in the March quarter.
+
+Our fully integrated single-chip Cortez and Hudson families continue to ramp up with several TV manufacturers.  Units for the Cortez family, which includes Cortez, Cortez Plus and Cortez Advanced, grew a healthy 21% QoverQ, and for the first time, shipped over 1 million units in the March quarter.  As expected, the Cortez family now contributes the largest percentage of our TV revenues.   The Hudson controller family grew over 40% QoverQ, with the increase primarily coming from one large customer in Korea and a number of customers in China.  Flat panel TV ASPs decreased 4% from the December quarter, reflecting some price competition in the marketplace and our ongoing effort to extend the design life of legacy products like Malibu for as long as possible by offering more competitive pricing.  We had a larger than expected decline in our other TV/Video category, with units dropping to about 250,000 for the quarter, a decrease of almost 60%.
+This reduction was the result of a significant decline in orders from our customers supporting the digital CRT market in China.  As Elias mentioned, some of our customers are in the process of moving from a two-chip solution, typically Malibu Plus FLI2300 Faroudja (inaudible) chips, to a more integrated single-chip solution, typically our Cortez or Hudson products.  In order to provide you with a better understanding of how this transition is impacting our TV business, we are introducing an additional unit metric for our TV performance.  By making the necessary adjustments to our two-chip solutions, we\'re able to estimate the number of TVs that our controllers are sold into during the quarter.  Based on this methodology, we estimate that we sold into approximately 3.3 million TVs in Q4.  Therefore, there were a total of approximately 550,000 units that were a second chip in our two-chip solution sold in the quarter.  Using the 3.3 million TV number, we estimate that our flat panel TV market share is approximately 30%.  
+Our LCD monitor controller units increased 1% in the quarter to 11.8 million units shipped, up from 11.7 million units shipped in the prior quarter, and a significant increase from 9.2 million units in the year ago quarter.  The Phoenix family of products now represents almost 80% of our monitor units.  Revenues from sales of Multi-function Monitor, or MFM controllers, continued to be strong in the quarter, despite a decrease in ASPs as many of our customers continued their transition from the Malibu controllers to our Oak product.  Unit shipments of MFMs grew a strong 27% in the quarter.  Driving the strong volume was increased penetration of our own family of controllers, which tripled in the quarter.  Our MFM products continue to be a driving force in our monitor product line in terms of revenue and gross margin achievement.  
+Let me next discuss gross margin.  During the quarter, we determined that a portion of expenses related to the amortization acquired intangibles should be reclassified as costs of revenues and not in operating expenses.  Therefore, for all periods presented, we have reclassified these costs into cost of revenues and decreased operating expenses by a corresponding amount.  For the March quarter, this resulted in $1.1 million of expense moving from operating expenses into cost of revenues.  As a result, GAAP gross margins were 41.4% in Q4, and non-GAAP gross margins, which exclude amortization of acquired intangibles and stock based compensation charges, were 43.2% in the quarter.  The March reduction in gross margins was the result of the yield issue on our Cortez Advanced product, as well as the unfavorable product mix shift between our monitor and TV businesses. 
+TV revenues for the quarter represented 57% of total revenues.  GAAP operating expenses were $27.3 million in Q4.  This includes R&D and SG&A areas that were each $13.7 million.  The increase in operating expenses of $2.6 million from the December quarter was driving by the impact of hiring approximately 50 employees over the last two quarters.  Continued investment in our DTV technology and related licenses, increased customer support costs and certain year-end related expenses.  Non-GAAP operating expenses, excluding $600,000 in amortization of intangible assets and $400,000 in stock based compensation charges totaled $26.3 million in the March quarter.  Our GAAP net loss for the quarter was $317,000 or $0.01 per fully diluted share.  For the March quarter, our non-GAAP net income was $1.6 million or $0.04 per share on a fully diluted basis.
+
+Now let me take a minute to discuss the highlights of our balance sheet.   Cash and short-term investments increased approximately $10 million to $185 million.  We generated approximately $20 million in cash from operating activities and $5 million from stock option exercises, which was partially offset by approximately $2 million in capital expenditures as well as our strategic investment in Mobilygen(?).  Trade accounts receivable decreased $1.1 million to $36.2 million, reflecting the decrease in revenue during the quarter.  Day Sales Outstanding, or DSO, increased to 54 days due to a larger percentage of revenue being billed in the second half of the quarter.  Inventories of $17.2 million were down $6 million from December, which equates to approximately 6.5 weeks of inventory.
+Now let me take a few minutes to review the highlights of our FY2006 results.  Total revenues of $269.5 million were up 32% from FY2005.  In particular, revenues of flat panel TV controllers increased 81% and LCD monitor revenue increased 7%.  We were able to grow our monitor revenue for the first time in a few years to over $117 million for the year.  This growth was a result of the 26% increase in units, partially offset by a 15% drop in ASPs.  All but one of our geographies grew substantially, with Europe leading the way with 100% increase in revenue, followed closely by China, which increased 85%.  Due to the strength of our fast-growing TV and MFM product lines, most of our major customers, including LG, Toshiba, Phillips, BenQ, Lite-On, TPV and Hi-Zen(?) showed significant YoverY growth.  GAAP gross margins improved to 43.2% from 38.6% in 2005, primarily as a result of continued mix shift toward the higher margin TV business and reduced product costs.  
+Overall, our TV product mix improved 10% and contributed 57% of our total revenue for FY2006.  We posted a significant improvement in profitability, moving from a GAAP net loss per share of $0.29 in 2005 to GAAP EPS of $0.50 on a fully diluted basis in 2006.  Non-GAAP operating margins increased from 3% to 11% in FY2006 as the investment in our TV business began to pay off in the form of higher revenue and profitability.  Non-GAAP net income increased 210% from $9.1 million or $0.27 per share to $28.3 million or $0.77 per share.  Cash and short-term investments increased $55 million from $130 million in March 2005 to $185 million at the end of our fiscal year, reflecting our continued ability to generate cash from operations.  As we have discussed in past quarters we will begin expensing stock options under FAS123R starting in the June quarter.  We currently expect that this will impact our GAAP gross margins by approximately $500,000, and impact our GAAP operating expenses by $5-5.5 million.  As a reminder, the expense impact of FAS123R is subject to a number of assumptions and variables like forfeiture rates and the stock price at time of grant.
+Internally, we realize our stock compensation expense has a significant impact on our GAAP earnings.  Accordingly, we are actively managing the cost of stock options and RSUs, just like other expenses on our P&L and striving to find the right balance between stock compensation expenses and motivating and retaining our employees.  As an example of our diligence in trying to reduce the effects of FAS123R, for FY2006 we granted 50% less options and RSUs than in FY2005.  Now, let me address our guidance for the first fiscal quarter of 2007.  We expect revenues in the June quarter to be in the range of $55-60 million, reflecting continued muted demand in Europe as our customers work through some inventory issues and an expected decline of approximately $2 million related to our two to one-chip transition.  In the June quarter, we expect to see a slight increase in the flat panel TV controller units over the March quarter.  We expect flat panel TV ASPs to decline in the high single digits, reflecting more competition but primarily due to our continued price reductions on the legacy products like Malibu and the gm6015 which is used mainly in Europe.  
+
+In addition, we expect our other TV category to rebound as digital CRT TV solutions in China recover from their seasonal low point in the March quarter.  We\'re expecting unit shipments for LCD monitor controllers to increase by approximately 10%, as some of our new Phoenix-U design wins begin to ship into significant volume.  We expect overall ASPs for LCD monitor controllers to decline by 10%, which reflects the mix changes as well as the continued transition from the higher-price Malibu chip to the Oak chip in the MFM product line.  We expect GAAP gross margins to be in the range of 39-41% and non-GAAP gross margins to be between 40-42%, reflecting the remaining effects of the Cortez Advanced yield issue.  We estimate total GAAP based operating expenses to be between $31-32.5 million.  This estimate includes $5.5-6 million for stock based compensation and the amortization of acquired intangibles.  We\'re expecting that our non-GAAP operating expenses will be flat to down slightly from the March expense amount of $26.3 million, as some of our year-end expenses do not reoccur, which is then offset by some limited hiring and congenient(?) resource investments for our digital TV product development.
+In summary, we had a strong financial performance in FY2006, which was a substantial improvement over FY2005.  While our Q4 financial results fell short of our expectations, we are confident we will get back on track in Q2 2007.  With that, let me turn the call back over to the operator for questions.  Operator?
+Questions and Answers
+Operator
+Thank you.  Operator instructions.  We\'ll hear first from Adam Benjamin(?) of Jaffrays.
+Q - Adam Benjamin(?), Piper Jaffray
+Thanks a lot, guys.  A couple of questions.  On the opex side, your opex jumped up by almost $2 million on a pro forma basis in March and it looks like your guidance for June is down about $300,000.  Can you walk me through what\'s going on there and how we should expect that going forward?
+A - Michael Healy
+Yes, Adam.  Essentially, for the end of year quarter, the March quarter, we had a few one-time things related to year-end, like audit and SOX fees and a few other things.  That\'s going to be offset going forward.  That won\'t reoccur, then we do have some limited hiring.  We\'re obviously cognizant of the revenue guidance we\'re giving and we\'re trying to limit hiring where we can, but still focusing on DTV development and the critical areas as Elias mentioned in his discussions.
+Q - Adam Benjamin(?), Piper Jaffray
+OK.  On the margins - I know you don\'t give a full break out between the LCD monitor and the TV business.  But can you give some kind of view into the problem with Cortez Advanced?  It appears that problem\'s going to get resolved in the June quarter.  How much of a snap back can we expect in gross margins going forward?  Because it would appear that the gross margins based on the mix that you\'re at are down from the high 50 range down to 50 or even high 40 range.
+A - Michael Healy
+In the TV space, you mean?
+Q - Adam Benjamin(?), Piper Jaffray
+Correct.
+A - Michael Healy
+Yes.  The Cortez Advanced yield problem is affecting the June quarter, in fact, a little bit more, because we are expecting more units shipped in June than March.  As Elias mentioned, we are expecting that we have the customers on the new version, some time in the second half of this quarter but there still is an effect.  We fully expect the gross margins will rebound in the September quarter, as we\'ll be on to the new product at a more normal yield than we\'re getting today.  So we do expect a decent amount of bounce back in September gross margins.
+Q - Adam Benjamin(?), Piper Jaffray
+Then, on the LCD monitor margins, can you just give us some kind of trend that you\'ve been seeing over the last four or five quarters, as to where that\'s gone?  I know with the Phoenix chip ramping now, about 80% of the mix, I\'m just trying to see what that has had in terms of an impact on the gross margin for the LCD monitor business.
+
+A - Michael Healy
+Yes.  It\'s Mike again.  Overall I\'d say the gross margins in the monitor space have been relatively stable.  I\'d probably say the mainstream business has declined a little bit as we get more aggressive with the Phoenix product line in pricing, but that\'s been offset pretty well by the MFM line of business and the growing units there and the transition to Oak, which has as good margins as the Malibu product line.  Dollar impact is a little worse, but the gross margin impact for Oak is the same as Malibu.  I\'d say it\'s kind of holding its own over the last couple of quarters.
+Q - Adam Benjamin(?), Piper Jaffray
+So relatively flat over the last three to four quarters?
+A - Michael Healy
+Yes.
+Q - Adam Benjamin(?), Piper Jaffray
+One last question - obviously you gave some guidance into the two-chip to one-chip transition.  Maybe, can I phrase it a little bit differently, the market is looking to grow potentially about 100% YoverY in calendar year 2006.  Can you give some kind of view into what you would expect your units to grow on a calendar basis, 2005-2006?
+A - Elias Antoun
+Yes.  It\'s really tough, Adam.  I think actually, our expectations for the market were relatively bullish, I think we were thinking 65-70% on a unit basis.  If you factor in our transitions and a couple of other things, I think we\'re going to grow less than the market but we\'re still going to do reasonably well we believe.  Again based on the design win profile that we have.  But it\'s really hard to come back and give you a percentage number right now.
+Q - Adam Benjamin(?), Piper Jaffray
+And Elias, the 65%, is that including LCD plasma and digital CRT?
+A - Elias Antoun
+Yes.  The latest data that we have, assuming everybody is coming off of the same things, Adam, are growth from somewhere around low 30s in 2005 to mid-50s in 2006.  For the combined plasma, LCD and RPTV markets.  
+Q - Adam Benjamin(?), Piper Jaffray
+Gotcha.  OK.  Great, thanks a lot for answering my questions.
+Operator
+We\'ll now hear from Quinn Bolton, of Needham and Company.
+Q - Quinn Bolton, Needham and Company
+Hi, guys.  You gave some great detail on the number of chips and the splits between the newer product families and the older product families.  I was wondering if you could answer a couple of questions.  In the 550,000 TVs that currently ship with two chips, is that mostly Malibu Plus FLI, or is there some Cortez/Hudson combinations in that 550 number?
+A - Michael Healy
+Yes, Quinn.  The 550 is mostly Malibu Plus 2300, probably mostly in China, but there is some Cortez with Hudson, primarily at LG as part of that number.  It\'s not an insignificant amount, so there is some Hudson we count as a two-chip solution with Cortez.  What LG is doing in that case, for the most part, is moving from Cortez and Hudson to Cortez Advanced.  
+Q - Quinn Bolton, Needham and Company
+OK.  Then on the - you mentioned that you shipped, in the Cortez family, this is Q1 - more than a million units for Cortez.  If you were to look at the Cortez/Hudson/Oak families, could you give us a rough sense as to where your units were on that basis, to give us a sense of how much legacy business of the older gm6000 family in that Malibu are you still shipping?  It sounds like the legacy products, you\'re being more aggressive with pricing and maybe more of a drag on margin.  So any help you could give on legacy versus newer products would be great.  
+A - Michael Healy
+Yes.  I\'ll try to give you some level of detail.  I would say the revenue split is Cortez, then Malibu is still a significant portion of the business.  As you know Phillips takes a lot of Malibu products.  Then we have Hudson and Oak and the 6015 is primarily in Europe.  I can\'t give you detailed splits of each products, but the top four are Cortez, Malibu, Hudson and Oak.  Then followed up by the 2300s are pretty big, but obviously declining over time.  The 6015s are a little less than that.
+
+Q - Quinn Bolton, Needham and Company
+OK.  Great.  Then lastly, Mike, any 10% customers in the quarter?
+A - Michael Healy
+Yes, we had three 10% customers.  
+Q - Quinn Bolton, Needham and Company
+Can you say whether they\'re TV or monitor?  Or both, I guess?
+A - Michael Healy
+I think, two TV and one monitor.
+Quinn Bolton, Needham and Company
+Great, thank you.
+Operator
+Moving on, we\'ll hear from Michel Bertz at WR Hambrecht.
+Q - Michael Bertz, WR Hambrecht & Co
+Good afternoon guys, thanks for taking the questions.  A couple of things I want to ask about.  Thanks for the detail you\'ve give us, we want to try and press you for a little bit more on a few things, a little more granularity.  
+A - Elias Antoun
+That\'s what we\'re afraid of.
+Q - Michael Bertz, WR Hambrecht & Co
+When you talked about the units dropping off here in Q1, down about 14% of (inaudible) for the TV side, can you give us a qualitative feel then on what the major impacts were, unit-wise on that?  I know you\'ve talked about Europe and China, but can you characterize that at all?  Particularly in Europe, if it\'s more your tier one guys or some of the small OEMs that really felt the pain there?  Then also as you\'re looking at China, were you seeing impact in flat panels as well?  I know you talked a lot about digital CRTs and we\'ve surely seen them fall off, but any impact from the flat panel side there as well?
+A - Michael Healy
+Sure.  Yes.  The second part of the question, in China, the decrease we felt, both in flat panel TV and in digital CRT QoverQ from December to March, and then in terms of Europe, it\'s our two customers in Turkey and one larger other TV manufacturer, some Malibu and some that are 6015s, are probably the two biggest areas we\'re seeing in declines.  Both of those legacy products.
+Q - Michael Bertz, WR Hambrecht & Co
+OK.  It\'s on the legacy side.  As you look ahead for the second part of the year, I know you guys talked about seeing significant ramps with the sort of visibility you have, are you seeing those legacy products being replaced by your newer products toward the second half of the year?  Do you have visibility on that?
+A - Elias Antoun
+Mike, we full expect that - again if you look at the ramp in Cortez and Hudson and Oak, we fully expect the replacement range there for the legacy product is accelerating actually quite quickly.  I actually anticipate that the Oak Cortez family and Hudson combined could potentially make up 50-55% of our total company revenue next year.  That includes all monitors and everything.  The ramp is quite significant.  Malibu and the SLIs(?) are dropping and that\'s why you see the impact on our units. It\'s actually overall partly through the guidance that you can get from Mike right now, overall we are not anticipating a huge drop in ASPs, because of the replacement of Cortez and Cortez Advanced and Cortez Plus.  Those ASPs are quite decent.
+Q - Michael Bertz, WR Hambrecht & Co
+OK.  ASP per chip, but as we know, with the two-chip to one-chip thing in some cases, your ASP per box is going to decline.
+A - Elias Antoun
+That\'s right, our content for TV is going to decline and we\'re just going to have to live through this, starting last quarter through - it will decrease as the quarters go through, but we probably have another three to four quarters on it.  Again, one of our largest customers takes Malibu.  
+Q - Michael Bertz, WR Hambrecht & Co
+Right.  Right, OK.  Then, as we look at the gross margin impacts into June here again, you\'ve detailed that pretty well with what\'s happening with Cortez Advanced.  But if you look at it on a quarter to quarter basis, you\'re down a little bit sequentially.  Can you - I guess if you can give us some qualitative feel, if it\'s 80% impact, how would you characterize that coming from Cortez Advanced and still having that yield issue versus maybe a little bit of mix shift,  monitor, DVR and some of the TV products?
+
+A - Michael Healy
+Yes. I think you\'re referring from March to the June guidance.  Is that right, Michael?
+Q - Michael Bertz, WR Hambrecht & Co
+That\'s right, yes.
+A - Michael Healy
+I would characterize the impact, the biggest piece being the Cortez Advanced yield and then, to a lesser extent, you\'re not getting much change in mix, and as we guided to, some pricing pressure both in the TV and the monitor space.  But clearly, Cortez Advanced yield is the biggest impact on the gross margin guidance for this quarter.  Like I said, we expect that all to be remedied by the end of the quarter and rebound in September.
+A - Elias Antoun
+Mike, I\'d like to say that we made major headway in Korea in terms of regaining monitor market share.  In the top two accounts there, and we entered the market - we basically regained market share through the Phoenix U product line, and we priced it attractively for the two accounts there.  So that may have some impact as we go forward, but again as the volumes materialize there we expect to be able to do reasonably well in terms of managing product cost.
+Q - Michael Bertz, WR Hambrecht & Co
+OK.  Great.  Then, speaking of the ramps as we look forward here, the recently announced programs with Sony and Samsung in particular, are you looking to see these guys start to ramp here Q2?  How can we think about that going forward here?
+A - Elias Antoun
+Sony seems to have run about a quarter behind our original expectations.  Ramps as just starting as we speak.  We shipped several thousand units in our fiscal Q4 and all volumes will start to multiply in this quarter and going forward, because right now we have ramped up only one series of models for the U.S. market.  We expect to ramp up another series of models for another market hopefully in our fiscal Q2.  All in all, we\'ve said when we\'ve talked about this publicly we\'ve said that we think, all things considered, we should do about 5-10% of the total Sony market share.  We should be able to take 5-10% of that over FY2007.  Vis a vis Samsung, the ramp has happened earlier there, but in terms of the slope it\'s a bit slower than we expected.  Hopefully as they ramp more models themselves and as Europe does a little bit better, because as we understand a lot of these are shipping into Europe, hopefully we can do 10-15% of the total Samsung units in this year.
+Q - Michael Bertz, WR Hambrecht & Co
+OK.  Then to follow up with that, as you think about what you\'re selling in there for those designs, can we characterize that perhaps as a little bit less than average in terms of content per box for those designs versus some of your others?
+A - Elias Antoun
+Yes.  Sony, it\'s a Cortez design.  So compared to other Cortez designs, no, it\'s a Cortez product.  And Samsung, it\'s an Oak product, so it\'s priced as an MFM solution.  We\'re not - you know - there\'s some preferential pricing there, but it\'s not the kind of pricing that would be far different than a lot of other customers.  They\'re clearly strategic opportunities for us, we set a goal to wedge ourselves into Sony and Samsung in FY2006, we have successfully done so.  Now it\'s up to us to go in and open this up to more opportunities.
+Q - Michael Bertz, WR Hambrecht & Co
+OK.  Understood.  Then one last question, guys.  In terms of how you\'ve entered the June quarter here, versus how we typically enter March quarters - a lot of times as we go into March, there\'s some uncertainty due to where inventories stand after the holidays and such.  How would you characterize your level of visibility here, looking at the June quarter?  Obviously we\'re a little bit far too into it, because it\'s a year end for you, but versus the way you would end the calendar Q1 in March in terms of your confidence about visibilities as we look at the quarter?
+
+A - Michael Healy
+Good question, Michael.  I\'d probably say the visibility is pretty similar to the way it was entering into March quarter, for whatever reasons that is.  Backlog is running similar to what we saw last quarter, both on TV and monitor.  
+Michael Bertz, WR Hambrecht & Co
+OK.  Terrific, guys.  Thank you.
+Operator
+Now from Merriman, Curhan and Ford, we\'ll hear from Jennifer West.
+Q - Jennifer West, Merriman, Curhan, Ford & Co.
+Good afternoon.  
+A - Elias Antoun
+Hi, Jennifer.
+A - Michael Healy
+Hi, Jennifer.
+Q - Jennifer West, Merriman, Curhan, Ford & Co.
+I was wondering if you can talk a bit more to your ASP expectations next quarter.  You talked about TV ASPs being down 10%.  Can you split that out between part for part declines and mix?
+A - Michael Healy
+Jennifer, we usually don\'t do that until after we get the final results, because obviously there\'s a forecast and what we said was the flat panel TV ASPs would probably see a high single digit decline in terms of ASPs.  That\'s mostly driven by Malibu, where we\'re pricing aggressively to keep it in designs as long as possible.  It still has very good gross margin so we\'re happy to keep it in.  That\'s mostly what\'s driving that ASP number, rather than any significant level of pricing pressure on our new products like Cortez or Hudson.
+Q - Jennifer West, Merriman, Curhan, Ford & Co.
+OK.  You did talk about competitive pricing pressure. Is there any kind of change in the competitive landscape that you\'re seeing right now?
+A - Elias Antoun
+Yes.  It\'s getting more crowded, Jennifer.  For two reasons.  One is we\'re seeing more people trying to do the same solution we have, and this is particularly partly through Taiwanese competitors as well as a couple in Europe.  But also as we enter and start going after digital TV opportunities, the competitive landscape is widening because there\'s already some digital TV semiconductor suppliers out there, and we\'re all aiming to do the same thing.  I think all in all, it\'s fair to characterize the environment as being far more competitive than it was, say, nine months ago or the last design cycle.  On top of that I\'d like to add I\'m more surprised that the top-tier OEMs have continued to invest heavily in their own internal solutions.  I would have expected that some of them would start to move away from those, but it seems like, at least for now, there\'s at least one more cycle of investment at the top tier OEMs in Japan and Korea, into their own internal solutions.
+Q - Jennifer West, Merriman, Curhan, Ford & Co.
+OK.  Then going into the DTV stuff, was the integrated chipset that you guys are working on, do you have a timeframe for when that should be introduced, given that you\'re aiming this for the 2007 design cycle?
+A - Elias Antoun
+We\'ll have a lot more detail on this in the near future.  But clearly, for us to meet the Spring design win cycle - or the one that starts in Spring next year, clearly it\'s kind of easy to work back sometimes, some of the key milestones we have to meet.  But if you\'ll allow me, we\'ll defer until other forums to give you some more specific dates.
+Jennifer West, Merriman, Curhan, Ford & Co.
+OK.  Great.  Thank you.
+Michael Healy
+Thanks, Jennifer.
+Operator
+Now we\'ll hear from Jason Pflaum of Thomas Weisel Partners.
+Q - Jason Pflaum, Thomas Weisel Partners 
+Good afternoon.  If you could start by circling back again to the gross margins, just to clarify.  Sounds like you\'re pretty confident that you\'re going to have the Cortez Advanced yield issues wrapped up this quarter and we\'ll see a snap back in margins. I guess if you normalize this quarter, strip out the yield impact, at least by my estimates, you get somewhere like a 45-46% gross margin.  All else being equal, is that kind of a reasonable expectation heading into the September quarter?
+
+A - Michael Healy
+When you say 45, you mean for the March quarter I assume?
+Q - Jason Pflaum, Thomas Weisel Partners 
+Yes.
+A - Michael Healy
+I think it\'s safe to say that the impact is at least one or two points, the yield issue on our margins.  In terms of going forward, we are expecting ASP declines over time and so that\'s factored into our gross margin guidance.  We\'re not giving specific September guidance or full year gross margin guidance, but a snap back is reasonable.  I don\'t think we\'ll see a four-point gain QoverQ though to help you range it.
+Q - Jason Pflaum, Thomas Weisel Partners 
+OK.  So there is some other factors that would prevent it from getting back to those levels?
+A - Michael Healy
+Yes.
+Q - Jason Pflaum, Thomas Weisel Partners 
+OK.  Looking at some of the mix shifts that are going on in the monitor business, can you give us a sense for how far the Phoenix transition is, and then also on the Oak transition, how many more quarters do you think we have left there?
+A - Michael Healy
+The Phoenix transition is pretty much done.  The Phoenix family I think like we mentioned, 80% of our volume this quarter is Phoenix so there\'s just a little bit left of the 5200 5300 family that has the higher-priced ASPs but lower margins.  That transition is pretty much done in the monitor space.  In the MFM space, which all rolls up into monitors, because these are more TV-like designs and take a little longer, I\'d say we\'ve got one or two more quarters of transition for those customers that are on Malibu to move to the Oak family.
+Q - Jason Pflaum, Thomas Weisel Partners 
+OK.  Then some of the strength that you\'ve seen recently on that side of the business - can you talk about your visibility and is that an ongoing trend from these levels?
+A - Elias Antoun
+Yes.  We generally expect MFMs to - it will not become a dominant share, but we generally expect MFMs, that segment to increase as we go forward.  There\'s more and more demand for specialized monitors, for higher-resolution monitors, for larger monitors and we\'re benefiting from that because we have pretty good products for that and we actually benefit from really nice gross margins in that product line.  Again we do not expect the ramp to be such that they start to dominate the mainstream monitor market, but we expect them to increase as we go at least over the next year.
+Q - Jason Pflaum, Thomas Weisel Partners 
+OK.  Then maybe the last question, just looking a little bit longer term, you gave some color in the press release and commentary that you expect a resumption of solid double digit growth in the September quarter.  Could you just talk a little bit about your visibility there and maybe give a little more sense on how much strength you may be seeing?
+A - Elias Antoun
+That\'s a very difficult question to answer, Jason.  Our visibility, at this point in time, several months before, it is quite low, and our visibility is predominantly based on the design win profiles and the customers we\'re working with to take the production over the June, July, August timeframe.  We just feel pretty comfortable with where we are with LG and Toshiba and a couple more of the customers.  And then we see what\'s happening in China.  We fully expect Europe and China to rebound from an end market basis, but also we fully expect that the customers in China, the OEMs in China will move aggressively to defend their turf, and match what some of the import brands are doing.
+Jason Pflaum, Thomas Weisel Partners 
+OK.  Great.  Thanks, guys.
+Operator
+Now we\'ll hear from Jay Srivatsa from Roth Capital Partners
+Q - Jay Srivatsa, Roth Capital Partners
+Hi, good afternoon.  
+A - Elias Antoun
+Hi, Jay.
+Q - Jay Srivatsa, Roth Capital Partners
+Quick question if I may.  A lot of specifics have been asked, and I want to ask at a high level.  If I look at the company strategy and look at the competitor landscape, it seems that a lot of pure play LCD companies seem to be doing pretty well.  However, a lot of effort from your part seems to be going into things like display ports and AVR markets and stuff.  Could you kind of set the stage for us as to how you see that fitting into your overall core competency, and how that would materialize positively for you going forward?
+
+A - Elias Antoun
+Yes.  Again, Jay, the way we look at the TV is where do we have every opportunity to enhance image quality, and display port represents a tremendous opportunity for us in that area, particularly enabling data rates and frame rates and opportunities to enhance image quality between chips inside a TV using the display port interconnect.  It also, with display ports, we\'ll be able to enable, certainly starting with the monitor business, significantly lower bottom costs while enhancing performance, and we can derive a lot of that benefit into our own solutions and being able to charge nice ASPs for those products.  The AVR investment was truly incremental.  It was two or three people working with Cirrus Logic on a platform that was a great idea and actually is seeing some pretty nice market acceptance in Japan, particularly.  We encourage our people to think about our opportunities to use the investments we already made in ICS(?) and try to leverage more revenue out of them.  And we\'ll continue to do that.  We\'re actively working on opportunities for notebook that leverage existing product without developing new solutions.  At a high level, our fundamental strategy is how do we leverage our analog TV video post processing capabilities into the digital TV market.  That\'s the number one step, far above everything else.  Having said that and assuming we have to plan our success in that market, everything else relates to what else on the front end of that TV and on the back end of that TV can we add value to, financing image quality and timing controllers for value added panels.  Again we\'re not talking about very low end super high volume timing controllers, we\'re talking about timing controllers that support and enhance image quality on 10bit panels and very high-end panels.  It will give us an opportunity to give panel makers the opportunity to enhance image quality also.  So that\'s our strategy.
+Q - Jay Srivatsa, Roth Capital Partners
+So as you try to execute on this strategy, how much of overlap are you seeing between your own resources?  I mean, are you trading off some of your resource from your TV team into some of these newer places?  Or is there a good overlap so that there\'s a synergy long term?
+A - Elias Antoun
+There are some reasonable overlaps.  You know, until now, for example, our analog TV groups and our digital TV groups have been separate, but as we merge down to a single-chip solution, the overlap is there.  We\'re going to benefit from some synergies.  Display port is applicable to all of our solutions, so display port, once the core IT is proven, will be integrated into all of our solutions.  So the synergy there is tremendous.  The kind of solution we\'re developing for advanced timing controllers will eventually make it also into our third or fourth generation digital TV solutions.  I mean, we are making quite a few investments, but we are also doing it because we have an eye towards… We do not want to be marginalized into just a digital TV/analog TV processor company.  We have to go after every piece of the TV where we can add value, which is enhanced image quality.
+Jay Srivatsa, Roth Capital Partners
+Thanks, Elias.  Good luck.
+Elias Antoun
+Thanks, Jay.
+Operator
+Moving on, we\'ll hear from (Sayid Cha of Longrove Research?)
+Q - (Sayid Cha of Longrove Research?)
+Hi, guys.  About the second half ramp - is that largely based on design wins that you\'ve already talked about, namely the Sony, Samsung and LG, or are there other design wins that you haven\'t talked about which would be a significant contributor in the second half ramp?
+A - Elias Antoun
+Yes.  I mean, we generally, Sayid(?), as a matter of policy, we don\'t talk about design wins until we\'ve actually ramped into production, so that we do not announce customer products in advance,  so clearly we feel comfortable about the design win profile that we have.  In terms of specific announcements for specific design wins, that will happen as time goes by.  We\'ve talked about Sony, Samsung and LG because we\'ve already ramped into production with them.  But we\'re going to leverage more models into those design wins as the year goes by.
+
+Q - (Sayid Cha of Longrove Research?)
+Thank you.  And then, the September quarter, when margins snapped back, if you don\'t get back to 45-46% range, should we look at your long-term gross margin range as something that\'s 45% or below?
+A - Michael Healy
+Yes.  I think we\'ve been consistent in saying our long-term gross margins which reflect stabilization in the monitor business and some pricing pressure in the TV business over time will be mid-forties range.  
+Q - (Sayid Cha of Longrove Research?)
+And then, the top tier TV OEMs have been very strong in the market through early 2006.  With your design wins with LG, and LG refreshing its LCD TV product lineup, A., do you see your customers having any success in defending their market share, and B., are you seeing a positive impact from any channel refill in the next couple of quarters?
+A - Elias Antoun
+It\'s going to be very tough to answer the channel refill question, Sayid(?), but in terms of our customers, again if you look at the weakness in Europe and China, some of the weakness in China is attributed to tier one import brands aggressively lowering their prices and effectively putting a dent into the local domestic Chinese suppliers.  That typically happens, but also typically the local domestic suppliers will try to aggressively respond to that.  And we fully expect it.  Of course, we cannot control it, we just hope that it happens.  In Europe, it seems that the issue there is predominantly that the European market itself has slowed down or certainly has not met expectations, especially in light of the upcoming World Cup, but who knows.
+Q - (Sayid Cha of Longrove Research?)
+OK.  Then finally, the transition from a two-chip solution to a single-chip.  The $2 million impact in the June quarter, is that going to be the bulk of that transition, and even though it\'s spread over the next four quarters, should we expect the bulk of that transition to take place in the June quarter and then not a whole lot of impact in the following quarters?
+A - Michael Healy
+Yes.  I would characterize it as, you know, probably the biggest impact we saw was in this March quarter, Q4.  June will be a little less and then September a little less than that.  After that, hopefully, it\'s a relatively small amount that we\'re not talking about any longer.  So, I think between this quarter and the June quarter, that should be the bulk of the transition.
+(Sayid Cha of Longrove Research?)
+All right.  Thank you, guys.
+Operator
+Now from Wedbush Morgan Securities, we\'ll hear from Craig Berger.
+Q - Craig Berger, Wedbush Morgan
+Good afternoon.  Thanks for taking my questions.  I just wanted to clarify real quickly, the comment in the press release about September being up, you\'re talking on a sequential basis, not YoverY, is that correct?
+A - Michael Healy
+Yes, that\'s correct.
+Q - Craig Berger, Wedbush Morgan
+And can you help us understand, I know it\'s very early, but do you have any sense of the magnitude of up? Are you talking up 10? Up 20? Up 30?
+A - Elias Antoun
+It\'s very hard.  It\'s very hard.  I mean, visibility is really tough right now.  Again, it\'s a volatile market, a lot of it depends on the customer performance of the end market.  But we feel we can back up the quarter.
+Q - Craig Berger, Wedbush Morgan
+Right.  And there\'s been a little bit of speculation out there lately that you guys have possibly lost a major chip design at Phillips or LG for shipments beginning in the calendar\'s Q3.  Can you comment on that?
+A - Elias Antoun
+Yes.  It\'s speculation.
+Q - Craig Berger, Wedbush Morgan
+So you\'re refuting that speculation?
+A - Elias Antoun
+Yes.  That\'s right.  As far as we know, that\'s right.
+Q - Craig Berger, Wedbush Morgan
+And the low end of the LG business that you guys announced, or LG announced they refreshed and are using somebody else, what\'s the magnitude of the revenue impact on that switch?
+
+Michael Healy
+I haven\'t quantified that impact.  The unit impact is obviously a lot bigger, because it was the lower end, our lower end chips, the 5200, 5300s that went into LG that Phillips Semi got, so that\'s got an impact on units.  The revenue impact is not a material number, but certainly nothing we\'d like to lose.
+Q - Craig Berger, Wedbush Morgan
+OK.  With respect to your product mix in TV, the 5200 and 5300, are you able to help us understand what percentage of the units they comprise and also the extension of that question is are those opportunities to up sell to Cortez the way that the two-chip solution has been moving to Cortez?  You know, to the negative side?
+A - Michael Healy
+Craig, as you know, we don\'t give out that granularity of each chip and how much percentage they are.  We usually articulate things when we hit certain milestones, like we did with Cortez shipping a million units this quarter.  It\'s safe to say that the 52-5300 is a technology that\'s at least three years old now and will be declining over time.  So we\'re really focused on the newer products, Cortez, Hudson, Oak, and Malibu will be the mainstays in TV and really growing those.  Meanwhile trying to keep the older products.  As long as customers want them we\'ll ship them, but it\'s certainly not our focus.
+Q - Craig Berger, Wedbush Morgan
+Do you see the customers using those older products, converting to Cortez type solutions, or do you see them typically moving to other competitor solutions?
+A - Michael Healy
+For the most part, we see a lot of the customers that are one a two-chip solution moving to a one-chip just like LG with Cortez and Hudson moving to Cortez Advanced.  And the Chinese manufacturers that take Malibu Plus 2300 are moving to Cortez or Hudson.  Primarily Hudson, which is growing significantly well in China.  So most of it is moving another solution to us.
+A - Elias Antoun
+The overwhelming majority of the two-chip transition is into a Cortez single-chip solution.
+Q - Craig Berger, Wedbush Morgan
+That\'s helpful, thank you.  With respect to the TCON, or timing controller revenues, you discussed ramping in September.  Can you help us understand the magnitude and slope of that ramp?
+A - Elias Antoun
+I think the best thing to say right now is that, in September, because it\'s the beginning of the ramp, we do not expect massive volumes.  I think the bigger volumes will start to come out in the December quarter.  That\'s the best thing we can say right now.
+Q - Craig Berger, Wedbush Morgan
+OK.  Thank you.  I just have one more question and that\'s basically, if I look at the June quarter guidance in TV, versus the June quarter in TV in 2005, I mean you\'re basically looking at roughly 20% dollar growth, a little bit better than that if you back out the two-chip to one-chip transition.  But I mean, you\'re basically tracking far, far below unit growth less ASP declines.  Is this a secular trend we should be thinking of?  Do you guys think that the back half is going to rebound?  Can you help investors understand what your growth prospects look like on a sustainable basis?  Thank you.
+A - Elias Antoun
+Again, we think that this is a temporary issue, and that the back end of this calendar year and starting with Q2 of our fiscal year, that the rebound will be there.  Again, everything we\'ve done to try to analyze the situation tends to imply that a lot of it is end market.  It\'s end market impact from Europe and China.  Clearly that\'s where a lot of our strength is.  At this point in time, we truly do not believe that it\'s a secular trend, but we\'ve also always been forthcoming with information, so if anything changes we\'ll let you know.
+Craig Berger, Wedbush Morgan
+Thank you.
+Operator
+We\'ll now hear from Brian Alger, of Pacific Growth. 
+
+Q - Brian Alger, Pacific Growth Equity
+Hi guys, good afternoon.  A number of questions, first data points.  You were nice enough to break out the chip chassis count as 3.3 million units.  Can you put that in terms of relative to the last quarter?  Was that a sequential decline in terms of the number of TVs shipped into? 
+A - Michael Healy
+Yes.  There was a decline from our Q3.  We\'re not going to go back and give a history on everything, but you know, it was a decline.
+Q - Brian Alger, Pacific Growth Equity
+OK.  And a bit of bookkeeping before I get into the harder questions.  The Silicon Image lawsuit, or the judgment, or whatever we want to refer to it as at this time.  What does that imply going forward in terms of operational expenses either in terms of COGS or opex?
+A - Michael Healy
+The Silicon Image, really no effect.  We\'ve been baking into our forecasting to cost the sales in our actuals and what our best estimate is of the royalty costs related to that MOU, the Memo of Understanding.  We\'ve had that in since December 2002.  Both the lump sum payments, which we accrued at that point in time, and then ongoing royalties.
+Q - Brian Alger, Pacific Growth Equity
+So we won\'t be seeing any impact in terms of future gross margins as a result of synergy(?) relative to (HTMI or TV either)?
+A - Michael Healy
+No.  It\'s baked into our guidance and our forecast.  The accrual rates that we expect, that are reasonable.
+Q - Brian Alger, Pacific Growth Equity
+All right.  Forgive me here, but I think we\'ve got to drill down onto the market share.  I\'m going to follow up on Craig\'s questions.  Obviously, we\'re losing share here.  Hopefully it\'s temporary.  But, Elias, you talked about a couple of things that caught my ear.  One, you talked about the entry level at LG going away from you.  We saw the press release (of it on Digitimes?), that that went to Phillips.  Toshiba you said brought in an internal design.  I\'m wondering if that\'s a DTV, and can you maybe categorise within those two specific accounts, where you\'ve seen designs go away from your solutions?  How much of their volume did we see go away and what\'s the prospects of that coming back?
+A - Elias Antoun
+That\'s a good question, Brian.  The solution, the internal Toshiba solution we\'re talking about is a single-chip digital TV/analog TV solution, which is what we\'re saying we\'re developing, trying to get out to the market early next year.  It seems it\'s been designed into their U.S. market TVs as well as potentially their Japan market TVs.  It seems like it\'s a pretty bulky solution but they wanted to go with a single-chip solution for the U.S. market.  Our opportunity to get back in there is very real, because again the TV systems development groups are independent and autonomous from the semiconductor development groups, and if we come in with our solution on time, I fully believe that we have every opportunity to take back that design win because we still have everything else at Toshiba, as long as there\'s a need for an analog TV solution, we\'re the ones who are in there at Toshiba. 
+Q - Brian Alger, Pacific Growth Equity
+Just before you go onto LG, did Toshiba go with their own video processing on that solution?
+A - Elias Antoun
+They have, yes, they built in some level of video processing into their single chip digital TV/analog TV solution that seems to be adequate for what they need.
+Q - Brian Alger, Pacific Growth Equity
+OK.  And getting back entry level at LG?
+A - Elias Antoun
+Yes.  I\'m sorry, the question again?
+Q - Brian Alger, Pacific Growth Equity
+Prospects for getting back entry level at LG?
+A - Elias Antoun
+Again, we have a couple more products coming out in the next few months that we think will address that market, and you know, we\'re going to go fight for it like everything else.
+
+Q - Brian Alger, Pacific Growth Equity
+OK.  The other thing that stood out to me in terms of your commentary, certainly it sends a few chills up my spine going through a few cycles with you guys, is the increased level of competition.  Certainly, I think everybody on this call\'s aware of Saurin(?) and ATI, having DTV solutions, but we\'re also seeing an up tick from the Europeans, we\'re seeing an up tick from the Taiwanese, Chinese, and of course we have some new entrants here in the U.S. on the SOX side.  Looking out into 2007, you described it as being much more crowded.  Do you really think we\'re going to be able to have revenue growth given the implications for ASPs?
+A - Elias Antoun
+Yes, we still believe we\'re going to have revenue growth, absolutely.  Again, it depends - a lot of these opportunities have been won in our FY2006, calendar 2005, and so most of the business for our FY2007 has already been won and basically baked in.  Maybe on the incremental side there are still opportunities to get more.  So absolutely, the revenue growth opportunity, if the market materializes, which we fully expect, and the performance of our customers in the end market does well, yes we absolutely expect to grow.  
+Q - Brian Alger, Pacific Growth Equity
+I guess I was referring to calendar year 2007.  Realizing of course that this year\'s done, next year though, with at least half a dozen to a dozen new guys competing all of the same design, I\'ve got to believe pricing is going to be a little bit more aggressive than following the 3-5% sequential decline that we\'re dealing with now.
+A - Elias Antoun
+I think in principle Brian, I would have to agree with you, that pricing is going to become more difficult in calendar 2007 for the design wins that we\'re going to be going after during that time, but that\'s also why we\'re anticipating long-term gross margins to be lower than our current gross margin.  I think every competitor in that space should anticipate the same thing.  But the opportunity for growth is there.  If we put up differentiated products as we fully expect to do and we execute on our timing controllers and our monitor products, you now, again we fully expect to grow.
+A - Michael Healy
+Operator, we have time for one last question.
+Operator
+Our last question will come from Tore Svanberg of Piper Jaffray.
+Q - Tore Svanberg, Piper Jaffray
+Great, thank you.  A couple of questions.  First of all, can you just help me understand a little better the product transition, why it takes so long, especially in the case of Phillips and Malibu.  Why would they keep buying Malibu for so long?
+A - Elias Antoun
+Tore, Phillips, as far as we can tell, made a strategic decision more than a year ago to stick with Malibu, because they like the solution, it\'s very robust, it delivers the quality that they want and instead what they focused their internal development efforts on is the digital TV portion.  So they\'ve basically said, we\'re happy with what we\'re getting from an analog TV perspective, we do not want to invest our own internal resources trying to change the solution every year.  Instead what we\'ll focus on is the digital TV portion, and it seems that\'s what they\'ve done for two, now three years running.
+Q - Tore Svanberg, Piper Jaffray
+OK.  Fair enough.  And maybe coming back to Brian\'s questions on the DTV market, there are a lot of competitors.  What is really going to be Genesis\' differentiation here?  I know you can\'t talk specifically about products, but what is it that we can hold onto to try and realize that Genesis will be successful in the digital part of the market?
+A - Elias Antoun
+In terms of the single-chip solution, we\'re talking bout definitely the best analog /video post processing capability, including actually the best graphics on the digital TV side because of the way we handle the video.  We separate the video from the graphics when we do the post processing.  So it\'s basically leveraging our Faroudja technology into a single-chip digital TV solution.
+
+Q - Tore Svanberg, Piper Jaffray
+Great.  Then just finally, is there any reason to believe why display port would take off earlier than expected?  Are there any applications, or any upgrades or downgrades in software that could potentially accelerate the adoption?
+A - Elias Antoun
+Our first expectation for display port adoption will be in the PC monitors side.  And we\'re quite comfortable because it\'s been driven very strongly by Dell.  Dell believes in display port because of the capabilities of display port, meaning much higher performance, much lower cost.  Very difficult combination to achieve, but this time it will be done with display port.  On top of that, it\'s an open source, it\'s royalty-free, and really it unlocks the legacy issues that restrict better performance on monitors.  We still have a plan to move forward step by step with display port in the consumer electronics side, but right now we\'re not expecting any early results there, certainly not in calendar 2007.
+Tore Svanberg, Piper Jaffray
+Great.  That\'s it.  Thank you very much.
+Michael Healy
+Thanks, Tore.
+Operator
+And I will turn it back over to you for any closing remarks.
+Tonya Chin
+Thanks again for joining us today.  As a reminder, a replay of the conference call will be available through May 8th by dialing 719 457 0820 and the replay access code is 975 8492.  As a quick reminder, we will be participating in the following conference in the upcoming months: the CSFB Digital Media Conference in Boston on May 4th, the Oppenheimer Mobile Entertainment Conference in New York City on May 18th, the Cowen & Co. SID Investor Conference in San Francisco in early June, the Pacific Crest \'Building the Silicon Home\' conference in Boston on June 9th and the Bear Stearns Technology Conference in New York City on June 12th.  This concludes today\'s call. Thanks for joining us this afternoon.
+Operator
+That does end today\'s conference with you.  Thank you for your participation.  

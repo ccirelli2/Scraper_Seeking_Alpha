@@ -54,7 +54,7 @@ def progress_recorder(Count_obj, range_value_obj):
 
 def create_txt_file(target_dir, file_name, text):
     os.chdir(target_dir)
-    f = open('{}.txt'.format(file_name), 'w')
+    f = open(file_name + '.txt', 'w+')
     f.write(text)
     f.close()
 

@@ -1,0 +1,319 @@
+Diodes Incorporated (NASDAQ:DIOD) Q32012 Earnings Call November  8, 2012  5:00 PM ET
+Executives
+Leanne Sievers - Executive Vice President, Shelton Group Investor Relations
+Keh-Shew Lu - President, Chief Executive Officer, Director
+Richard White - Chief Financial Officer, Treasurer, Secretary
+Mark King - Senior Vice President of Sales and Marketing
+Analysts
+Steven Smigie - Raymond James & Associates
+Gary Mobley - The Benchmark Co.
+Chris Longiaru - Sidoti & Co.
+Vernon Essi - Needham & Company
+Stephen Chin - UBS Securities
+Ramesh Misra - National Securities Corp.
+Tristan Gerra - Robert W. Baird & Co.
+Shawn Harrison - Longbow Research
+Vijay Rakesh - Sterne, Agee & Leach
+Operator
+Good afternoon, and welcome to the Diodes Incorporated third quarter 2012 financial results conference call. At this time, all participants are in a listen-only mode. At the conclusion of today\'s conference call, instructions will be given for the question-and-answer session. (Operator Instructions) As a reminder, this conference call is being recorded today, Thursday, November 8, 2012.
+I would now like to turn the call to Leanne Sievers of Shelton Group Investor Relations. Leanne, please go ahead.
+Leanne Sievers
+Good afternoon and welcome to Diodes\' third quarter 2012 earnings conference call. I am Leanne Sievers, Executive Vice President of Shelton group, Diodes\', industrial relations firm. With us today are Diodes\' President and CEO Dr. Keh-Shew Lu, Chief Financial Officer, Rick White, Senior Vice President of Sales Marketing, Mark King and Director of Investor Relations, Laura Morrow.
+Before I turn the call over to Dr. Lu, I would like to remind our listeners that managements\' prepared remarks contains forward-looking statements, which are subject to risks and uncertainties, and management may make additional forward-looking statements in response to your questions. Therefore the company claims the protection of the safe harbor for forward-looking statements that is contained in the Private Securities Litigation Reform Act of 1995.
+Actual results may differ from those discussed today, and therefore, we refer you to a more detailed discussion of the risks and uncertainties in the company\'s filings with the Securities and Exchange Commission. In addition, any projections as to the company\'s future performance represent management\'s estimates as of today, November 8, 2012. Diodes assumes no obligation to update these projections in the future as market conditions may or may not change.
+Additionally, the company\'s press release and management statements during this conference call will include discussions of certain measures and financial information in GAAP and non-GAAP terms. Including in the company\'s press release are definitions and reconciliations of GAAP net income to non-GAAP adjusted net income, debt, net income to EBITDA and free cash flow, which provide additional details.
+Also throughout the company\'s press release and management statements during this conference call, we refer to net income attributable to common stockholders as GAAP net income. For those of you unable to listen to the entire call at this time, a recording will be available via webcast for 60 days in the Investor Relations section of Diodes\' website at www.diodes.com.
+Now I will turn the call over to Diodes\' President and CEO, Dr. Keh-Shew Lu. Dr. Lu, please go ahead.
+Keh-Shew Lu
+Thank you, Leanne. Welcome everyone and thank you for joining us today. I am pleased to report our third consecutive quarter of growth in which revenue grew 5% sequentially despite the slowdown in the general market. Our new product initiative and the past design wins effort drove further market share gains. As we continued to increase share of our products used in smartphones and tablets.
+
+Gross margin improved slightly in the quarter but remained under pressure primarily due to the effects of the generally weak global economy. Although we are gaining market share for our more advanced packages as supported by the capital investments we made in the second and third quarters, we are still under-loaded on our standard packages.
+The unstable demand environment also caused pricing to weaken in the quarter and product mix to be less favorable than we had anticipated. However, our cost reductions and manufacturing efficiency improvements were able to largely offset those factors. As I have stated in the past, improvements in the demand and pricing environment are key factors in our ability to transition available capacity to higher margin products at a more rapid pace, which has been restrained by the slower economic recovery.
+As of September 1, Diodes acquired over 50% of the outstanding shares of Eris Technology Corporation. Through this relationship we look to develop Eris\' assembly and test equipment automation capabilities which should help reduce the (inaudible) cost increase in the future.
+Then, more recently, on October 29, we were pleased to close our acquisition of Power Analog Microelectronics, PAM. The company\'s product portfolio including Class D audio amplifiers, DC-DC converters and LED backlighting drivers. Our rationale of acquiring PAM was for its advanced analog product portfolio, strong technical teams and a strong customer relationship, including those that allowed Diodes entry into Japan. Even with the narrow technology and product portfolio they have been able to secure a couple of large multinational customers as well as target regional ones.
+Their current revenue contribution for Diodes is not material but we believe there are significant long-term growth opportunities as we leverage Diodes\' infrastructure and technologies as well as our sales channels and the customer relationships. This is a perfect example of our effort to this acquisition as an effective way to expand our strength.
+With that, I will now turn the call over to Rick to discuss our third quarter financial results and the fourth quarter guidance in more detail.
+Richard White
+Thanks, Dr. Lu, and good afternoon, everyone. Revenue for the third quarter 2012 was $166.6 million, an increase of 4.6% over the $159.2 million in the second quarter 2012 and an increase of 3.7% from the $160.6 million in the third quarter of 2011. Revenue was up sequentially primarily due to strength in Asia and market share gains.
+Gross profit was $43.6 million or 26.2% of revenue in the third quarter of 2012 compared to $41 million or 25.8% of revenue in the second quarter of 2012 and $45.2 million or 28.1% in the third quarter of 2011. As Dr. Lu mentioned, gross profit margin improved marginally over the prior quarter due to the benefit of new product initiatives and manufacturing efficiencies largely offset by product mix and a soft pricing environment.
+Total operating expenses for the third quarter were $36.1 million or 21.7% of revenue. This compares to $34.1 million or 21.4% last quarter, which excludes a $1.4 million gain on the sale of assets, and $31.8 million or 19.8% of revenue in the third quarter of 2011.
+Looking specifically at selling, general and administrative expenses for the third quarter, SG&A was approximately $25.8 million or 15.5% of revenue compared to $24.8 million or 15.5% of revenue in the second quarter of 2012 and $23.4 million or 14.6% of revenue in the year-ago quarter.
+Investment in research and development for the third quarter was approximately $9.1 million or 5.5% of revenue, compared to $8.2 million or 5.2% of revenue in the second quarter of 2012 and $7.3 million or 4.5% of revenue in the third quarter of 2011. We continued to increase our investment in R&D to further advance our new product initiatives.
+
+Total other income amounted to approximately $1.9 million for the third quarter, primarily due to a gain on the Eris stock in the amount of $2.3 million which was partially offset by foreign exchange losses. On August 31, Diodes acquired over 50% of the outstanding shares of Eris. Prior to acquiring a controlling interest we had accounted for the investment under the fair value method of accounting but as of September 1, we had begun consolidating their financial results.
+Income before income taxes and non-controlling interest in the third quarter of 2012 amounted to $9.4 million compared to income of $8.6 million in the second quarter of 2012 and $11.1 million in the third quarter of 2011.
+Turning to income taxes. Our effective income tax rate in the third quarter was 5.4% which includes the benefit of a return to provision adjustment of approximately $500,000 and was below our guidance of 7% to 13%.
+GAAP net income for the third quarter was $8.6 million or $0.18 per diluted share compared to a GAAP net income of $6.7 million or $0.14 per diluted share in the second quarter of 2012 and GAAP net income of $10 million or $0.21 per diluted share in the same quarter of last year. The share count used to compute GAAP diluted EPS for the third quarter was 47 million shares.
+Third quarter non-GAAP adjusted net income was $9.5 million or $0.20 per diluted share which excluded, net of tax, approximately $900,000 of non-cash, acquisition-related intangible asset amortization costs. We have included in our earnings release a reconciliation of GAAP net income to non-GAAP adjusted net income which provides additional details.
+Included in third quarter GAAP and non-GAAP adjusted net income was approximately $2.3 million, net of tax, of non-cash share-based compensation expense. Excluding share-based compensation expense, both GAAP and non-GAAP adjusted diluted EPS would have increased by an additional $0.05 per diluted share.
+Cash flow from operations for the third quarter was $17.6 million. Net cash flow was breakeven for the quarter and free cash flow was a negative $1 million due mainly to $18.6 million in capital expenditures during the quarter. Without the capital expenditures in Chengdu, free cash flow would have improved by approximately $3 million.
+Turning to the balance sheet. At the end of the third quarter we had approximately $168 million in cash and cash equivalents. Working capital was approximately $385 million. Inventory was approximately $158 million, a $20 million increase from the approximate $138 million in the second quarter of 2012.
+Inventory days were 111 in the third quarter compared to 105 days last quarter. Inventory in the quarter reflects an $8.2 million increase in raw materials and work-in-process combined and a $12.1 million increase in finished goods. Finished goods inventory increased due to building ahead of product because of a China national holiday during the first week of October and the inclusion of $3 million of Eris inventory. At end of the quarter, accounts receivables were approximately $157 million and AR days were 85 compared to 83 last quarter.
+Capital expenditures in the third quarter totaled $17.9 million and $48.9 million for the nine months of 2012. CapEx in the third quarter included $3.2 million for the Chengdu building construction. Excluding this amount, CapEx was 8.8% compared to 8.7% of revenue last quarter.
+For the full year, we expect CapEx to be at or below the low end of our 10% to 12% of revenue model excluding the Chengdu building expenditures. Depreciation and amortization expense during the third quarter was $15.8 million.
+Turning to our outlook. For the fourth quarter of 2012, we are expecting a seasonally down quarter with revenue ranging from $160 million and $167 million including $3.5 million of revenue contribution from PAM and Eris, or down 4% to flat sequentially.
+
+Gross margin is expected to be 25%, plus or minus 2%. Operating expenses are expected to be 23.5% of revenue, plus or minus 1%. The anticipated increase in operating expenses over the third quarter is due to the inclusion of PAM and a full quarter of Eris.
+We expect our income tax rate to range between 7% and 13% and shares used to calculate GAAP EPS for the fourth quarter are anticipated to be approximately $47 million.
+With that said, I will now turn the call over to Mark King.
+Mark King
+Thank you, Rick, and good afternoon. As Dr. Lu and Rick mentioned, revenue was up sequentially driven by strength in Asia and continued market share gains. Growth was led by advances in the consumer segment primarily due to continued increases from smartphones and tablets, as well as a rebound in sales for LED TVs.
+Despite the industry reported weakness in PC segment, we actually saw a sequential increase in computing, specifically in notebooks at certain customers as a result of our new product and share gains. Another bright spot in the quarter was the automotive market in Europe, even though the region, as a whole, was down in the quarter due to continued economic uncertainty. North America also declined sequentially due to weakness in the industrial segment.
+Globally, POS sales were up 5% over the second quarter and OEM sales were up 4%. Distributor inventory continued to decrease and was down 4% and the inventory remained in line and under three months.
+Turning to global sales. Asia represented 79% of revenue, North America 11% and Europe 10%. Our end-market breakout consists of consumer representing 33% of revenue, computing 28%, industrial 19%, communication 16% and automotive 4%.
+Our achievement of revenue growth in the quarter was primarily driven by new products as we continued to gain market share and increased content at our customers. We extended our positive momentum for our SBR and MOSFET products specifically in solutions for portables, portable power and lighting. We also achieved another quarterly revenue record for our CMOS LDOs as well as strong revenue and design momentum for our power management, scanner linear and logic products.
+In the third quarter, discrete product introductions totaled 25 new products across 15 product families. We continue to validate our position as a leading supplier of broad-based discrete components for high growth, high volume applications.
+During the quarter, we built upon our new chip-scale packaging technology platform that we announced last quarter. In addition to our MOSFET CSP devices, Diodes has now released our first SBR and Schottky devices in this important new packaging technology, once again demonstrating leading power density and space-saving performance.
+These first CSP and SBR devices are an important development for Diodes as it demonstrates the technology\'s application to a wider range of product families and further underscores Diodes\' commitment to the creation of a broad range of subminiature devices to support our customers in the mobile communications and portable markets. We expect to ship a very significant volume of these CSP devices to key customers in the fourth quarter.
+Other notable launches for our MOSFETs include applications for LED TV backlighting, fan motor control, power supplies, computing and the emerging wireless charger markets. All of these devices represent a diverse range of thermal and space-efficient packaging that is designed to meet the stringent demands of these applications.
+In terms of design wins for our discrete products, Diodes secured some important wins in the quarter specifically in computing, telecommunications, power supplies and portables markets. The broad base of these design wins across many application areas will be a key foundation to Diodes\' growth in the coming quarters.
+
+Turning to analog new product introductions. We released 61 new analog products across four product families. New product highlights include the release of a new family of 2.5-amp high side power switches that further expand our very successful portfolio of devices optimized for USB and other hot swap applications.
+These devices provide a complete protection solution for portable and high performance consumer applications. In addition, we achieved continued design win momentum and market share gains with our expanded USB power switch portfolio.
+Also during the quarter, we secured major wins in the computing segment for both, desktop and notebook applications, multiple wins in the consumer space for set-top boxes, and the communications segment for network gateway. We also continued to expand our LED driver family during the quarter and released five new drivers including a 60 volt linear LED driver, a wide dimming range driver and a high efficiency buck LED driver.
+Our newly released adjustable linear driver, the AL5812 has an extremely wide operating voltage range and offers world class accuracy for driving long LED strings in signage and linear fluorescent T8 applications. We saw major LED driver design wins in both T8 and dimmable MR16 retrofit applications.
+As I had mentioned earlier, our CMOS LDO product line achieved another quarter of record revenue and generated continued design win momentum with significant wins for DVD players and PC motherboard. In addition, market acceptance of our synchronous high voltage DC-DC converters continued with wins in LED TV and set-top boxes. Notable sensor wins included notebook in the computing space, e-metering in the industrial space and personal care appliances in the consumer space.
+We also continued the aggressive expansion of our standard logic product portfolio during the quarter with the introduction of a family of 42 new ultra low power single-gate-logic-devices. This family offers the most popular single-gate-logic functions in an advanced ultra low power CMOS process and are pin-compatible with industry standard parts.
+In addition to offering standard packaging, we also released these devices in the industry-leading DFN 10/10 and DFN 14/10 packages for valuable space savings in portable consumer electronics such as cell phones, e-readers and tablets. As a result of our focus and commitment to standard logic, our customer base now exceeds 500 customers including Tier 1, EMS and mass market customers.
+In summary, although the global environment continues to create uncertainty, we remain focused on further expanding our content with key customers in gaining market share. In addition to our strong design win momentum for the portable segment, in particular smartphones and tablets, we continue to leverage our innovative packaging expertise to further reinforce our leadership in power density and space-saving devices.
+We are also encouraged by the large volume of design win opportunities we have secured for our logic products to date which will be a key driver of growth for Diodes in the coming quarters. Finally, we believe our recent acquisition of PAM will further expand our analog TAM for additional revenue opportunities in the future.
+With that I will open the floor to questions. Operator?
+Question-and-Answer Session
+Operator
+(Operator Instructions) Your first question comes from the line of Steve Smigie from Raymond James. Please proceed.
+Steven Smigie - Raymond James & Associates
+Congratulations on a good quarter in a tough environment, particularly on the computing where everybody else seems to have been hit pretty hard. I was hoping you could talk a little bit about how you see this next few quarters playing out. Obviously things are soft here. I guess a number of your comparables indicated that there\'s some amount of inventory work down setting up a possible Q1 recovery, not necessarily from demand but even just from inventory level. Would you have any color on sort of how you see the next couple of quarters playing out? Thanks.
+
+Keh-Shew Lu
+Well, Steve, thank you for the comment. We really don\'t know what will happen in the 1Q because, for us, it\'s too far away, okay. But for the fourth quarter, we know the general market is tough, okay, and, fortunately, due to our past design win and past market share gain activity, we still project better than our peers of the growth. People typical look at somewhere quite low but we only really are looking for flat to minus 4%.
+Steven Smigie - Raymond James & Associates
+Great, thanks. Can you talk about your mobility business a little bit more? You have been investing there. You have announced some design wins on the call today. What percentage of revenue is that now and is there a certain goal or target you are hoping or at least working towards for the coming year?
+Mark King
+Steve, we really haven\'t yet broken out by mobility. We lumped our mobility and those things in our consumer section and frankly, we probably just haven\'t gotten to that level of granularity in where we are, but clearly that\'s a focus. It\'s always been one of our smaller segments within our consumer base and we see a lot of opportunity in some of the subminiature and some of our CSP devices and some of our logic devices to really expand our revenue in those areas. So it is a key focus for us, but I can\'t define it for you at this point.
+Steven Smigie - Raymond James & Associates
+Okay, and last question was just on R&D. What sort of number are you targeting as a percentage of revenue at this point? You are obviously adding more analog products. Does that continue to go up? Do you continue to increase investment to achieve more growth in that area? Or is it just sort of keep on the similar rate as you have been doing in some recent quarters? Thanks.
+Keh-Shew Lu
+Well, of R&D, our model is 5% of the revenue and it\'s just because if you cut the PG or tape-out in a couple of more products, that cost will go up and so it\'s very difficult to get exactly because typically you tape-out one quarter but you don\'t tape-out the other quarter, that make a big difference, okay. But our model is still at 5% of our revenue and that we feel try to maintain in that kind of level.
+Operator
+Your next question comes from the line of Gary Mobley from Benchmark. Please proceed.
+Gary Mobley - The Benchmark Co.
+You guys, in the past, have generated gross margins in the mid to upper 30% range and on a revenue base not much different than what you just generated, closer to $180 million and, so I guess most people fear, including myself, with industry capacity clearly ratcheting down in the third and even more in the fourth quarter and you as a company investing aggressively in your Chengdu facility, I would like to get a handle on what your capacity addition plans are and should we think now of Diodes as being a company instead of growing twice the market growth rate, maybe growing more than that, and then, as well, is the new normal for gross margin mid to 20% gross margin to perhaps the upper 20% range?
+Keh-Shew Lu
+Okay let me answer several questions one by one. Number one, Chengdu facility. I think we actually slow down the Chengdu expansion. We finished the building but try to facilitize and the capital equipment is all on hold, okay. So we are not really, other than the building, we need to finish it up. We have not really spend too much money now on putting the facility and moving in there.
+Equipment-wise, other than pattern line, we did not order any equipment yet. So we are waiting for the power to come in and then after that it probably, they power next year if the market turns. If market don\'t turn, then we will play by ear, but at this moment we are not really putting any capital equipment or moving into Chengdu facility.
+Second, let\'s talk about Shanghai facility. We continue to put in the capital, the area of our new package, which we don\'t have the capacity for it, and fortunately or unfortunately, we have a very good design win on our CSP, our DN1060, a lot of those very tiny small package which is gaining the momentum, but that\'s the area we do not have enough capacity. So we put in the capital equipment for that area.
+
+If you look at the standard package area like SOT23, SOT223, or even some of the QFN, those areas since the market is really slow, our revenue from that area is not really growing, okay. The real growing is really coming from the new and advanced package. Therefore, our GPM was hurt because that standard packaging is not fully utilized. It\'s under-loaded. But, if the market turns, then that area should start loaded. Our utilization will go up, then your GPM going back up.
+Another point, I think I keep the point out in the past is the gold wire. This quarter, gold went up again, okay. Even our output for the gold went down. Not this quarter, I mean the third quarter, okay.
+Our output for gold went down. Our copper conversion going up, but unfortunately, the gold price actually went up in the third quarter and that caused the GPM not really recover as fast as we can.
+So there\'s several area like we are talking about ASP and we are talking about utilization, we are talking about gold, all those is the one hurting us. But I believe when the market start to turn, when we convert more, or our customer allow us to convert, when they start to convert into the next design or next new product or next equipment or convert into the copper wire next year, our GPM will start to improve significantly again.
+Gary Mobley - The Benchmark Co.
+Thanks, well, I appreciate the detail there. Last question for me. Actually I am actually at a park, my flight just landed. So I apologize, I haven\'t had a chance to review the press release in great detail, but could you break out the organic growth comparisons for the third quarter without contributions from acquisitions?
+Keh-Shew Lu
+Well, I think we already said the revenue coming from Eris and coming from PAM has not materialized.
+Richard White
+So, in the third quarter, PAM was not included at all and we had one month of Eris. So it\'s basically immaterial, right?
+Keh-Shew Lu
+Yes.
+Operator
+Your next question comes from the line of Christopher Longiaru from Sidoti & Company. Please proceed.
+Chris Longiaru - Sidoti & Co.
+My question has to do more with, you talked about just global economic weakness kind of pressuring price a little more. Can you talk about that in relative terms to what you typically see this time of year and if you have any kind of visibility going forward on that, that would be great.
+Keh-Shew Lu
+Okay. Let\'s talk about third quarter. Typically in semiconductor cycles, third quarter is supposed to be a very good quarter, okay. Unfortunately this year, the third quarter really didn\'t grew as fast as in the past, okay. So that creates a price pressure.
+Then you go to fourth quarter, typically is flat to 5% down, but this quarter, you already see all the announcement, it\'s quite visible. Fortunately at Diodes, we predict 0% to 4% down, okay. So we are better than our peer and better than in general, but the market is really soft.
+Chris Longiaru - Sidoti & Co.
+What is a general annual ASP decline for you versus what you are seeing now? Can you comment on that at all?
+Keh-Shew Lu
+Typically, I think I have been talking about that several times in the past. If you assume mix independent, it\'s about 2% a quarter going down. That\'s typical, okay? Like last year or beginning of last year and late part 2010, the market is so good, the price, it actually did not change that much, okay. Now this time, we actually are better than typical, but it\'s still more than what I expected because I thought third quarter should be good.
+Chris Longiaru - Sidoti & Co.
+Because of the inventory levels still being fairly healthy? Would that be correct?
+Keh-Shew Lu
+Well, our customer you are talking about?
+Chris Longiaru - Sidoti & Co.
+Yes.
+Keh-Shew Lu
+Well, you can say that, but the price pressure is still very high. Typically when the market is soft, our customers know how to squeeze, okay.
+
+Operator
+Your next question comes from the line of Vernon Essi from Needham. Please proceed.
+Vernon Essi - Needham & Company
+Thank you very much and nice guide in this environment. I was wondering, and I wanted to congratulate also on the purchase of Power Analog. Dr. Lu, I was wondering if you could expand upon that and give us an understanding of your revenue footprint in Japan. In your filings, there\'s really no presence at all, and obviously I would assume that\'s going to get you some multi-national experience or exposure over in Japan. Can you give us an understanding of how that might play out for you in terms of your relationships in that region and what you are serving right now?
+Keh-Shew Lu
+Okay. Typically, Diodes in history we really don\'t have any revenue from Japan. Because Japan typically in those industry, you have a lot of Japanese company occupy that and it\'s difficult for us to get into Japan. So we focus our effort in U.S., Europe and Asia. And you can see when we break it out, we hardly sell anything in Japan because we basically not in Japan, okay. But the way I feel is everything is changing.
+I think Japan company start to feel a lot of pressure. They really need to start to procure their component from outside. If they try to buy from Japan company, they probably start to going to get pressure on their own equipment and we see that as an opportunity for us to start to develop the revenue on the business inside Japan.
+And PAM provides this opportunity, because with a small product portfolio, they are able to get some business from Japan and they have a couple of very good disti we can utilize, okay. So we try to take the opportunity to participate into the Japan market.
+Vernon Essi - Needham & Company
+And if you were to sort of give us an understanding, have you already started those conversations as a result of this acquisition? And do you see progress already occurring, or is this sort of more of a 2013 effort?
+Keh-Shew Lu
+Well, I will let Mark King answer this question.
+Mark King
+So we already have our Asian, the leadership of our Asian team in Japan this week is kind of working with those distributors to start setting up and preparing for to us go. One of the key things about it is just it forced us to have an investment in Japan. So now that we have two people there, we can sit down there and do it.
+Sometimes getting started and deciding to hire those people in Japan is a big first step. So we have some people there. People within our company are familiar with those people, so that gives us some advantages. So we have already established distributor bases in some of the areas. Some of the distributors that we had already been looking at in the past. So I think it all worked out pretty well for us.
+Vernon Essi - Needham & Company
+Okay.
+Keh-Shew Lu
+Mark already tell you there are two people from PAM in Japan and one of them working for me before. So I think this is a good opportunity for us. We know him well and we know his capability and this is a good opportunity for us to start to develop Japan market.
+Vernon Essi - Needham & Company
+Well, you seem to know everybody, Dr. Lu.
+Keh-Shew Lu
+He was working for me when I was in my previous company.
+Vernon Essi - Needham & Company
+Okay. So just moving on my last question here. On the automotive front you had a really nice growth sequentially and it looks like that might actually be a record quarter for you and you said you had strength in Europe. Was there any specific product that was more successful or any specific reason for that strength?
+Mark King
+I don\'t think it was a record, but it bumped against our 4% high and what we see in some of our designs in the higher end cars are doing pretty well. Actually the lower end cars where we are not as present have been pretty soft in Europe. So it was kind of a broad based product area that we saw some broad base where we participate we saw some strong numbers last quarter.
+
+Vernon Essi - Needham & Company
+Okay, and just for the record, I mean on a dollar basis I think it\'s a record.
+Mark King
+It\'s really small. Okay, on a dollar basis, right. The percentage of our segment thing we have been just here once before.
+Operator
+Your next question comes from the line of Stephen Chin from UBS. Please proceed.
+Stephen Chin - UBS Securities
+A couple of items I wanted to go through. Firstly, on the top line. Just in terms of the new products that you were talking about like the chip-scale package products and other innovative products, what does the demand look like for those products going into early 2013? Because you mentioned that there might be good mobile customer exposure there and just kind of wondering if there\'s a good steady flow of new products ramping into next year?
+Mark King
+I would say that, as the market demand goes, we are having a strong quarter this quarter. We will see where the demand is in the first quarter. They are predominantly consumer-oriented. So again, the demand window is relatively short. All-in-all from a design win perspective and a positioning perspective we think those products are doing quite well for us.
+Stephen Chin - UBS Securities
+Okay, that\'s helpful. Then in terms of operating expenses, can we get a little more color in terms of how that breaks out between R&D and SG&A side?
+Richard White
+The guidance?
+Stephen Chin - UBS Securities
+Right. For the OpEx in terms of 23.5%, plus or minus 1%. Like how does that break out between R&D and SG&A? Is it a little more heavy on the SG&A side in terms of the head count?
+Richard White
+Well, our model is to have about 5% R&D. If you look at our third quarter, we were at 5.5%. It\'s probably in that same range in the fourth quarter, maybe a little bit higher. Then we have the amortization of intangibles. That\'s about $1 million, $1.5 million. You can look at the history on that one and then the rest will be SG&A.
+Stephen Chin - UBS Securities
+Okay, got it. That\'s helpful.
+Keh-Shew Lu
+Yeah. But in the fourth quarter I think we get the Eris and the PAM.
+Richard White
+Both are in there, right?
+Keh-Shew Lu
+Both, that is more. Their cost is more than our model, okay. So we just need to work the number down because they are a very small company and so their R&D and SG&A is much higher than our model.
+Richard White
+Right, and that\'s one of the reasons in the fourth quarter the R&D and SG&A is going up higher than our model and higher than the third quarter.
+Keh-Shew Lu
+You know, give us the time when we working that number down and when the revenue is growing and start to grow back up again then we will go back to our model.
+Stephen Chin - UBS Securities
+Just the last question or two here on capacity side and it\'s related to those two acquisitions. In terms of utilization rates in Q3, just directionally was it flat or did it come down some more for your internal capacity excluding Eris, in the quarter?
+Keh-Shew Lu
+Yes. Like I say, utilization, if you just pure look at utilization number, you will say the utilization is up, but if you look at the separation between the advanced new package versus standard package then the standard package is actually either flat or slightly down because our gaining the momentum is all in the high end and the advanced package.
+So this is what I am talking about, if you pure look at the utilization, it might be okay. We still put in the capital in second quarter, in third quarter, and we are not putting any more because I think we have enough capacity even to support the newer package, but standard package is still under pressure.
+Stephen Chin - UBS Securities
+And just one follow-up on this. When you look at the number of dollars that you spent on these two acquisitions, basically PAM and Eris, how does that breakout look from a capital acquisition standpoint? Just the effective capacity that you have access to now, how does that compare to your spending on the equivalent amount of back end capacity? I understand that some of the capacity required here its more specialty packaging in some high voltage-type parts. So I know that\'s not a complete apples-to-apples comparison here.
+
+Keh-Shew Lu
+Okay. Number one, on Eris, their capacity, we don\'t count their excess capacity, okay. And we just consolidate their P&L, so their capacity, we don\'t count.
+Richard White
+With the minority interest, right?
+Keh-Shew Lu
+Yes and so the number one. Number two, their capacity is not the same as our. We invest in Eris on the area we don\'t have the capacity. We don\'t have the product, okay. We are not buying Eris because buying the capacity. Eris capacity is in other package which we subcon, okay, and they are one of our subcon partners originally. And really the benefit of Eris is this. They are very good of picking the addition of the capital equipment and put the automation to reduce the people cost.
+We are talking about that already before. China, labor costs going up 10% to 15% a year and I don\'t see the end in the near future. Therefore, we must figure out a way to helping us to reduce the growth of the people cost and one of the ways is automation and Eris provides me that kind of technology.
+Now, not right now, but in the future, we should be able to take that technology and help our expansion in Chengdu and therefore we should be able to reduce our people cost in the future. But this is more important invest in Eris, it\'s more their technology, it\'s not their capacity.
+Operator
+Your next question comes from the line of Ramesh Misra from National Securities. Please proceed.
+Ramesh Misra - National Securities Corp.
+Good afternoon, gentlemen. In regards to your logic products, it\'s been a few years since you got into the space. Can you provide a sense of when logic could potentially become a 5% to 10% portion of your revenue? Is it in 2013, 2014 or even further out?
+Mark King
+I don\'t think we can give that in exact detail like that.
+Ramesh Misra - National Securities Corp.
+I am asking only for a broad brush, Mark, nothing specific. The purpose of the question is to kind of gauge your progress over there rather than getting a specific number.
+Mark King
+I think that logic has a long-term footprint from some major vendors and with my discussions with my thing about the customer count has been quite good. We think we are making pretty good progress and our footprint is pretty good in our key customer base, okay.
+Now the mass market part is going to take us a little bit longer. So, I think we mentioned that the revenue is starting to get more significant and we are starting to get more and more momentum. So we are pretty comfortable where we are going. Maybe taking a little bit longer than we expected because of the market situations that we have been involved in, okay?
+The next tight period will be a big, big launch for us. We have created a footprint that that will be our big launching pad for growth for logic. So, I mean we are well positioned with packaging. We are building a product line. We are just getting our product line up to things. We have got some very advanced products now in our subminiature DFN package and so forth.
+So, we are very, very well-positioned. I think what we need is one of those. We always kind of talked a good 3% to 5% growth over a consistent six quarters for our business and all of a sudden that stuff tightens up because packaging is the base of our logic, okay, and that\'s where our strength is. So, we are kind of continuing to fight through it with a key customer and we expect that the market will help us become a key player in a very, very short period of time down the road. I hope that helps.
+Keh-Shew Lu
+Yes. If you look at the logic business, only few vendor put in the effort in this area. So the key thing is when the shortage come, we will be in the good position to gain the market share, okay. When in today\'s market it\'s difficult because people do not have a need to change it and this you drop the price, which is not what we want to do to drop the price to gain the market share.
+
+But when the shortage come, this is the time for us to gain the momentum, to gain the market share and we prepare for that. So we continue to introduce the new product, put in the logic product in the new package such that when the time comes we are ready to ramp.
+Ramesh Misra - National Securities Corp.
+Okay, that\'s helpful, Dr. Lu. I think, in general your strategy has been to focus on synergistic gains. So can you say that your entry into the logic space has actually been helping your other discretes and your other small signal analogs?
+Mark King
+Again, it all goes back to the strategy of having more SAM to serve our strong customer base, okay, within the package mix and in the technology range that we play in. So yes, frankly, I think the others is going to help logic, but in the long run logic is going to help everything else, okay. I can\'t say that logic is driving anything else, but it\'s definitely giving us more to offer and giving us more talk points with our customer base.
+Ramesh Misra - National Securities Corp.
+Got it. In regards to Chengdu as you sit there today, when do you think Chengdu becomes any significant contributor to manufacturing? Is it 2014, 2015 or even further out?
+Keh-Shew Lu
+Well, obviously, it would not be 2013. I don\'t know it would be 2014 or not. It really depend on how the market. Today I cannot even see what will be the market, it will be a booming market next year or not. I am waiting for it. Get the building ready and then whenever the market turn we are ready, okay.
+So it takes about nine month to one year to get the building ready. It takes another nine months to one year to get power ready. So I am working on that. But then from the time I need it to put the moving in, to put the equipment, qualify, it take us six months.
+So I make lot of the long-term items ready and then whenever market start to turn, we can start to put in the capacity and at that time we don\'t need to put a big one. See power and building, you just need to make a big one, but when you start to doing facilities and moving in and the capital equipment you can do a small chunk by small chunk.
+Ramesh Misra - National Securities Corp.
+Got it, okay. Then in regards to inventory, do you expect in Q4 your inventories will come down or do you think it will be mostly flat?
+Keh-Shew Lu
+Well, the reason the third quarter inventory go up is really because we are facing October 1, nine days of the national holidays. This very long national holiday, okay, because it just right had a two weekend in the front, two weekends on the back, it\'s nine days.
+So we need to put this on inventory in our half because it\'s not the customer shut down, our customer will be in trouble. So third quarter inventory is really due to prepare the long holiday right after October 1, okay. Then the fourth quarter....
+Ramesh Misra - National Securities Corp.
+So the inventory is expected to come down?
+Keh-Shew Lu
+Then the fourth quarter. No, because you know the Chinese New Year. Every year the Chinese New Year we are going through those people and the holidays. A lot of people won\'t come back on time. So every year we are fighting the same thing, right.
+Right before the Chinese New Year people just go home and then after Chinese New Year, no, everybody won\'t come back. They take their time to come back. Therefore we do need to build ahead in December to prepare for the Chinese New Year.
+So this is what we are doing. So our hoping and I will expect probably flat, if it go up or go down won\'t be too much. My plan is probably flat from 3Q because the same Chinese holidays I do need to prepare for it.
+Operator
+Your next question comes from the line of Tristan Gerra from Baird. Please proceed.
+Tristan Gerra - Robert W. Baird & Co.
+Last year in December, across the industry there was some weakness relative to expectation in terms of the Chinese New Year  related demand, so that was not about the later part of December. Any visibility, what is your guidance implying in terms of Chinese New Year demand, or build?
+
+Keh-Shew Lu
+Okay. The difference last year and this year is last year Chinese New Year is in late part January, so it affect our December. This year the Chinese New Year is late part February, so our December probably won\'t get affect other than like I say I prepare the inventory, okay. So really the 4Q does not plan in any effect due to the Chinese New Year.
+Tristan Gerra - Robert W. Baird & Co.
+Okay, great. Did you mention what the total sell-in versus sell-through was in Q3 and what is your expectation in Q4 just looking at how there is basically some adjustment of inventory in the channel?
+Mark King
+Yes. What I did talk about was the POS was up 4% and the inventory was down 4%. I think we expect the channel to drive the inventory down again in Q4, but probably not significantly because, frankly, our channel inventory is quite clean.
+
+Operator
+Your next question comes from the line of Shawn Harrison from Longbow Research. Please proceed.
+Shawn Harrison - Longbow Research
+Rick, just a question for you before I have some bigger picture questions for you, Dr. Lu. The $1.9 million in other income, I am sorry if I missed it, what was that in the third quarter and how should we project that going forward and then also just the full quarter CapEx expectation?
+Richard White
+ Yes. The $1.9 million gain was due basically to the fact that we had a gain on the Eris stock and so that\'s not going to happen in the future, because we changed the accounting from fair value accounting to consolidation as of the September 1. So take that gain out.
+Shawn Harrison - Longbow Research
+Okay, and then the CapEx?
+Keh-Shew Lu
+CapEx in the 4Q will be very small because like I said, we put in the capacity, CapEx, in second quarter and third quarter for this growth in the new package, new design win, and we project now fourth quarter revenue, now got 0% to minus 4%. Therefore, at mid-point at minus 2% we really do not intend to put any new capacity in there, other than in maintenance, other than those you typically need to spend some money for maintenance. And thus we are going to be very small on CapEx expenditure.
+Richard White
+If you looked at the CapEx this year, we have said that in third quarter, for instance, it was 8.8%. So it\'s been below our 10% to 12% model basically all year long and we are projecting that in the fourth quarter it will be the same.
+Keh-Shew Lu
+Even lower.
+Richard White
+Or even lower than the 8.8%, right.
+Shawn Harrison - Longbow Research
+Okay, and then I guess a bigger picture question, Dr. Lu. It was alluded to a little bit just earlier in the QA& but some of your competitors that sell into the PC market, either highlighted abnormal, abnormally negative pricing during the quarter. Some maybe even have walked away from a lot of the business in that market. 
+How would you characterize the computing market, both in terms of the competitive dynamic, the attractiveness, maybe the share opportunities if competitors are walking away given what looks to be maybe a negative growth market here for at least maybe the next few quarters?
+Keh-Shew Lu
+I know people are talking about computer market, but ultrabook is not bad, okay. Maybe not as good as originally expected, but ultrabook is not doing bad. So if you adding ultrabook and the notebook together, yes, it is still slow and going down, but we take opportunity to gain the market share and if you listen to what Mark King is talking about our market share, our percentage revenue actually of computing is from 27% of our total revenue in second quarter to 28% of our total revenue in third quarter. Our revenue is growing, so from that you can see our computing revenue is actually growing.
+Mark King
+Right. If you look at our past quarters, our computing was up in to the 30% range. So we have already shed some of the low-end business on that part and we are covering some of the other stuff, yes. So I think that we are changing a little bit what we are selling in there and some of our MOSFET content is entering there and so we have a little bit of better content in that than we had before in some of the commodity discrete.
+
+Shawn Harrison - Longbow Research
+No, that\'s very helpful and, I guess, this is a follow-up, Mark, point-of-sale at distribution, have you seen any change through October in terms of that rate whether it\'s steady, better, worse?
+Mark King
+I think it\'s relatively steady through October. I mean obviously this quarter is going to be a tight quarter for this. I think that really I think the POS will lag a little bit and the POP will lag with it in certain areas. I think certain areas it\'s going to be a little bit more stable. So I\'m not sure. I do want to correct something I did say in Tristan. Our global POS was up 5% not 4%. I read the wrong number, I apologize.
+Shawn Harrison - Longbow Research
+Okay. And with that you expect the gap between the POP and POS to probably narrow as we come into the new year?
+Mark King
+Right.
+Operator
+Your next question comes from the line of Vijay Rakesh from Sterne, Agee. Please proceed.
+Vijay Rakesh - Sterne, Agee & Leach
+Just only if you can break out the revenue by segment, I think I missed it?
+Richard White
+Revenue by segment, Mark.
+Keh-Shew Lu
+Okay, by segment computing is at 28%, consumer is at 33%, automotive is 4%, industrial is 19%.
+Unidentified Company Representative
+Communication is 16%.
+Keh-Shew Lu
+Communication, 16%.
+Vijay Rakesh - Sterne, Agee & Leach
+Good. And second question was, I am just wondering if you would give some more color on the gross margin. You have dipped back to 25%. The OpEx, I know you have mentioned is going up, but longer term it should come back to your models. What is the long term OpEx model also, if you could give color on both? Thanks.
+Keh-Shew Lu
+When the general markets start to turn and the demand start to going up for our standard package. See, currently the demand for our advanced new package is very strong, but for other standard package it\'s just like a global economic, it\'s very weak, okay. Therefore, our demand on our standard package really is not, its utilization is low, okay. And we are hoping is when the market turn our standard package will start to grow. Demand start to grow again. Then utilization will go up. Then our GPM will start to increase.
+Vijay Rakesh - Sterne, Agee & Leach
+Is the GPM here product mix or utilization? I know you said demand on the standard packaging was weak. So is that about the product mix issue now?
+Keh-Shew Lu
+Actually, all of those. Number one, copper wire conversion. Number two, mix, because it\'s under-loaded, so we kind of move to the low end of the mix. Number three, we are not fully utilized, so utilization. Then number four, ASP on the standard product have a pressure, too. So I have been talking about GPM effect as those four factors and that four factor is still there.
+Operator
+That concludes today\'s Q&A portion of the conference. I would now like to turn the conference over to Dr. Lu for any closing remarks.
+Keh-Shew Lu
+Thank you for your participation today. Operator, you may now disconnect.
+Operator
+Ladies and gentlemen, thank you for your participation. Please have a great day.

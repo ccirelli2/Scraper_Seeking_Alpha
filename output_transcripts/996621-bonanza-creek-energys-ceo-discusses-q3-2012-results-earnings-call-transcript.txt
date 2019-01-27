@@ -1,0 +1,324 @@
+Bonanza Creek Energy Inc Q3 2012 Earnings Conference Call November  9, 2012 11:00 AM ET
+Executives
+
+James Masters – Investor Relations
+Michael Starzer – President, Chief Executive Officer
+Gary A.Grove – Interim Chief Operating Officer, Executive Vice President - Engineering and Planning
+Wade E. Jaques – Chief Financial Officer
+
+Analysts
+
+Irene O. Haas – Wunderlich Securities, Inc.
+Ryan Oatman – SunTrust Robinson Humphrey
+David A. Deckelbaum – Keybanc Capital Markets
+Brian M. Corales – Howard Weil, Inc.
+Chad L. Mabry – KLR Group
+Adam Ryan Michael – Miller Tabak + Co. LLC
+Mark A. Lear – Credit Suisse Securities
+John Herrlin – Societe Generale
+Andrew Coleman – Raymond James 
+
+
+Operator
+
+Good day ladies and gentlemen and welcome to the Third Quarter 2012 Bonanza Creek Energy, Inc Earnings Conference Call. My name Stephanie and I will be your coordinator today. At this time, all participants are in listen-only mode. Following the prepared remarks there will be a question-and-answer session. (Operator Instructions)
+I would now like to turn the presentation over to Mr. James Masters, Investor Relations Manager. Please proceed.
+James Masters
+Thanks Stephanie. Good morning everyone and welcome to Bonanza Creek’s third quarter 2012 earnings call and webcast. We are glad that you joined us today. As you know, yesterday we issued our earnings press release for the third quarter and filed our 10-Q with the SEC. You can access both our website at www.bonanzacrk.com.
+Before we get started please be aware that our remarks today will include forward-looking statements. These statements are subject to many risks and uncertainties that could cause actual results to differ materially from our expectations as expressed. These factors are described in our SEC filings and we refer you to our website or to the SEC’s website to review those filings.
+We undertake no obligation to publicly update or revise any forward-looking statements. Also during this call, we will refer to EBITDAX, adjusted net income and other non-GAAP financial measures. We use these measures because we believe they are good metrics to use in evaluating performance. Reconciliation of these measures to the most directly comparable GAAP measures are contained in our earnings release.
+Finally during the second quarter we begin a divesture process of our California properties. Under GAAP we disclosed the results from these properties as discontinued operations in our 10-Q and the statement of operations and balance sheet in our press release. All results discussed today reflect total operations including discontinued operations.
+On today’s call I am joined by Mike Starzer, our President and Chief Executive Officer; Gary Grove, our Executive Vice President, Engineering and Planning; and Wade Jaques, our Chief Accounting Officer and Controller. Also joining us are other members of the Company’s Executive Management team including Pat Graham, Executive Vice President of Corporate Development; Tony Buchanon, Vice President of Rocky Mountains Engineering; Lynn Boone, Senior Vice President of Reservoir Engineering;  and Ryan Zorn, Vice President of Finance.
+Mike will begin by discussing the highlights for the quarter, Gary will provide an operations update and Wade will then summarize our current financial condition and turn it back over to Mike for final comment. We will leave time at the end for Q&A.
+With that, I would now like to turn the call over to Mike.
+Michael Starzer
+
+Thank you James. Good morning everyone and thank you for your interest and support of Bonanza Creek. Before we begin this morning, I just want to extend our thoughts and prayers to those affected by Sandy last week and this week’s Nor\'easter. We hope you all get back to normal soon.
+Also I want to comment on Jim Casperson’s transition to a consultant for Bonanza Creek. We are grateful for his contributions to the company over the past year and a half, first as Chairman of our audit committee, then as our CFO. The Board and Management are pleased and confident that Wade Jaques having served Bonanza Creek for two years and having worked with Jim for over 10 years is well qualified to handle the duties of the office while the Board conducts the surge and the due diligence process for the Chief Financial Officer.
+
+We are also pleased to have Ryan Zorn join us as our Vice President of Finance and look forward to working with him.
+This year as a newly public company, it’s been about delivering on the promises and projections that we presented. I’m very proud of our team. Through attractive investment, we have more than double production from this last year, successfully derisk the Niobrara “B” Bench at 80 acres spacing and made a significant bolt-on acreage in the Wattenberg Field. We continue to be encouraged by the upside potential that exist in the Wattenberg field to down space to 40 acres and drill extended rich laterals in the Niobrara “B” Bench and horizontally developed the Niobrara “C” Bench and Codell formation.
+Financially we continue to pitch as a flexible capital structure from which to fund future growth, with less than a one times debt at EBITDAX ratio we are under levered one compared to our [EMP] peer group.
+During the third quarter we again enjoyed dramatic year-over-year results. Adjusted net income was $14.6 million or $0.37 per diluted share, a 527% increase over the third quarter for 2011. Excluded from that income were unrealized losses from commodity hedges, non-cash compensation expense impairments and x version dry holes related to our ongoing North Park testing.
+Net revenues for the quarter were $59.6 million up 118% from the third quarter of last year
+Crude oil and liquids continue to dominate, contributing 92% of revenues for the quarter. Our sales volumes for the quarter were 9,545 Boe per day, a 117% increase over sales volumes for third quarter of 2011 and a 7% increase over the second quarter.
+Sales of crude oil and condensate represented approximately 6,300 barrels per day over total 66% of total volumes. These are good numbers but they could have been better, as we experienced approximately 740 Boe per day of negative impact to the quarter. Approximately 400 Boe per day was differed and flared in the Rocky’s as we dealt with high line pressures. Temporary gas flaring and delayed completions due to drilling difficulties on one horizontal well which delayed completions on subsequent wells.
+Another approximately 340 Boe per day was deferred due to mechanical issues and subsequent 29 days of down time with our Dorcheat gas plant, during which we were unable to sell NGLs or natural gas. The total production loss was comprised of 54% natural gas, 16% NGLs and just 30% crude oil limiting the economic impact we would have otherwise experienced in the production short fall was in line with our traditional commodity mix.
+While natural gas sales volumes remained flat as compared to second quarter, we grew crude oil and compensate volumes 13%. Having resolved these operational and processing issues with the exception of continued high line pressures in the Wattenberg Field, we reiterate our annual production and capital guidance.
+With that, let me turn the call over to Gary to get into a little more detail on operational highlights and cost for the quarter.
+Gary A. Grove	
+Thanks Mike. I would like to first congratulate our team for their hard work this quarter and overcoming some pretty challenging obstacles.
+Let me start in the Rocky Mountain region, where we averaged production of approximately 5100 Boe per day comprised of 72% crude oil. This was a 24% increase over the prior quarter and 174% increase over the third quarter of 2011.
+We were negatively impacted by nearly 400 Boe per day for the quarter primarily due to three issues. First, the temporary flaring of gas related to the installation of gas gathering systems accounted for approximately a 100 Boe per day. We expect this issue will be resolved before year-end after construction is completed on gas gathering time lines.
+Second high line pressures accounted for approximately 120 Boe per day and third delayed completions due to drilling difficulties on one horizontal well differed an approximate 180 Boe per day into the fourth quarter. In total, the crude oil cut of this layered and differed production was approximately 55%.
+
+Speaking of high line pressures let me briefly discuss midstream capacity issues in the Wattenberg Field. Currently, all of the gas plants in the DJ Basin are near there maximum processing capacity, which is also in high line pressures particularly in the summer with warmer temperatures. That said, Bonanza Creek has not had problems getting this gas to sales and does not expect us to be a problem in the future.
+High line pressures across the field are having a disproportionate effect on older vertical wells. While it has not had a material impact on our sales volume over the past two quarters it has resulted in higher LOE cost as we work to swab the effective wells and get them back on line. We expect that these constraints will continue till December of 2013 and we will continue to install more compression to combat these issues.
+We are also encouraged with the stated current and plant investment by the midstream companies and their plans to double process and capacity by the end of 2014. In summary, while Highline pressures remain a factor, they will not impede our ability to grow aggressively as planned.
+Our horizontal Niobrara program continues to meet expectations and during the quarter accounted for approximately 60% of total production from the field. We currently have 24 horizontal Niobrara wells on line with more than 30 days of production history and are pleased to see that both at 30 day rates and the crude oil content are increasing.
+Our most recent eight wells, not previously reported have averaged a 30 day production rate of 522 Boe per day, pulling up our total program 30 day average rate from 470 Boe to 487 Boe per day. In addition to the rate increase these wells are remaining heavily oil weighted at 75% crude oil.
+Our average 60 day rate on the first 20 wells is 377 Boe per day, comprise of 73% crude oil. We expect this average to increase as more of the recent wells add production history.
+In October we completed our first horizontal Codell well. As of yesterday, this well has been producing for eight days. The well was completed using the same technology as the Niobrara B Bench horizontal wells and early flow back rates have been consistent with our expectations. We also reached total depth on our first Niobrara C Bench horizontal well and our first extended reach lateral in the Niobrara B Bench, both of which we have scheduled to be completed in early December.
+We are excited about the upside potential that these wells represent and look forward to sharing more detail as it becomes more available.
+Moving on to the Mid-Continent region, we continue to see strong performance from our Dorcheat Cotton Valley program achieving sales volumes of approximately 4,400 Boe per day for the third quarter, comprise of 58% crude oil, 17% natural gas liquids and 25% natural gas. The rate is an 83% increase over the third quarter of 2011, but a 2% decline over the prior quarter.
+During the third quarter our production was negatively impacted by approximately 340 Boe per day, due to a mechanical issue at our Dorcheat gas facility. The facility was offline for the equivalent of 29 days during which it could not process natural gas or natural gas liquids for sale. Having purchased and start to replacement heat exchanger the plant is back to full operation and we do not expect this problem to re-occur. The Mid-Continent has its own offsite catalyst that we’re in process of evaluating. By the end of this year we will have drilled a three well probably in the Dorcheat Macedonia field to test the effects of down spacing to five acres, which if successful across the field has the potential to significantly expand our development inventory.
+In addition we have drilled four more Cotton Valley wells on our McKamie-Patton field and that results have exceeded our expectations. Regarding cost in the third quarter per unit lease offering expense was $10.13 per Boe, a significant improvement over $13.56 per Boe in the third quarter of 2011, but a disappointment compared to our prior quarter of $9.45 per Boe. However excluding the replacement charge of $700,000 to the Dorcheat gas plant our LOE was $9.33 per Boe. Additionally increased swabbing cost in the Wattenberg Field added another $0.36 per Boe to LOE for the quarter. LOE continues to be impacted by the highland pressures in the Wattenberg Field as we incur there cost of re-establishing vertical well production.
+
+ 
+At this time we are comfortable that we will remain within our guidance range for LOE so we are trending towards the upper end. We continue to see available supply of rigs and services in the DJ Basin and Southern Arkansas through 2013 and feel comfortable that we will have what we need to execute on our program going forward.
+With that I would now like to turn the call over to Wade to summarize our financial performance.
+Wade E. Jaques
+Thanks Gary. Our balance sheet continues to be very strong, we ended the quarter with $122.3 million outstanding on a borrowing base $245 million or less than one times our annualized third quarter EBITDAX. The company’s borrowing base was increased to $325 million on October 30, providing the company with liquidity of $159.5 million.
+As Mike mentioned earlier, we reported record sales volumes, revenues, earnings and EBITDAX for the quarter. We achieved these numbers in spite of the production shortfall in part because 70% of the lost or delayed production was comprised of natural gas and natural gas liquids.
+Our crude oil production increased 13% over the previous quarter driving strong revenue and cash flow growth. Regarding expenses for the quarter cash, general, and administrative expenses was $7.9 million or $8.98 per Boe.
+Our increased G&A is a consequence of significant present and future growth. We hired 19 people in both technical and administrative functions in the third quarter as part of our ongoing effort to ensure that Bonanza Creek can execute effectively on its program into the future.
+Furthermore, legal expense related to the Bennett matter was $1.59 per Boe and due to the uncertainty with respect to the recovery of certain legal expenses, the company is currently reviewing its annual guidance for unit G&A.
+Bonanza Creek continues to maintain an active oil hedging program with approximately 60% of our current crude oil production hedged at $90 per barrel or higher. We believe that an active hedging program, strong cash flow margins of 60% to 70% at current prices and attractive asset base enhance our ability to manage oil price fluctuations should they occur in the future.
+We remain bullish on the price of oil and our operations reflect that. During the third quarter, 86% of our revenues came from crude oil and 6% of our revenues were derived from natural gas liquids.
+Oil price realizations in the third quarter, excluding the effects of derivatives averaged $87.96 per barrel, a 2% decline from $89.82 per barrel realized in the second quarter. Gas price realizations in the third quarter excluding the effects of derivates averaged $3.36 per Mcf, a 10% increase from $3.05 per Mcf realized in the previous period.
+And finally, NGL price realizations for the third quarter improved 20% to $56.43 per barrel from $47.04 per barrel in the second quarter. Overall, on an equivalent basis, our realized pricing improve slightly to $67.87 per Boe.
+I’ll now turn the call back over to Mike for final comments.
+Michael Starzer
+Thank you, Wade. I wanted to update you on important items to be expecting from Bonanza Creek in the coming months. Management recently presented its recommended 2013 CapEx budget to the board of directors and we expect to announce the approved budget and annual production guidance in the near future.
+As we move through the fourth quarter, I am more enthusiastic about Bonanza Creek’s future than ever. We will continue to focus on hitting our targets and doing what we say, we’re going to do. If we have challenges like we did this quarter, as we certainly will, we’ll be transparent with you all because we appreciate your trust and your investment in Bonanza Creek.
+At this time, we’d like to turn over the call to our moderator Stephanie to queue for any questions.
+
+Question-and-Session Answer
+
+Operator
+Thank you. (Operator Instructions) Your first question comes from the line of Irene Haas with Wunderlich Securities.	Please proceed.
+Irene O. Haas	 – Wunderlich Securities, Inc.
+Yeah, hi everybody. You’re doing quite a bit of work on down spacing, extended lateral, adjusting the various benches in the Niobrara and Codell. I was wondering along with the probably guidance or perhaps year-end reserve, when should we expect to see an updated inventory of what Bonanza Creek is really exposed to within the DJ basins?
+Michael Starzer
+Irene, we’re working on that right now, as you can imagine and going through that across our property. I think you will see us look to put that out probably more towards the first quarter of next year, specifically regarding the Wattenberg along the same lines as when we would look to talk about reserves for year-end as well.
+Irene O. Haas	 – Wunderlich Securities, Inc.
+Great. Thank you.
+Operator
+
+Your next question comes from the line of Ryan Oatman with SunTrust. Please proceed.
+Ryan Oatman – SunTrust Robinson Humphrey
+
+Hi, guys good morning.
+Michael Starzer
+Good morning Ryan.
+
+Ryan Oatman – SunTrust Robinson Humphrey
+
+So much stronger rates out of the horizontal Niobrara program. I was wondering, how much of that you’d attribute to sort of the new completion design, it looks like you guys added two more stages or how much of it was geology different areas, and what not any color you can provide there.
+Michael Starzer
+You bet. We’re pleased as we continue to apply operational tweaks that we are learning, both of us the Noble and PDC all our neighbors around us are doing advancements. I think the last quarterly call Pat Graham mentioned that we are now up to 18 stages where we were at 16. I think that’s a pretty big benefit. Pat any additional comment on the operational additions that we’re changing and increase recoveries?
+Patrick Graham
+
+ I think, it’s a two part question there, one was it did we see any geologic difference in what we’ve been drilling recently compared to may be historically. And no, I don’t think from geologic standpoint there is anything significantly different on the newer wells what we saw on the older wells.
+We have however changed our completion techniques a little bit as we mentioned we’ve gone from 16 stages upto 18 stages on the fracs and the liners and pretty much are the same brands and techniques. The only slight change is we have started grinding the liners down into the horizontal section of the well and sort of setting the liners up in the vertical section.
+It wouldn’t really help or affect the early time pull back rates, the purpose for that is when we get to running large pumps and that we’re able to run them deeper into the well, have less foot over the pump and should be a lot more efficient from a back pressure standpoint and from a gas locking standpoint.
+Ryan Oatman – SunTrust Robinson Humphrey
+
+Very good, I appreciate that color and then I know Codell it’s early. I’ll try and ask this question in a way that I might be able to get somewhat of an answer here. You said they met expectations, with those expectations, were they for similar performance, 20% (inaudible) versus Niobrara, how are you expecting the Codell to pan out?
+Michael Starzer
+I think we would expect similar to what we see from the Niobrara B laterals that we have been drilling and others have been drilling around us as well. Kind of inline with everything else we’ve seen with the C Bench also in the Codell, we have similar expectations for all three of those layers.
+Ryan Oatman – SunTrust Robinson Humphrey
+
+Okay and did you guys run any seismic or any sort of testing to see if there is communication up hold with Niobraba B?
+Michael Starzer
+
+We did run micro-seismic in the Codell well when we fractionally stimulated it, so we do have some information on that, yes.
+
+Ryan Oatman – SunTrust Robinson Humphrey
+Okay, okay, and any thoughts there?
+Michael Starzer
+Nothing that we saw that was different than again what we would have expected to see from the stimulation work that we did on the lateral.
+Ryan Oatman – SunTrust Robinson Humphrey
+Okay, okay. I will hop back in the queue. Thanks guys.
+Michael Starzer
+Thank you.
+Operator
+Your next question comes from the line of Dave Deckelbaum with Keybanc. Please proceed.
+David A. Deckelbaum – Keybanc Capital Markets
+Good morning, everyone. Thanks for taking my call.
+Michael Starzer
+Hi, David.
+David A. Deckelbaum – Keybanc Capital Markets
+Hi. Curious just to, I know that Codell it’s very early days here, but considering the fact that most of your acreages held by production at least in the Wattenberg, when you talk about sending a budgetary report for next year. How could we think, if we assume that Codell is successful one prospective on say have the acreage there a little bit more, how should we think about next year drilling of the same pads, how you might be staggering it versus Niobrara B Bench wells and what sort of mix we might expect?
+Michael Starzer
+Good question, Dave. What we presented to our board was sticking to our blocking and tackling there, B Bench development at that 80 acre spacing, that’s been de-risked across our acreage and we feel real comfortable with that. So that’s going to make up the core of our development program next year as we propose that to the board. But we also have some additional upside catalyst that we’re going to be testing and a follow-up to some of the work we are doing in fourth quarter here and we’re going to be exited about continuing to do that and maybe – and de-risking those value layers also. And anything to add to that guys for David.
+Michael Starzer
+I think when we come out with guidance table we come out with little more clarity on well counts and what we are expecting to be, but I think Mike said it well in summary, we will continue to test those, don’t be surprised to see additional Codell C Bench extended reach laterals next year as we move forward to push those across the property just like we’ve done with the B.
+David A. Deckelbaum – Keybanc Capital Markets
+Great and just wondering if you could sort of add a little bit color on the work you are doing around North Park right now, I know that there is some seismic work done, are you reprocessing that looks like that you cased a few well bores, but then didn’t complete them, I guess how should we think about timing on when we might know more about this acreage considering some of the infrastructure limitations there and what you guys ultimately think we should be risking.
+Michael Starzer
+With North Park we are still in testing any evaluation mode and our vertical wells and testing authorizations we’ve been working on this year in addition to as you mentioned the seismic and processing, and the thing about North Park as you know David we don’t have any regional gas takeaway capacity, so we have been seeing it’s more of a 2014, 2015 story for the company, and so 2013 will be a continuation of our evaluation and testing program. And we will probably talk about that a little bit more probably mid year 2013. Gary, anything to add to that or.
+Gary Grove
+Now, I think Mike said well, with where we are and quite frankly with all the other additional opportunities that we see in the Wattenberg field, I mean those are all something that we want to move forward on rapidly as we just spoke about in addition to the B Bench, the Codell, and the C and the extended reach lateral there as well so.
+David A. Deckelbaum – Keybanc Capital Markets
+I guess could you just help me understand how you guys are thinking about managing around high line pressure situations in the Wattenberg, as you guys turn more wells in the sales and I know that you’ve had fewer issues than others due to the nature of your horizontal mix against vertical, but as we look into next year and you have a greater number of wells online and you are pursuing some decent growth target growths. How should we think about I guess the risk to downtime around each quarter and what are you guys taking in sort of at least the sequential basis.
+
+Gary Grove
+
+Well, I think David the first thing to talk about is how are we working through those high line pressures now and into the future, while our midstream partners if you will are expanding their capacity and they are working on that hand in hand with us and our neighbors as well, and they are doing that quickly. That being said we will continue to install compression upstream of that, where we are going into those midstream lines. And that will be one of the major things that will continue to do going forward as we feel like that gives us the advantage of keeping wells online even the older verticals were applicable. So I think you just see us moving forward. We think that we’ll continue to see highline pressures into 2013 as we mentioned earlier but that impact to us we think we will negate some of that with this compression.
+As far as we continue expand next year and bring more wells on line, we are seeing those midstream companies also expand their infrastructure in those areas as well, and so we are taking advantage of that, with we’re replacing the wells we drill next year across our acreage.
+David A. Deckelbaum – Keybanc Capital Markets
+Great, thank you guys.
+Michael Starzer
+Thanks David.
+Operator
+Your next question comes from the line of Brian Corales with Howard Weil. Please proceed.
+Brian M. Corales – Howard Weil, Inc.
+Good morning guys.
+Michael Starzer
+Hi, Brian.
+Brian M. Corales – Howard Weil, Inc.
+Just follow on with the take away issues, are you all currently today or maybe we can say November experiencing any curtailments.
+Michael Starzer
+
+No, right now Pat you want to maybe respond to Brian.
+Patrick Graham
+
+You can see me shaking my head. No we are not seeing any curtailments right now. We’ve got about three wells currently flaring one should be inline tomorrow. The other two are on a same path, and they should be online by the – on stream by the end of the year. But we haven’t seen any curtailments. In fact on our east side properties, we are actually starting to see a little bit of decrease in line pressure specifically down from in the 200 plus range down to about a 150 pounds now.
+Brian M. Corales – Howard Weil, Inc.
+And so, I guess is it safe to assume kind of first quarter – I mean fourth quarter and first quarter of next year. It’s likely that there will be minimal impacts if any from curtailments?
+Patrick Graham
+We’re thinking so.
+James Casperson
+Yes.
+Patrick Graham
+Definitely on the east side, like we’re already start seeing the decreases there in line pressures and on the west side projections are from the mid-stream players. We should see that by third quarter of next year.
+Brian M. Corales – Howard Weil, Inc.
+Okay, one other one. I mean, you’ve talked about kind of presented the budget to the board. Is there a timing that you’re expecting to really come out with this. Is it going to be December or is it next year. What’s kinds of a thought on when you kind of show what your expectations are for 2013.
+Michael Starzer
+Yeah, I think as soon as the board approves the budget, then management will go ahead. We’ll do the all the advanced planning has been completed Brian, in preparation for the submission to the board. I think there would be very little time between the board approval and us sharing that with the market, is what our plan would be.
+Brian M. Corales – Howard Weil, Inc.
+Okay.
+Michael Starzer
+Whether it’s say in December or January, is what we’re thinking right now. Somewhere around that time period.
+Brian M. Corales – Howard Weil, Inc.
+Alright. Thank you.
+Michael Starzer
+Thank you.
+Operator
+Your next question comes from the line of Chad Mabry with KLR Group. Please proceed.
+Chad L. Mabry – KLR Group
+Thank you. Good morning.
+Michael Starzer
+Hi, Chad.
+James Casperson
+Hi, Chad.
+Chad L. Mabry – KLR Group
+
+Just a couple of questions on production, I guess first of all, can you provide a current run rate for production and then second of all just to clarify the 2012 guidance. Is that just from continuing operations?
+Michael Starzer
+Yes, it is the second part of the question, yes. It’s just from continuing operations. And we don’t give a continuous run-rate out, we’ve given quarterly production numbers and then sometimes we’ve given the exit month. But currently, but we haven’t provided current rate production.
+Chad L. Mabry – KLR Group
+Okay, fair enough, and then just a follow-up. I think you’d mentioned in the past that you’re potentially pursuing a gas processing agreement in the Wattenberg. Any status update there?
+Michael Starzer
+Yes. And the fact that the area was very small. We’re splitting out the – we are looking at splitting out the NGLs from the gas and that would change the contractual structure that we have with DCP. That work is still in progress, guys any timing on that – okay, Lynn Boon is leading that project and she is saying, it looks like first quarter that we may have sometime to talk about there.
+Chad L. Mabry – KLR Group
+Okay, great. I appreciate the new update.
+Michael Starzer
+You’re welcome
+Operator
+Your next question comes from the line of Adam Michael with Miller Tabak. Please proceed.
+Adam Ryan Michael – Miller Tabak + Co. LLC
+Hi, guys. I think both of my question have been answered, but I might have one follow-up one on the spended REITs, latter half you’re planning to drill. How many locations you have I don’t think you can get a little pay. If that ends up, the analytic go forward how many locations should we think of that?
+Michael Starzer
+Well, I think when you look at the extended reach obviously for us it’s going from one sections to two sections and so it’s – well that won’t basically gain us any additional locations what it will do is it will essentially will reduce location amounts and increase obviously the amount that we’re producing from each individual well and so when you think about in terms of what we shared out there in having 350 plus locations at 80 acres space in the Niobrara B and any well that we would continue to look to drill to extend reaching links would cut that number in half where it’s applicable across our acreage.
+Well, I think that specifically answered your question but essentially we’re not looking at any additional locations by drilling extended reach laterals. But we’re doing is looking to maximize our returns by taking advantage of the extended link.
+Adam Ryan Michael – Miller Tabak + Co. LLC
+
+That does help. I was just wondering if the acreage it proves like’s it’s pretty blocky and you have that capability to drill anywhere you want to, I was just trying to get a little bit of color there.
+
+Michael Starzer
+
+No you’re very true, thank you for following up with that, you’re exactly correct, we do have a lot of acreage that’s contentious that allows us to do that and allow us to control the majority, if not all of the well bore thorough those extended reach lateral links.
+Adam Ryan Michael – Miller Tabak + Co. LLC
+
+Okay, thanks guys.
+Michael Starzer
+
+Thank you.
+Operator
+
+Your next question comes from the line of Mark Lear with Credit Suisse. Please proceed.
+Mark A. Lear – Credit Suisse Securities
+Hey good morning guys.
+Michael Starzer
+
+Good morning Mark.
+Mark A. Lear – Credit Suisse Securities
+Just in terms of the Wattenberg, definitely evolving pretty well from the stack lateral standpoint, but I was hoping you might be able to comment on, you guys were successful in adding some acreage pretty recently, what the opportunity might be add to that position going forward?
+Michael Starzer
+
+Yes that’s – Mark that’s when you look at acquisitions that are just perfect bolt on’s I can’t think of one that’s better than the one we made in the later July – early August, it was – had not been drilled, we purchased it and leased it directly from the state land board herein Colorado. We had offsetting wells surrounding it. We had seismic over much of it and we have an existing relationship with this Surface U zoner on other lands so its about perfect as you can get from an acquisition kind of filling in the checker board for us. We see it has the same potential as our current acreage in all horizon and because its on the west that also includes due to potential in Codell also. So guys any other comments on that.
+
+Mark A. Lear – Credit Suisse Securities
+Yeah I guess more specifically those additional acquisitions opportunities do you see those on the near-term horizon.
+Michael Starzer
+
+Oh I see we continually look at acquisition opportunities in the area and we get ongoing leasing program and we are picking up acreage both in our core areas Mid-Continent as well as Wattenberg Field. Every acquisitions in Wattenberg we take a look at (inaudible) group in corporate development streams as many as 20 a month in areas where we can bring our core competencies of horizontal drilling and fractures stimulation. So that’s not, post radar when our existing area market is perfect, but also we look at areas outside for acquisitions say in the Bakken and Eagle Ford and areas like that.
+Mark A. Lear – Credit Suisse Securities
+Gotcha, and then I guess just on the LOE front I think you guys touched on some onetime that was in there but I mean on a go forward I think ultimately the goal is to get down closer to $8 range what’s the time line for achieving that?
+Michael Starzer
+
+I think as we move, just like you talked about Mark, as we continue to drill a lot of horizontal wells out here and our acreage in the Wattenberg thus tend towards lower end of our cost structure, as you can imagine with increased volumes especially. So as we continue to move out of the fourth quarter end of the first half and next year, we would expect to see that trend heading in that direction, during the period.
+
+Mark A. Lear – Credit Suisse Securities
+Got it. Thanks guys.
+Michael Starzer
+Thanks Mark.
+Operator
+And the final question will come from the line of John Herrlin with Societe Generale Please proceed.
+John Herrlin – Societe Generale
+Yeah, hi, she pronounces a lot better than me.
+Michael Starzer
+Hi, John.
+John Herrlin – Societe Generale
+With the Cotton Valley in-fills do you expect to get more reserves because my (inaudible) primarily drawing PUDs in the Cotton Valley. So will this increase your reserve base there?
+Michael Starzer
+Yeah, it very well could, you’re correct. Majority of not all of the wells that we’re drilling in Arkansas right now and then Dorcheat-Macedonia Field are listed as PUD locations at 10 acres. These wells will be drilled by the end of this year, we will probably look to complete them until the beginning of next year. And so when we look for reserve additions, we’ll need to see the information that we get from the down spacing, but yes, any potential opportunity there from down spacing here will add reserves as we move forward developing across the property.
+
+John Herrlin – Societe Generale
+Okay thank you. The next one from me is the two North Park wells you expend to that, how do they change your view on the area.
+Michael Starzer
+Probably the one well that we expense which was the highest dollar amount was a well that we drilled last year, actually blowing on us, so I mean there is definetly a gas zone there. We’re back in this year and we’re able to redraw it to bottom casing. We went back into test the lower horizons, either at a casing collapse or some kind of problem. So we couldn’t get down to some of the deeper horizons, so really just ruin off the bottom of that well, but we are testing in the upper section actually we’ve been testing it over the last week or so and we’ll probably do a small simulation treatment on here in the next week or so.
+John Herrlin – Societe Generale
+
+So now we’ll change the outlook, it’s just mechanical issues?
+Michael Starzer
+Exactly.
+John Herrlin – Societe Generale
+
+Okay that’s it for me. Thank you.
+Michael Starzer
+Okay, thank you John.
+Operator
+
+And the final question comes from the line of Andrew Coleman with Raymond James. Please proceed.
+Andrew Coleman – Raymond James 
+Hey, thanks a lot folks and good morning.
+
+Michael Starzer
+
+Good morning Andrew.
+Andrew Coleman – Raymond James 
+And a question, as you think about heading into year 2013 budget, I mean are there any guiding principles like debt to EBITDA that you’ll want to stay below. I mean let’s say you got a lot of room you could spend if you wanted to, but I guess, you haven’t give us a number, can you give us sort of a few numbers kind of around the outside to think about it?
+Michael Starzer
+
+You are right Andrew and that’s something that Wade and I when we are on the road, we talk to folks and our intent is to always stay under two times EBITDAX and total debt that mean we’ll stay with our revolver, we may end up roam ahead and turning some out. But we don’t want to exceed that so that does put some brackets around how our capital budget next year to be, but I think what you’ll see is something very prudent, recognizing that there is some macro factors that may in fact impact our business in 2013 and we don’t want to get too aggressive.
+So having said that we do not have to spend a whole lot of capital to stay within our top – core top growth of our oil peers and so at Bonanza Creek we’ll show very good year-over-year growth even with a prudent capital program and maintaining very strong balance sheet.
+Andrew Coleman – Raymond James 
+Okay, good and then I guess secondarily, I think Gary was starting to touch on this little earlier just on the kind of the reserve outlook for the rest of the year. Do you expect to see a – I mean I guess given a capital program, you probably have a lot more bookings, but you think you’ll see much a movement in your F&D cost ultimately.
+Michael Starzer
+
+Well, yeah I mean obviously, as we look towards that for year-end reserves and going into the future, that mix of blend that we drill between the PUDs Arkansas and PUDs is other places and the wells that, but obviously had reserves in primary the Wattenberg Field at this point time. Our F&D will change as we move forward. It will probably have a slight increase from where we had been based on the current economics of the wells that we’re drilling in the Wattenberg.
+Andrew Coleman – Raymond James 
+Okay, alright great. I’m looking at about five bucks per Mcf and it was about 4 bugs last year on the PDP basis. So we’ll watch for that reserve release here in a couple of months. Thanks.
+Michael Starzer
+
+Yeah, it’s a good point Andrew, and I’ll just might and (inaudible) added. We’ve got such a low historical F&D cost and is that we do expect it to a modest increase.
+Andrew Coleman – Raymond James 
+
+Okay thank you.
+Operator
+Ladies and gentlemen, this concludes the question-and-answer session. Thank you for your participation in today’s conference. You may now disconnect. And have a great day.
+Michael Starzer
+Thanks everyone.

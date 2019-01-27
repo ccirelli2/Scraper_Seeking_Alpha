@@ -1,0 +1,259 @@
+Hutchinson Technology Incorporated (NASDAQ:HTCH) F4Q12 (Qtr End 09/30/2012) Earnings Call November  8, 2012  5:00 PM ET
+Executives
+Charles Ives - Treasurer and Director, Investor Relations
+Richard Penn - President and Chief Executive Officer
+David Radloff - Vice President and Chief Financial Officer
+Analysts
+Richard Kugele - Needham & Company
+Kevin LaBuz - Deutsche Bank
+Timothy Stabosz - Private Investor
+Mark Miller - Noble Financial Capital Market
+Tom Levins - High Road Value Research
+Operator
+Welcome to the Hutchinson Technology fourth quarter results conference call. (Operator Instructions) I would now like to turn the conference over to Chuck Ives, Director of Investor Relations.
+Charles Ives
+Good afternoon, everyone. Welcome to our fourth quarter results conference call. On the call with me today are Rick Penn, our Chief Executive Officer; and Dave Radloff, our Chief Financial Officer.
+As a reminder, we will be providing forward-looking information on demand for and shipments of disk drives and the company\'s products, ramping new programs, product mix, pricing, production capabilities and volumes, program qualifications at our assembly operation in Thailand, capital spending, product costs, operating expenses, product commercialization and adoption, and the company\'s business model, operating performance and financial results.
+These forward-looking statements involve risks and uncertainties as they are based on our current expectations. Our actual results could differ materially, as a result of several factors that are described in our periodic reports on file with the SEC.
+In connection with the adoption of SEC rules governing fair disclosure, the company provides financial information and projections only through means that are designed to provide broad distribution of the information to the public. The company will not make projections or provide material non-public information through any other means.
+We issued our fourth quarter results announcement just after the market closed this afternoon and it is now posted on our website at www.htch.com.
+I\'ll turn the call over to Rick now.
+Richard Penn
+Thanks, Chuck. Good afternoon, everyone, and thank you for joining us today. I\'ll give you a summary of the quarter first and then begin to more detail on our business performance. Dave will cover our financial results and outlook.
+As we noted in our fourth quarter results announcement, industry sources estimate that disk drive shipments declined about 11% in the September quarter compared with the preceding quarter. In the face of that decline, our shipment volumes held relatively flat. That occurred, thanks to increased allocations on existing customer programs and our new programs beginning to ramp.
+Gross margin improved slightly, as we realized more of the cost advantages of our TSA+ platform and due to other measures taken to control costs, including a one-week shutdown early in the quarter.
+In Thailand, our plans to restore our assembly operations capacity to pre-flood levels are on track, and qualifications on customer programs are proceeding. We will continue to move more of our assembly production to our operation there as the new fiscal year progresses, realizing the resulting cost benefits.
+Getting into more detail on the quarter, during our 14 week fiscal 2012 third quarter, we shipped 105.2 million suspensions compared to 100.1 million suspensions in the preceding 13 week quarter. On a weekly basis, our shipments of suspension assembly decreased 2% compared with the preceding quarter. Overall, a decline in suspension shipments for enterprise applications was partially offset by increased shipments for mobile applications.
+For the fiscal 2012 fourth quarter, our mix of products shipped was as follows. Suspensions for 3.5-inch ATA applications increased 4% sequentially and accounted for 41% of our shipments compared with 42% of shipments in the preceding quarter. Shipments for mobile applications increased 19% sequentially and accounted for 42% of our shipments compared with 37% in the preceding quarter.
+
+And shipments for enterprise applications declined 18% sequentially and accounted for 17% of our shipments compared with 21% in the preceding quarter. Our average selling price in the fourth quarter was $0.58, flat with both the preceding quarter and last year\'s fourth quarter.
+Dual state actuated or DSA suspensions accounted for 5% of our shipments, up from 1% in the preceding quarter. DSA suspensions carry a higher selling price and cost more to manufacture, and we expect them to steadily increase as a percentage of our product mix as the fiscal year 2013 progresses.
+TSA+ suspensions accounted for 85% of our fourth quarter shipments, up from 70% in the preceding quarter, as subtracted suspensions continue to be phased out in favor of our more capable and lower cost TSA+ suspensions.
+At our Thailand assembly operation, about half of the pre-flood production capacity is now installed. We expect to have it fully restored, pre-flood capacity by the middle of fiscal of 2013. And by the end of the fiscal 2013 third quarter, we expect to have about one-half of our total assembly output coming from our Thai operation.
+Near the end of fiscal 2013, we expect to have the full capacity for the Thailand site installed. And shortly thereafter, we should begin realizing the full cost benefits we initially expected for the operation.
+Regarding the outlook for suspension assembly demand, we expect shipments for our fiscal 2013 first quarter to range from 100 million to 105 million, representing an increase of 2% of 7% on a weekly basis compared with the 14 week fiscal 2012 fourth quarter. Hard disk drive shipments in the December quarter are expected to be about flat sequentially.
+Our average selling price in the fiscal 2013 first quarter should benefit modestly from a continued shift in our product mix toward DSA suspensions. In addition, gross profit should improve as a result of higher volume and better fixed cost leverage.
+Looking out over the course of fiscal 2013, we are encouraged by our position on new and existing disk drive programs. Based primarily on current forecast of suspension assembly demand provided by our customers, we currently expect to ramp production and shipments of nine suspension programs in fiscal 2013 compared to only four that ramped to higher volume in fiscal 2012.
+Additionally, we currently expect fewer of our suspension programs to decline in volume compared to fiscal 2012. Through our participation in these customer programs is expected to result in market share growth and volume growth as the year progresses.
+So I\'ll turn the call over to Dave now, for further discussion of our financial results.
+David Radloff
+Net sales for the fiscal 2012 fourth quarter totaled $63.6 million, up $2.6 million or 4% from $61 million in the preceding quarter. Net sales for the quarter included $339,000 from the BioMeasurement division compared to $342,000 in the preceding quarter.
+Revenue percentages for our top customers in the quarter were as follows: Western Digital 42%; SAE/TDK 36%; Hitachi GST 10%; and Seagate 9%. The suspensions that we sold to SAE/TDK were primarily for Western Digital and Toshiba disk drive programs.
+We incurred an overall gross loss of $240,000 in the fourth quarter compared with a gross loss of $1.2 million in the preceding quarter. Despite lower production volume and lower fixed cost leverage than in the preceding quarter, gross margin improved slightly due to the higher mix of TSA+ suspensions, the benefits of other measures taken to control cost, including one-week shutdown of U.S. operations in early July.
+For the fiscal 2012 fourth quarter, we estimate that the incremental cost associated with manufacturing more volume in the U.S. than we had planned prior to the Thailand flooding was approximately $3 million. These costs will further diminish and be eliminated as more customer programs are qualified to be manufactured in our Thailand operation and we ramp to full volume at that operation.
+
+Fourth quarter depreciation and amortization totaled $12.1 million compared with $9.8 million in the preceding quarter. The increase included an extra week of depreciation in the 14 week fourth quarter and approximately $1 million of accelerated depreciation related to the subtractive TSA production systems.
+R&D expenses in the fourth quarter were $4.1 million compared with $4.2 million in the preceding quarter. Fourth quarter SG&A expenses totaled $6.9 million compared to $6.5 million in the preceding quarter. Our fiscal 2012 fourth quarter operating loss totaled $11.9 million, compared with $15.9 million in the preceding quarter. Included in the fourth quarter operating loss, were $500,000 of flood related costs and $200,000 of debt refinancing cost.
+Our BioMeasurement division\'s operating loss was $1.1 million compared with $1.2 million in the preceding quarter. Subsequent to the end of our fourth quarter, we made additional reductions in the BioMeasurement division\'s headcount in order to further reduce cost.
+Interest expense in the fourth quarter was $4 million flat with the preceding quarter and included $1 million of non-cash interest expense compared with $1.1 million of non-cash interest expense in the preceding quarter.
+Our net loss for the quarter totaled $14.7 million or $0.62 a share, compared with $13.9 million or $0.59 a share in the preceding quarter. Excluding certain items, our non-GAAP net loss for the quarter was $13 million or $0.54 a share, compared with the non-GAAP net loss of $14.6 million, $0.62 per share in the preceding quarter. Our share count at the end of the fourth quarter was approximately $23.9 million resulting in book value per share of $7.02.
+Our free cash flow in the quarter was negative $3.8 million compared with the positive $4.3 million in the preceding quarter. Cash generated by operations totaled $2.5 million. The capital expenditures totaled $6.3 million.
+Cash and investments at the end of the quarter totaled $54.9 million, down $6.8 million from the preceding quarter. The principal amount of our outstanding debt at yearend totaled $149 million of which $12 million has a first put date in 2013, $58 million has a first put date in 2015 and $79 million is due in 2017.
+Turning now to our outlook. As Rick mentioned, we expect our first quarter suspension shipments to be 100 million to 105 million. Average selling price should increase modestly as a result of an increase in the mix of higher value DSA suspensions.
+First quarter gross profit should further improve sequentially benefiting from increased weekly volume and resulting improvement in our fixed cost leverage. As part of our continued focus on overall cost reduction, we identified approximately 65 positions to be eliminated in the U.S. subsequent to the end of our fourth quarter.
+We estimate that our fiscal 2013 first quarter results, when included charge of approximately $1 million for severance cost related to this workforce reduction. Going forward, we estimate that our SG&A expense will be approximately $6.5 million per quarter down from our prior guidance of $8 million per quarter.
+Our R&D expenses should be about $3.5 million per quarter, down from $4 million per quarter. Depreciation and amortization expense is expected to be approximately $11 million per quarter. Our interest expense is expected to be about $4 million per quarter with the non-cash portion at about $900,000 per quarter.
+Our tax rate is expected to be near zero in fiscal 2013. We estimate that our fiscal 2013 capital expenditures will total approximately $15 million to $20 million, primarily related to customer specific program tooling and DSA production equipment. The changes we are making in our overall cost structure being done with the goal of having a business model that is cashed into a better, as we get further into the new fiscal year, at volumes of 8 million per week. As volumes grow to more than 8 million per week, we believe we\'ll be able to generate positive free cash flow.
+
+I\'ll turn the call over to Rick now for his closing comments.
+Richard Penn
+Thanks, Dave. The soft demand environment that we began to experience later in our fiscal 2012 third quarter continued through the fourth quarter and seems likely to persist into the first quarter of our new fiscal year.
+In the fourth quarter, increased allocations on existing programs and our share positions on new programs beginning to ramp help offset the overall demand weakness. Although, it\'s not yet fully reflected in our financial performance, our cost reduction efforts have strengthened and our ability to compete for strong positions on customer\'s programs in broader market share.
+As we progress through the new fiscal year, we expect our financial results to benefit from higher volume and improved fixed cost leverage, increased adoption of DSA suspensions, the cost advantages we realized as we increased output from our Thailand assembly operation and our continued focus on cost reduction.
+So that concludes our prepared remarks, and operator please open it up for questions at this point.
+Question-and-Answer Session
+Operator
+(Operator Instructions) And our first question comes from the line of Richard Kugele with Needham & Company.
+Richard Kugele - Needham & Company
+Couple of questions, I guess just to understand now that DSA is starting to get a little bit more traction, can you just talk about what your share might be in that space in a couple of quarters. And where do the competitor stand on dual stage, we haven\'t heard a whole lot of commentary out of them. So any color would be helpful?
+Richard Penn
+I\'m trying to think about, but let me first just discuss the ramp that we\'ll see and then maybe we can move into what we think our share position is as we look forward. As we mentioned, DSA represents about 5% of our business for the last quarter, and as we look ahead it looks likes that will grow to about 50% of our business as we look about one year out.
+Our position on DSA, I\'m not sure, I know what that is off hand. It\'s hard for us to tell that and the part what\'s difficult is, the industry is as it\'s shifting to one terabyte per platter desktop drive capacities and areal density shifts at server end of things. Those programs are shifting into sort of a new dual mode or two motor design that is different than dual stage has been shipping in the past years, and those programs are ramping.
+So without getting this, some specific comments about customers\' programs and to what degree they\'ve made the technical shift to the new dual stage, I don\'t think it\'s easy and maybe prudent for me to comment on our share. But I would say we\'re qualifying well on all the new dual sage programs, across the customers and across the segments.
+Richard Kugele - Needham & Company
+And just shifting gears a little to inventory, how does your hub inventory look and how are you positioning yourself for what could be a squishy first half next year?
+Richard Penn
+Probably from inventory standpoint, one of the issues we\'ve got, Rich, is we got to make sure we\'re managing inventories, we\'re moving product to Thailand. And so we see actually inventories and opportunities as the year progresses, as we have the finished goods production a lot closer to the customers.
+And so we don\'t feel like we\'ve got extreme excessive inventory, but we aren\'t optimized in the finished goods inventory standpoint at this point. Because you need certain amount of inventories you\'re transitioning the production to Thailand. So finished goods inventory is an opportunity to continue to reduce. The component inventory will grow a little bit, because now that becomes the supply chain link. And we\'re about four weeks of finished goods right now, Rich.
+Richard Kugele - Needham & Company
+
+Despite having redundant inventory in Thailand?
+Richard Penn
+Yes.
+Richard Kugele - Needham & Company
+And then just lastly, when in \'13 is that debt due?
+Richard Penn
+Early January 15.
+David Radloff
+It\'s about $11.9 million.
+Richard Kugele - Needham & Company
+And we should assume that you just will pay that?
+Richard Penn
+Yes.
+Operator
+Our next question comes from the line of Sherri Scribner with Deutsche Bank.
+Kevin LaBuz - Deutsche Bank
+This is Kevin LaBuz on behalf of Sherri. You had mentioned that you were getting increased allocations on existing programs, now you\'ve won some new programs as well this quarter. So could you just give a little bit more detail, kind of what\'s helping you in those new programs and why you\'re increasing your share, what do you say?
+Richard Penn
+Some of that is due to, and maybe back to Richard\'s question, our progress on the sort of new generation of dual stage suspension and that whole platform. But our product performance and reliability is perhaps, at least in some cases, giving us an edge on some programs relative to the competitor\'s dual stage.
+So even though I can\'t comment on our precise market share, as these new dual stage platforms start to ramp. We feel like we\'re very well positioned with the product performance and delivery, and just the overall reliability. So that\'s helping us on these new programs and many of those new programs are dual stage. It\'s probably one of the bigger factors.
+We\'re also doing very well just on non-dual stage programs that maybe ramped in the latter part of 2012, and our allocations are solid, our performance has been good. So we\'re just garnering perhaps a bit higher allocation than we were in the past on those programs.
+Maybe just to add as an overall comment about sort of the phase we\'re at in the industry. And I think we\'ve talked a little bit about this in the past. But as our drive customers are working to advance their areal density, their capacities, and their overall drive performance, we are in a phase where the suspension requirements are being pushed pretty hard. And we\'ve really maintained a very strong, solid technical core in the company, even through the consolidations and the demand hiccups and so forth.
+So when the technology requirements and product requirements get difficult that tends to create opportunities for us to get an edge. And I think that\'s what we\'re seeing happening, as our customers are trying to advance and make as much gains as they can in areal density, the suspension requirements being pushed. That tends to help us and it opens some windows of opportunity for us. So I think that\'s a sort of general phenomenon. And that is a phase that we\'re in and we\'ll probably we in for a couple of years. And we\'re positioned pretty well for that.
+Kevin LaBuz - Deutsche Bank
+Now, turning to Hitachi, since they\'ve been acquired by Western Digital, have you seen any change in your relationships there? Have you seen an increase in share?
+Richard Penn
+I would say, no, not yet. As you know, I think Hitachi and Western Digital operate very separately and are required to do so. We treat them like separate companies. We\'re supplying Hitachi on an enterprise program and keeping working to get qualified on future programs with the Hitachi part of WD. But I think that\'s going to take some time and I would say our position there is holding.
+Kevin LaBuz - Deutsche Bank
+And then one last question, you\'ve mentioned that the higher ASPs, but also a little bit of higher manufacturing cost for the DSA products. Could you just give a little bit more clarity, how much more or less say versus your average is the DSA selling for? And then also, as volumes of DSA ramp, will your cost come down at all?
+David Radloff
+Kevin, I\'m not going to comment on the pricing and the pricing difference for competitive reasons, DSA compared to regular suspensions. We are adding more value through DSA suspension, so our contribution pennies per part. This is an opportunity for that contribution to be a bit higher.
+
+The actual contribution margin percent maybe lower, because there is a pass-through material component, PC electric motor. So I think you\'ll see prices that are higher some of that is pass-through PC motor cost, some of that\'s due to value-add that we do. And there is perhaps some margin opportunity that could improve over the basic single state suspension. So I think that maybe all the color I can give you on that.
+Operator
+Our next question comes from the line of Timothy Stabosz, Private Investor.
+Timothy Stabosz - Private Investor
+Talking about the 50% of total company one year out being DSA\'s, sounds like a pretty big deal and a pretty big change in things I guess. Do we believe or do the outside industry analysts believe that this will be true of the whole industry that the majors will be 50% of what they\'re producing and it\'s going to be a DSA product or whatever?
+David Radloff
+I think that kind of increase for us is probably, we\'re sort of representing there what\'s going on in the industry. Enterprise server programs are definitely going towards DSA. They need to get the kind of tracking performance in those drives, desktop drives, the new programs, same thing if you want terabyte per flatter, those programs are DSA. So that\'s sort of the next generation of drives is sort of driving this next generation of suspension platform. So I think it\'s a change. Our change reflects really what\'s going on overall.
+Timothy Stabosz - Private Investor
+Let me follow-up on that if I can. I don\'t know if you can answer this, based upon how you answered the last question, but I\'m going to try. Were ASP\'s flattered down for the quarter if it works for the increase in DSA?
+Richard Penn
+The ASP\'s have been down a little bit with the increase in DSA, Tim, mostly because of the mix of the non-DSA suspension that switched a bit with less enterprise suspensions in that make mix and more of the somewhat lower priced mobile to desktop.
+Timothy Stabosz - Private Investor
+Another one is, how do we keep the cash flow loss so small relative to the GAAP loss for the second quarter in a row? I mean last quarter we gained a lot from reductions and receivables, real hard to tell, just looking at the press release I don\'t if you can help with that David?
+David Radloff
+I didn\'t catch the first part, Tim, could you repeat. Are you talking about the cash?
+Timothy Stabosz - Private Investor
+How that we keep the cash of burn roughly small relative to the GAAP loss for the second quarter in a row, which is very heartening of course?
+David Radloff
+Certainly, we work on all the relevant working capital components, receivables management was a big part of that. We continue to try and work different pieces of inventory down as we can. Those are the biggest pieces, Tim.
+Timothy Stabosz - Private Investor
+And then one more please, and I\'ll get back in queue, if I have anything else. Can you talk broadly about the nature of the cloud, of course there\'s so much talk about the cloud, very exciting to a lot of people. And to a degree it seems like, we\'re seeing by many, as many people think hard disk drives are yesterday\'s technology and all that. Do we have a way of measuring like how much of our sales or the major disk drive manufacture sales are going to be cloud related like a year from now versus what they are now, because that\'s maybe a part of why this industry may still grow for the next few years at least in terms of sales or units I guess, right?
+Richard Penn
+Tim, the enterprise drive, overall, and I\'d say much of that is cloud, probably represents something like 10% of the drive volumes today, roughly. And it\'s in one of the segments that\'s growing. And off the top, I\'m not sure what the latest news are and how fast that grows. But I think it\'s one of the stronger growth segments for drive. So that 10% is going to climb to 15% or 20% or whatever. And I\'m not sure what that pace looks like, I guess that\'s kind of multi-billion dollar question.
+
+One of the things that\'s interesting about those drives for us is those are higher patter count drives. There\'s more heads per drive, more suspensions per drive. So today even though those drives represent maybe 10% of the total drive market, they probably represent 20% of the suspension market. And that probably proportionally grows and even the heads per drive in that segment are likely to climb. So it becomes maybe even an increasingly important segment for us as we march along.
+Timothy Stabosz - Private Investor
+So in that sense suspension assembly sales on a unit basis may and should grow faster than HDD sales, right?
+Richard Penn
+We\'re anticipating that on average considering the cloud segment and all segments that heads for drive is likely to go up and heads per drive today is something like 3.1 or 3.2 heads per drive on average across all segments. Net increases by about a tenth-of-a-head that increases the total weekly demand for suspensions by 1.4 or 1.5 million per week.
+And so a tenth-of-a-head is a big deal, and when you get a several tenths-of-a head increase, it starts to make a pretty big difference in that size of that suspension market. We think that the suspension business does grow at a pace that\'s a bit faster than the drivers, as we look ahead.
+Operator
+And our next question comes from the line Mark Miller with Noble Financial Capital Market.
+Mark Miller - Noble Financial Capital Market
+You just stated that the suspensions for drive around 3.1 or 3.2 real quickly, I just estimated it looks like a you picked about 20% share to 24% share, would that be in the ball park?
+David Radloff
+Mark, I think you over estimating our progress. I think maybe we picked up a share point or two, I\'d say we\'re probably overall, we think we\'re more around 20% in that neighborhood today. I think you\'re little high.
+Mark Miller - Noble Financial Capital Market
+Would you expect that to improve?
+David Radloff
+Yes.
+Mark Miller - Noble Financial Capital Market
+It\'s kind of sense I\'ve got from which you\'ve been saying?
+David Radloff
+It\' hard to say, but again, when we look at our position as we look at programs across customers and what\'s happening with ramps. We think that we\'ll gain some share as we move to 2013, sort of, one share point that at time as we go through the next few quarters and we\'re working very hard to make that happened and we\'ll just keep working hard during the business from all customers.
+Mark Miller - Noble Financial Capital Market
+As you mix in the DSA you\'ve lowered. It looks like to me you lowered your OpEx by $1.8 million of quarter off, but at least my model. I\'m just wondering, we\'ve been estimating about 135 million suspensions a quarter, as a breakeven shipment level and it looks like that\'s come down. And can you give us any feeling for that? What that now is with DSA mix in the lower OpEx?
+David Radloff
+It\'s lower than that it\'s probably closer to maybe 125-ish.
+Mark Miller - Noble Financial Capital Market
+Just finally, just from what you said about the debt payment and just judging from happened last quarter, you estimate cash to be around $40 million, $42 million at the end of this quarter with that debt payment?
+David Radloff
+End of next quarter?
+Mark Miller - Noble Financial Capital Market
+End of this quarter. I\'m sorry.
+David Radloff
+The debt payment of third quarter?
+Mark Miller - Noble Financial Capital Market
+The debt payment, I\'m sorry, due in January, right? At the end of January?
+David Radloff
+That\'s a 4reasonable estimate.
+Operator
+Our next question comes from the line of Tom Levins with High Road Value Research.
+Tom Levins - High Road Value Research
+Couple of more questions in that direction, at your Analyst Day, WD was talking in terms of seven platters on a spindle and made a reference that I should suppose I\'d know about it if I\'d follow disk drives for live in, up to a break through that\'s made in terms of customers, been able to put more platters in a drive. So I know that there has been some increases, but are we early in the game or is there still a way as to go as far that being a factor in driving heads to drive?
+
+Richard Penn
+We\'re going to see more higher platter count drives and you get up into that four, five, six, seven and I think Hitachi just announced a helium-filled drive, looking at my guys here that was a seven platter or something like that. I think they put one more platter and then you otherwise could if it was not helium-filled, because there is less windage issues when you have that helium in the drive, but overall, because there it\'s tougher and tougher to increase areal density, so then you a start looking to get capacity adding a platter. 
+And so I think certainly at that higher end to the market, we\'re likely to see platter counts than we\'ve maybe seen in the past years. And the drive guys could you give you much better feel for that, than I can, but that\'s certainly the view that they\'re giving us. And we\'ve heard some really high heads per drive numbers from the customers that are even averages that they get north of four or five heads per drive on average across segments.
+Tom Levins - High Road Value Research
+Across the whole pool?
+Richard Penn
+Yes, and I don\'t know how, if it really gets that high and how fast to get there. But there is that dynamic going on and an areal density is harder and harder to increase and that\'s really the phenomenon.
+David Radloff
+And Tom, I wouldn\'t view that increase in heads as being driven by the technical breakthrough, so much of adding another platter as the portion of the drives that are going into data centers where they\'re choosing to put high capacity drives with multiple platters as a higher portion of the mix.
+Tom Levins - High Road Value Research
+I would see that as the primary factor here. In talking about an average across, I mean, what it looks like we\'ve got here is a more bifurcated distribution. On the other hand, I hear them talking in terms of the 5 nanometers and the 7 nanometers drives. And I was curious, is that 5 nanometer drive, I would think it\'s a single-platter drive. Is it conceivably a single-head drive?
+Richard Penn
+That\'s right. It certainly a single-platter and I think single-head or maybe a couple of different configurations, Tom as those things get introduced. So yes, those are drives that are being primarily developed for portable application and for these new thin and light portable notebooks that are thinner and lighter than they\'ve been in the past. Those very slim, sort of, elegant notebooks initially have flash-based storage, but it\'s still expensive. And to get to the price point that the systems guys want to get to, those hybrid drives are going to be a big deal.
+So we\'re watching them for the market very closely, because it\'s a big piece of the market, the notebooks side of things. And so we\'re watching what really happens with those thin and light and what really happens with those hybrid drives and how do they get integrated into them as we move through 2013.
+Tom Levins - High Road Value Research
+And with respect to the 18% decline in shipments to enterprise during the quarter, can you flush out a little bit for us to the extent to which that was an end-market dynamic. There are factors other than the end market. I mean, we\'re looking at inventory adjustments in the channel share, or are you loosing share? Can you expand on that a bit?
+Richard Penn
+Well, yes. What we know Tom, is that drop for us somewhat parallels the drop in enterprise drives. It might even be a little bit less than the decline that occurred quarter-to-quarter at the drive level. And the dynamic behind that that drop in drives, is a couple of things that dropping enterprise drives.
+Couple of things that we\'ve noted, I think, and again the drive guys could tell you more. There were some pockets of inventory for those higher-end drives for a variety of reasons that was being work through and that maybe part of what occurred.
+
+We\'ve also heard that Europe\'s very lethargic economy, is the pretty big driver for some of those enterprise applications and slow Europe is caused slow enterprise. That\'s about what we understand about what happened recently in that drop.
+Tom Levins - High Road Value Research
+So what I think I\'ve heard there is a beginning was that you don\'t think you lost any share, you might have picked up?
+Richard Penn
+We\'re really looking at what happened at the drive level and we parallel that. We maybe even have done a little bit better than that. So we don\'t think we lost share.
+Tom Levins - High Road Value Research
+Last question, we\'re still in the BioMeasurement business, is there anything you can tell us about guided outcomes that we didn\'t know on the last call or the call before that?
+David Radloff
+Number not much, Tom. There is outcomes\' like study that\'s been completed and the analysis on those patient populations in that study, it\'s still underway. And nothing has been published and the principal investigator is still, Kurt, chunking away, so there is not much new there. There are some other studies. There\'s one that just came out in October and we\'re using at in our marketing approach. And there are several others that occur fairly, regularly, that really support three basic premises. The first is that a low StO2 reading is bad, and there is increasing evidence of builds, that demonstrates that if your StO2 is low, you\'ve got a problem, you\'ve got to deal with it.
+The second piece of evidence, that keep servicing and keeps being confirm is that clinicians are missing low StO2 patients, because they\'re not measuring it, and the other vital signs like blood pressure, heart rate, temperature, pulse oximetry readings, those kinds of things aren\'t telling them about perfusion the way StO2. And so they\'re missing those low StO2 patients, maybe even to the degree of 30% depending on what population you\'re measuring.
+Then lastly, when you do something to affect StO2 and get it into the normal range, patients do better and cost come down for the hospital system. So low StO2 is bad, you\'re missing that low StO2 patients and when you get StO2 back into the normal range, your patients do better and your costs are improve.
+So if you look in our website and you\'ve track with the research, the body of evidence that\'s growing with the related StO2, those kinds of studies are continuing to come out. And we increasingly use those in our marketing efforts. But as you know, the marketing traction has been really slow. We\'ve been switching our strategy to specialty distributors, marketing partners that are not directly employed by us. So we\'re sort of in the middle of that switch and part of why we\'re down from where we were.
+And then, hospital budgets are just extremely tight. I think tighter than we\'ve ever seen, because of uncertainties in healthcare. That\'s what we\'re up against, and so all of that\'s going on. We\'re doing everything we can do, pull cost back, get the loss to zero as quickly as possible, and we\'re looking at other partnering opportunities that might help us get some market traction while we get those costs and losses to zero.
+Tom Levins - High Road Value Research
+So it sounds like you have at least one more study to use in your marketing that you didn\'t have 90 days ago, is there probably another one that you\'re likely to have in the next quarter or so?
+David Radloff
+I would say so, maybe more than one. And on the outcome study, I would think we would have what we need within the quarter to use that in our marketing efforts as well.
+Operator
+Our next question is a follow-up question from the line Mark Miller with Noble Financial Capital Market.
+Mark Miller - Noble Financial Capital Market
+I do have a couple of here, it just seems to me from going back that and maybe off pace here, that the ramp up of dual stage and also the TSA ramps seems to be pacing ahead, what we thought six months ago, am I on track here?
+
+Richard Penn
+I think that the TSA plus were little higher in the volumes. That\'s just a mix issue. It\'s not higher than the volumes we\'d like to make. And on DSA, I\'m not sure.
+David Radloff
+I think we might have said, maybe, a year ago it was about 40% of our mix, Mark, and now it looks like it might be closer to 50%.
+Mark Miller - Noble Financial Capital Market
+Another question, I don\'t know if you can address this, last couple of weeks we\'ve seen in our U.S. Drive distributors, significant draw down in inventory. This was kind of curious, I was just wondering if you\'ve seen anything like that or do you think this is due to demand because Windows 8 is ramping or simply the drive guys, which we know are constraining production. But we\'ve seen inventories come down last couple of weeks in the distribution channel, at least in the U.S.
+Richard Penn
+We\'ve heard some of that Mark, and I\'m not sure what that\'s telling us. If the sell-through is coming in higher than planned or what\'s happening, I\'m not sure, I\'ve got a specific read on that.
+Mark Miller - Noble Financial Capital Market
+I apologize, I miss this when you were talking about the percentage of shipments for 3.5 in mobile, how they changed sequentially, if you would just give me that again up?
+David Radloff
+Let me dig that to that data.
+Richard Penn
+And Mark, while he is looking for that, one thing I do want to remind you as you made your estimate of that cash, at the end of March quarter, that assumes we don\'t borrow anything under revolver also.
+David Radloff
+Mark, so suspension for 3.5-inch ATA applications increased 4% sequentially, and accounted for 41% of our shipments, compared to 42% before. Mobile increased 19% sequentially, and accounted for 42% of shipments compared with 37% last quarter. And then the enterprise declined 18% sequentially and accounted for 17% of our shipments.
+Operator
+Your next question is a follow-up question from the line of Timothy Stabosz with Private Investor.
+Timothy Stabosz - Private Investor
+Just the few quickies here, do we believe essentially that the Thai flood delayed this ramp up by a year or so. And I\'ve been around the company while now, as a shareholder, and it sounds like, if it weren\'t for the flood, we kind of were confident that we\'re going to have new programs coming in much sooner. Is this is the story here really, if that the flood delayed things by about a year or more?
+Richard Penn
+I don\'t think so, Tim. We have the ability and we\'ve responded to market opportunities in the U.S. It\'s delayed our ability to get our cost model where we wanted to get it by about a year.
+Timothy Stabosz - Private Investor
+Didn\'t the manufacturers delayed like new drive programs, themselves because of the risk going forward?
+David Radloff
+There was a mix that there have been some shifting at the drive level, Tim. And program timing, I wouldn\'t say a year. And remember Western Digital was the main drive company affected by the flood, although, the supply chain affected the other guys somewhat. But I wouldn\'t say it was a year delay, because of the flood.
+Timothy Stabosz - Private Investor
+Just to clarify, do we still expect to achieve essentially the same full cost savings as we talked about, say 15 or months ago or four or five quarters ago from the move to Thailand, has nothing change there for the better, slightly for the worse or pretty much where we\'re at four, five quarters back before the flood hit?
+David Radloff
+The short version is that, Thailand, we\'ve expect to be as good as we\'d expected. In the interim, we\'ve got a little better in the U.S. and so the delta between the two maybe is not quite as big, but it\'s still compelling the manufacturing in Thailand.
+Timothy Stabosz - Private Investor
+And then one final question if I may, David, do we expect to fully meet our cash needs to fund the business through the new fiscal year here internally and with our current sources of borrowing?
+
+David Radloff
+Yes, we do.
+Operator
+I am showing no further questions in the queue. I would like to turn the conference back to Mr. Penn for any closing remarks at this time.
+Richard Penn
+Well, thank you everyone for joining us on the call today. We really appreciate your time and attention and your questions and interest in the company. And so we look forward to talking to you real soon. Thank you.
+Operator
+Thank you. Ladies and gentlemen, that concludes the Hutchinson Technology\'s fourth quarter results conference call. If you would like to listen to a replay of today\'s conference please dial 303-590-3030 or 1800-406-7325 and enter the access code of 4569441 followed by the pound sign. We thank you for your participation. You may now disconnect.

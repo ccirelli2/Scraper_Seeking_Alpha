@@ -1,0 +1,294 @@
+Acorn Energy (OTC:ACFN) Q3 2012 Earnings Call November  8, 2012 11:00 AM ET
+Executives
+Heather K. Mallard - Vice President, General Counsel and Secretary
+John A. Moore - Chairman, Chief Executive Officer and President
+Michael Barth - Chief Financial Officer, Chief Accounting Officer and Chief Financial Officer of Dsit Solutions Ltd
+Lindon Shiao - Chief Executive Officer of GridSense and President of GridSense
+James K. Andersen - Chief Executive Officer of US Sensor Systems Inc and President of US Sensor Systems Inc
+Deena Redding - President
+Benny Sela - Chief Executive Officer of DSIT and President of DSIT
+Analysts
+Gavin Richey
+William D. Bremer - Maxim Group LLC, Research Division
+James Patrick McIlree - Dominick and Dominick Securities Inc., Research Division
+Rudolf A. Hokanson - Barrington Research Associates, Inc., Research Division
+Charles Melcher Sloan - Mid-Continent Capital, LLC
+Operator
+Good morning, and welcome to the Acorn Energy Third Quarter 2012 Earnings Conference Call. [Operator Instructions] Please note, this event is being recorded. I would now like to turn the conference over to Heather Mallard, General Counsel. Please go ahead.
+Heather K. Mallard
+Thank you, and good morning, everyone. Please take note that certain of the matters discussed in this presentation contain statements that are forward looking, such as statements relating to the results of operations, financial condition, business development activities and market dynamics. Such forward-looking information involves important risks and uncertainties that could significantly affect the anticipated results in the future. And accordingly, such results may differ materially from those expressed in any forward-looking statements made on behalf of Acorn Energy or its subsidiaries.
+All statements, other than statements of historical fact in this presentation regarding Acorn Energy or any of its subsidiaries\' future performance, revenues, margins, market share and any future events or prospects, are forward-looking statements. For more information regarding risks and uncertainties that could affect Acorn Energy or any of its subsidiaries\' results of operations or financial condition, please review Acorn Energy\'s filings with the Securities and Exchange Commission, in particular, its most recently filed Form 10-K and Form 10-Q.
+Acorn Energy\'s forward-looking statements are not guarantees of future performance, and the actual results or developments may differ materially from the expectations expressed in the forward-looking statements. As for the forward-looking statements that relate to future financial results and other projections, actual results will be different due to the inherent uncertainties of estimates, forecasts and projections and may be better or worse than projected, and such differences could be material.
+Acorn Energy undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+I am now very pleased to turn the presentation over to John Moore, CEO and Chairman of Acorn Energy.
+John A. Moore
+Thank you, Heather. Welcome to the Acorn Energy Third Quarter Conference Call. I\'m excited to share with you our progress in building the value of our 4 companies. First, I want express my sympathies to all who suffered during Hurricane Sandy. My neighbor, friends and family have been without heater power for a week. There remain over 1 million people in parts of Connecticut, New York, New Jersey that have experienced a cold Katrina. As the exact dimension of the disaster come into focus, now that the election is over, I hope that the impact of the storm\'s direct hit on our nation\'s financial and media epicenter will finally change the discussion from theoretical issues, like renewables, to practical and immediate issues of infrastructure reliability.
+
+The optics on this event were strange, a storm that everybody knew was coming and everyone knew would be bad. But the people in the tristate area were not aware, until now, of just how vulnerable their physical energy and communication systems were to deep damage. The word today on everybody\'s mind is prevention. How do I protect my business and my family in the future? Our current phone and electric system was built in the aftermath and rest on the legacy of World War II, with the greatest generation, the gold-plated systems, because they knew if they didn\'t, people could die. We\'ve become complacent in our prosperity. We\'ve made a transition to wireless communications and digital systems that demand digital-quality power but which are also as inherently fragile and vulnerable, as they are vital and critical to driving the new economy. In an unregulated telecom environment, we just haven\'t had the same infrastructure, investment and resilience.
+In the wake of 911 and Hurricanes Katrina and Sandy, there\'s suddenly and hopefully an emerging understanding of the value of the investment in reliability and resilience that will not be fleeting. The good news is, there is a solution and it is low-cost, low-risk and the very highest-churn investment that we can make as individuals and as a society, digital energy, connect everything.
+In the coming world of the intercausm [ph], we know and can identify failing transformers and generators and fix them before they fail catastrophically. Acorn Energy is making smart investments today to help society solve the weakness of its infrastructure. Acorn provides the simple and often overlooked tools that enable us to be prepared for inevitable disasters.
+In any disaster, you need 2 things: power and bandwidth for communication. Presciently, a professor from Carnegie Melon, wrote an article in the Wall Street Journal on September 17 titled, Blackouts are a Fact of Life, Let\'s Deal With Them. He did a survey of the emergency responders in his home city of Pittsburg and found out that 60% of the police stations did not have a generator, which means that police radios don\'t work during an outage, an electrical outage.
+Post-Sandy, a fire chief in Sea Bright, New Jersey noted, \"We\'re back to the Stone Age,\" because people had to physically visit the firehouse to report an emergency when they lost power. It\'s important to own a generator, but it\'s not enough. Many who own generators like night trading and cellphone tower operators saw that they would fail when they needed them most. Over 25% of cellphone towers in the 10-state area affected by Sandy went down. This was creating an ideal environment for us to expand our OmniMetrix business. We expect that hardening cell tower sites will be a substantial part of our OmniMetrix business going forward.
+AT&T announced Wednesday, after putting their CapEx spending on hold for 9 months after the T-Mobile deal breakup, that they\'re going to spend $14 billion expanding their wireless and landline business. This is an unprecedented level of expenditure, and we\'re well positioned to benefit. There are currently over 220,000 cell phone towers. And with the rapid growth of wireless data use, this number will be climbing dramatically. More than 60% of U.S. cellphone towers do not have standby generators. We have 2 of the largest cell systems as our customers, and they are in early stages of growing the deployment of our systems. We heard terrific feedback from our customers, like American Tower, who enjoyed the peace of mind, knowing that all of their monitored cell site generators were up and operating. They had visibility into the fuel and maintenance requirements before, during and after the hurricane. OmniMetrix helped to keep emergency, corrections, 911 or other public services in Ocean County, New Jersey, running through Hurricane Sandy, when some of the New Jersey shore power sources failed.
+
+On average, OmniMetrix keep generator failures below 2% versus an average of 10% to 15% failures for unmonitored systems when called on. Deena Redding, CEO of OmniMetrix, has observed increased call volumes post Sandy. And the OmniMetrix team is reaching out to help fortify critical generators to reduce failure in the future. Deena is building on our team. They\'ve grown from 11 employees when we bought the business in February to 27 employees. Deena is putting in place the infrastructure and the back office to support growth and in sales to create the growth.
+At the beginning of the year, we had one inside sales guy. Now we have 7 personnel constituting a regional team that covers the U.S. and a national accounts manager specifically focused on the telecom industry. We\'ve more than doubled the generators we\'re monitoring, and we\'ve begun developing relations with generator dealers and OEMs.
+From February 15, 2012, through September 30, 2012, OmniMetrix reported revenue of approximately $952,000, and for the third quarter period, revenue of $570,000, more than doubling the 2012 second quarter revenue of $272,000.
+As previously reported, OmniMetrix introduced a major sales and promotion program during the second quarter, with the goal of increasing market penetration rate of its monitoring products. We anticipate these efforts to begin bearing fruit during the fourth quarter of 2012 into 2013 and beyond. This is a business where we have an early mover advantage, with a high barrier to entry, low customer churn, high margins on the recurring revenue and a large domestic and international opportunity. Our business model is predicated on us giving away the hardware and breakeven on new sales in the first year.
+Another example of our leadership and infrastructure resilience in disaster prevention is our growing success at DSIT in building a category creator in energy infrastructure, perimeter monitoring business. We\'ve made major strides in growing our installed base of customers, as well as expanding the market opportunity through collaboration with U.S. Seismic. DSIT continues to be our shining star, growing third quarter 2012 revenue by 75% versus Q3 2011 and year-to-date revenue by 50%. 2012 year-to-date operating income of $620,000 represents a major turnaround from last year\'s 2011 year-to-date operating loss of $603,000. The company\'s results were driven by the receipt of a $12.3 million order in Q4 of 2012. We\'re looking forward to successful installation of the system, and hopefully, follow-on orders from the satisfied customers.
+We have $9.2 million in projects backlog and a robust pipeline of opportunities. Management has done such a great job of building a category in this business that we\'ve advanced DSIT $2 million this year, and anticipate investing additional funds to further expand this product line and fund the development of U.S. Seismic\'s passive perimeter security system. This can more than double the market opportunity for the company. We received a BIRD grant for $900,000 which serves as non-dilutive equity to fund the industry\'s first combination passive and active diver detection system. The reason this is important is that certain markets, like the USA, do not allow active sonar systems as defensive measures because of the concern for the long-term impact on aquatic life. In fact, a combined passive and active sonar system should be a better solution for our customers. The passive sonar listens for potential threats and when it finds one, it wakes the active sonar that actively pings the threat. This should result in a more sensitive and accurate system with more range and less false -- potential false positives, and that opens up the market in the USA and Europe.
+In addition, U.S. Seismic and DSIT are seeking to collaborate on land-based perimeter security. U.S. Seismic has made sales for its tunnel and perimeter detection systems in Latin America and one major North American airport. We believe that DSIT is best positioned to develop the market and expand this product line. Integrating a signal-processing software with USSI\'s detection system has potential to transform DSIT into a much larger and more profitable company.
+
+We\'ve been consistently saying that 2012 would not be a growth year for GridSense. The revenue in the third quarter of 2012 was $1 million versus $2.5 million in the third quarter of 2011. And the 9-month revenues for 2012 are $2.9 million versus $4.7 million in 2011. While the lower revenue is disappointing, it\'s important to remember that in 2011, the company beat revenue and earnings plans. And we know that the timing of orders in this business can be hard to predict. This is why it\'s so important to keep our pipeline of leads growing, so that we\'re not dependent upon the receipt of any order from a single customer.
+GridSense currently has over 40 pilot programs with utilities. The number of ongoing pilots is more than triple the number of pilots in 2011. One of the pilots of a very prestigious Southern California utility turned in an order of 500 units. This California utility not only represents commercial potential but will also further enhance the products\' functionality, enabling GridSense to address smart grid killer apps from an entirely new angle. The order of 500 pole-top and underground transformer monitors is important because it demonstrates that GridSense is developing unique products that the most cutting-edge utilities need and want. And more importantly, that they\'ll be designing into their orders for new transformers.
+In the U.S., the effort will be to use the Transformer IQ to monitor transformers and to replace them before they fail. Globally, the pole-top product is unique in its ability to monitor power theft, which is rampant in developing nations and is practiced by both the rich and the poor.
+Our plan is to grow the business from pure hardware sales to system sales and eventually to a recurring revenue model. The Grid InSite software will help this effort by having a solution, a software solution, that can provide analytical tools to distribution engineers so the utility can decrease the time to value from our sensors. We expect this will result in productivity gains leading to wider adoption of Grid InSite. We released a beta version of Grid InSite to 6 customers in Q3 and expect to begin commercial launch in Q1 of 2013.
+GridSense finished the quarter with $900,000 of backlog. GridSense is a global opportunity. You cannot have global -- you cannot have economic growth without a functioning electric grid, as the country of India found out when it lost power for 2 days in July. Our opportunities are global with active pilots in Australia, South Africa, China, Brazil, Myanmar, Guatemala and Mexico. There are hundreds of millions of transformers around the world, and equipping them with inexpensive sensors is a multibillion dollar opportunity.
+Finally, I\'m calling in from Las Vegas, where Jim Andersen and his team have continued to build credibility with customers and awareness within the industry at the 82nd Annual Society of Exploration Geophysicists. This is the main event for the $12 billion annual sales, seismic services and tool industry. We met with the largest and most influential customers in the seismic services industry. Our most recent customer, SR2020, hosted an event, and Jim Andersen was the keynote speaker. The event was attended by the most influential seismic thought leaders, and our buzz continues to build in the industry.
+In addition, our product was showcased at the booth of the largest, independent borehole seismic tool supplier, a current customer. This customer\'s first array, an 8-level system, will be shipped next week and trialed at the end of November. They told us that 70% of the inquiries they received at the show were for our combined product. This is consistent with what we discussed on the second quarter call, that the second half of this year will be characterized by orders and field demonstrations of our products by small but influential seismic companies, like the one I just mentioned.
+
+The first half of 2013 would likely see the first orders from the world\'s largest oil service companies. I was heartened to hear customers and potential customers say that if our product performs well in upcoming trials, then it will represent the first significant change in the $2 billion seismic tool industry in the past 50 years. The rise in use of the steerable mud motor, which allows directional drilling, has enabled EOR, enhanced oil recovery, and the shale hydrocarbon revolution. The requirement of these new applications is forcing the industry to require sensors with our unique performance qualities. Enhanced oil recovery promises to allow oil companies to increase their reservoir yields from 25% to 60% to 75%. They need tools that can be permanently embedded in the harsh borehole environment. That means no down-hole electronics, no switch required in the current solutions. The shale producers recognize they need sensors that have a very low noise floor. In both cases, our sensors are being required for oil production instead of the traditional market for seismic, which is exploration.
+Production enhancement is less cyclical than exploration. And the returns for the well owners are higher and less risky. This is a very big deal for a young company introducing a new product. Our customers are rich, and they have money that they want to invest for a return on investment and basically improving their net present value from their capital investment.
+Another insight from the show was the almost-universal belief that the legacy sensors cannot meet the needs of enhanced oil recovery or frac-ing. Nature abhors a vacuum, so many companies are offering inferior fiber-optic solutions, like distributed acoustic sensors, also called DAS, that cannot provide seismic-quality images or micro-seismic mapping, or MEMs, which has too high of a noise floor despite tens of millions of dollars of industry and venture investment.
+The seismic industry, from its earliest days when it was developed to find large German guns bombing Paris in World War I, has its roots in military programs, and in the past decades, from naval submarine programs. The industry is inclined to believe that any fundamental breakthrough would require hundreds of millions of dollars\' investment and have to be proven first in demanding military applications over long periods of time.
+Jim\'s team\'s heritage of commercializing the Light Weight Wide Aperture Array on the Virginia-class of submarine and its successful performance without a single failure at sea and the subsequent license from Northrop Grumman means we, unlike any other competitor, have instant and unique credibility among customers.
+U.S. Seismic is in the late development stage. We\'re making substantial investments to improve the reliability and reduce the cost of our sensors. We are investing in the critical interface software to enable our customers to seamlessly view our data on their existing data-processing equipment. We cannot expect a substantial revenue ramp or positive gross margins until we complete the commercial introduction of our PC-based interrogator and complete the expansion of our production in the first half of 2013.
+There are no shortcuts, and we\'re not encouraging management to look for any. I don\'t want to underestimate the challenge of introducing a new innovative technology to the oil and gas industry, but we do have huge advantages based on the team\'s experience and our government\'s previous investment in the technology. There will be fits and starts, with ample opportunity to improve and adapt on our devices. But I\'m confident the next 6 months will further validate our belief in Jim and his team.
+In the first 9 months of 2012, USSI reported revenue of $1.3 million, an increase of 49% over the 2011 9-month period of $900,000. The increased revenue came from 6 different projects. Third quarter 2012 revenue was $234,000 versus $401,000 in the same 2011 period. The decrease in revenue was solely due to the number and the size of projects that were completed and delivered during the respective quarters. It is likely that the large, 40-level Department of Energy\'s order and the SR2020 will not be shipped until the first quarter of 2013.
+
+Management feels it\'s more important that the systems work flawlessly when deployed in the field than they recognize the revenue in 2012. We invested $10.25 million in U.S. Seismic in 2012, and we\'ve previously announced that we intend to invest another $5 million in 2013.
+Now that I\'ve given you some color on our operating businesses, I\'d like to conclude by discussing the strength of Acorn as a whole. We have approximately $25.5 million in corporate cash in short-term deposits at the end of the quarter. As we predicted, we received 100% of the CoalLogix escrow of nearly $6 million, bringing our total take on the sale of the company of $62 million.
+Including acquisition costs, we\'ve invested a total of $48 million in our 4 operating businesses to date. This is a good moment to reflect on how we\'ve been so successful in the past in executing our unique strategy to create shareholder value. We buy engineering-led, energy-infrastructure technology businesses that are positioned at major paying points before everybody else recognizes the opportunity. We go into each opportunity knowing that the business requires investment in additional development in sales and marketing to unlock the inherent value. These investments in our portfolio are yielding early and measurable results.
+One, in less than 1 year, we\'ve more than doubled the number of generator connections that took OmniMetrix 13 years to accumulate. Two, DSIT has more than doubled the size of its market opportunity by collaborating with U.S. Seismic. Three, GridSense has tripled its number of pilots in the exciting distribution-optimization sector of the smart grid. Four, U.S. Seismic is actually in production and has received initial commercial orders and has established itself in the minds of the world\'s largest oil service companies as leader in the fiber optic and seismic tool industry. These are big platforms with big growth opportunities. We\'re very bullish on our 4 businesses.
+We thank you for your confidence, as we develop this new market -- or opportunities. I\'m happy to now take any questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] The first question comes from Gavin Richey of Rockwood.
+Gavin Richey
+You said a moment ago that the planned investment in USI -- USSI for 2013 was $5 million?
+John A. Moore
+That\'s correct.
+Gavin Richey
+In the press release, it says that you\'re expecting to make investments above the $10.25 million invested in 2012. I think that\'ll be more than $10.25 million next year. Is that...
+John A. Moore
+I\'ll ask Michael Barth to clarify. I believe we\'ve invested the $10.25 million in 2012, and we\'re projecting investing another $5 million in 2013.
+Michael Barth
+That\'s right. I\'m not sure I see where -- I\'m not sure I understand the question. I mean, we put in $10.25 million in 2012. And as John mentioned, at least we -- we will be putting in at least $5 million.
+Gavin Richey
+Okay. The press release says you expect to make additional investments above the $10.25 million. I took that as meaning greater than -- you\'re going to accelerate the pace of investment versus this year.
+John A. Moore
+Oh, okay, I understand the question. So, yes, the answer is that we will -- that, that number will then be -- I don\'t -- so it\'ll be in addition to the $10.25 million. Michael, maybe you could actually give a...
+Michael Barth
+Yes. No, that\'s right. Okay, I can see where you could take it a different way.
+Gavin Richey
+And then what was the parent level cash, I guess, on 11/1?
+John A. Moore
+I think it\'s $25.5 million.
+Michael Barth
+On 11/1, just one second, because it\'s in the Q. I don\'t remember it off the top of my head but I\'ll tell you in one second.
+Gavin Richey
+Yes, it\'s in the Q. Is that inclusive of the certificates of deposits or is that just regular cash?
+
+Michael Barth
+Just give me one moment. That is exclusive. That\'s just cash, not including the short-term deposit of $10 million.
+Gavin Richey
+Okay. And then my last question was on the -- were these correspondence uploaded files, was that a recent addition to your SEC page?
+John A. Moore
+I\'m sorry?
+Gavin Richey
+The correspondence with the SEC, the correspondence and uploaded files, did those just appear recently, or were those already -- were those in the last quarter?
+Heather K. Mallard
+John, I\'m happy to take that if you like.
+John A. Moore
+Yes, please. Thank you, Heather.
+Heather K. Mallard
+We had comments this is periodically the case from the SEC -- routinely the case from the SEC. And we have correspondence with them where we resolve their comments. And then at some point, it\'s usually my understanding that in about 45 days, they upload the correspondence sort of in their own due course. It can sometimes take months, it can sometimes be fairly timely done. So they just appear when the SEC decides to post them.
+Gavin Richey
+Okay. Were there any other open comment letters at the moment?
+Heather K. Mallard
+No. We resolved all those. The last one that was posted, you can see where they were satisfied that we resolved their current concerns and questions.
+Operator
+The next question comes from William Bremer of Maxim Group.
+William D. Bremer - Maxim Group LLC, Research Division
+All right. Let\'s first start off with GridSense. Over 40 pilots with utilities right now, can you give us a sense on the magnitude of the potential there, number one? And secondly, the array of different pilots, give us a little bit on what you\'re doing for some versus the others.
+John A. Moore
+Great. I\'d like to turn that question over to Lindon Shiao, the rainmaker at GridSense.
+Lindon Shiao
+So just to give flavor of some of the projects that we\'re undertaking. They vary around various applications. We basically have 2 main product offerings that, one, focuses on overhead line and distribution network; and the other focuses on transformer infrastructure, and that revolves around the Transformer IQ platform. And so, our pilots are, basically, addressing overhead lines. And since the transformers -- with the transformer-monitoring platform, we\'re addressing various applications including the condition and health of these transformers, which utilities are trying to prolong the asset lives of. In addition to protection and asset management, we\'re addressing a number of applications, like optimization of loads. We are looking at voltage optimization at the end of line. That has a very measurable and tangible benefit to utilities, because to the extent that they can lower voltage entering the household, they can actually conserve generation costs and generate savings without even affecting consumer and their behavior. We\'re also looking at some applications like power-theft detection and monitoring. And surprisingly, and this is not just a problem that affects the third world countries, but it\'s rampant in parts of the U.S. and Canada. And again, this is an application that provides very tangible benefits. Because to the extent that utilities can prevent it from happening, they can collect on those revenues and also lower generation costs. So those are some examples of the pilots that we are supporting at the moment. The -- as far as the size of the potential rollout with various utilities that we\'re supporting, they really vary. I can say that for some of our larger utilities, we\'re looking at fleet deployment that could address as many as 150,000 transformers. So that would probably be -- represents some of our larger deployment opportunities.
+William D. Bremer - Maxim Group LLC, Research Division
+Okay, great. That\'s what I was getting at. I appreciate it. All right, John, let\'s go into U.S. Seismic now. Okay. All right. The additional $5 million of CapEx. Hey, it seems to be warranted. This is definitely, could be a game-changer for your company without a doubt. How many -- can -- let\'s talk about the pilots that you have currently, the array of different offerings that you\'re making there, and also the potential?
+
+John A. Moore
+I\'d like to turn that over to Jim Andersen.
+James K. Andersen
+Sure. Thanks, John. There are 2 actually applications we\'re looking at. The main one we\'re addressing first is hydrofrac monitoring. And that activity is called micro-seismic monitoring. And where we stand with that is that the existing technology is geared towards exploration, existing sensor technology. And for micro-seismic monitoring, which is what you need to do to map hydrofrac, you need a much higher frequency response so you could detect the higher-frequency signals that are generated during hydrofrac-ing. And so the existing technology just doesn\'t have the bandwidth to detect this kind of high frequency. So I think the industry is finding that the legacy tools aren\'t up to the task for a micro-seismic monitoring, hydrofrac monitoring. And we\'re getting more and more interest and with -- as, I guess, how we started out, we initially did very small demo projects with clients. Those turned into orders for initial systems. We\'re starting to deliver some of those initial systems now, ranging anywhere from -- on the order of 10 levels of down-hole sensors to 100 levels. And we\'ll be delivering those over the next maybe 45 to 90 days. As those -- as the customers get those, they will install them and try them out basically. And based on successful testing on this full-size versions of our system, that\'s when we expect the ramp-up in large orders.
+William D. Bremer - Maxim Group LLC, Research Division
+Will you be present when these customers are installing these? Or do they do it on their own? You give them a little trial, and then -- it\'s very simple, if I understand, this correctly.
+James K. Andersen
+It is but we make a point of sending a team out on the initial trials just to make sure there\'s no issues. We have set up our systems so that after we shipped it to them and they turn them on, we could access the systems over the Internet and help them if they have some problems to work through how you set it up in the field. But just to hold their hand, we go out with them for the initial trials.
+William D. Bremer - Maxim Group LLC, Research Division
+And talk to me about the manufacturing capabilities. I know that was ramping up. Is the facility complete at this point? Or when do you expect that to be completed?
+James K. Andersen
+Essentially, the facility is completed. We moved in about a year ago into a 22,000-square-foot facility. Some of the things we did is we had to get ISO certification, a certified quality system. Our customers were demanding that. We have that to speed up all of manufacturing process and keep track of inventory. We implemented an ERP system. We\'ve gotten all our equipment certified to all the international standards, such as CE, FCC, UL. So that they can shipped around the world without any issues. So we\'re setting that all up. And right now, we\'re in the process of taking a lot of the manual processes for assembling our equipment and automating them. That was part of this big push on this investment we\'ve got this year. So we\'re automating the assembly of the sensors, automating the testing of the sensors, when they\'re ready to be calibrated. And we\'re automating the insertion of our sensors into the cables that are used to drop down the well. So all of that is in place. And one of the things we made a point of is that a lot of our clients are -- want to make sure, is that when we really hit the switch, we want to make sure that you can handle the size of orders we\'re talking about. So it\'s that authorization from Acorn Energy and we\'re implementing that we\'ll have capital equipment in place in our facility to handle up to $50 million in product in 2013.
+William D. Bremer - Maxim Group LLC, Research Division
+
+Okay. And John, you mentioned that we shouldn\'t expect much for the fourth quarter. So it\'s sort of like a shift or just a potential maybe deferments the first -- or maybe the first half, I should say, of \'13.
+John A. Moore
+I think that\'s right, that we -- we just know that there\'s been so many failures of fiber optic systems in the industry. And bad news will make its way around the earth before the good news can get its pants on. So it just -- we just -- we have the luxury of making certain that Jim gets this right. He doesn\'t have to go off half-cocked. We\'re going to make certain we put our best foot forward, and we thank the patience from the Acorn shareholders that the view is going to be worth the climb. We\'ve got -- there\'s always the time to do it right.
+William D. Bremer - Maxim Group LLC, Research Division
+Okay. And would you prepare -- are you ready to provide some color in terms of how you feel \'13 pans out as a year for U.S. Seismic?
+John A. Moore
+I mean, obviously, based upon our conversations at this trade show, we think it could be -- I mean, I think it\'s almost a noble, Bill, because the size of the companies that we\'re dealing with and the potential deployments are big, but with the industry -- energy industry, as you know, you\'re definitely an expert in this field, is they can delay decisions. And we don\'t know what kind of technical delays we might have in the process. So I\'d say the one thing I came away from this show was convinced that the industry believes Jim, that he has what he says he has. They just want to make certain when he takes it out, that they don\'t get embarrassed in front of their bosses.
+William D. Bremer - Maxim Group LLC, Research Division
+I understand. Okay. All right. And then finally, hey, OmniMetrix, your timing was impeccable, absolutely impeccable.
+John A. Moore
+Thank you.
+William D. Bremer - Maxim Group LLC, Research Division
+Given these current events that we have here. Give me a little more of a rundown in terms of the end markets and -- I mean, it just seems as though, due to the events, DSIT is now involved, there\'s no doubt about it. Your companies and the peer group are also starting to percolate. What can we maybe expect in terms of revenue contribution from Omni?
+John A. Moore
+Deena, I\'d like you to take that difficult question from this important friend of the company.
+Deena Redding
+Okay, this is Deena Redding. Yes, the revenue projection for rest of 2012 and 2013 will be limited due to the fact that we\'re -- our business model is structured to give away the hardware in exchange for the connections. So the pace will be slow as we -- as far as revenue goes, as we focus on growing the connections. Because that\'s really the focus of the business. So the look -- the outlook for a great ramp and increasing revenues won\'t be there again just based upon the business model. But we do anticipate huge growth in the connections for 2013 as the awareness is heightened into the need for the reliability of our system and the benefit fit that the product gives to the end user. And especially in the cell tower industry, the awareness is very high at the moment. And I think they\'re going to have to look into what they can do to continue to harden their sites and give confidence back to -- in the cell tower industry of the reliability of the wireless industry.
+William D. Bremer - Maxim Group LLC, Research Division
+Could you go over the economics in terms of your revenue? I understand you gave away the hardware. Let\'s get a little more granular in terms of how you are receiving this annuity-type structure.
+Deena Redding
+We\'re giving away the hardware in exchange for a commitment for a 3-year monitoring from the end user. We collect 12 months in advance for that, and round numbers, that\'s roughly $400 a year, that we\'re asking for the industrial customers, $300, $400 a year depending on the volume.
+
+William D. Bremer - Maxim Group LLC, Research Division
+Okay. 3-year commitment. And is that the minimum?
+Deena Redding
+That\'s the minimum for a free hardware offer, yes. And obviously...
+William D. Bremer - Maxim Group LLC, Research Division
+Have you had any contracts that are longer in duration than that at this time?
+Deena Redding
+Yes, yes. The most recent press release that we did about a 500-unit order from the cell tower industry. That\'s a 5-year commitment for that particular order.
+Operator
+The next question comes from Jim McIlree of Dominick and Dominick.
+James Patrick McIlree - Dominick and Dominick Securities Inc., Research Division
+It seems like there\'s something with the PC-based interrogator that needs to be completed. Has there been a delay or a difficulty, or something that is causing the deployments of these systems to get pushed into next year?
+John A. Moore
+So Jim, I\'d like you to -- Jim Andersen, I\'d love for you to handle that question.
+James K. Andersen
+No problem, John. Now we had already planned on this schedule. We have an alternative technology we\'re using now. And we\'re going to transition to the new technology in Q1 of 2013. But that was always the plan, if I said something different.
+James Patrick McIlree - Dominick and Dominick Securities Inc., Research Division
+I think the intention is to have a operating prototype in the fourth quarter...
+James K. Andersen
+Oh, absolutely.
+James Patrick McIlree - Dominick and Dominick Securities Inc., Research Division
+To commercialize the product in the first quarter. Okay, I just misunderstood your comments, John. I thought that you were relating the deployments into next year to the interrogator, but that\'s -- that was just me conflating the 2.
+John A. Moore
+Yes, it\'s interesting, there\'s a lot of the, I\'d say, interfaces and interconnections and customer feedback that Jim is using to make the -- we\'re on a steep learning curve right now with the customers, and that\'s what\'s sort of moving things a little bit to the right. But the good news is we do have customers and they do -- they are engaged and think this is really central to the success of their business.
+James Patrick McIlree - Dominick and Dominick Securities Inc., Research Division
+And John, you kind of rushed through where the product was being showcased, could you just recapitulate that?
+John A. Moore
+Yes, but Jim, would you mind telling a little bit of -- to the -- to our investors about the conference that we are at?
+James K. Andersen
+Yes, absolutely. This is Society of Exploration Geophysicists. This is the premier seismic show for oil and gas industry in the world, on the order of 12,000 to 15,000 attendees. And what John was alluding to is one of our clients we supply our fiber optic technology to as an OEM product, so for that client, we\'re in the background. We supply to them, and they sell it and market it around the world. And they were showcasing it in their booth at the SEG show. And that\'s the one John were talking about where the interest level in -- the surprising thing the CEO was telling us was that most -- 70% of the people coming in his booth were interested in the fiber optic product versus all the other tools he\'s been selling for decades.
+James Patrick McIlree - Dominick and Dominick Securities Inc., Research Division
+Okay. And is that client one of the customers that\'s going to have a deployment next year? And is...
+John A. Moore
+That customer was -- they\'re visiting our facility this afternoon. And we\'re going to go out and do a test in Texas with them in the next couple of weeks. And they\'re planning to roll out the systems. They have customers lined up, ready to be acquiring systems from them starting the end of this year and into next year.
+James Patrick McIlree - Dominick and Dominick Securities Inc., Research Division
+
+Okay. And just one for Lindon. How much of the potential deployments that you\'re looking at in the U.S. require Smart Grid money from the federal government, or stimulus money that\'s associated with Smart Grid money from the federal government?
+Lindon Shiao
+Actually, of the 40 pilots, the over 40 pilots that we mentioned, none are dependent on subsidies from the government. The -- all of these projects stand on their own merit. And they\'re going to be funded by the utility themselves, based on the benefits that we\'re providing to the operators.
+Operator
+[Operator Instructions] The next question comes from Rudy Hokanson of Barrington Research.
+Rudolf A. Hokanson - Barrington Research Associates, Inc., Research Division
+I have a couple of questions. One has to do with DSIT. And you announced a few weeks ago about another major project, but I don\'t believe a dollar number was referred to as in the amount, the $12.3 million from the contract that was awarded at the end of 2011 that\'s going out to mid-2013. And I was just wondering if you could give some clarity as to the size of that more recent contract, unless I missed something.
+John A. Moore
+Benny?
+Benny Sela
+John?
+John A. Moore
+Yes, Benny.
+Benny Sela
+We had a number of press releases last few weeks. I think one of them was a single system where the value is -- was on the order of $1 million. And the good thing about it is not so much the large value, but this customer is buying for the first time this system. And if he\'s happy with that, there\'s a potential for many more for this customer. We are somewhat limited that many of our customers do not allow us to reveal their specific name.
+Rudolf A. Hokanson - Barrington Research Associates, Inc., Research Division
+Okay. And then the second question I have has to do with OmniMetrix. And that is that as there\'s been the increased interest in the monitoring systems, I was just wondering, what about the availability of product to provide to customers? Would the -- how long will it take to ramp up to what you\'re expected demand is? Or could you end up having this going to a backlog? What\'s the expected flow right now on any increased demand going into 2013?
+John A. Moore
+So Deena, would you mind answering that question?
+Deena Redding
+Yes, sorry. Yes, we are well positioned to meet production demands. We have recently launched a third-party manufacturing project and have -- or receiving currently a large amount of inventory to put here. And it will be 4G inventory. So we\'ve positioned the technology change from 2G to 4G very well, and should not have any problems with supplying the increased demand.
+Rudolf A. Hokanson - Barrington Research Associates, Inc., Research Division
+Okay. What\'s the cycle time in terms of when you get an indication of interest and when you probably install the connection?
+Deena Redding
+And that\'s what we\'re currently learning. It varies from customer to customer. Obviously, the national accounts have a slower sales cycle. What we\'re learning with the dealer approach that we have, which we currently have a sales effort to sell directly to the service dealers that actually service the generators, we\'re trying to partner with them currently to be that arm extension to us to the -- into the field for their maintenance contracts. The sales cycle is looking to be anywhere from 3 to 6 months from our initial approach. I think with budget constraints and people having to get these products into their budget, we\'re seeing that\'s about what we\'re averaging currently as 3 to 6 months of sales cycle.
+Rudolf A. Hokanson - Barrington Research Associates, Inc., Research Division
+Do you think -- and I just wanted to have a clarification on an answer you gave earlier. Do you have an upfront 1-year commitment that\'s made by the customer in terms of payment that you receive? And is that then recognized on the books, or is it amortized over that year? I mean, how does that work as you get your monthly payments?
+
+Deena Redding
+Yes, we are collecting a year in advance, and we\'re recognizing that as the year rolls out. So in other words, for the first month, we\'re only recognizing 1/12 of what we collect. And yes, we are having deferred revenue from our cash flow.
+John A. Moore
+And Rudy, and just one thing I\'d like to really compliment Deena on, is she\'s really built up this sales force with some outstanding people. And she just hired the former head of national accounts from Generac. So you don\'t attract great employees like that unless there is a truly great opportunity and -- that has a history of success of selling to AT&T and Verizon and the biggest telecom companies. So we\'re very excited about this gentleman joining us.
+Operator
+The next question comes from Charlie Sloan of Mid-Continent Capital.
+Charles Melcher Sloan - Mid-Continent Capital, LLC
+Question for Deena, I\'m -- the 7 salespeople that you have now, are they fully up to speed? Are they -- how long does it take to train them? And in terms of connections, how many connections do you expect next year?
+Deena Redding
+As far as the sales team, we -- initially, our first additions were not industry-specific. So it did take them a little longer to learn the industry, as a whole, as well as the product. The recent additions to the sales team are experienced in the industry. And so we\'re seeing that, that training time is much smaller than hiring a non-industry person. So we\'re -- we expect by the end of the year that our entire 7 sales team will have -- will be completely experienced and will hit the ground running, with the ability to bring in some sales. As far as the number of connections that we\'re anticipating, I think probably the best way to answer that would be we\'re looking to double or triple our connections for 2013 at a minimum.
+Charles Melcher Sloan - Mid-Continent Capital, LLC
+And then, Lindon, on GridSense, you mentioned the 40 trials. What is the conversion rate that you\'ve seen in past trials to actual orders?
+Lindon Shiao
+I can give you some indication based on our...
+Charles Melcher Sloan - Mid-Continent Capital, LLC
+Say, last year, how many have order -- how many trials did you have last year and...
+Lindon Shiao
+Based on our -- based on 2011 experience, we had about 12 -- sorry, 14 trials that we were supporting during the year. This was converted into actual commercial rollout of varying sizes, and one opportunity was lost. So it\'s a fairly high conversion rate. And then the remaining pilots that we started in 2011, they are still active. We haven\'t gotten to the commercial rollout stage. And they\'re -- just became longer, which is not unexpected for this industry.
+Charles Melcher Sloan - Mid-Continent Capital, LLC
+But the average size of even beginning contracts is pretty large relative to the size of Acorn, is it not, John?
+John A. Moore
+That is correct. Lindon is elephant hunting. So we -- these opportunities are so large. And that\'s one of the things that appeals to me about GridSense is it represents lots of little bets that could turn into big wins. So the option value of the sales activity is terrific. And sort of looking back on 2010, we had one major pilot program. And that was this major southeastern utility that turned into an order, and we\'ve continued to build momentum. I\'m even surprised by the number of pilots that Lindon has going on right now. So it\'s very promising.
+Charles Melcher Sloan - Mid-Continent Capital, LLC
+Yes. And then finally, John, the question of -- in the press release, you have a lot of verbiage and discussion around the digitization of energy monitoring and how much are you willing to invest and accelerate in the investment, and how good do you feel about the future. How much more investment do you see in the next year with regard to your cash balance? Because I know that one of the hallmarks of the company has been, even though your a small company, you have a lot of cash, right? And so you can pay a dividend, and you can do these unique things that a lot of companies can\'t. And how low are you going to be willing to go from a risk preference side in drawing down your cash to make these investments before seeking, perhaps, other investors? I don\'t know.
+
+John A. Moore
+Well, our thinking is that we\'ve -- I think that\'s definitely -- first of all, Charlie, the fact that anybody ever accused me of having verbiage is surprising, okay? I do tend to give a verbiage, and I apologize. But we\'re super excited about these businesses. In general, we\'ve invested about $20 million in each one of the business that we\'ve backed. And I think we -- we think that there\'s some major inflection points ahead of us in the near future, and we\'re not going to do anything until there are some major inflection points. And obviously, being -- having about 2/3 of my net worth invested in Acorn, I\'m super sensitive about the valuation of the company and making certain that we retain a healthy cash balance. So we\'re not buying any new companies. We\'re completely focused on developing what we have. And I think, overall, what you\'re going to see is a company here -- we went from selling CoaLogix to investing very aggressively in these new products. And we\'re starting to invest very aggressively on the commercialization of these products. I think what you\'re going to see is a very healthy 2013 of taking volume in. So I think that\'s maybe the best answer I can give you, is that we\'ve got 18 months of cash, and we\'re very happy where we are right now.
+Charles Melcher Sloan - Mid-Continent Capital, LLC
+Okay. And you get calls from distribution partners and others distribution, perhaps investors, bigger companies that may want to partner with certain of your subsidiaries?
+John A. Moore
+We\'re always open to that. We think that one of the talents that, in particular, Lindon and Jim have are this ability to be able to attract these marquee customers. And we\'re all about speed of -- speed into the marketplace and optimizing the total shareholder value. So I\'d say stay tuned for some interesting marquee customer and channel partner relationships from Lindon in particular. And who knows what that future -- the world can change very quickly, as we all learned with CoaLogix. And opportunities pop up when you never expect them.
+Operator
+The next question comes from Les [ph] Schultze [ph] of Schultze [ph] Capital Management.
+Unknown Analyst
+On the USSI, a couple of questions. What at the beginning of \'13 is going to be the ramp on the manufacturing potential? And what does it look like the pricing is going to be versus the standard of the art now? Has there been much change since we\'ve been talking about it for the last year, 1.5 years?
+John A. Moore
+Jim Andersen, would you mind handling that question?
+James K. Andersen
+Sure. So how\'s the pricing, first. The -- we have 2 different versions of our product. One is a very low-cost system design for a low-temperature, low-pressure, shallow well, which the majority of the micro-seismic activity seems to be. And then we have another product that\'s geared toward the high-temperature, high-pressure wells, which right now, there is no solution for. So the pricing on the low-temperature one is going to be on the order of maybe $500,000 to $1 million for a typical system for a micro-seismic monitoring. And the price point for a similar kind of system that\'s designed for high temperature would be on the order of $2 million to $3 million for a similar system.
+Unknown Analyst
+And Jim, would you be willing to give me a comparison of what the legacy systems cost versus that?
+James K. Andersen
+Yes. Our legacy system for high-temperature monitoring costs about $7 million to $8 million. But it has a lot of limitations in it. It can\'t be installed for more than a period of about 2 to 3 hours at the temperatures that they are -- need to measure at, because they insulate the electronics to try to keep them cool but the insulation gives up after a period of 2 to 3 hours after removing it from the well. So the difference being, even though ours is ready to wire temperature, it could be left in there permanently for the entire length of, say, a frac job or a monitoring job.
+
+Unknown Analyst
+And what about the one for the low temperature, what would the percentage be versus the legacy?
+James K. Andersen
+We\'re on the order of about 1/5 the price point of the legacy.
+Unknown Analyst
+Okay. And are you still talking about a clarity of someplace between 200x and 300x.
+James K. Andersen
+Are you talking about the performance?
+Unknown Analyst
+Yes.
+James K. Andersen
+Absolutely. We have sensitivity-wise and noise floor-wise, many, many -- 100x-plus better performance than conventional technology. One of the things I sort of pointed out is that the conventional technology just does not have significant sensitivity in the higher-frequency ranges that are needed for micro-seismic monitoring. So we are -- and when it starts going to higher frequency, we\'re likely 1,000x better performance in the higher-frequency domain, which seems to be where a lot of the interest is coming to us for a micro-seismic monitor.
+Unknown Analyst
+Okay. So setting it up, then, for 50% less cost, you\'d get hundreds of times better quality.
+James K. Andersen
+Yes, absolutely.
+Unknown Analyst
+And then what kind of ramp are you going to have as far as manufacturing capacity starting in, say, \'13?
+James K. Andersen
+We\'re setting up the capacity with a capital equipment to handle what we think is possible -- reasonable size orders but we\'re -- and we\'re setting up the capacity to handle up to $50 million of revenue next year. We\'re expecting the orders to be coming in through first and second quarter next year as they take the deliveries of these initial systems and put them in the field and gather data. We envision the performance of the full-scale systems will be just as big a difference as compared when they tested the demo system and as a result of that testing of these first full-scale systems, push the multiple orders in Q1 and Q2.
+Unknown Analyst
+Right. And where you\'ve got the first of set-up, I mean, you\'re fairly scalable, so that if you did get some larger orders, you\'d be able to ramp that up?
+James K. Andersen
+Absolutely. And that\'s where a lot of investments that Acorn provided to reach 2012 was to set up the manufacturing to be able to handle large orders in the out years.
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to John Moore for any closing remarks.
+John A. Moore
+Great. I think we\'ve said a lot, and we\'re really grateful for the faith and patience of our investors. And thank you, all, for listening in on our third quarter conference call.
+Operator
+The conference has now concluded. Thank you for attending today\'s presentation. You may now disconnect.

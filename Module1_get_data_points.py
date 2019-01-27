@@ -24,16 +24,20 @@ def get_bsObj(url):
     return bsObj
 
 def get_date_published(bsObj):
-    # Get date puslished
-    '''Returns a string like: 2019-01-09 21:09:07 -0500'''
-    date_time_stamp = bsObj.article.header.time['datetime']
-    # Utilize Regex To Obtain Only the Date
-    format_target = '2019-01-09'
-    regex = re.compile('[0-9]+-[0-9]+-[0-9]+')
+    
     try:
-        search = re.search(regex, date_time_stamp)
-        result = search.group()
-        return result
+        # Get date puslished
+        '''Returns a string like: 2019-01-09 21:09:07 -0500'''
+        date_time_stamp = bsObj.article.header.time['datetime']
+        # Utilize Regex To Obtain Only the Date
+        format_target = '2019-01-09'
+        regex = re.compile('[0-9]+-[0-9]+-[0-9]+')
+        try:
+            search = re.search(regex, date_time_stamp)
+            result = search.group()
+            return result
+        except AttributeError:
+            return None
     except AttributeError:
         return None
 

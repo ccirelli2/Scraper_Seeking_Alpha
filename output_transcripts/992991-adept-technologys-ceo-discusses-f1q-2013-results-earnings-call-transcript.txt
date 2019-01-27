@@ -1,0 +1,94 @@
+Adept Technology, Inc. (ADEP) F1Q13 Earnings Call November  8, 2012  5:00 PM ET
+Executives
+John Dulchinos – President and Chief Executive Officer
+Cathy Denham – Controller
+Analysts
+Mark Tobin – Roth Capital Partners
+Operator
+Good afternoon ladies and gentlemen, thank you for standing by. Welcome to the Adept Technology First Quarter Fiscal 2013 Conference Call. During today’s presentation, all parties will be in a listen-only mode. Following the presentation, the conference will be open for questions. (Operator Instructions) This conference is being recorded today, November 8, 2012.
+I would now like to turn the conference over to John Dulchinos, the CEO. Please go ahead.
+John Dulchinos
+Thank you and good afternoon everybody. Thank you for joining us. Joining me today is Cathy Denham, our Controller and Mike Schradle, our recently appointed CFO. I would now turn the call over to Cathy to begin the call with us. Cathy?
+Cathy Denham
+Thank you, John. As we begin today’s call, let me remind you that during the course of this conference call, we may make certain remarks regarding Adept’s expectations as to the future events and future financial and operational performance, plans and prospects of the company, all of which are based on the company’s position as of today, November 8, 2012.
+Any such forward-looking statements involve a number of risks and uncertainties and the company’s actual results could differ materially from those expressed in any of these forward-looking statements for a variety of reasons. These risks are described in our press release and in our Annual Report on Form 10-K for the fiscal year ended June 30, 2011 as well as the risks described in the company’s other SEC filings.
+No one should assume that any forward-looking statements made by the company remain consistent with our expectations after the date forward-looking statements are made.
+Certain financial information that we review on today’s conference call is presented on a non-GAAP basis. The most directly comparable GAAP information and reconciliation between the non-GAAP and GAAP figures is provided in our fiscal first quarter 2013 press release which has been furnished to the SEC on Form 8-K and it is available on our website.
+The press release and all financial statistical and operational information referred to in this conference call, including the GAAP reconciliation and explanations discussed above is available on the Investor Relations section of our website. Following our comments, we will open the call to take your questions.
+I’m now going to turn the call back to John.
+John Dulchinos
+Thank you, Cathy. First quarter of our fiscal year 2013 reflected a mark downturn in our customer’s capital spending driven by what we believe to be an increase concerns on the global economy.
+On our last quarter’s conference call, we told you that during the final month of the quarter, we were seeing increasingly cautious order patterns from customer, particularly in Europe and Asia. And unfortunately this trend continues throughout the quarter. The result was a sequential and annual revenue decline that evaporates the normal seasonality we see in our first quarter. The impacts of the weak economic climate, was heightened with election year uncertainty driven driving lengthier demand by vote and order patterns.
+On the one-hand, the across-the-board weakness is obviously disappointing. Particularly at this juncture when you’re relying on our core businesses for the investment we are making in our new initiatives. On the other hand, it does provide evidence that the weak environment is not specific to Adept and doesn’t reveal any inherent weakness in the fundamentals of our business.
+Customers remain highly interested in our products, however, uncertainty has translated into our customers programs being scaled back or delayed. Although we do not believe this changed the long-term opportunities for the business, it does represent near-term downward pressure that we’re taking steps to address.
+
+First, the company recently raised $8 million in capital to a private placement Hale Capital Partners substantially improving our cash position. However, given the rapid decline in our recent revenues, we are initiating a comprehensive cost reduction plan. In the near-term, our priority will be on minimizing the impacts on our balance sheet and we are evaluating our strategy initiatives based on achieving this objective.
+As a result, we are taking aggressive actions to lower our operating costs. We’re in the process of formulating our plans which will substantially reduce operating costs while continuing to focus on our customers.
+Also, I want to welcome Michael Schradle to our operating team as Chief Financial Officer. Michael brings over 20 years of senior level of global financial management experience, nearly half of which was with public companies, guiding organizations with a clear focus on discipline and cash financial management and positioning for growth.
+While these are challenging times for Adept, we feel comfortable that we’re taking the right steps to ensure we emerge from the capital spending trough and it preserved our balance sheet and maintain our competitiveness in our market. While spending cost may slow down the level of near-term investment we can make, we believe these are prudent assets to take that will position the company to maximize our long-term success.
+Now for some comments on the quarter. In our MobileRobots business, we continue to work with global foundries, our leading semiconductor foundry customer to develop our wafer cassette handling application. As you know, we’ve been working with them to adapt our unique natural feature navigation technology to automate and optimize the movement of wafer cassettes within their path.
+We’re currently gearing up to validate the next phase of this program with the installation of the first robot that automatically load and unload their wafer cassette process tools. This will be a large milestone for us to achieve and should pave the way for the applications to begin application in the subsequent quarters.
+We were also preparing for the market launch of our first ground up Adept Design MobileRobots platform in what we call MTX, waited for release in January of 2013. This product will be a revolutionary step forwarding functionality, price and performance and be the foundation of all of our MobileRobots applications in the future.
+The customers that have had the opportunity to preview this platform are extremely impressed with its capability and its unique human interface and our OEM partners are EU to begin selling it.
+In our packing solutions business, we continue to generate strong interest for our unique technology and solutions. However the selling cycle has proven to be longer than anticipated and follow-on orders beyond earth down sponge have been slowed to materialize in part due to economic conditions but also because we are introducing a new level of solutions, a disruptive one, to a market that is historically in their decision making.
+We had guarded a significant of publicities around New York on foreign installation that continues to work with them to define additional capabilities and programs for the future which should enhance capabilities in the fresh cut in apples food market. This kind of PR with an industry leading customer and well respected customer is in important in getting visibility to other large potential customers in the sunset market and getting new customers confident that our solutions provide significant value.
+You may recall that last quarter, we re-architected our packaging automation self and we’ve branded the SS to we acquired from a low check to Adept back in soft to better reflect their solutions we’re providing from our customer’s perspective.
+
+Effective to launch, this rebranded product line with our Pack components at Pack Expo last week, the largest – kind of the largest packaging show held in Chicago, and the products and solutions were very well received and reinforcing the value customs you see in the (indiscernible) service in the national fruit market. This emerging market maybe a large opportunity for Adept.
+Finally, in our core markets, we experienced both geographic softness linked to the global economy and industry softness in the technology and solar sectors. Sales for just arrived customers in Asia were impacted in the fiscal first quarter to answer the difficult downturn following approximately two quarter’s moderate capital investment. Given the unpredictability of this segment, we don’t probably expect any near-term change in this business.
+In our traditional packaging market, during the fiscal 2013 first quarter, we experienced a lengthening in sales cycle Europe as business became more cautious due to the weak economic environment. And U.S. sales also affected by delays and the timing of orders. Europe in general is weak in the first fiscal quarter due to economic uncertainty and our sales decreased across our traditional market including automotive appliance consumer goods in solar.
+These unsafe favorable trends driven largely by economic and technical patterns are unlikely to resolve in the near-term and we therefore expect that our sales will continue to be under pressure until our markets regain the confident needs for capital investments.
+In sum, we’re disappointed with the results in the quarter which reflects a substantially weakened capital spending environment. We believe we’re taking the appropriate steps including the $8 million investment by Hill Capitol, the decisive cost cutting activity and the addition of Mike Schradle, our CFO, to enable Adept to successfully manage through these uncertain times.
+Our premise remains a robotics market moving from general purpose industrial arms with applications of the solutions in vertical markets where automation has been largely non-existence or is mainly inflexible. While the weak economic climate is purely timed given our investment and growth objectives in the new initiatives, it does not change our long-term vision and the opportunities for the company.
+I’ll now turn the call over to Cathy for reviewing the financials. Cathy?
+Cathy Denham
+Thank you, John. Revenues for Adept’s fiscal 2013 fiscal quarter were $11.4 million compared to $16.6 million in the same quarter of last year and $17 million from the previous quarter-end. The decrease in revenues was right across our core market in multiple geographies with particular weakness seen in Asia and Europe.
+By business segment, robotics revenue which represents sales of our intelligent robotic systems and vision guidance technology and motion control software was $8.9 million for the quarter compared to $13.4 million in the same quarter last year and $14.1 million in the previous quarter.
+Looking now at our services and support business, revenues in the first quarter of 2013 were $2.5 million compared to $3.2 million in the first quarter of 2012 and $2.9 million in the prior quarter. Looking at revenue by region, European sales of 47% of our total revenues in the first quarter of 2013 U.S. was 33%, Asia was 17% and 3% for all other.
+Turning now to gross margin, for the fiscal 2013 first quarter reported gross margin was 41.4% of revenue compared with a 43.8% in the first quarter of fiscal 2012 and 41.5% in the previous quarter.
+Turning to operating expenses, OpEx for the quarter was $7.4 million compared to $7.7 million in the first quarter of 2012 and $7.6 million last quarter. The sequential decrease in the expenses is directly related to the consolidation of InMoTx into our California headquarters.
+
+We recorded an operating loss of $2.7 million in the first fiscal quarter of 2013 compared with operating loss of $435,000 in the first quarter of 2012 and $531,000 in the previous quarter. GAAP net loss for the quarter was $3.1 million or $0.29 per diluted share compared to a net loss to $619,000 or $0.07 per share for the first quarter of 2012 and a net loss of $358,000 or $0.04 per share in the previous quarter.
+Adjusted EBITDA which excludes interest, depreciation, amortization, taxes, merger and acquisition expense, restructuring and stock expense was a loss of $2.4 million in the first quarter compared with an adjusted EBITDA of $418,000 in the first quarter of 2012 and an adjusted EBITDA loss of $341,000 in the previous quarter.
+Turning now to the balance sheet, the debt ended the quarter with cash and cash equivalents of $12.8 million up from $8.7 million at the end of June. The increase cash is due to $7.6 million and perceives from the company’s private placement completed in September 2012, offset by $1.4 million pay down of the company’s line of credit and $2.4 million used in operating activities.
+Accounts receivables were $10 million at the end of the quarter down from $11.9 million at the end of June. Accounts payable were $5.6 million which compares with $6.2 million at the end of the quarter. The inventory levels net reserves were $8.8 million at the end of the quarter compared to $8 million at the end of June.
+With that, I now turn the call over to the operator for questions. Operator?
+Question-and-Answer session
+Operator
+Thank you. We will now begin the question-and-answer session. (Operator Instructions) And our first question is from the line of Mark Tobin with Roth Capital Partners. Please go ahead.
+Mark Tobin – Roth Capital Partners
+Hi, thanks for taking my questions.
+John Dulchinos
+Hey Mark, how are you?
+Mark Tobin – Roth Capital Partners
+Good. First, I guess on the revenue side, can you give us a sense of the core business contribution versus the new initiatives that you have?
+John Dulchinos
+Yeah, the majority of the slowdown was of course in our core business primarily in our international markets but I think the – I don’t have the exact number but I would estimate that the new businesses were about 10% of total revenues somewhere around there.
+Mark Tobin – Roth Capital Partners
+Okay. And you said a few times on the call and based on the cost reduction initiatives that it sounds like the softness in the core businesses is going to linger at least visibility is pretty limited. Can you give us I guess some feeling for how this current environment compares to other cycles you’ve seen in the past?
+John Dulchinos
+I’ll do my best to do that. One thing, I think we have to try at this turn is that first half of fiscal years which September and December quarters tend to be the little point in our business just to normal customer seasonality. And certainly there is some portion of that that have played but we start to see the slow down beginning in June and just as we got through the latter part of September quarters clear that the customers were not going to be returning to their previous buying levels.
+We’d have great visibility in our core business, we believe that if I just look a historical data that the second quarter will not be substantially different than the first quarter and then beyond that we don’t really have a sense for what the outlook is beyond that.
+Mark Tobin – Roth Capital Partners
+Okay. And from a cost reduction stand point, is there a dollar figure you’re targeting or can you give us some more color on what the objectives are with that plan?
+John Dulchinos
+Sure. We are in the midst of finalizing the key aspect of the plan. I can’t give you a number but I guess what I can tell you is our objective is to get our cost based more closely aligned to the near term revenue outlook and so it will be enough to make sure that we’re comprehending the downturn in the business.
+
+Mark Tobin – Roth Capital Partners
+Okay, and will the investments I guess on the product development side in the sales and marketing side for the new businesses be impacted by that?
+John Dulchinos
+One thing that I think fairly important and one of the reasons that I’ve brought Mike on board who has a long history of managing with companies in small cap environments is that, it’s important for us to make sure we get our near term financial house in order, and we will do our best to manage all of our initiatives to continue to keep them available to achieve their objectives but my primary concern right now is to make sure we are financially proven with our shareholders money.
+Mark Tobin – Roth Capital Partners
+Okay, that’s helpful. I’ll jump back in the queue, thank you.
+John Dulchinos
+Yeah.
+Operator
+And at this time there are no further questions in queue.
+John Dulchinos
+Okay, any other questions?
+Operator
+There are no further questions in queue at this time.
+John Dulchinos
+Okay. Well, I’d like to thank you for joining the call, and we look forward to update you on our progress on the next call. Thank you.
+Operator
+Thank you, ladies and gentlemen that does conclude our conference for today. If you like to listen to a replay of today’s conference, please dial 303-590-3030 or 1800-406-7325, and entering the access code of 457-2765. We thank you for your participation and you may now disconnect.

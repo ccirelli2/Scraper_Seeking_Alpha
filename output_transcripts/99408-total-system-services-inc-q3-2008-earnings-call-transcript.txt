@@ -1,0 +1,256 @@
+Total System Services, Inc. (NYSE:TSS) Q3 2008 Earnings Call October 10, 2008  8:00 AM ET
+Executives
+
+Shawn Roberts – Investor Relations
+Philip W. Tomlinson – Chairman and Chief Executive Officer
+James B. Lipham – Chief Financial Officer and Senior Executive Vice President
+Analysts
+Bryan Keane – Credit Suisse
+Adam Frisch – UBS
+[Paul Fardali – PV Investment Research]
+Robert Dodd – Morgan, Keegan & Company, Inc.
+Nick Fiskens – Stephens, Inc.
+Timothy Willi – Avondale Partners, LLC.
+[Garv Vora] – Raymond James
+
+Operator
+
+Welcome to the TSYS third quarter 2008 conference call.  (Operator Instructions)  It is now my pleasure to turn the floor over to your host Shawn Roberts of Investor Relations.
+Shawn Roberts
+
+Before we get started we want to call your attention to the fact that we will be making some forward-looking statements about the future operating results of TSYS.  These forward-looking statements involve risks and uncertainties.  Factors that could cause TSYS’ actual results to differ materially from the forward-looking statements are set forth in the TSYS’ reports filed with the SEC.
+At this time I’d like to turn the floor over to Phil Tomlinson, Chairman and CEO of TSYS.
+Philip W. Tomlinson 
+I want to thank you for joining us this morning, it’s really three weeks earlier than we’d normally be coming together to discuss our third quarter results.  There are several reasons for the earlier timing.  First, is let me say that we reported good financial results for the quarter, results that reflect a solid revenue growth and we signed some great new business, all against a pretty difficult economic wind.
+We wanted to get these results to you and to the market as quickly as possible and provide as much transparency as we possibly could.  We also wanted you to hear sooner rather than later our perspective on the issues going on in our world especially those involving our clients.  As you know, two of our very good clients, Washington Mutual and Wachovia have been involved in acquisitions from two of, I was going to say, maybe three but I understand that’s resolved, of our other customers.
+Washington Mutual and Wachovia combined account for approximately 4.5% of our revenues year-to-date.  On WaMu we have a strong relationship and we continue to have a strong relationship with Chase and we continue to process their commercial card and some private label work for them.  Frankly, we’re not sure what will happen with the WaMu processing but I’m here today to tell you that Chase has not given us any direction yet about the long term processing plans for that portfolio.
+Chances are at some point in the future Chase will consider consolidating the WaMu portfolio in to its own in house portfolio, which as you’ll recall, is the only licensed site of our TS2 software.  As you’ll recall again, Chase elected to take the option license and transition in house in July of 07.  At this point in time we don’t know when a conversion might occur or if it will ever occur.  Obviously, we’ll disclose that when we become aware of a definite plan.
+The other client affected by the latest acquisition activity is Wachovia and until last night, we really didn’t know who owned Wachovia, much less their card portfolio.  However, we do have a processing relationship again, with Wells and we believe that our relationship is in good shape with that bank.  With both WaMu and Wachovia we have processing agreements that extend into the future and I think you could call them long term and both include appropriate fees for early termination.
+Should either decide to leave TSYS, based on our experience, we really believe that from today or from the end of the year our best estimate, it would take somewhere between nine and 18 months at a minimum to do a conversion or deconversion.  The WaMu and Wachovia bank acquisitions are large and complex and they’ll provide more than their share of hard issues as the new owners work to integrate not only the branch and the product offering but also the technology issues that are sure to come.
+
+We see it as a long term opportunity for us to sell our capabilities.  We know that we can deliver quality service, we’ve got a good reputation with both acquiring banks.  We know we can give them better speed to market, great technology and maybe in today’s environment what might be more important than ever is we can give them lower cost in addition to containing and guaranteeing cost in to the foreseeable future.
+Whoever the long term winners are in our industry turn out to be, we’ll continue to have state of the art effective cost saving solutions that help them with not only the card portfolios they might acquire but also their existing card portfolios.  Listen, don’t think I’m delusional, we have a big mountain to climb with these big issuers but we believe the world as we know it has changed and with that change there absolutely comes disruption and we’re seeing lots of disruption today.
+We like our chances, we like our chances because of our technology.  We like it because of our strong balance sheet.  We like it because we are becoming more and more international and we have great execution capability with outstanding people.  We’ll pull out all the stops to help our clients and prospects deal with change and disruption.  While there is uncertainty and risk in today’s world, there’s no doubt about that, we believe very strongly that it presents opportunities for someone like TSYS.
+Banks that have never considered TSYS in the past will in many cases have to look harder at our proposition.  We strong disagree with [inaudible] who see insourcing as a trend.  We do not agree with that whatsoever.  Issuers and acquirers will no doubt have to deal with the new market realities, is what we’re calling it today as we move forward.  
+Frankly, what we see in the in house card processing market to date is software that was built in the late 70s early 80s.  It’s aging, it’s patched up software, it’s needlessly complex with a very difficult surround infrastructure.  It’s expensive, it’s time consuming, it’s a drain on resources, it’s slow to market, it’s risky to change and it’s hard to operate.  We know, and I think the world knows that our systems are less risky, less expensive, better technology, they’re flexible and they provide much more capability. 
+A good example of systems pressure is the new card rule coming down from the Fed in January.  We’ve talked to some issuers that say that they’ll have to use every technical resource available to them for the entire year of 2009 to comply with the new Fed rules on credit cards.  We don’t have that problem.  We think it’s a great strength.
+We talk about we’ve had a lot of conversations over the past about people rebuilding software or starting from scratch.  I wanted to reiterate what I’ve said a couple of times over the last few years that a large issuer or competitor we believe would have to commit over $1 billion and probably three to five years and with that you and I both know the chances of success for a project of this size are I would say much less than 50%.
+On this subject time is TSYS’ friend and I would be surprised to see anybody take the route to rebuild.  Remember, there’s been a lot of folks that have tried this and failed over the past 20 years or so.  Let me move on to acquisitions, we all know that creating the ability to make acquisitions using both our equity and debt was one of the key reasons that we spun out from Synovus in January.  We want to and still plan to make acquisitions using both equity and debt.
+We greatly improved our capability to evaluate targets and with that capability and with the advisory help that’s out there, we’ve looked at over 30 opportunities year-to-date both large and small.  Unfortunately, for a lot of different reasons, some beyond our control, we haven’t completed an acquisition since the spin.  I’ll assure you our lack of success is not due to a lack of hard work.
+
+As we look at acquisitions, especially in the current credit market, I wanted to assure you that we’ll be prudent, we won’t do anything to hurt our credit ratings or overburden our solid balance sheet without very, very strong rewards.  Also, we won’t issue shares for an acquisition when we believe the price of our shares are totally undervalued, like today.  We believe they’re really undervalued today.
+I want to reiterate our three main areas of interest for acquisition, and we’ve talked about this before.  First, we want to acquire technologies and businesses that acquire and process transactions at the point of sale, the acquiring business.  Today we process billions of POS transactions through TSYS acquiring solutions and we want to be a larger player in that space.
+With hard times comes opportunities and for the first time in several years we’re beginning to see opportunities out there that fit well strategically and the prices are becoming much more attractive.  The second area of interest is international.  We’ve stated that our plan calls for the company, TSYS, to have 30% plus of our revenue from outside of the US by the end of 2011.  We expect to complete international transactions that create shareholder value with appropriate risk/return balance.
+You’ll see us in all probability this quarter add a small deal in Japan which is the third largest card market in the world and we’ll continue to evaluate other opportunities and card markets.  Finally, we’ll keep pushing to look for a card processing opportunity that replace or products that replace or enhance our current products.  With these new products are a better technology, looking for them we feel like we’re making good progress.
+Products that help our clients win are fuel for future growth at TSYS.  We’ll put those in the chapter of value added products.  Let me be clear on this point, we are and we’re going to remain in the hunt for acquisitions and we will do the right deal when we get it identified assuming the credit markets will allow such a thing.  The charge to our team and my commitment to our board is that we’ll make smart, thoughtful acquisitions that fit in to our business model.  That’s what we’re looking for.
+Also, a topic that I know you’re curious about, as you know, we have a share repurchase program in place.  However, during the third quarter because of due diligence efforts on a large deal which was not successful, we were out of the market for the whole quarter.  Certainly, after today’s call it allows us to reenter the market.  Also, I wanted to tell you that we’re going to install as quickly as possible a Rule 10B51 plan which will allow us to continue to buy back shares during blackout periods.
+There’s no doubt it will provide us more flexibility by broadening the repurchase window that we have and will help us to more effectively execute our share repurchase strategy.  The bottom line on our buy back is we think it’s good for the shareholders and our plan is to be opportunistic.  With that, I’m going to turn it over to Jim Lipham who is our CFO who will give you a lot more details on the quarter.
+James B. Lipham 
+Before I begin my comments, I’d like to highlight some changes that I’m going to be making in this financial review.  Many investors and analysts have asked us to review our financial results more in line with how we manage our business so that communications from us are more useful to them.  So, we’re going to make some general comments and then focus on three segments: the North America services; global services; and merchant services.
+I’ll open briefly by highlighting the key three and year-to-date operating results and then conclude with some financial comments.  As Phil mentioned, we believe getting this information out to you as early as practical will assist in clearing up some of the uncertainties and clarify where we stand.  Due to this early time frame however, we do have some statistical information that we normally release each quarter, such as our account on file by type and our revenues break out by country, we don’t have at this point.
+
+As Phil said in the press release, we do anticipate a slow upcoming holiday shopping season and with that said, we’re still reaffirming our 2008 net income guidance of an increase of 5% to 7%.  When we look at the consolidated results for the third quarter, you see consolidated revenues before reimbursables were at $382.2 million, up 6.6% over last year and that’s 2.8% up sequentially from the second quarter.
+Total revenues for the quarter were $500 million, up 9.4% over last year.  During the quarter these revenues were impacted unfavorably by about $4.7 million due to foreign currency translation.  Our total accounts on file at the end of the quarter were 355.4 million and that’s a decrease of .5% from last year compared to [357] million.  Our same client transactions volumes, same client for the third quarter were 1.9 billion an increase of 3.6% compared to the 1.84 billion for the same period last year.
+The total cardholder transaction volumes for the quarter were 1.97 billion, a slight increase sequentially compared to 1.95 last quarter.  Our headcount at the end of September was 7,772 full-time employees a 15% increase over where we were last year at 6,774.  As we stated before, this increase is mainly contributable to our expansion in Europe and our call center business and the new clients that we added.  
+Operating income at $95.9 million, that’s an increase of 5.1% over last year and a decrease of 1.8% sequentially.  Our effective tax rate for the quarter was 35.06%.  We expect it to remain in the 35% to 36% range for the remainder of the year.  As you notice, taxes last year were much lower in the quarter primarily as a result of  us favorably settling some state income tax audits last year.  
+Net income was $64.1 million, a decrease of 6.9% compared to last year but a sequential increase of 1.6%.  This decrease is mainly due to our net interest expense position that was created in the spin and was in the range of what we had anticipated for this quarter.  Earnings per share on a GAAP basis was $0.33 per share versus first call’s estimate of $0.32 per share.  
+As we’re experiencing a decrease of levels of spend expenses each quarter as we go through.  Mainly what’s left is some stock option expense, most of the one-time transition costs are now completed so the difference between earnings per share and pro forma earnings per share will be minimal as we go forward.
+Getting in to the segment highlights now looking at the North America services segment, as you know this segment includes the deconversions of several large clients from last year and that kind of put some unfavorable impacts on our quarter-to-quarter and year-to-year comparisons.  But, as we have anniversaried these deconversions this quarter, we expect an improve in the fourth quarter of 08 and in to 09.  
+Looking at total revenues they were at $345.9 million up 6.8% over last year and 2.9% sequentially.  Electronic payment processing services revenues were $190.7 million, a decrease of 1.2% compared to $193 million last year.  The other services revenues were up, they were at $50.1 million and that’s an increase of 10.6% compared to $45.3 million last year.  We saw strong growth in our loyalty business as well as our domestic call center and debt collection business this quarter compared to last year.
+Reimbursable items, they increase 23.7% to $100.7 million from $81.4 million last year as this is all result of increased court costs and attorney commissions as we discussed before.  Total accounts on file for this segment was at 322.6 million, a decrease of 3.5% compared to 334.1 million a year ago.  Cardholder transactions volumes for the third quarter were 1.69 billion, a slight increase sequentially over the second quarter.  
+
+The same client transaction volumes for the third quarter, this being the same clients year-over-year taking out the effect of the deconverted clients was 1.69 billion an increase of 3.8% compared to 1.63 billion last year at this time.  Year-over-year operating expenses before reimbursable items were flat.  Sequentially, operating expenses before reimbursables were up $8.3 million or 4.8% and this is mainly the result of expenses incurred in mergers and acquisitions work, some at risk performance incentives and annual merit pay raises effective on July 1, 2008.
+Our headcount at the end of September for this segment was 5,375 full-time employees, a 5% increase over last year.  The increase mainly relates to our domestic call center business as it does consolidated on the global services front.  Operating income was $63.8 million down 7.7% sequentially or $5.3 million and up $1.4 million or 2.2% year-over-year.  Our operating margin was at 18.4% and when you exclude the reimbursable items as we have done in the past, operating margin was at 26% which is in line with our guidance where we plan to stay.
+Moving on to the global services segment, total revenues there at $88.1 million for the quarter.  They’re up 10.2% sequentially and up 31.9% over last year.  This segment growth is a result of increased business from existing clients as well as new business converted since last year.  The electronic payment processing services revenue was at $60 million, an increase of 24.8% compared to $48.1 million last year.
+These revenues were negatively impacted by approximately $3.9 million of foreign currency transaction adjustments.  Other services revenues were $19.1 million, an increase of 79.6% compared to the $10.6 million the same period last year.  These revenues predominately consist of our international call center business and have dramatically increased as a result of new processing business converted.
+These revenues were also negatively impacted by the foreign currency translation of approximately $1.1 million.  Our total accounts on file in the global segment ended the quarter at 32.9 million which is an increase of 43.2% compared to the 23.9 million a year ago.  Transaction volumes for the third quarter were 271.9 million an increase of 28.3% compared to the 212 million for the same period last year.  Sequentially transactions are up 2.8% compared to 264.4 million for the second quarter.  
+Our same client transaction volumes for the third quarter were 216.6 million, an increase of 2.5 million compared to 211.4 million for the same period last year.  Operating expenses, they were at $71.3 million and they are up 29.2% compared to last year and were up 4.7% sequentially over the second quarter.  As we have completed the conversions of the new client business this year, the increase in expense growth has stabilized and the rate of revenue growth has resulted in positive productivity.  
+Headcount in global services at the end of September is 1,617 full-time equivalent employees and that’s a 66% increase over last year.  The increase obviously relates to the increase business we converted that I previously mentioned.  [Inaudible] operating income, it was at $16.8 million up $5 million or 42.7% sequentially and 45.1% over last year as we continue to maintain strong growth in our international businesses.  
+Net impact of the foreign currency translation on this segment’s operating income was unfavorable by $1.5 million.  As we look at Q4 this year we expect to see some headwinds from a stronger dollar impacting our UK and European businesses.  However, on a local currency basis we expect our business to remain strong.  Operating margin, it was 19%, that’s an increase of 174 basis points over last year’s 17.3%.
+
+Operating margin excluding reimbursable items was at 19.7% which has improved sequentially from the 15.2% we saw in the second quarter and from the 11% that we saw in the first quarter.  If we take a look at merchant services you’ll see revenues before reimbursables of $58.4 million.  It was flat sequentially and down $1.1 million or 1.9% year-over-year.  Total revenues were $74.6 million down 2.1% compared to last year and flat sequentially.
+Our point-of-sale transactions continued to slow.  They were at 1.29 billion, that’s an increase of 2% compared to the 1.26 billion last year.  Sequentially the POS transactions are down about 2%.  Operating income was down 5.5% or $995,000 sequentially and year-over-year it was down 9.8% or $1.9 million.  Operating margin, we continued to maintain them at 22.9%.  When you exclude reimbursable items then the margin was at 29.3 and continues to reflect management’s ability to control these expenses in turbulent times.
+Now, some financial comments I want to make.  When you look at our balance sheet, as Phil said, it remains strong and relatively unlevered.  Many of our investors have asked me how we’re going to use the strength of the deployment of capital post our spin off from Synovus.  As Phil said, our corporate strategy to grow shareholder value includes the use of mergers and acquisitions and share repurchases through our 10B18 plan.  
+The use of our leverage while maintaining an investment grade credit rating should allow us to increase our leverage up to two to two and a half times our EBTIDA.  Generally, this would allow us to carry debt levels of $1.1 billion to $1.5 billion.  When we look at that deployed in support of our acquisition strategy, we’re comfortable with this level given our strong cash flow.  The additional leverage may also be available when a potential acquisitions business is profitable and stable.
+We’ll be able to determine our leverage capacity to include the target’s EBTIDA and determining our levels of debt we can carry.  Regarding the share repurchase Phil mentioned, we are also implementing a Rule 10B51 share repurchase plan to facilitate the repurchase of shares under our program.  This program allows us to execute share repurchases during periods in which we are not in the market because of self imposed blackout periods.  It will provide us more flexibility by broadening the window for share repurchases and will help us to more effectively execute our program.
+Because we were, as Phil mentioned, extremely involved in merger and acquisition talks in the third quarter, we were unable to deploy our stock repurchase program.  This new plan will help elevate this issue in the future.  The debt on our balance sheet includes $33 million pound denominate loan that matures in January 31 of 09.  From our $420 million financing facility we drew down $168 million last December related to our spin off.  We still have $252 million available.
+We also have a long term note due to a vendor and several smaller notes related to a consolidated subsidiary.  Financially we’re in great shape with $309 million of unrestricted cash and our operating cash flow year-to-date is at $283.6 million.  We have maintained our strict financial discipline in managing expenses while not stopping new initiatives.  As Phil noted earlier, our plan includes stepping up our share repurchasing and continuing to pursue attractive acquisitions that expand our share of the processing dollar and contribute to the growth of our business.
+With that Phil, I’ll turn it back over to you.
+Philip W. Tomlinson 
+We thought we would take a break here and open it up to any questions before we close it out.
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions)  Our first question comes from Bryan Keane – Credit Suisse.
+
+Bryan Keane – Credit Suisse
+Just on the total accounts on file, it looked like it dropped, I think if I heard you right total accounts on file now is 355 million.  It dropped about 18 million or so.  Can you just talk about what’s going on in that number?  Was that deconversions or is that just lower organic growth or churn in the portfolio?
+Philip W. Tomlinson 
+Mainly it’s some kind of purging going on in the portfolio.  It’s in the prepaid card areas mainly is what caused the decrease.
+James B. Lipham 
+These prepaid cards come and go pretty quick.  We’ve got a couple of plans that we have added millions and millions of cards and once that card is used up they don’t renew it.  So, you’ll see more volatility in that area particularly as we get larger with prepaid.  There’s been no deconversions, or if you recall I think last quarter we did have the Nordstrom’s gift card deconversion, they took that back in house.
+Bryan Keane – Credit Suisse
+Is there any idea or any way to know what the purging is going to look like going forward?  Or, how much clean up there might be to your accounts on file?
+James B. Lipham 
+I think most of the cleanup is pretty well done.  We’ve got two or three clients who still have some what I would call inactive accounts, a lot of inactive accounts that they’ve kept on file.  We do charge a fee for an inactive account.  But, I think most of our clients have looked at that pretty hard.  
+Bryan Keane – Credit Suisse
+Then just moving over to transaction volumes, I think it was 3.6% at least that was in North America, that’s down quite a bit.  Can you just talk about volumes, did it fall off as the quarter ended here?  And, I guess you’re assuming going forward in the guidance that that is going to get even lower?
+James B. Lipham 
+We don’t it on a day-to-day basis yet.  We probably will have some trends as time passes by.  I don’t know that we see if falling off a lot more than that.  We were pleasantly surprised that it held up as strong as it has.  Although, you know, we keep hearing all the grim predictions that you read about, about this holiday season but we’re feeling pretty good about where we’re headed in to the holiday season and that’s why we reaffirmed that guidance.
+Bryan Keane – Credit Suisse
+Just finally I guess for me, how much of the card business does Wells do in house?  And, how big is TSYS’ relationship with Wells today?
+Philip W. Tomlinson 
+We do all of their commercial card processing and the consumer portfolio is processed by a competitor which is the larger portfolio.
+Operator
+
+Our next question comes from Adam Frisch – UBS.
+Adam Frisch – UBS
+I wanted to look at the P&L for a second and the opportunity for further cost cutting.  I know you guys run pretty lean and just went through it after the deconversion and stuff but, what kind of – assuming your revenue environment becomes more and more challenging as we go through the next couple of quarters, if not years, what more opportunities do you have for cutting costs?
+Philip W. Tomlinson 
+We think we have a good group of people here who understand how to operate on a lean basis.  We’ve had some good build up particularly internationally.  I don’t think that we will cut cost – I don’t think that we’ll get in to cutting costs that would hurt growth because we do have a lot of really good things coming down the pipe that we can’t announce right now.  But, we do know that we have the stomach for cutting cost should that be required.  And, it very well may be.
+I mean, we’ve got plans in place and I’m not going to get in to the details of them today but we’ll do what we have to do.
+James B. Lipham 
+Adam, I think our guidance we have given on margin of 25% to 26% I think we can maintain that going forward.
+Adam Frisch – UBS
+That’s the key thing, right?
+
+James B. Lipham 
+Right.
+Adam Frisch – UBS
+So long as we know that and there is room even if revenue growth continues to decelerate.  On the pipeline, I can make a pretty fair case on both the bullish and the bearish side, the bullish being that banks are going to want to outsource more stuff to save cost.  But, the bearish side that they’re not going to do anything right now because they’ve got other challenges to meet.  Where is your pipeline headed right now?  And, do you see sales activity better, worse or the same as it’s been in the past?
+James B. Lipham 
+I think it’s better really.  As you saw in the press release we’ve had some people go ahead and sign, when you talk about Wal-Mart in Mexico and this home retail group in the UK.  Today we’ve got 7 million or 8 million accounts in the pipeline.  That’s business that’s signed.  We think we’re very close to signing some other business that you’ll certainly recognize the names as we roll them out but we’re just not there today.
+I will say that frankly you’re right, it is a little harder to get people to sign their name on the dotted line today.  But, as I said in my opening remarks, I believe we do have a new day and the term I use, new market realities, I think is a term you’re going to hear from us a lot.  The world has changed and there’s a lot of disruption out there and we do believe disruption is a good thing for TSYS.
+I go back to what I was talking about all these new rules that the Federal Reserve has enacted.  We haven’t seen that yet, we’ve seen drafts of it but we’ve talked to banks that say, “It’s going to take everything I can ramp up for the next year to get that done.  So, I won’t get anything else done.”  It’s pretty straightforward to us.  Don’t get me wrong, it’s a good project but it’s not a life and death issue here.  We can push it forward pretty easily.
+Adam, you’re right, you can argue the bear side or the bull side, we’re going to argue the bull side today.  We’re thinking that this environment, as bad as it is, long term will be good for TSYS.
+Adam Frisch – UBS
+Last two housekeeping issues maybe for you Jim.  What are you doing to address the fx headwinds both with the Euro – I don’t even know if there are going to be headwinds anymore, I mean it changes basically by the minute, but Canadian and Euro headwinds?  Then, on the debt side can you just talk about your borrowing costs, if they’ve changed at all materially in the last few weeks and whether you have any access to commercial paper?
+James B. Lipham 
+First of all on the borrowing side, we haven’t seen any changes in our debt other than we’ve had some LIBOR increases here, 10 to 30 day LIBOR rate.  I mentioned the Pound loan that we had on the balance sheet that’s due in January 09 and currently we have a pretty substantial gain in that loan if we decide to go ahead and pay it off which we’re looking strongly at.  We said that we were going to have some headwinds on this currency translation adjustment and we will.
+We continue to look at whether or not we need to do some hedging on some of that bet as we continue to expand in Europe.  I mean, outside of that, that’s about where we are.
+Adam Frisch – UBS
+The increases in your debt costs, are they material at all?
+James B. Lipham 
+No.
+Adam Frisch – UBS
+And you do not have to access the CP market, is that correct?
+James B. Lipham 
+That’s right.
+Operator
+
+Our next question comes from [Paul Fardali – PV Investment Research].
+[Paul Fardali – PV Investment Research]
+First question is on the margins in North America, they were down a bit sequentially, were there any one-time factors in there?  I heard you talk about the acquisition that didn’t happen, anything material that impacted that?
+James B. Lipham 
+Not anything material.  We had, like I said, some merger and acquisition stuff and we had some changes in some of our benefit options and then the salary increases that went in July this quarter.  But, outside of that there’s nothing really unusual.
+
+[Paul Fardali – PV Investment Research]
+Then you’ve mentioned guidance and the fact that you reaffirmed it should give people some comfort but maybe if you can give us anymore color on what type of environment you’re comfortable with as far as the fourth quarter in terms of being able to hit those numbers?  Do you assume kind of a continued weakening in the environment or what type of environment are you guys comfortable with?
+James B. Lipham 
+I think we’ve assumed that the market will continue to weaken somewhat for the fourth quarter.  I’m reluctant to try to predict anything anymore but we do have some good business coming on.  We know what we can do expense wise and we feel good that we’ll be there at the end of the day.
+[Paul Fardali – PV Investment Research]
+Then I guess the continuation of that question is obviously I think people are also worried about 09.  Do you maybe want to take this opportunity to give us any comments on 09?  I know it’s early and a lots changing but what kind of outlook you guys might be looking at there?
+James B. Lipham 
+Paul, we’ve got a lot of good business coming on in 09 but I’d be run out of the room if I predicted what I thought might happen in 09 right now.  I’ve got about 12 people in here glaring at me right now for just saying that.  I will let you know that we’re in the beginning stages of our budget process so we’ll know more about that later on.
+[Paul Fardali – PV Investment Research]
+Then international margins bounced back pretty nicely.  I think you guys were talking about 20% by the end of the year and you’re already pretty much there.  Is that the kind of level we should look at you guys maintaining?  I know with a lot of new business coming on that could impact that a little bit but is this kind of where we should be right now do you think?
+James B. Lipham 
+I think it probably is.  We’re going to continue to add new business and over time it will certainly expand.  Paul, I will go back to I think it was the first quarter when the margins were 11% and we took a hit from a couple of analyst that possibly didn’t quite understand what we were doing and we’ll take responsibility for that.  But, we’ve done in international margins exactly what we said we will do and I think that’s important in today’s time.
+Operator
+
+Our next question comes from Robert Dodd – Morgan, Keegan & Company, Inc.
+Robert Dodd – Morgan, Keegan & Company, Inc.
+Going back to this question about the federals and implementation, as you said a lot of the banks out there have very old systems, it takes a long time to get up to speed there which is a plus for you.  What’s the fastest conversion time you could do on a material size portfolio?  Because, if it takes 18 months to convert a portfolio, the banks just have to do the work in house and they can’t outsource to you in time anyway.  So, can you give us a run through on how the timing of all that works?
+James B. Lipham 
+Well, I think in today’s world we could probably do a good size conversion faster than ever because we really want to add new business.  But, I think realistically we would be looking at six to nine months if somebody signed today.  The problem you get in to in our world and the world of credit cards is typically from late October, first of November through the end of the year there’s virtually a freeze on anything like that happening because nobody wants to make any real serious changes through the holiday season because there’s so much volume that goes on.
+Robert Dodd – Morgan, Keegan & Company, Inc.
+You’re relatively, and I said relatively, underexposed to the debit markets which transactions there and cards there have been hanging in a little better.  What are you looking to do to expand your focus there?  Obviously acquisitions is one potential but can you give us a bit of an update on your debt strategy here?
+
+James B. Lipham 
+Well I think that we will roll out some new debit products before year end.  We have, as you know over years past we’ve tried on several occasions to buy a switch.  We were unsuccessful in that.  Who knows, maybe an opportunity will come up in that area again, I’m not aware of any but anything can happen.  We want to be larger in debit and we do have a strategy that I’m not prepared to get in to the details of it this morning but I think when we roll it out you’ll like it.
+Robert Dodd – Morgan, Keegan & Company, Inc.
+Just two more kind of housekeeping ones, again going back to the currency issue, obviously you have a good amount of exposure to the Sterling both on the revenue side and on the cost side.  Today, do you do any hedging with Sterling, Euro or anything like that to match up your revenues with your expenses?  Or, are we just looking at straight translation on those issues for the near future at least?
+James B. Lipham 
+It’s straight translation.  We don’t do any hedging at this point.
+Robert Dodd – Morgan, Keegan & Company, Inc.
+Lastly, on the buyback could you just tell us how much you’ve got left on the authorization?  I don’t know if that was provided.  Then how, you said you could draw down $1 billion of debt, how much of that would you be willing to use for a buy back given your stock is where it is today?
+James B. Lipham 
+We’ve got 7.8 million shares left on the current repurchase program that’s been approved by our board and we think that is certainly adequate for where we’re at today.  As I said earlier, we’re going to be opportunistic with that.  We think that’s good for the company, good for the shareholders, it’s a great buy right now.  We’re just hoping that when we get in the market we can make some kind of difference because I’m probably like most of you on the phone today, it scares me that the market seems to be bottomless almost.  We need to hit bottom and bounce back.
+At this point we don’t have any plans to take on debt to buy shares back.  We’ve got $300 plus million in cash sitting here.  We have very strong free cash flow, as you know we’re building up cash every month.
+Operator
+
+Our next question comes from Nick Fiskens – Stephens, Inc.
+Nick Fiskens – Stephens, Inc.
+Can you remind me, if you look at that JP Morgan contract if they do bring Wachovia in house what changes in the economics with JP Morgan?
+James B. Lipham 
+You mean if they bring WaMu in?
+Nick Fiskens – Stephens, Inc.
+Yes.
+James B. Lipham 
+We do have the ability and I don’t have the details of that in front of me but for some period of time we can get paid on a tranche basis as they increase substantially the number of accounts they process.  The price would go up somewhat but I don’t think it’s anything dramatic.  It certainly wouldn’t be anything close to $1 per $1.  Now again, we don’t expect that to leave any time soon and we’re hoping it will be here a while.
+Nick Fiskens – Stephens, Inc.
+Would you say like $0.10 or $0.20 on the $1?
+James B. Lipham 
+No, I wouldn’t.  I can’t answer that right now.
+Nick Fiskens – Stephens, Inc.
+Then on Wachovia, is their consumer larger or smaller than Wells?
+James B. Lipham 
+Smaller.
+Nick Fiskens – Stephens, Inc.
+Do you have any insight on what Wells is paying to your competitor versus what you get paid by Wachovia?
+James B. Lipham 
+No.  But, I’d have to say it would be a competitive price.  Wells is a hard bargainer and I’m sure they would have a competitive price.  Certainly we will, if given the opportunity, we will be very aggressive in trying to retain that business and get more.
+Nick Fiskens – Stephens, Inc.
+Do you have any idea how much smaller that card portfolio is?
+James B. Lipham 
+I don’t.  You can probably look at some of these trade publications but, I would say Wells is at least double.
+
+Nick Fiskens – Stephens, Inc.
+Given what’s going on in the marketplace, where are you seeing the most dramatic slowdown in your business?
+James B. Lipham 
+I would say that the merchant side of the house has slowed down more than what we had hoped, the merchant acquiring, the merchant processing side.  The transactions, you may think I’m crazy thinking this but I think transactions have held up pretty well.  
+Nick Fiskens – Stephens, Inc.
+Are you comparing that to the last downturn?  That 3.6%?
+James B. Lipham 
+Yes.  It didn’t get quite that bad the last go around in 2000, 2003 but we’ve obviously got bigger issues this time going around.  But, I think – I’ll close out talking about the health of this company but when you start looking at the fact that we continue to grow, that our North American services revenue increased by 6.8%, that global revenues increased by 32%, that we improved our operating margin internationally by 174 basis points, we were talking about that earlier, up to 19%.  We’re feeling pretty good about where we’re at.
+We worry about consolidation.  As I have said on many, many occasions, consolidation is our big enemy.  We win on consolidation but you can lose on consolidation.
+Operator
+
+Our next question comes from Timothy Willi – Avondale Partners, LLC. 
+Timothy Willi – Avondale Partners, LLC.
+Two questions if I could, one is Phil could you talk a little bit about any kind of change in the pricing discussions as you are pursuing the pipeline?  Are people trying to take advantage of a slow market to be much more aggressive in their pricing demands thinking you’re in some kind of position of weakness or chasing growth?  Or, are the discussion pretty much as they have always been in terms of pricing?
+Philip W. Tomlinson 
+It’s pretty interesting, we haven’t had a big rush to come pound on us over pricing.  We’ve renewed three or four contracts here recently.  Again, as I’ve said before, we always have to negotiate prices on a pretty aggressive basis but the truth is we don’t see anything unusual happening there.
+Timothy Willi – Avondale Partners, LLC.
+My second question was in the sort of traditional card processing and support business, can you give us any feel for what portion of the revenue stream there is tied to the actual activity of the card versus just sort of the monthly maintenance of the files, the statementing, the customer service, etc.?
+Philip W. Tomlinson 
+I believe it’s about 24%.  We are seeing some things really pick up, like our fraud and risk services, the revenue for those in today’s world have really jumped.  I was just handed a note, in my old age I’m getting slow but I’ve been reminded that 24% is of electronic payment services revenue not the total revenue.  So, just the transaction revenue, that $250 million.
+Timothy Willi – Avondale Partners, LLC.
+Is there any other revenue this quarter that was out of the ordinary?  Any kind of big project work or something along those lines or is this actually a pretty good run rate looking forward?
+James B. Lipham 
+I think it’s a pretty good run rate.  There wasn’t anything unusual here.  This has got the good growth in it from Europe.  But, I think the numbers should be around the $68 million is pretty good.
+Operator
+
+Our next question comes from [Garv Vora] – Raymond James.
+[Garv Vora] – Raymond James
+Just one quick question, one of your largest growth drivers is the global services division and with the financial turmoil spreading from the US to overseas now, how much of this financial turmoil being spread is factored in to your guidance?
+James B. Lipham 
+Well, we think we’ve got our guidance right obviously.  Frankly, we saw a slowdown in Europe in transactions about the same time we started seeing it in the US.  We’re feeling good about that.  We are adding a lot of new business and we’re adding it at good margins so we feel good about that.  It’s factored slow but it’s not factored at catastrophic I guess is a way to put it.
+
+[Garv Vora] – Raymond James
+And is this something that you see spreading in to ‘09 also since it’s started later than the US?
+James B. Lipham 
+No, not particularly.  I think the business has slowed down, we’re still feeling good about where we’re at, we’re still doing good.  We think we can keep our margins where they’re at and we think we’re going to make our guidance.
+Operator, we promised to let these folks go at nine o’clock and we’d like to cut off the questions.  Anybody that has any additional questions of course, you can call Shawn and we’re available all day.  I wanted to close and it’s probably a little bit longer than what I would do but I wanted to tell you about a great company and that company is TSYS.
+You know that I normally don’t spend much time talking about our balance sheet but in today’s world I think it is an in your face kind of topic and to use an old southern term, our balance sheet is as strong as potash.  Our credit ratings are stable, our operating results are good for the third quarter and will be good for the rest of the year.  We have very little debt, we have, as we mentioned earlier, over $300 million in cash, we have a strong free cash flow.
+We have top line growth, good growth and as you heard me say many times in the past, we don’t have credit risk, we’re not in that business.  We continue to grow as evidenced by the release we set out yesterday, First Citizens in Raleigh, Wal-Mart in Mexico, Metro Financer in Mexico, Paragon Benefits in the healthcare side, Argos and Homebase, two of the real key components of the largest retail group in the UK and we’re winning in without a doubt the most chaotic time in my life and probably since the Great Depression.
+We’ve always said that our secret sauce is our people and they’ve raised their game to meet today’s challenges.  We just spent two days offsite reviewing each business and the growth plans for the future and I’ll assure you their energy and passion is stronger than ever.  Our leaders, the folks in this room that are listening to this call are driving this business to become more diverse through a whole variety of service and product offerings.  Whether it’s loyalty, prepaid, managed services or merchant servicing, our entire team of over 8,000 is committed to winning in this business.
+Over the next several months we’ll announce more successes, some domestic, some international including consumer, commercial, fleet and retail card programs.  Around the global we’re increasing our emphasis on cross selling and cross selling these value added services and products such as risk management, fraud detection and Internet services which will have significant growth and they have bigger margins.  
+I think another key is we’ve proven in the past that we can effectively manage through bad news and hard economic times.  Finally, from a valuation perspective, we are absolutely one of the more undervalued stocks in our segment.  Today, we’re trading at a 10.3 PE multiple compared to our median peer average of 12.5 and that’s a 17% discount that we’re below the group.  We don’t get that.  We just don’t see that.  
+We think that’s especially interesting when we have the lowest leverage which gives us really more flexibility and staying power.  At the end of the day when all is said and done, we’re convinced that good companies with strong financials will be rewarded and we’re one of those companies today and we are committed to continuing to be one of those on a go forward basis.  
+Thank you for your interest in TSYS and thank you for being flexible in working with us with the change of the date of this call.  We hope that you’ll continue to be interested and watch us as we go forward and succeed.  Thank you for being with us today
+
+Operator
+
+This does conclude today’s conference call.  

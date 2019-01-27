@@ -1,0 +1,170 @@
+Luna Innovations Incorporated (NASDAQ:LUNA) Q3 2012 Earnings Conference Call November  8, 2012  5:00 PM ET
+Executives
+Dale Messick – CFO
+My Chung – President & CEO
+Analysts
+Greg Greenberg – Wells Fargo
+Operator
+Good day, ladies and gentlemen, and welcome to the Quarter Three 2012 Luna Innovations Incorporated Earnings Conference Call. My name is Ian I’ll be your operator for today. At this time, all participants are in a listen-only mode. We will conduct a question-and-answer session towards the end of the conference. (Operator instructions). As a reminder, the call is being recorded for replay purposes.
+Now I would like to hand the call over to Mr. Dale Messick, the Chief Financial Officer. Please go ahead, sir.
+Dale Messick
+
+Thank you, Ian. Good afternoon, everyone, and thank you for joining us today as we review Luna’s results for third quarter as well as the first nine months of 2012. Before we proceed with our presentation today, let me remind each of you that statements made in this conference call as well as our public filings, releases and websites which are not historical facts may be forward-looking statements that involve risk and uncertainties and are subject to changes at any time, including but not limited to statements about future financial and operating performance.
+We caution investors that any forward-looking statements made by us are management’s beliefs based on currently available information and should not be taken as a guarantee of future results or performance. Actual results may differ materially as the result of a variety of factors discussed in our earnings release and our latest Forms 10-K and 10-Q filed with the Securities and Exchange Commission. We disclaim any obligations to update any such factors or to announce publicly the results of any revisions to the forward-looking statements to reflect future events or developments. There is more complete information regarding forward-looking statements, risks and uncertainties in the company’s filings with the SEC available on our website.
+At this time I’d like to turn the call over to My Chung, President and CEO of Luna Innovations.
+My Chung
+
+Thank you, Dale. As I have done in the past I will begin today’s presentation by providing an update on our key business developments, particularly as they relate to the strategic growth initiatives we previously laid out. Following my comments I would turn the call back over to Dale for a discussion about our operating results and then we will be happy to take any questions you might have.
+We remain focused on three key growth initiatives. The first of these is to become the leading supplier of fiber optic shape-sensing and localization systems and components for minimally invasive surgical systems. Our second key growth initiative is to be a leading provider of distributed fiber optic strain and temperature sensing systems targeting in particular the composites industry. And third is to be a leading supplier of cyber security services to companies with critical electronic systems utilizing field-programmable gate arrays.
+Beginning with our initiatives surrounding shape sensing for minimally invasive medical systems, we continue to work closely with our development partners, Intuitive Surgical, Hansen Medical and Philips Medical to productize this exciting technology. We are continuing to advance this technology with regards to resolution, robustness and accuracy. Our relationship with our development partners remain strong and our efforts towards productization of the shape-sensing for medical applications remain focused and on track towards integration with their target systems and onto FDA approval.
+The second key growth initiative of ours is to become the leading provider of sensing systems for testing composite materials. Our recently launched Odyssey products enabled developers and manufacturers to better understand what is happening inside their composite structures and see potential damage even when it’s not visible. We are improving the way composite materials are tested and validated for peak performance and safety by providing thousands of sensing points, space five millimeters apart on a piece of optical fiber that’s easier, cheaper and faster to install than individual string gauges.
+
+During the third quarter, we experienced a healthy uptick in orders for our Odyssey products, accounting for more than 15% of our product and license revenues. We remain optimistic that we can continue to increase the adoption of our sensing platform, as the composites industry continues to grow especially in Aerospace, Wind Turbines and automotive applications.
+Our third growth strategy is to continue to advance our industry leading cyber security solutions. Our secure computing group has unique capabilities and reverse engineering of field programmable gamma rays to improve design integrity and further enhance cyber security. This unprecedented capability makes it possible to perform high reliability verification of FPGA designs at the bit stream level to detect any malicious functionality, that is we answer the question, does it do what I designed it to do and nothing more.
+With this unique capability we intend to pursue new growth opportunities in areas such as trust and design of FPGA where our technology is like a virus scan. Our reliability validation for FPGA system components and anti-obsolescence as the designs are transferred from old FPGAs to newer devices. Additionally, I’m pleased to report that we have recently received full accreditation from the U.S. Department of Defense as a trusted integrated circuit supplier.
+Beyond the progress we’re making on our key growth strategies we continue to expand our offerings in our traditional fiber optic testing market. During the third quarter, we introduced a faster, easier to use lower-cost precision reflectometer, our OBR 5T-50. This new product addresses the optical system manufacturing testing needs by introducing an instrument that is 200 times faster, with better resolution over a longer distance in the competition, all at a significantly lower price. This is the latest example of Luna developing technology to meet the specific needs of our customers.
+With that, I would now turn the call over to Dale to review the financial highlights.
+Dale Messick
+
+Thank you My. For the third quarter of 2012, we recognized total revenues of $8 million compared to revenues of $8.8 million in third quarter of 2011.
+Our product and licensing revenue increased 18% from $2.7 million in the third quarter of 2011 to $3.2 million in the most recent quarter, with the increase being driven substantially by sales of our new Odyssey line of sensing products, which as My, mentioned accounted for approximately 15% of our product and license revenue for the quarter.
+Revenues in this segment of our business were also up a 11% compared to the second quarter of this year. Technology development revenue decreased to $4.9 million in the third quarter of this year compared to $6.2 million in the third quarter of 2011. The largest component of this year-over-year decrease relates to our secure computing and communications group where in the third quarter of last year we were awarded and completed four short-term projects with an aggregate value of $800,000 that provided a spike in the group’s quarterly revenue. We did not have a recurrence of similar projects in the third quarter of this year, although we do expect the group to win more of these service contracts in the future. 
+Margins remained consistent at 39.2% for the third quarter of 2012 compared to 39.5% in the third quarter of last year the slight year-over-year decline is attributed to the impact of the (inaudible) programs from last year that I’ve just mentioned which carried a higher margin. Offsetting much of that overall margins in the third quarter this year benefited from a higher proportion of our revenues being generated through the product and licensing segment, which typically carries a higher gross margin than those of our technology development segment.
+
+Our operating expenses increased 4% to $3.3 million in the third quarter of this year from $3.2 million in the same period last year due principally to higher commissions associated with our increase in product sales.
+We realized a net loss attributable to common stock holders of $254,000 or $0.02 per diluted share for the third quarter of this year, compared to a net income to common – to $222,000 or $0.01 per diluted share for the same period last year.
+From a cash flow perspective, during the third quarter of 2012, we generated $0.6 million of positive cash flow from operations compared to a cash usage in operations of $0.7 million in the third quarter of last year. We also realized $0.1 million of overall positive cash flow from all sources and uses in the most recent quarter, compared to $1.2 million overall cash usage in the same period last year.
+Year-to-date, we’ve recognized revenues of $24.6 million compared to $27.5 million for the first nine months of last year. Technology development revenues have decreased $1.5 million compared to the first three quarters of last year with much of that decrease being driven by the secure computing group as we’ve already discussed.
+Products and license revenues of $8.7 million for the first nine months represents a 13% decrease from the first nine months of last year, driven by the very strong first and second quarters of 2011 for product sales in our Telecom.
+As I mentioned last quarter, since the second quarter of last year products and license revenues have been running in the range of $2.7 million to $3.1 million per quarter and we saw the top end of that range here in the most recent quarter.
+Operating expenses have declined $1.1 million or 10% for the first nine months compared to last year, with decreases primarily being recognized in share based compensation, consulting fees and depreciation.
+With those expense improvements our net loss has also improved with a net loss attributable to common stockholders of $0.9 million or $0.06 per diluted share for the first three quarters of 2012, compared to a net loss to common stockholders of $1.1 million or $0.08 per diluted share for the first nine months of last year.
+From an adjusted EBITDA view point, we realized $1.7 million of adjusted EBITDA for the first three quarters of 2012 compared to $2.1 million for the first three quarters of last year. And we’ve provided for you a reconciliation of adjusted EBITDA and the schedule is included in our press release today.
+With that, I’d now like to turn the call back over to My.
+My Chung
+
+Thank you Dale. We have made great strides in our key growth initiatives in 2012 and we remain optimistic about our future developing new and innovative solutions for the markets we serve. On our last call, I mentioned that we would be rolling our a new branding campaign for the company. I hope you noticed our new company logo and tagline, one that we believe more clearly defines our vision and strengthens our position within our markets. We have redesigned our image to more effectively present the Luna brand and have begun to roll it out throughout all of our communications.
+More importantly we have developed a new website that presents our new brand image providing compelling content, intuitive navigation and effectively communicating what makes Luna special.
+As we move forward, we will continue to develop the content and optimize the website’s search potential to broaden our awareness and further strengthen our position. For those interested, you will also find our latest investor’s picture on this new site, www.lunainc.com.
+At this point, I would be happy to take your questions.
+Question-and-Answer Session
+Operator
+
+Thank you sir. (Operator Instructions). And we have a question, it’s from the line of Greg Greenberg at Wells Fargo Advisors. Please go ahead Greg.
+
+Greg Greenberg – Wells Fargo
+
+Hi guys.
+My Chung
+
+Hey Greg.
+Greg Greenberg – Wells Fargo
+
+I have a number of questions, first one, your partner Hansen Medical had their earnings release yesterday and they announced they shipped four Magellan Robotic Systems last quarter. Can you describe for us kind of the revenue opportunity for each system?
+My Chung
+
+You mean, once they commercialize our technology, is that what you’re asking?
+Greg Greenberg – Wells Fargo
+
+Yes, well, is it currently in the Magellan Robotic System that they just started shipping that was just FDA approved not too long ago?
+My Chung
+
+No, we are still working with them on integrating our technology into their system.
+Greg Greenberg – Wells Fargo
+
+Okay. Okay, next question as far as from the secure computing group and is FPGA design integrity. So, if this becomes a requirement from the Defense Department, number one, do you envision anybody else being able to do this, is this patent protected or just something unique and then would the Department of Defense have any influence on setting the price if it’s mandatory service?
+My Chung
+
+So the answer to your first question, whether it’s unique. To our knowledge, there has been no-one that’s been able to duplicate the capabilities that we have, the initial stage of the DARPA contract, it was another party that tempted to develop that technology to our knowledge, they were unable to do it. So, as of the moment if we look at what’s been awarded for the follow-on contract, this contract called Iris, we were the largest receiver of that brand and the only one for this technology again.
+Once it becomes an EDICT by the U.S. government that system component places need to validate that they’re compliant we trust, we believe that that would not necessarily be dictated by the government to who they go to, but again we envision that we’re the leading vendor to be able to provide that service.
+Greg Greenberg – Wells Fargo
+
+Okay. And what sort of revenue opportunity, let’s say on annualized basis could that be?
+My Chung
+
+It’s hard to say right now, exactly, so there is really no comment on that at this point.
+Dale Messick
+
+Yeah, and until it’s actually rolled out as an EDICT it’s tough to say how they would roll it out.
+My Chung
+
+Right.
+Greg Greenberg – Wells Fargo
+
+Okay. Couple of questions on Investor Relations type items. If you guys scheduled or presented any conferences for investors, are you trying to get your story out to the investment community in any new ways?
+My Chung
+
+We have is, as you know Greg, assigned up with an investment banking firm to work with us on that, they continue to build out the schedule for us for the next couple of quarters.
+Greg Greenberg – Wells Fargo
+
+Okay.
+My Chung
+
+Nothing has been confirmed as of yet.
+Greg Greenberg – Wells Fargo
+
+Okay. Have you’ve been happy with the engagement so far?
+My Chung
+
+I’d say this is the day of setup, for us it’s been very productive.
+Greg Greenberg – Wells Fargo
+
+Good, okay. And just kind of a question again – it’s been since May of ’11 since you’ve been CEO, correct?
+My Chung
+
+Correct.
+Greg Greenberg – Wells Fargo
+
+Has there been much change in headcount as far as either just actual numbers or the type of headcount?
+My Chung
+
+Not much, we’ve had some adjustments here and there but nothing significant in either direction.
+Greg Greenberg – Wells Fargo
+
+Okay, okay and then…
+My Chung
+
+The one strategic hire that we made as you know is adding marketing to our business.
+Greg Greenberg – Wells Fargo
+
+Right.
+My Chung
+
+So bringing Geoff McCarty onboard was a strategic one.
+Greg Greenberg – Wells Fargo
+
+Okay. And then last question if I have any others, just on the Odyssey product, so do we sell roughly 10 this last quarter or that’s something you can talk about units?
+My Chung
+
+We don’t diverge units but that’s a pretty good guess on your part.
+
+Greg Greenberg – Wells Fargo
+
+Okay. And when you have – I would imagine the customers that are buying now are sort of buying one to sort of test that out, is this…?
+My Chung
+
+They’re just trying to validate the technology which is what you would expect. And our vision is, once if it’s been indoors, that indeed it matches to the measurements that they have traditionally been making with string gauges that’s, when you’ll see the transition.
+Greg Greenberg – Wells Fargo
+
+Okay, great. That’s it from me at this point. Thanks guys.
+My Chung
+
+Okay.
+Dale Messick
+
+Thanks Greg.
+Operator
+
+Thank you Greg. And there are no further questions at this time.
+Dale Messick
+
+No further questions in the queue Ian?
+Operator
+
+No, there is, no further questions in this queue. So would you like me to turn the call over to My Chung for closing remarks?
+My Chung
+
+Okay. Well, again, thank you for everyone for participating with us today. And we look forward to speaking with you again on our next call. Thank you.
+Operator
+
+Thank you very much. Ladies and gentlemen, that concludes your call. You may now disconnect. Thank you very much for joining. Do enjoy the rest of your day today.

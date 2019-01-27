@@ -1,0 +1,436 @@
+Markel Corporation (NYSE:MKL) Q3 2012 Earnings Conference Call November  9, 2012 10:30 AM ET
+Executives
+Tom Gayner – President and Chief Investment Officer
+Anne Waleski – VP and CFO
+Richie Whitt – President and Co-COO
+Mike Crowley – President and Co-COO
+Analysts
+Adam Klauber – William Blair
+Arash Soleimani – Stifel Nicolaus
+Ron Bobman – Capital Returns
+Ray Lardella – Macquarie
+John Fox – Fenimore
+Scott Heleniak – RBC Capital Markets
+Joe Cohen – Bank of America Merrill Lynch
+David West – Davenport & Company
+Operator
+Greetings and welcome to Markel Corporation Third Quarter 2012 Earnings Conference Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. (Operator Instructions) As a reminder, this conference is being recorded.
+It is now my pleasure to turn the conference over to your speaker, Tom Gayner, President. Thank you.
+Tom Gayner
+
+Thank you. Good morning and welcome to the Markel Corporation third quarter conference call. We’re pleased to bring you today’s report on our solid year-to-date economic return and we look forward to your thoughtful questions about our strategy, performance, recent developments, and plans for our future. We’ll also cheerfully answer your other questions.
+To start off, our Chief Financial Officer, Anne Waleski will review the overall numbers from the first nine months. Then, my Co-Presidents, Mike Crowley and Richie Whitt, will discuss our international and domestic insurance activity. I will then cover investments in the Markel Ventures operations, and then we will open the floor for your questions.
+Before getting started with today’s lineup, the rules say we need to repeat the safe harbor statement. So here it goes. During our call today, we may make forward-looking statements. Additional information about factors that could cause actual results to differ materially from those projected in the forward-looking statements as described under the captions Risk Factors and Safe Harbor and Cautionary Statements in our most recent Annual Report on Form 10-K and quarterly report on Form 10-Q.
+We may also discuss certain non-GAAP financial measures in the call today. You may find a reconciliation to GAAP of these measures on our website at www.markelcorp.com in the ‘Investor Information’ section under ‘Non-GAAP Reconciliation’ or in our quarterly report on Form 10-Q.
+With that, let me turn it over to Anne.
+Anne Waleski
+
+Thanks, Tom, and good morning, everyone. As I will discuss in more detail in just a minute our financial results for the quarter benefited from strong investment performance underwriting profits on our ongoing business and increased revenue and profitability from our Markel Ventures company.
+Our favorable year-to-date, underwriting performance was driven by fewer than anticipated catastrophe events in the first nine months of 2012. However, we do have losses from the storm that hit the East Coast last week. Our underwriting plans and catastrophe management teams are currently reviewing our exposures, but we do not expect to have solid estimates of our losses for several more weeks. Our losses from Sandy will however be estimated before yearend and will be reflected in our fourth quarter results. Now, we will get into the financial results.
+I will follow the same format in discussing the results as in past quarters. I will focus my comments primarily on year-to-date results. I will start by discussing our underwriting operations followed by a brief discussion of our investment results and bring these two together with a discussion of our total results.
+Our total year-to-date operating revenues grew 13% to $2.2 billion in 2012 from $1.9 billion in 2011. The increase is due to an 8% increase in revenue from our insurance operations and a 51% increase in revenue from our non-insurance operations which we refer to as Markel Ventures. Moving into the underwriting results, gross written premiums for the nine months of 2012 were $1.9 billion which is an increase of 8% compared to 2011.
+
+The increase in 2012 was due to higher gross premium volume in each of our three operating segments. Net written premiums were up 7% to the prior year at $1.7 billion. Retentions were flat in 2012 at 89%. Earned premiums increased 8%, again the increase in 2012 was due to higher earned premium volume in each of our three operating segments. Increases in gross net and earned premiums have all benefited from our recent insurance acquisitions in the specialty admitted segment. Our combined ratio was 96% for the nine months of 2012 as compared to 105% in 2011. The combined ratio for 2012 includes $41 million or three points of expense related to our prospective adoption of the new DAC accounting standards and $9 million or less than one point of underwriting loss from hurricane Isaac in 2012.
+The 2011 combined ratio included $133 million or nine points of underwriting losses related to the catastrophe events which occurred last year in the U.S., Australia, New Zealand and Japan. Setting aside the impact of the prospective adoption of the new DAC accounting standard in 2012 and the effect of catastrophes in both 2012 and 2011, the improvement in our year-to-date combined ratio was primarily due to lower current accident year loss ratios in the Excess and Surplus lines in London insurance market segment.
+Favorable development on prior year’s loss reserves represented 17 points on the combined ratio in both 2012 and 2011. Included in the favorable development is $31 million of unfavorable loss reserve development on Asbestos and Environmental exposures within our existing tenured line segments. We completed our annual review of these exposures during the third quarter. During this year’s review, we reduced our estimate of the ultimate claim counts, while increasing our estimate of the number of claims that would be closed with an indemnity payment. Based upon this information, prior year loss reserves for Asbestos and Environmental will increase.
+Next I will discuss the results of our non-insurance operations which we call Markel Ventures. In 2012 year-to-date revenues from our non-insurance operations were $345 million compared to $229 million in 2011. Year-to-date net income to shareholders from our non-insurance operations was $3.6 million in 2012 compared to $8.9 million in 2011. Revenues from our non-insurance operations increased in 2012 compared to 2011, primarily due to our acquisitions WI Holdings Incorporated in late 2011, and Havco in 2012.
+Next, turning to our investment results; investment income was up 6% in 2012 to just under $208 million. Net investment income for the nine months of 2012 included a favorable change in the fair value of our credit default swap of $13.7 million compared to an adverse change of $2.7 million in 2011. During 2012, financial markets improve and credit spreads narrowed which favorably impacted our credit default swap.
+Net realized investment gains were $25 million and versus 2012 and 2011. Net realized gains for the nine months of 2012 included $4 million of write-downs for other than temporary declines in the estimated fair value of investments compared to $15 million in 2011. Unrealized gains increased $313 million before taxes in 2012, driven primarily by increases in equity securities. Tom will go into further detail on investments in his comments.
+Looking at our total results for 2012, the effective tax rate was 19% in 2012 compared to an effective tax rate of 17% in 2011. The increase is primarily due to anticipating a smaller tax benefit related to tax-exempt income as a result of projecting higher pre-tax income for 2012 as opposed to 2011. We reported net income to shareholders of $197 million compared to $92 million in 2011. Book value per share increased 12% to $395 per share at September 30, 2012, up from $352 per share at yearend.
+
+Finally, I’ll make a couple of comments on cash flow and the balance sheet. Net cash provided by operating activities was approximately $240 million for the nine months ended September 30th, 2012, compared to approximately $261 million for the same period of 2011. The decrees in net cash provided by operating activities was due to lower underwriting cash flows for the London Insurance Market segment, primarily due to increased claims settlement activity during 2012.
+Investments in cash at the holding company were approximately $1.1 billion at the end of September, as compared to a little less than $1.2 billion at the December 31, 2011. The decrease in invested assets is primarily the result of acquisitions made during 2012.
+With this, I will turn it over to Mike to further discuss operations.
+Mike Crowley
+
+Thanks, Anne. Good morning. Third quarter results for both ENS and Specialty divisions were again positive from a gross written premium perspective. As Anne said, ENS gross written premium increased 6.9% for the quarter versus 2011 and 6.3% for the nine months versus 2011. And Specialty division gross written premium increased 9.1% for the quarter and 14.9% for nine months compared to the same period of 2011. The growth in the Specialty Admitted segment was substantially due to the booking of $17 million in the quarter and $43 million year-to-date from the THOMCO acquisition which we was announced in January, and 16% increase in volume for the workers’ compensation line of business. To-date, our retention of the THOMCO business through nine months is exceeding our expectations. Growth from THOMCO and FirstComp was offset by reduced volume in our accident and health, property and casualty, individual risk and special division due to this division to exit certain lines of business.
+The combined ratio for the E&S segment was 89% for the quarter and 91% from nine months, compared to 89% and 88% perspective for the same period in 2011. The combined ratio for the Specialty Admitted segment was 109% for the quarter and 108% for nine months, compared to 116% and 109% for the same periods in 2011.
+With regards the expense ratio, the E&S segment expense ratio was flat for the quarter, and slightly better for nine months, excluding the impact of the new DAC accounting methodology and increased profit-sharing accruals. For the Specialty divisions, the expense ratio, excluding DAC and higher profit sharing expenses in 2012 was slightly improved for the quarter, but flat year-to-date, compared to 2011.
+Clearly, one of the highlights for the quarter announcement of the new Haggerty-Markel relationship. We are extremely pleased that Haggerty’s management chose Markel as its underwriting partner for the future.
+As all of you know, Haggerty is a widely known as de-brooker in the collective card and health insurance business. They are well-managed highly focused specialty firm that continues grow their business. Markel looks forward to long and profitable relationship Haggerty and his team. Another important highlight of the Specialty division was the appointment on Mondeo this week of Greg Thompson is President of Markel’s Specialty. Greg has been in the insurance business for over 30 years.
+He led THOMCO for 32 years growing it from a small operation to a large programs administrative. Markel acquired THOMCO in January 1 of 2012 and in his new role Greg will report directly to me. I am confident that his leadership and experience will be a great boost for our Specialty division. Additional highlights for the Specialty division include Markel American launch of a new product targeted at avid bicyclists which offers physical damage for high end bicycles and liability and medical payments for the rider.
+Markel agents knew that FirstComp submitted more than 3,000 new accounts year-to-date resulting in new premiums in excess of six figures. Also year-to-date 611 first comp agents have signed producer agreements with Markel which should contribute to our cross-selling efforts.
+
+Regarding the E&S segment the recent creation of the chief underwriting position is producing positive results. Jeff Lamb is proving to be a valuable link between product management and the regions in our product line leadership group. Our E&S Division is working closely with our product line management on growing possible lines of business.
+During the quarter, we also shifted 13 experienced underwriters to direct underwriting roles in the regions. Our goal is to get more experienced underwriting authority closer to the field and improve our response times for our agents and increase our chances for success. A number of our E&S Associates attended the Annual National Conference, where we held 243 meetings with various agents and brokers. Based on those meetings, we remain very encouraged about our opportunities to continue to grow our E&S business.
+I’d like to congratulate Scott Culler who heads our West region on his appointment to the National Board. I am also pleased to announce that Phil Freda join Markel as Managing Director for public entity business. Phil brings more than 20 years public entity experience to Markel, and previously managed the significant book of this business. Our goal is to significantly expand our position in this niche, which has been very profitable for Markel. Also, Mike Vought has been promoted to Managing Director of Casualty. Michael continues to show his responsibilities for Umbrella business. He has 25 years of experience and is well equipped to direct this important line of business for Markel.
+Throughout North America and in the entire company, we continue to work aggressively to reduce cost. Riche and I have asked the leaders of all of our shared services to focus on process improvement and deliver their services more efficiently. These efforts are critical to reducing our expense ratios and our leaders have embraced this initiative.
+Finally, with regards to the rate environment rates remain stable, enabling Markel to achieve single-digit rate increases on cat property business and workers’ compensation. The casualty business remains competitive, but we expect to continue to achieve modest rate increases there as well. At this point, we anticipate a similar rate environment for 2013.
+I’ll turn the call over to Richie to talk about our international operations. Richie?
+Richie Whitt
+
+Thanks, Mike. Good morning, everyone. I’ll start off and talk a little bit about results of Markel International for the first nine months and then I’ll cover all the few things at the corporate level. During the first nine months of 2012, Markel International’s gross written premiums grew 4% to $705 million. There was a little bit of that effect on that. If you would kept the constant rate of exchange, it would have about 6% growth.
+Significant areas of growth continue to be in the energy and catastrophe-exposed property areas. This has been partially offset by declines in some of our professional liability lines. Pricing trends that we talked about in the first two quarters have largely continued in the third quarter. We continue to see price increases on property in the marine energy business. However, as the year progressed, price increases in these areas have moderated. Our overall average price increase of renewal business for the first nine months of the year was right away on 5%.
+Cat property increases have generally been between the 10% and 20%, and energy has seen single-digit increases. All the other lines have seen relatively stable pricing. Despite price increases in these areas in many areas the market is still pretty competitive. As an example, while we’ve been able to maintain our modestly push pricing in our professional liability division, premium volume is down against prior year as a result.
+
+International’s combined ratio for the nine months of 2012 was 88%. That includes 2 points of expenses related to the adoption of the new DAC accounting standard. Obviously, as opposed to the significant cat losses we experienced in 2011, our first nine months of 2012 results include minimal catastrophe losses with Hurricane Isaac been the largest – event and approximately $3 million.
+The nine months result also – from $119 million of prior-year favorable to development across a variety of programs, and there we’ve set a lot of time in operate, again, we always try to establish reserve due to more likely redundancy and deficient. However, the releases we have experienced in the first nine months at Market International are more than we normally would have expected and are the result of favorable development across the number of the product lines, including the 2001 in prior reserves.
+Moving to the Markel levels, while the first nine months 2012, as Anne said, we were benign from catastrophe standpoint. Markel’s fourth quarter will be impacted by hurricane Sandy which hits the northeast U.S. last week. Our thoughts go out all those affected, which includes many of our Markel associates. We’re currently working to assist the policy holders with your claims and recovery efforts, but it’s still very early in the loss adjustment recovery base, and we’re going to have to work over the next several weeks to determine the strong financial impact to Markel.
+Finally, I’d like to mention two promotions at the Markel corporation level. Brad Kiscaden has been promoted to Executive Vice President of Markel. Brad has been with Markel for over 25 years, many of these years with our chief actuary. Brad and his team have been instrumental and implementing and safe keeping our reserving philosophy, which has been one of the corner stone’s of our success for over the years.
+Brad will be adding IT to his areas of responsibility and is going to be moving to Richmond to join our senior executive team. Ron Harry is going to be stepping into the role of chief actuary for North American. Ron has been Brad’s partner for many years and played a critical role in the recent implementation of our data warehouse. I’d just like to congratulate both Brad and Ron – I inevitably failed to mention them on last quarter’s call.
+At this point, I’d like to turn it over to Tom and afterwards we’ll be glad to take your questions.
+Tom Gayner
+
+Thank you, Richie. And what I’m sure comes as relates to my colleagues, my comments today will be shorter than usual, hence I think the numbers largely speak for themselves. As Ann mentioned earlier book value per share grows to a new record high up $395 as of September. Comprehensive income so far in 2012, $426 million created an increase in book value per share of roughly $43 or 12% during the first nine months.
+I am very happy with those results and I hope you are as well. After some details, during the first nine months, the total return on the investment portfolio was 7.4%, equities enjoyed a return of 15.5% and fixed income produced a positive overall return of 4.5%. At Markel Ventures, we enjoyed a great third quarter and that brought year-to-date results closer to my expectations.
+Revenues totaled approximately $345 million and EBITDA totaled roughly $41 million. That compares to revenues of $228 million a year ago and EBITDA of roughly $34 million. As always, a reconciliation of EBITDA of net income is available on the Markel Corporation website.
+Additionally, during the quarter, we completed the acquisition of Tromp Bakery Systems in the Netherlands, which makes the equipment for pizza, pastry, pie and bread makers. We also purchases controlling interest in running Reading Bakery Systems, which make bakery equipment for the production of crackers, cookies, and other baked snacks. They will operate as part of our AMF Bakery Systems business and we think we will do very well with these services as long as the (inaudible) that can become popular again.
+
+Additionally, the growth of Markel Venture should provide our shareholder with positive returns and cash flow even when we’re seen news headlines that affect the short-term results of our insurance business. We are relentless in our drive to build the value of the Markel Corporation, and Markel Ventures should continue to be a growing force to help make that happen.
+In the equity portfolio, our focus on high-quality securities as well as our commitment to continuing to invest in equities paid off. During the first nine months, we earned 15.5% compared to the S&P 500 total return of 16.4%. I never like to underperform ever. But in shorter-term measurement periods, it happens all the time. I’m comforted by the fact that we earned these returns in 2012, despite not earning one of the most popular stocks of all time was contributed 700 basis points to this year’s S&P return. We have a long history of earning excellent investment returns without owning the stocks that most people are talking about. And over time, this approach has served to reduce risk and create outperformance during tough periods.
+Over the last 23 years, a longer and more meaningful timeframe, we outperformance the S&P 500 by a 150 basis points a year. Our equities have also outperformed the Barclays Aggregate Bond Index by 280 basis points a year, which demonstrates the value we add to our shareholder by sticking with a relatively unpopular idea of investing in stocks. Equities now represents roughly 52% of our total shareholder’s equity, up from 55% at year end. We continue to be steady and regularly add to our equity investment portfolio and we expect to continue to do so. As you heard from my colleagues, revenues are going up around the year and we’ve ideas for where to invest the money.
+In our fixed income operations, we earned a total return of 4.5%. I’ll repeat what I’ve repeated before and be just a surprise to say at this time and the last time.
+Interest rates moved lower yet again during the third quarter, so we over-earned the coupon from our bond portfolio. Yet again, I continue to be amazed that this is happening and we’ll remain every more defensively positioned for this portfolio. Duration for the overall bond portfolio is now the new record low for us to slightly less than three years. The perverse good news is that the opportunity cost of holding an ever-shorter duration bond portfolio continues to go down. Given the low rates at the front and long-end of the curve we could not stretch for yield even, if we wanted to. There isn’t any worthwhile yield out there to be.
+As such, we have a portfolio with the difference between what one would call action equivalence and longer-term fixed income instruments continues to diminish. That means that for all practical purposes we have a lot of cash and all of the options that go which such as deploying it at higher rates of return or chance to do so. It also means we’re protecting our balance sheet against the raising interest rates even more than last quarter and last year. You might recognize that the – sound of these comments, I remain convinced of that this is prudent way to manage the portfolio.
+In total, the comprehensive results of our insurance, investments, and Markel Ventures operations produced excellent results for your family so far this year. I’m excited as we continue a long-tem path of building one of the world’s great companies and we look forward to your questions.
+With that, Kathleen, if you’d open the mic for questions.
+Question-and-Answer Session
+Operator
+
+Thank you, sir. (Operator instructions). Our first question is coming from Adam Klauber of William Blair. Your line is live.
+Adam Klauber – William Blair
+
+Thanks. Good morning. – next quarter.
+Tom Gayner
+
+
+Hey, Adam.
+Adam Klauber – William Blair
+
+Couple of different questions. You mentioned that you are discontinuing a couple of lines in the ENS segment and A&H, some properties, some specialty, roughly, how big are those books of business and.
+Tom Gayner
+
+It was in the Specialty segment.
+Adam Klauber – William Blair
+
+Sorry Specialty...
+Tom Gayner
+
+We’re not exiting all. The couple of lines that we’re exiting Adam are very small.
+Adam Klauber – William Blair
+
+Okay.
+Mike Crowley
+
+The lands that we have for a while and we just don’t growing them. But also in the A&H segment, we’re exiting several lines that just haven’t been profitable for us, and we are shrinking our A&H because of that. But I don’t have the total in front of me.
+Adam Klauber – William Blair
+
+Okay. Okay. And so you think that process will be done by the end of this year or is that going to run into 2013?
+Mike Crowley
+
+Mostly, so. Some of lines we have not announced yet and that will happen over the course of next year. But those are the smaller lines. I mean, they are really small. But all of this is to improve our results and our loss ratio on the specialty business.
+Adam Klauber – William Blair
+
+Okay. And your accident year of loss ratios and catastrophes again were good and lower than last year, but sequentially they were up in the third quarter compared to the first half in the E&S and especially admitted, I guess why were they up a little.
+Mike Crowley
+
+I think that is primarily related to adjusting our profit sharing accrual in the third quarter. It’s just something we do each year. We’ll be looking at it again this year in the fourth quarter, given the storm that just occurred. But I think that’s what’s driving what you’re seeing.
+Adam Klauber – William Blair
+
+Okay. Makes sense. And then as far as – first, what sort of rate increases are you getting in that book of business and will that business be more profitable going forward do you think?
+Richie Whitt
+
+Yeah. The first comp is trending to exactly the way we wanted to trend and they are in the same boat. They’re getting 4% or 5% rate increases. But we’re also as I said in the last quarter call changing our geographic mix there. I mean, they’re on track to do exactly what we want them to do. They’re moving in the right direction. The trends are good. And then not only adjusting rate where they can, but they’re changing their geographic mix and we’re exiting in some areas where it’s not possible be in the contest.
+Adam Klauber – William Blair
+
+Okay. That was all my questions. Thank you.
+Richie Whitt
+
+Thank you.
+Tom Gayner
+
+Thanks.
+Operator
+
+(Operator instruction). Thanks you. Your next question is coming from Arash Soleimani from Stifel, Nicolaus. Your line is live.
+Arash Soleimani – Stifel Nicolaus
+
+Hi, Good morning.
+Tom Gayner
+
+Good morning.
+Arash Soleimani – Stifel Nicolaus
+
+Just a couple of questions here. I know you talked about rates are little bit. Looking at the CIB markets fell recently, looks they tick down. So my question is, is that just lumpiness or is that indicative of a trend that is going get your thoughts around that.
+Tom Gayner
+
+I would say its lumpiness. If you look at the CIB analysis and another analysis, there are taking down a little bit, but it was minor, it’s lumpy.
+Arash Soleimani – Stifel Nicolaus
+
+Okay. That’s fair. And then think you mentioned something about the tax rate for the first nine months, but looking at the third quarter, what was that attributable through the pretty low tax regime.
+Mike Crowley
+
+During this third quarter, we changed our estimates of, how much of our foreign income be taxed in the U.S, so basically, which is the part of the benefit have a lower rate in the quarter, which ultimately change the expected tax rates for the year downwards
+Arash Soleimani – Stifel Nicolaus
+
+And then just sort of that may be – but in terms of the Specialty business, going back to E&S, is that continuing? Is that slowing down or accelerating? I just wanted to get some thoughts around that.
+
+Mike Crowley
+
+In terms of what, the volume or the rate?
+Arash Soleimani – Stifel Nicolaus
+
+Just the volume.
+Mike Crowley
+
+Are you talked about the E&S segment or are you talking about those Specialty segment.
+Arash Soleimani – Stifel Nicolaus
+
+I’m sorry. Let me clarify. I was talked more about the Specialty carriers coming business back or letting the Specialty carriers handle that business more so than they have in the past.
+Richie Whitt
+
+The only way I can answer that is that we continue to be pleased with the submission counts that we’re getting, and obviously our ENS business is growing. Based on all of the business that we had, I attended a lot of myself at Nashville. We are very encouraged with our relationships with also brokers and we’re seeing some modest improvement there, business going back. It’s not a – something not a waterfall at this point.
+Arash Soleimani – Stifel Nicolaus
+
+Okay, great. Thank you so much for your time. Appreciate it.
+Operator
+
+Thank you. The next question is coming from Ron Bobman of Capital Returns.
+Ron Bobman – Capital Returns
+
+Hi, good morning. I had some Sandy E&S questions of a general nature. I was wondering if you could talk a little bit about the prevalence in – and I guess you started to use the world traditional E&S, but if there is sort of a core E&S product. How prevalent flood sub-limits appear in that blend of business for that sub-segment. And then also sort of BI, how often are there sort of constraints or limitations of coverage with respect to BI in core E&S commercial products? Thanks for your thoughts on that.
+Mike Crowley
+
+Well, Richie is going to jump in on this too, but a lot of it has to do with the payrolls obviously that are insured under our property policy. And if there is no flood coverage for the property, there is not going to be a different coverage for business interruption. It stands on the risk. We write some for, not a lot of. And our exposure is more wind.
+And I think, Ron, I think it’s going to be all across the board. I mean different people are going to do different things in terms of the flood sub-limits or the waiting period for the business interruptions, I mean it’s going to be all over the math but typically, as Mike said, there is no flood coverage for the properties. There will be no flood coverage for the BI and it all depends. If people do have flood coverage, there is usually pretty substantial deductibles on these policies. So it will be a different opinion on what the property is and who recovers it with.
+Ron Bobman – Capital Returns
+
+Is there anything uniform or common practice in the New York, New Jersey, Pennsylvania, ENS market whereby those policies as compared to other geographies had more or less flood sub limiting or...?
+Richie Whitt
+
+There’s really nothing standard in the business anywhere. I think that clearly you think that if you think it as the Southern East Coast or you think of earthquake in California, you tend to think that that’s a more of the area.
+Ron Bobman – Capital Returns
+
+At the more, what area?
+Richie Whitt
+
+More exposed area.
+Ron Bobman – Capital Returns
+
+Okay.
+Mike Crowley
+
+But in terms of, but there is not, there is just no standard. I mean clearly there is exposure in New York and New Jersey as we unfortunately found out. But everybody was there. It was just a matter of the frequency.
+Ron Bobman – Capital Returns
+
+Right. And if you kind of think where one ENS company may have had a more restrictive form or underwriting selection process.
+Mike Crowley
+
+I mean, certainly that could happen. I mean again there is no standard.
+Ron Bobman – Capital Returns
+
+And you have thoughts worth sharing on the topic of DI or flood in ENS or in the context of Sandy?
+Richie Whitt
+
+I think we’re all just going to have wait and see how – the situation’s obviously still developing. I mean the recovery efforts were delayed with recent storms. So I think it’s going to just take everybody a little while to deal with the actual situation end up being. I mean everybody has seen the numbers that industry numbers that people look in attempting to predict and I think most people feels those are going to continue to creek upward. We just going to – I think we all of us just need to let the people work on recovery, and let the claims come in and we’ll – how it looks like.
+
+Ron Bobman – Capital Returns
+
+Thanks to your part. Is it safe to assume that call the pressure or the appearance in personal lines with respect to storm sub-limits not being windstorm submit basically being deteriorated, is it safe to assume that we’re not going to place that in the commercial area in any form.
+Mike Crowley
+
+I would say it’s going to be – I mean everybody remembers in Katrina, there was obviously lots of rego action and the departments of insurance were active in terms of interpreting, helping to interpret what they thought coverage meant. So, I would suggest and I would assume that it would be a similar situation that you would see – you would see people trying to work through what the coverage is. So I expect a very similar sort of that situation there.
+Ron Bobman – Capital Returns
+
+All right. Thank you everybody. Best of luck.
+Mike Crowley
+
+Thanks.
+Tom Gayner
+
+Thanks.
+Operator
+
+Thank you. Our next question is coming from Ray Lardella of Macquarie.
+Ray Lardella – Macquarie
+
+Thanks and good morning to everyone. So just a follow up a little bit on the Sandy, I am not going to ask estimates or anything of that nature, just curious in terms of business segments. Do you think you have exposure on each one or is the discretion in the embedded market, not going to have any exposure, I am assuming that the answer is no.
+Tom Gayner
+
+Yeah, we’ll have exposure in each of our segments.
+Ray Lardella – Macquarie
+
+Okay. Thanks. And then I know, Tom, you mentioned, the amount of cash you guys have, just curious on I know you’ve been a little bit acquisitive in the Markel Venture side. But just curious in terms of two on the insurance side, how was the M&A environment looking this is?
+Mike Crowley
+
+Well, I would say on the insurance side, it’s normal. I mean we see things. We have things presented to us. And as we have said on this call before, we may look at 10 or 15 or 20 things before we find one that we plan one that quite find attractive and then of course then it’s a matter of can we do a deal that needs our return results requirements.
+Richie Whitt
+
+And I would echo Mike’s comments. I mean in terms of the acquisition environment, fortunately Markel has become a well known acquirer of insurance and other businesses. So as a consequence, we did a lot of inbound phone calls and the good news about that is to find the one as you really wanted to. It helps to look at a lot, and you don’t just been part of the flows, it’s very helpful and we continue to see robust for.
+Ray Lardella – Macquarie
+
+Okay. That’s helpful. I mean in terms of return requirements, is there any sort of benchmark that we should be thinking about when you guys look at acquisitions.
+Richie Whitt
+
+Well, before we would lay out of dollar of capital that we have any discussion about at all and this would be the public equity investment portfolio, looking at insurance committee deal, looking at a non-insurance committee deal. It’s got to start with double digit for us to, if we willing to expand capital and that remains the case.
+Ray Lardella – Macquarie
+
+Okay. That’s helpful. Thank you again.
+Operator
+
+Thank you. Your next question is coming from John Fox, Fenimore. Your line is open.
+John Fox – Fenimore
+
+Yeah, good morning everyone.
+Tom Gayner
+
+Hi, John.
+Mike Crowley
+
+Hi, John.
+John Fox – Fenimore
+
+Two questions and a comment. Did I miss in London, I am reading this correct, the growth rate and premium was down, could you comment on that?
+Mike Crowley
+
+It’s down a little bit in the third quarter, John. I mean it’s up year-to-date.
+John Fox – Fenimore
+
+Right.
+Mike Crowley
+
+But we have been doing some acquisitions and opening offices over the last several years and so I mean I think we have kind of gotten to a sort of steady state in London now and as I said, we have had some nice growth in the (property and the marine and energy but the other side of that is we’ve had a little bit of shrinkage on some of our professional liability lines because as I was saying there’s still – we have a competitor there.
+
+John Fox – Fenimore
+
+Okay yeah, I just sort of saw what kind of general lift in rates there would be. I mean, am I being too optimistic or are the rate increases are not that great or?
+Richie Whitt
+
+No, we’re still getting – we’re still seeing rate increases. The other thing and Mike pointed out is we did discontinue our U.S. binding property earlier in the year, so that that obviously is impacting it a little bit, but there is no concern there. It’s sort of what we would have expected for the third quarter.
+John Fox – Fenimore
+
+Okay. And then I know you guys talk year-to-date, but I have another question on the third quarter. And if I’m doing this correct with your accounting change but the expense ratio looked higher than it has been, and I’m just using the $225 million?
+Tom Gayner
+
+Yes, John again I think that’s the profit-sharing accrual, the incentive comp accrual increase that we did in the third quarter.
+John Fox – Fenimore
+
+Okay.
+Tom Gayner
+
+Yeah John, and this is something that’s probably worth just talking about for everybody.
+John Fox – Fenimore
+
+Okay.
+Tom Gayner
+
+So we have pretty – we have had a very nice prior-year redundancies come through this year. We pay out our profit-sharing to the underwriters as the year develops. So as we have more favorable developments, we increase the profit-sharing accrual. So that prior year development it’s wonderful when it comes through, but it has an impact on the current year expense ratio when we have to put of the bonus accruals. We know how to do that.
+John Fox – Fenimore
+
+Yeah, that’s terrific. Okay, and the comment with Tom Gayner, the 10-year treasury yields was decline 1 basis point since the end of the quarter, Tom.
+Tom Gayner
+
+Well, the rate of change is slowing there.
+John Fox – Fenimore
+
+That’s one. Thank you.
+Tom Gayner
+
+Thank you.
+Operator
+
+Thank you. Our next question is coming from Scott Heleniak of RBC Capital Markets.
+Scott Heleniak – RBC Capital Markets
+
+Yeah, good morning.
+Tom Gayner
+
+Good morning, Scott.
+Scott Heleniak – RBC Capital Markets
+
+Just wondering if you’re having any other details on the – acquisition you made. I’m assuming that’s an MGA you convert to Hagerty to premiums, but can you talk about, what kind of size that might be?
+Mike Crowley
+
+We always think that we have said that if you look at Hagerty for 2011 essentially was for the that we’re acquiring a Shell company there essentially it was Hagerty business in their previous carrier and they had $170 million in that entity in 2011.
+Scott Heleniak – RBC Capital Markets
+
+Okay. And how much of that you plan to keep? I don’t know if you’re going to talk about
+Mike Crowley
+
+Hagerty is a growing business.
+Scott Heleniak – RBC Capital Markets
+
+Okay. All right. Fair enough. And then I wanted to talk to that’s just about the pricing environment some of the competitors has talked about how they expect rates to increase pretty significantly next year in the north east just because of what we’re seeing with Sandy on property. Do you, do you see that acquiring out and if so do you think that has any kind of staying power?
+Mike Crowley
+
+I think we have to wait and see as I’ve said in my earlier comments obviously I can understand what somebody would say that.
+Tom Gayner
+
+All right but we are expecting, right now we are expecting the same kind of rate environment in 2013 that we’ve seen so far in 2012 and we’re planning accordingly.
+Scott Heleniak – RBC Capital Markets
+
+Okay. And then just the final question I had was just on Markel Ventures, I think the target that you gave few years ago was to reach – sure reach $500 billion. You are kind of running almost at that run rate, $500 million in revenue and I’m just wondering if there is a particular target where you see that going in the next sort of 5 to 10 years or longer term?
+Tom Gayner
+
+
+Well, the real target is to layout capital and produced double-digit returns for having done so, and to do that in a claw, walk, run fashion and we continue to do that. You are correct, the run rate of revenue is probably north of $500 million at this point. We continue to see opportunity and we’re pleased in large part with the way the businesses are running and developing. We’re also learning lessons as we go along and we will continue to be prudent and if I look at the 5 or 10 years I am certainly expecting to be a bigger business but that will come in lumps depending on our skills and the opportunities we see.
+Scott Heleniak – RBC Capital Markets
+
+All right. Thanks.
+Operator
+
+Thank you. Our next question is coming from Jay Cohen, Bank of America Merrill Lynch. Your line is live.
+Joe Cohen – Bank of America Merrill Lynch
+
+Yeah, thank you. A couple of questions, I guess, if you could break out in the international business, what – roughly, what percent of that business would be catastrophe reinsurance?
+Mike Crowley
+
+Well, catastrophe reinsurance is probably about $60 million, $70 million book of business.
+Joe Cohen – Bank of America Merrill Lynch
+
+That’s very helpful. Thank you. And then secondly, obviously the ventures earnings, it’s a relatively new business that’s growing, it’s hard to pin down quarter-to-quarter from our standpoint. There does seem to be just looking the last two to three years some seasonality where the third quarter seems to be bigger from an earnings standpoint. Am I reading too much into this?
+Tom Gayner
+
+Well, a little bit. We do have one business that is very concentrated in the third quarter, but it’s small. I mean that’s our dorm room furniture businesses for colleges and universities. We can think about when students are out of school that is when we scramble and put everything in place and send them the bills, so the biggest chunk of our earnings is indeed concentrating in the third quarter, but that is a relatively small business. The other factor is just sort of a luck of a draw over the last couple of years, the capital equipment business by definition is a lumpy business and we’ve just happened to hit on some larger orders during the third quarter, but I wouldn’t assign seasonality to those factors.
+Joe Cohen – Bank of America Merrill Lynch
+
+Got it. That’s helpful. Thanks Tom.
+Operator
+
+Thank you. Your next question is coming from David West of Davenport & Company.
+David West – Davenport & Company
+
+Good morning.
+Tom Gayner
+
+Hi, David.
+Anne Waleski
+
+Good morning.
+David West – Davenport & Company
+
+Mike, one for you first on your comment from the casualty environment, you described it as competitive. Do we infer from that that rates are flat or are you getting any rate increase at all?
+Mike Crowley
+
+We’re still getting modest single digit rate increases there. It’s just more competitive I think than maybe some of the property lines this year, but we are getting rate increases there though.
+David West – Davenport & Company
+
+Okay. All right. Very good. Thanks for that clarification. And Tom, just looking at ventures, the EBITDA margin year-to-date is running about 12% versus 15% last year. I guess given your pretty conservative nature, they way you look things at Markel and account of them, as you’re being inquisitive should you expect some pressure on the EBITDA margin with Ventures.
+Mike Crowley
+
+No, not really, I mean the businesses that we look at typically they have to be double-digit EBITDA margins to be attractive to us. So, some businesses will have higher EBITDA margins, often times they have a lower higher capital spending requirements, so you sort of net that out. I mean, I’m looking at the true cash returns that as a general rule I want double-digit EBITDA margins and would not – may not be disappointed if I give a lot of that.
+
+David West – Davenport & Company
+
+Thank you so much.
+Operator
+
+Thank you. Our next question is from (inaudible) of KBW.
+Unidentified Analyst
+
+Good morning. I just have one question on reinsurance. I know you’re not heavy users of reinsurance at all, but just curious if you can tell us what type of property cat reinsurance coverage you have.
+Mike Crowley
+
+Well, we have several key reinsurance around property tax and so it’s a little hard to kind of give you a summary of that. One of the things you can do invest in their reports they could kind of a quick and – profile of the reinsurance and that might be worth looking at. But basically we have those risk insurance so, for example, we have some share on some of those business we have some excess loss reinsurance it will come into play, and then we buy tax reinsurance which or the majority of that business cash is at about a $100 million and then we will participate to some extend later that it goes it. But it’s not as easy telling we’ve got one tower, we have various towers and we have various heights of reinsurance both risk and cap that will respond.
+Unidentified Analyst
+
+Okay. Thanks.
+Operator
+
+(Operator Instructions). I am sorry. No further questions coming into queue at this time.
+Tom Gayner
+
+All right. Well, with that, thank you very much for joining us. We’d look forward to seeing you around the neighborhood. Take care.
+Operator
+
+Thank you, ladies and gentlemen. It does conclude today’s teleconference. You may disconnect your lines at this time. And thank you for your participation.

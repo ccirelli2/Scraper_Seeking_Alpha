@@ -1,0 +1,172 @@
+SMTC Corporation (NASDAQ:SMTX) Q3 2012 Earnings Call November  8, 2012  8:30 AM ET
+Executives
+Claude Germain – Co-President, Co-Chief Executive Officer, Director
+Alex Hugh Walker – Co-President, Co-Chief Executive Officer, Interim Chief Financial Officer, Director
+Analysts
+Zack Buckley – Buckley Capital Partners
+
+Alex Hugh Walker 
+Good afternoon. I would like to welcome everyone to SMTC’s third quarter earnings call. Joining me today is my Co-Chief Executive Officer, Claude Germain. 
+I’d like to remind everybody that this presentation includes statements about expected future events and financial results that are forward-looking in nature and subject to risks and uncertainties. The Company cautions that actual performance will be affected by a number of factors, many of which are beyond the Company’s control, and that future events and results may vary substantially from what the Company currently foresees. Discussion of the various factors that may affect future results is contained in the Company’s Annual Report on Form 10-K; on Form 10-Q and subsequent reports on Form 8-K and our other filings with the Securities and Exchange Commission and SEDAR. 
+For our agenda today, we will first cover our third quarter results; we will provide closing comments, which will then be followed by a question and answer period. 
+As you can see from our press release issued earlier today, results for the third quarter were much stronger than last year, although weaker sequentially. Revenues were $75.6 million, a slight increase from the second quarter of this year, and a 71% increase over the same period last year. 
+Gross margins were $6.0 million or 7.9%. This compares to $3.7 million or 8.4% in the third quarter of 2011 and $7.3 million or 9.7% in the second quarter of 2012. Adjusted EBITDA for the quarter was $2.6 million, compared to $0.7 million in the third quarter of 2011, and $4.3 million in the second quarter 2012. Third quarter results have been impacted by a number of factors that include: 
+a. $620 thousand in non-recurring acquisition and transition costs related to the acquisition of assets from Alco Electronics 
+b. $300 thousand in severances and terminations incurred in response to reduced revenue levels in our Canadian manufacturing operation 
+c. $1.1 million in unrealized gains from foreign currency forward contracts 
+Adjusted EPS for the quarter was $0.08, and benefited $0.02/share from a non-recurring $360 thousand tax recovery for taxes paid in 2011 and 2012. This compares to a loss of $0.09 in the third quarter of 2011, and a profit of $0.17 in the second quarter 2012. 
+Inventory levels decreased during the quarter to $56 million from $61 million last quarter leading to improved turns. Our inventory performance has improved over last quarter, and we are continuing to press hard on initiatives to optimize this going forward. 
+Accounts receivable levels increased during the quarter to $42 million from $40 million last quarter. This increase was largely due to $4.6 million of Q3 receivables that were collected shortly after quarter end. This timing issue on collections resulted in the net debt level increase from the prior quarter. AR days were 51 days verses 48 days in the previous quarter. We have implemented several initiatives aimed at improving collections performance such as EDI and ACH with major customers, and anticipate improvement in our AR performance going forward. Accounts payable were $43 million, a decrease from $48 million last quarter. AP days decreased to 56 days from 65 days in the previous quarter. 
+Capital investments were $0.5 million in the quarter, down from $2.3 million in the previous quarter. 
+Bank debt net of cash increased by $3.5 million to $28.9 million, up from $25.4 million in the second quarter mainly due to the timing of receivable collections mentioned previously. It is worth noting that our bank debt at this time is approximately $15 million higher than we had anticipated coming into 2012. Higher growth rates (and the requisite investment in working capital to accommodate the growth) account for approximately $9 million of this increase, the remainder; approximately $6.0 million is a result of working capital inefficiencies which we continue to address. 
+
+With that, I will now turn the call over to my Co-Chief Executive Officer, Claude Germain. 
+Claude Germain
+ 
+At a high level, the quarter was notable for the following.
+ 
+Revenues for the quarter were 71% higher compared to the same quarter last year and for the full year in 2012 will be at their highest levels in 10 years. Our strong revenues are projected to continue into Q4. The significant increase in our revenue is due primarily to 3 factors:
+ 
+Achieving our organic growth target of 5% YOY coming from new customers We anticipate reaching our objective of adding 8+ new customers in 2012 
+Increased share of wallet gains from our existing customers 
+New revenues as a result of our ZF Array acquisition 
+Overall, our third quarter margins were weaker than expected. Although they were affected by several one-time charges mentioned by Alex, they were also negatively impacted by a record number of New Program Introductions across our plants. This new business comes with higher manufacturing complexity, and typically higher costs at the outset; we are working through this and expect improved margins on these programs going forward. Along with this, we are executing several manufacturing initiatives aimed at increasing efficiencies in our largest operation in Mexico. We are also reviewing our Canadian operations in order to improve profitability. With these changes, we expect our margins to recover in the fourth quarter. 
+We announced the purchase of the Seksun Array Electronics assets, located on Suzhou, China. These assets will cost approximately $2.0 million, and will be funded through seller financing and our existing banking facility. We expect it to be immediately accretive and to close in late Q4. 
+Looking forward, and barring a macroeconomic slowdown or any effects from Hurricane Sandy, we are guiding the fourth quarter to have an adjusted EBITDA of between $3.0 and $3.5 million on revenues between $70 and $77 million. Via improvements in cash cycle days, we are also guiding to have bank debt net of cash within our guidelines of 1.5 times trailing 12 month EBITDA by year end. 
+For the year, we are narrowing our 2012 adjusted EBITDA guidance from $14 - $16 million to $14 - $15 million, up from actual $9.3 million in 2011; and we are narrowing 2012 adjusted EPS guidance from $0.53 - $0.65 to $0.50 - $0.55, up from actual $0.07 in 2011. 
+In summary, 2012 is unfolding largely within our guidance, and has shown that our strong focus on our core strategic initiatives is having a significant impact on the company, and has helped dramatically increase our profitability. At this point, we expect 2013 to have similar adjusted EBITDA to what we presented in 2012. Strategically, we remain focused on increasing shareholder value through margin improvements, steady cash flow generation, diversified organic growth and M&A. 
+I will now turn the call back to Alex.
+ 
+Alex Hugh Walker 
+Thanks Claude, with that, we will open the call for any questions. 
+
+Question-and-Answer Session
+Operator
+(Operator Instructions) We have a question from Zack Buckley of Buckley Capital Partners. Your line is open.
+Zack Buckley – Buckley Capital Partners
+Hey guys, congrats on the quarter.
+Alex Hugh Walker
+Thanks Zack.
+Zack Buckley – Buckley Capital Partners
+I was curious to learn a little bit more about the inventory situation in terms of, are you taking on customer inventory and then sort of additional debt, with that customer inventory and that sort of only for a few quarters.
+Alex Hugh Walker
+At a high level, yeah, I guess that’s the answer, whenever we bring on a new customer have increases in customer revenue, we obviously get a requisite increase in inventory that we need to take on in order to service that, there is usually bit of a bubble as we bring in inventory and then we satisfy that revenue in the next quarter, we never actually acquire or rarely ever acquire inventory from a customer unless we need it to satisfy immediate orders that are happening.
+
+Zack Buckley – Buckley Capital Partners
+All right, and my understanding is that customers are contractually responsible for that inventory. Is that correct?
+Alex Hugh Walker
+Yes.
+Zack Buckley – Buckley Capital Partners
+Okay. So in essence, your net debt is actually lower than what it looks like when you factor in and you’re taking on that (inaudible), but it’s essentially sort of non-recourse to you since they are contractually responsible for it?
+Alex Hugh Walker
+Yeah. You can always view it, some times we like to view it as traditional manufacturers, you have receivables and you have inventories. Given sort of back to back on the contracts although there is some new ones is a below that treat receivables slight different, you can almost look at our inventory like a receivable from the prospect.
+Zack Buckley – Buckley Capital Partners
+Okay.
+Alex Hugh Walker
+
+In other way, we often say that customers are temporarily parking their balance sheet on our balance sheet. but again, as Steve mentioned they are contractualy obligated to take it?
+Zack Buckley – Buckley Capital Partners
+So what would be the number that I can reduce the debt by factor for that?
+Alex Hugh Walker
+Well, you’d have to look at I mean, I guess, depending on the way we want to take about Zack, I mean you look at our inventory number, which was 56, I’m sorry at quarter end, essentially there is obviously some of that that we reserve for but essentially the lions share of that is all inventory that we have acquired pursuant to a customer purchase orders. and they are contractually obligated to either order the product and burn it off or over time, they don’t do that to actually write us a check for it. So I don’t know whether you want to do that analysis but that’s sort of the way it looks.
+Zack Buckley – Buckley Capital Partners
+Yeah. Maybe the increase in the debt, sorry the increase in the inventory this year may be up a function or I would take that after long-term debt that we have essentially?
+Alex Hugh Walker
+Yeah. It’s certainly our objective to and we do have some inefficiencies in our inventory and I addressed that a little bit earlier. It’s our objective to continue to work our operating initiatives around that, but to the large part, a CM like us when it grows, it consumes cash and a lot of that is an inventory and receivables although we obviously work the offset on the table. And as we flat line or if our growth is more along the lines of our long-term guidance of 10%, you’ll see that we kind of catch up and we start kicking off, more cash than we are consuming.
+Zack Buckley – Buckley Capital Partners
+Okay, okay. That’s helpful. Thanks a lot.
+Alex Hugh Walker
+You bet.
+Operator
+Thank you. The next question is from [Neil Finn], shareholder. Your line is open.
+Unidentified Analyst
+Yes. Thanks for taking my call. As I actually had a couple, what was the outcome of the announcements you made back at the end of August about letting shareholders opt in under the criteria you listed to exceed 5% ownership. How many people, how many firms or funds pursue that or signed on to that if any?
+Alex Hugh Walker
+One.
+Unidentified Analyst
+One in addition to the group you mentioned in the news release that already agreed to lock up their shares.
+Alex Hugh Walker
+Correct.
+Unidentified Analyst
+Okay, I believe.
+Alex Hugh Walker
+That’s right.
+Alex Hugh Walker
+Yeah, that’s right.
+Unidentified Analyst
+So Red Hawk was the one that was the only one.
+Alex Hugh Walker
+No, there was one on top of so, Red Hawk obviously is already over 5%.
+Unidentified Analyst
+Okay and then so one additional group hasn’t done that.
+Alex Hugh Walker
+Yes.
+Unidentified Analyst
+Okay, on the new customer account, did you pick up any new customer since the last call and you’ve talked a little bit in the past about kind of your land and expand strategy, could you maybe without giving a customer name could you pick one or two of what you think are the most significant wins this year and walk us through what the initial contract amounts before and how you either grown those through the year or why do you think the potential is to grow those over the coming 6 to 12 months so we can get a little bit of an understanding of what I take is the pain of bringing a new customer in with a higher cost and low margins but trying to as the news release says work through it.
+
+Alex Hugh Walker
+Let me first make a distinction between new customers which we refer to as NCI or new customer introduction and NPI which is new program introduction. When we refer to NPI, we refer to growth from existing accounts, so it’s new programs from existing customers.
+And so we’ve benefited in kind of just reverse engineer the growth that we had year-over-year, you will see that we’ve declared that 5% of that growth is coming from NCI so therefore since we had substantially greater than 5% growth, a lot of its’ coming from growth, from existing customers or NPIs, and so when we say that we have had a record number of NPIs across our system in Q3, as it becomes we are benefitting from a lot of new programs from existing customers hitting our plans and now the economics are really the same for both when you have a new program introduction or when you have a new customer introduction in both cases there is inherent inefficiencies that in a start up as the designs are getting stabilized, as your supply chain is getting organized. So you’re investing into the relationship.
+Those costs are somewhat offset by our engineering charges that we’ve negotiated upfront with existing and or new customers. But in the main we are not the kind of company that prices NPI or NCI separately. We typically price on the understanding and the contractual understanding that we’ll get the volume of these programs are ramping over a multi year period.
+There are other companies out there that specialize only in prototyping or only in doing short run quick turnaround new program introductions and that’s not us. Right, we introduce the programs and then we ramp them for scale. So inevitably when you grow you are going to be absorbing some inefficiencies at the front end as you bring these programs on, should be economics of the life cycle of the program.
+Specifically to your question on new customers, since the last quarter, we have added three and I think as I mentioned in the last quarter we’d love to announce these customer win specifically and there will be a few press releases coming out in the future, as our customers allow us to do so. The reason there is a delay is often because there is another CM involved. And for a variety of reasons it makes no sense for either parties to get too eager to kind of press the go button on the marketing around the new customer introduction.
+To give you specific examples with out naming names we have secured business with our European OEM and industrial OEM, and by the way very consistent with our focus if you recall from previous calls, our focus is midmarket, industrial OEMs who have international requirements, that’s really our sweet spot, and our proposition of being a company that has Tier 1 like capabilities, but the flexibility to deploy them like a Tier 2 is very much what attracts these folks there, too small themselves to be able to being our business to a Tier 1, so somebody like us with a global footprint, a global supply chain, strong engineering is a good fit for them.
+So back to this example, we have an example of an industrial OEM, based in Europe, that is moving more of its business to China. As you can see from our recent announcements we are investing in China, we’re believers in China, and that we’ve picked up contracts to move their existing Chinese business from a Chinese based OEM to our facilities.
+And when you announce something like that and when you get into the negotiations or though you win the customer this year, they can often take three months to six months to move the entire supply chain over to get your plant properly qualified to get the engineers think backward all the specific requests for engineering changes, which reflects your equipment setup.
+
+And so you don’t really see revenues ramping up or beginning to ramp up for another two quarters. So that\'s a classic example of the kind of customers that we are winning out there. We have quite a few others, I can give you example for, but I mean, I suppose that answers your question.
+Unidentified Analyst
+Okay. And sticking on that for just a minute, on the competitive landscape I mean can you give us just a little color on what the competitive landscape is now versus say a year-ago, and when you guys make the shortlist, who you are seeing most often and what is it other than price when you are dealing with your peer group, and the competitors that you are in the beauty contest with or what is it that really is determining whether you win the work or it goes to one of your competitors?
+Alex Hugh Walker
+Yeah, it\'s definitely not price, price alone get you so far, so but first of all maybe answer your question, which three kind of quick data points. So first one is a competitive landscape up there, is one where there is overcapacity? The industry itself is not having a particularly good year. There\'s only a few companies such as SMTC that are growing and certainly as we are growing very quickly.
+Depending on which trade magazine you read, you take a look at quarter-over-quarter growth is actually down, so there is spare capacity, and of course that spread of spare capacity it means that some of the players out there are prone to lunching low price bids, but try to this large existing programs in order to fill that your utilization. So obviously we are very concerned to watching that very carefully.
+But I get back to the notion of price, price is non often the only determining factor. There is lot of other things that play, and that play into our value proposition. One is your global supply chain. The ability for you to be flexible to a customer, which is the ability to ramp up or ramp down your supply chain to meet their specific forecasting, is very important to a lot OEMs.
+And so I would chock that up to flexibility, and a global footprint on the supply chain, that often trumps pricing. Same goes with your global footprint, the fact that you can present to them, and ability to bring their programs to other jurisdictions, which I believe our cost over time is also very appealing.
+And finally and most importantly is account management, and account management is the necessarily the philosophy of just having a sales person entertain existing customer. Account management is the philosophy of continuous improvement where you have a big investment and the best possible talent in front of the customer that drive continued improvement, which we typically deploy to value engineering. And it’s that kind of philosophy, but when our customer understands that your relationship with them today will be very different than the relationship you have with them tomorrow, because you are going through account management a lot of value to the relationship.
+Those are the factors that often jump upfront pricing. So don’t [getting] wrong, when you do a bid, you have to be in the ballpark on pricing. Typically you’ll start with five or six guys, till now it sounded two or three guys. The guy that wins among those two or three is the guy that can demonstrate those attributes that I’ve just spoken about. We will make the difference tomorrow. And our customers are sophisticated enough not to make a decision purely based on price. They will often make it on those intangibles that carry the day.
+So to sum up, the competitive landscape is one of the few guys growing right now. But one of the way that we can sustain to some extent are 10% long term organic growth target. This is clearly to account management.
+Unidentified Analyst
+
+Okay. That’s very helpful. And my final question, then I’ll get off the line. I’m not aware or haven’t seen any announcements about you are being at conferences, webcasting, I don’t know that there is independent analyst coverage. Could you just very briefly walk us through what it is you guys are doing on the Investor Relations front and what if any plans you have to kick it up or not through to the next year. Thank you, and I will get off the phone.
+Claude Germain
+
+Alex let me take the start and please jumping after me. I’ll quickly say that we’ve heard an Investor Relations firm two quarters ago that given us a really good head start in terms of regular calls to new investors and this is a bit like sales where you initiate a call, you initiate a relationship that begin watching your performance relative to what you said you are going to do. I mean obviously you follow-up and hope it will eventually be a shareholder. So that’s been the current process before combine with select target to conferences that we are trying to attend next year there is not too slated right now.
+As it relates to kind of a more progressive or active Investor Relations we’re also look philosophy that our performance and our focus on performance on margin improvement, cash flow generation and diversified organic growth should attract investors in and of itself, so you will find us spending a lot – go lot more attention units on that. Alex?
+Alex Walker
+That’s great.
+Unidentified Analyst
+
+Hey, thank you.
+Operator
+Thank you. (Operator Instructions) We have a question from Michael Toman, a private investor. Your line is open.
+Unidentified Analyst
+Hi, there. Thanks for taking my call. As a long term shareholder here, we seem from a conference call to conference call, our share price regardless of good quarter, bad quarter, average quarter, we seem to fall in price because as a shareholder we don’t get a lot of news, we don’t see like from the last call to this call, we don’t see any news about new customers, we didn’t see any news about Medizone. I just see somewhat of a lack of transparency. I’ll sit back and listen to your response. Thank you.
+Alex Walker
+
+I guess Claude addressed the issue with when we do and whether we can announce new customer wins and believe you may, we would – of the new wins that we’ve announced this year, we will be the most anxious to announced those. So we can get the market excited about it. I think as Claude mentioned as well, we have Investor Relations firm where we do reach calls, we do attend conferences and we’d regularly attend the conferences like Sidoti in New York. We’re doing probably what an appropriate level of outage needs to be for a firm our size. As well, we’re always interested in fielding cost directly from any investors and are happy to do so.
+Our philosophy frankly is that the numbers that we put up in our earnings and our debt reduction are really what are going to get shareholders excited. Now the company has historically not shown a good track record with having reliable, repeatable, reasonable earnings and reasonable cash flow generation. and what we’re trying to do is quarter-to-quarter smooth out earnings, smooth out cash flow generation and show a repeatable reliable performance.
+We frankly feel that if we can do that over the medium term, we should be able to see increases in our share price. and that’s really our philosophy, and we’re just transparent about that as we can be, we talked about, we’ve instituted guidance, which has never been done before in this company at least not in the last decade, both on earnings, on revenue, on debt levels. We tend to be quite transparent on what’s happening within our margins and our operations. to the extent, that’s not adequate, we do feel that a lot of calls from investors to talk about it in more detail.
+
+Alex Hugh Walker
+Yeah. and I do appreciate the guidance, also as prior to you guys taking over. We would go from quarter-to-quarter and the only thing we did, know the actual results and we would get a take off hand or slap in the face from the quarterly earnings, and it’s just like wow. but we do somehow about 90 days, a very little news, and we definitely have a great quarter. Our share price just seems to kind of lower down.
+Unidentified Analyst
+Alright.
+Claude Germain
+
+Let me say something with two quick points. I wanted to close on what you mentioned about Medizone as well. So let me talk about two things, one is at a broader level and I always remember that credit is the biggest risk that our company has, and our credit policy tends to be very tough. So if we find that a customer for whatever reason is exhibiting a balance sheet, we’re just talking his comfortable and if we recall the previous question on inventory, customers are contractually obligated to take that inventory to qualify there is, they have to be credit worthy. And so that is our biggest risk. so again, we tend to be very fast on credit policy, and as a result, sometimes that can break a relationship. And something, we’re very conscious of it, something we’re not willing to trade off. In other words, we’re not willing to trade off having higher growth rate with what we lose our credit policies.
+As it relates to the notion of the stock, shifting down with its good news or even I think, I would reinforce what Alex said, we talked to so many shareholders. And the number one message we get is the lighter direction need to see a longer run rate of consistency for us to be true believer. And so that’s really our focus. Our focus is to continue to generate stable and consistent earnings. Although there will be ups and downs, inevitable ups and downs. but over the long-term to have that 10% top line CAGR and the economics to follow, and we will be collectively and we have the long-term shareholder as well. We will all be rewarded. So that discipline that we’re very focused on.
+Unidentified Analyst
+Good answer on Medizone after, and the news that we will no longer associate it. I did a little research myself and your answer, I’ll be redundant, it was a great answer. I’m quite glad that we no longer are associated actually. And thank you. And I’ll hand off and sit back for the rest of the call.
+Alex Hugh Walker
+Thank you.
+Operator
+(Operator Instructions) I am not showing any further questions at this time.
+Alex Hugh Walker
+Okay, great. Well, thanks for attending the call and we look forward to speaking you to everybody in our 2012 Q4 earnings call, which I guess is in March of next year.
+Claude Germain
+And hopefully we have some press releases in between.
+Alex Hugh Walker
+Okay. Thank you, bye.
+Operator
+
+Ladies and gentlemen, this concludes today’s program. You may now disconnect. Good day.

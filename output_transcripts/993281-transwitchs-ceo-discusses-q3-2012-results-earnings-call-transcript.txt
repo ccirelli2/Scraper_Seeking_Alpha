@@ -1,0 +1,241 @@
+TranSwitch Corporation (TXCC) Q3 2012 Earnings Call November  8, 2012  5:30 PM ET
+Executives
+
+Mary Lombardo – IR
+Richard J. Lynch – Chairman of the Board
+Ali Khatibzadeh - President and CEO
+Robert Bosi - VP and CFO
+Analysts
+
+Richard Shannon - Craig-Hallum Capital
+Ryan Macdonald – Northland Sec
+Mark Staffold – Stafford Capital
+Shepard Davis – Private Investor
+Michael (Moore) – Private Investor
+Quinn Bolton - Needham & Company
+Richard Shannon - Craig-Hallum Capital
+Walter Schenker - MAZ Partners
+Paul Berghaus - Cornerstone Asset Management
+
+Operator
+Good day everyone, welcome to the TranSwitch Third Quarter 2012 Earnings Release Conference. Today’s call is being recorded. At this time for opening remarks and introduction, I would like to turn the call over to Mary Lombardo. Please go ahead, madam.
+
+Mary Lombardo - IR
+Thank you. Good afternoon. With me today are Mr. Richard Lynch, our Chairman of the Board, Dr. Ali Khatibzadeh, our President and CEO; and Mr. Robert Bosi, our CFO.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TranSwitch’s results to differ materially from management’s current expectation. We encourage you to review the Safe Harbor statements contained in the earnings release published today as well as TranSwitch’s most recent SEC filings for a more complete description.
+Before we more to the discussion of the company’s results, I wanted to introduce everyone to Mr. Richard Lynch, who became TranSwitch’s Chairman in July. Mr. Lynch was previously the Chief Technology Officer for Verizon Communication until December of last year. I will now hand the call over to Mr. Lynch, for some introductory remarks. 
+Richard Lynch – Chairman of the Board
+
+Okay, thank you, Mary, and good afternoon to everyone on the call. I’m sure that for many of you, my being on here is a surprise, but on the other hand I thought it was important that I speak to you.
+I think most of you the board asked me to assume the Chairmanship of this company about four months ago. First of all, I’d like to thank the board for their confidence in me. After all, I am the newest member of the board.
+I’d also like to recognize and thank Jerry Montry, who stirred the company through some difficult times. And I’m pleased to say he continues to serve on the board, and continues in his committee assignments.
+While I only intend these remarks to take a couple of minutes, I want to cover a lot of ground, and I think the best way to do that is to be direct and blunt. For those of you that know me, you know that’s my style.
+People often ask me why I would join the board of a company that seems like performance curve that TranSwitch has seen over the last few years. My answer is that after looking at the turnaround plans, route is the irony in new and entirely different line of business. While one in which the company has developed significant technology and owns important intellectual property. I saw a real opportunity.
+The seed had already been planted, but a lot of apparent feeding was still required. I believed then, as I do now that those opportunities are real, and I can contribute in important ways to that necessary care and feeding.
+So that’s what I’m trying to do with the support of both the board and management. And I have talked to many of our major shareholders over the last few months. I appreciate the support that they’ve given me as well. 
+Let me start with our overall outlook. The technology and products that initially made this company successful, underlined our leading-edge and the revenue from them will continue to diminish as we’ve seen happening these last couple of years.
+For some time all ready, management has been directing resources away from these legacy products and put on our new video products. And I think they have made a wise choice in deciding a few months ago to announce the harvesting of these older product lines.
+
+But the thing management even earlier, and was even more consequence was to assent our core technological confidence and recognize we have a great opportunity in video. As any trend report will tell you, and as you probably know intuitively through Microplace observation, the greatest growth engine in a consumer electronics space today is all around video.
+With every new cycle of product development, video becomes even more important distinguishing characteristics, and even better forms of video interconnectivity are an expectation. In that sense, I believe that the video interconnecting industry is somewhat a greenfield opportunity for us. And at the industry is only beginning to have the opportunity in future requirements.
+We at TranSwitch have a unique leading-edge technology as well as ownership of the important and alliance intellectual property, to carve a unique niche in this marketplace. With our latest in business continuing to receive, we are essentially a start-up company in the suit of a public company.
+If we were to be a privately funded startup, we’d be looked upon as performing well on a timeline expectations of a startup, but we are a public company and our shareholders have legitimate expectations of quarterly performance.
+When we still had significant revenue from our legacy products, we’re able to internally fund most of our new product development. That opportunity has diminished as our legacy revenue has diminished. Now we find ourselves at the payer end of that legacy revenue stream, just as our new products are starting to achieve marketplace traction.
+We have been and will continue to struggle for a couple more quarters before our new revenue stream offsets the inherent run rate of our operations. But the orders that we’ve received recently was the opportunity funnel continuing to grow, management’s projection of break even and profitability I think are more believable now than we might have thought just a few months ago.
+I’m not going to recite all of the changes that have been made in the last few months, but we have clearly developed a lower baseline expense runway. We’ve adjusted focus from solely technical product definition in development, so a much greater emphasis on sales.
+We’ve recognized the funding gap we have until future breakeven and have looked at ways to close that gap such as patent sales. They do not create an excessive reliance on the diluted funding mechanisms.
+I hope you see from today’s results report that we have some positive impact on our result. Of course we’re not happy with them, but they do show the positive impacts of the steps we take. I’ll leave the projections to Ali, but I fully anticipate the kind of improvement to be visible in our fourth quarter results and then going forward. 
+So I’m going to make another point or two before turning the call over to Ali. I, and the rest of the board are expecting, in fact demanding that this [inaudible] on video will turn in to improved performance in 2013. 
+First, it’s measured by top-line improvement, consistent with managements forecast, and second, it’s measured by our ability to become a growing, profitable and self-sustaining business. Long before year-end 2013, I expect these improved results to become obvious to everyone.
+The last point I’d like to make relates to the bigger picture of who we are and what we want to be when we grow up. I strongly believe that our video strategy will turn the fortunes of this company, but even once they turn, we’ll still be challenged by our relative lack of scale. 
+We have great technology, but this is a business about much more than that. It’s also about global sales channels, first rate customer support, and a continuous product improvement that’s necessary for sustained success.
+
+While executing on our near-term plans and promises to shareholders is obviously most important, we also need to look at developing strategic relationships that will help to achieve the long-term critical mass necessary for this business to have the staying power for the future.
+We know that there are many ways in which this strategic need can be satisfied. Ali and I, and the rest of the board are considering a variety of options. I want to end by thanking our shareholders who have put up with a lot and continue to put up with a lot, but have stuck with us knowing that the opportunity we’ve been striving to achieve is finally within reach.
+So thank you very much for listening, and Ali, I’d like to turn the call over to you to proceed with the normal earnings call.
+Ali Khatibzadeh - President and CEO
+Thank you, Dick, and thank you for your support. I think you summarized the big picture in terms of where TranSwitch has been and where it’s going. I’d like to focus my presentation on the progress we’ve made in the third quarter, and talk about the longer term growth plan next.
+As you’ve seen from our earnings release, revenue for the third quarter came in at $4.8 million, roughly 24% higher than the second quarter. This growth was the result of the team delivering on the greater IP licensing opportunities we discussed on the last call. We also saw benefit of increased royalty revenue on our Top-Tier semi-conductor customer who launched a new IC in the quarter, one of our key customers.
+We have similar licensing and royalty revenue opportunities in the fourth quarter, and are actually seeing our telecom product backlog improving from Q3. Most importantly, as a forward looking indicator we shipped our initial production of quantities of HDplay to our first customer during the quarter. We are expecting additional customers to reach production ramp by year-end. And I’ll give more color on the new business later in this call.
+But before we go there, I’d like to update you on the concrete steps that we are taking to reduce our cash burn and improve our balance sheet. This is a key area of focus for me and the management team, and one that I’m sure most of our shareholders, if not all, are anxious to see products on.
+The restructuring actions that we announced last quarter were completed during the quarter. These actions will reduce our operating expenses by roughly $8 million. We estimate the quarterly expense run rate now to be in the range of 5 to $5.5 million. And this level of OpEx with our anticipated growth margin levels, the quarterly revenue for non-GAAP income breakeven is about 8 to $8.5 million.  We’ll continue to look for and take action on expense reduction opportunities as we identify. So this is an area of continuous improvement for us.
+We’re also making tangible progress on the sale of our telecom patents. I want to emphasize that this is our primary plan for generating the cash required to reach breakeven. We’re close to completing the sale of this smaller part of this portfolio, and are currently marketing the larger portion of the patent portfolio through our retained broker Drakes Bay LLC. 
+I’m pleased to be able to tell you that we have already been contacted by a number of firms, which includes some of the largest and most respected operating companies. And we have provided detailed information on our patents, two of them under a nondisclosure agreement.
+While there’s obviously no guarantee at this point, the patent market is healthy and our target is to bring this process to a success outcome in the fourth quarter. As a entering and backup alterative to the patent sale, we have the agreement with Aspire Capital in place to raise cash as required through the sale of stock.
+While Aspire is a good partner and very flexible partner for us, we are extremely sensitive to dilution and our plan is to minimize the use of this facility and raise most, if not all of our cash needs through the sale of telecom patents.
+
+Now let me turn to the progress in our video connectivity levels. As I mentioned earlier, we shipped initial production quantity of our HDplay chip for our first customer, who is a leading agent OEMs producing projectors and other media products for worldwide distribution.
+While the quantities were low in the third quarter, due to the timing of the customer’s production schedule, we encourage to see orders for the fourth quarter to be materially higher and this is helping some of the positive backlog trends that I mentioned earlier.
+This customer also plans to incorporate our HDplay IC in to other new products that are targeted for production in the next couple of quarters. We have also expanded the list of potential customer opportunities for HDplay products to well over 50. As Dick mentioned earlier, we have significant increase our focus on sales and conversion of these opportunities driven.
+While we may not win all of these opportunities, I believe we are in good position to convert a significant number of them to meaningful revenue in 2013. Recently, we announced a new design in two leading agent OEMs and ODMs, specifically Playvision and DigitalZone, in the area of video switches and HDMI extenders. 
+We’re working on multiple projects with these customers and these wins should begin contributing to our revenue in the next couple of quarters.
+As we discussed here in the last quarterly call, references on partnership played the key role in expanding our customer and revenue opportunity. We’re beginning to gain traction with the [inaudible] of CLT reference partnership, and we are currently working the Top-Tier OEM in Japan.
+I’m particularly excited about our prospect in the PICO projector market. Our HDplay product differentiation is even more pronounced.
+We are currently working with three leading PICO projector solutions providers. These are companies that provide system solutions to the OEMs to build PICO projectors, on their new platform targeted for 2013 production. While PICO projector revenue is not a 2012 event for us, it is one of our key drivers for revenue growth in 2013. [inaudible] 
+… market reports according to recent reports, increased backlog of silicon products, IC licensing opportunities, royalty revenue and the ramp of HDplay product. We expect sequence of growth in the fourth quarter.
+Additionally, we’re making progress on the sale of legacy telecom patent, and I expect the success outcome in the fourth quarter to satisfy our capital requirements with minimal shareholder dilution.
+Furthermore, I’m very encouraged by the progress we’re making with respect to our customer expansion for the video connectivity product. I see fourth quarter demonstrating the next step in March 2013 that we all want to see.
+With that I’d like to hand it over to Bob to present our third quarter financials.
+Robert Bosi – VP, CFO
+
+Okay, thank you Ali, and good evening to everyone. Our third quarter revenue was 4.8 million as compared to our Q2 revenue – 2012 revenue of 3.8 million, and our Q3 2011 of 6.7 million. [inaudible] revenue growth is 24% proven by strong IP revenue and increased royalties. Product revenue in the quarter was approximately 1.6 million compared to product revenue in Q2 2012 of 2.4 million and 4.8 million in Q3 2011.
+Intellectual property and service revenue for the quarter was 3.1 million compared to service revenue in Q2 2012 of 1.5 million, and 1.8 million Q3 2011. Intellectual property and service revenue includes revenue related to intellectual property licensing of our HDMI DisplayPort and HDP technology and telecom voice processing software, as well as associated royalty revenue.
+By product line, our CPE revenue for the quarter was 1.3 million compared to CPE revenue in Q2 2012 of .7 million and 2 million in Q3 2011. Our infrastructure revenue for the quarter was 3.5 million compared to infrastructure revenue in Q2 2012 of 3.1 and 4.7 in Q3 2011.
+
+Our gross margin was 64% in the third quarter compared to 67% last quarter and 65% for the third quarter of 2011. On a non-GAAP basis, operating expenses were 5.7 million, which was 23% -- 23% reduction for the prior quarter’s operating expenses of 7.4 million and the prior year’s operating expenses of 7.4 million.
+As we announced in the last quarter, our restructuring eliminates 64 positions, which should save us $2 million per quarter as we move forward. Our product – all product and software development programs related to our telecom product lines were canceled, and we redeployed all the remaining research and development resources to our connectivity pollutions for consumer products, consumer electronic market.
+Non-GAAP operating results for Q3 was a loss of 2.7 million. On a comparable basis, the prior quarter operating results was 4.9 million and we had a non-GAAP operating loss of 3.1 million in Q3 2011.
+Non-GAAP net loss for Q3 was a loss of 2.7 million or $0.08 per-share on a basic and diluted basis, as compared to a net loss of 5 million in Q2 2012 and 3.3 million net loss in Q3 of 2011. Q3 2012 GAAP diluted net loss per-share was $0.09 as compared to net loss per-share of $0.19 in Q2 2012, and net loss of $0.16 per-share in Q3 of 2011.
+Comparable GAAP measures for gross margin operating expenses, operating income and net income are reconciled to non-GAAP amount in a reconciliation of GAAP to non-GAAP measures included in the press release today.
+The reconciling items for Q3 are as follows, expenses of .1 million in the amortization of purchased intangibles, expense of .5 million in stock based compensation, and a benefit of .3 million from the reversal of accrued royalties.
+These items are described in our press release.
+With [inaudible] from our capital raising activity in the quarter, we raised $400,000 with the aftermath market facility that we closed before we closed it, and 2.1 million with sales of stock under the equity line agreement with Aspire Capital, which includes the Aspire Capital’s initial purchase of $1 million when we first announced the [inaudible] of the facility.
+To relay Ali’s comments, the primary plan to fund the company, until we become profitable is through the sale of our telecom patent portfolio. We are making tangible progress on this – to this, and we expect success – a successful outcome in the fourth quarter.
+With that, I’ll open it for your questions for the management team. 
+Question-and-Answer Session
+
+Operator
+
+(Operator instructions).  And we’ll begin with Richard Shannon from Craig Hallum.  
+Richard Shannon - Craig-Hallum Capital
+Ali and Bob, hi.  How are you?  
+Ali Khatibzadeh - President and CEO
+
+How are you, Richard? 
+Richard Shannon - Craig-Hallum Capital
+Doing fine, thanks.  Nice numbers here.  Good to see you have revenues going up again.  Congratulations on that.  My first question, I guess, looking at your IP services line, it did very well.  I wonder if you could tell us a little bit about the drivers there.  I think in your prepared comments, Ali, you talked about a major – major customer releasing IP for its customer’s IC.  If you can tell us a little bit more about that and Whether that revenue line is, in general, sustainable going forward here? 
+Ali Khatibzadeh - President and CEO
+
+Yes, so we did see increase in royalty revenue from our top tier semiconductor supplier – customer.  As Dave indicated, they released a new product with their key customer . We expect that will continue for the foreseeable future.  Obviously the way our royalty agreements are structured with our customer, we get royalty stream for every new check that – every new IC that they launch into the market.  And we expect it and we believe they have plans to introduce additional products in 2013 based on our IP.  
+
+So at this point, obviously, we don’t get forecasting in terms of their projected sales, so we can’t make kind of a quantitative forecast of what the royalties would be in the future, but qualitatively speaking, we’ve been told that we can expect this to continue in Q4 and as I said, we expect a similar royalty revenue in the fourth quarter.  
+With regard to the IP licensing, it’s a mix of high-speed interconnect IP sales as well as [inaudible] software sales and we have similar opportunities with both of those, a similar magnitude in the fourth quarter.  And we are working on specific contracts to bring those to fruition.  
+Richard Shannon - Craig-Hallum Capital
+Okay.  So you’re – in your guidance for the quarter of growing sequentially, I see you expect both product and IT/Services categories to grow here and if that’s true, which one – do you see which ones are growing  truly faster than the other, about the same rate, or can you give us a [inaudible] of how much that would grow, that would be great.  
+Ali Khatibzadeh - President and CEO
+
+Obviously licensing contracts come in increments or in granular so we do not, at this point, give out specific quantitative guidance for Q4, but having said that, in terms of product revenue, I can tell you that we have already booked more product revenues than we shipped in the entire third quarter, so we are confident our telecom product backlog will – our telecom product sales in Q4 should be higher than Q3 but a significant amount.  As well, as we said, we have launched our ACPlay product and we do have some orders on the books in this quarter and we’re anticipating getting additional orders before the quarter end.  
+So the combination of those should increase our product revenues by a significant percentage.  In terms of the licensing opportunity, again, those come in chunks and at this point, I can say at least we have equal amounts of licensing opportunities in the fourth quarter. 
+Richard Shannon - Craig-Hallum Capital
+Okay.  Fair enough.  Maybe just a couple more from me here.  You’ve got HDplay, Ali, can you give us a sense of kind of the level of revenues in the third quarter, you know, when we can think about this break in the million-dollar mark and I think you talked about maybe as many as four or five different customers shipping in volume in the current quarter, does that fill your expectation?  
+Ali Khatibzadeh - President and CEO
+
+So obviously, the production shipment commenced toward the end of last quarter, so the revenue in Q3 from HDplay was not significant.  Having said that, in the fourth quarter we can see the total revenue could reach potentially mid-to-single digit percentage of our total revenue, maybe higher.  We – at this point, I don’t want to get into the specific project of when we cross certain revenue in HDplay, but I can talk about the – in terms of the number of customers.  That said, on a couple of occasions recently, we have – it looks like over 50 customer opportunities, it’s well over 50.  And we are working on converting as many of these into revenue column as possible and I should be very clear, we may not win all these opportunities.  And obviously, some of these fully unrelated to us may or may not convert into revenue by the time we get to end of 2013, but it is our opportunity list and we expect to have a handful of these customers in production by end of fourth quarter and about an equal number of additional new customers as we get into end of Q1.  
+[Break in Audio]
+Unidentified Analyst
+
+So generally speaking, as well on the [inaudible] revenue and nice outlook.  I just wanted to ask you a quick question, and I know it’s not a focus on the business, but it does sound like the Telecom business has seen a pretty nice uptick here.  Do you think that’s just for end of inventory correction?  Is there some new product cycle for some of the processors that you’re seeing for whichever IT processing or is there something else driving that Telecom business? 
+
+Ali Khatibzadeh - President and CEO
+
+Well, what we do see, obviously, as you said, our Telecom products are a mix of say legacy products that are sort of towards the end of their deployment, end of their life, but these tails tend to be long and we have been affected this year negatively because of the slowdown in the market in a number of regions in China and U.S.  There’re indications that some of these may – I was just reading recently, very recently that AT&T has announced that they’re going to invest a significant amount of CapEx.  We’ve also heard that in China maybe that they will continue to invest in the Telecom infrastructure.  So we do see some signs of that. 
+With regard to our Voice Over IP products, we do have customers that have not gone into production and they’re working on basically qualifying their products in the field and as they complete those we expect to get new revenue from those opportunities.  I think I said this on the last call, that we expect any sort of a leveling off of the old business to be somewhat offset by the growth of the new opportunities we have in the Telecom side.  And overall, Telecom, you know, we’ve given the sort of target revenue for next year and we’re standing by that.  
+Unidentified Analyst
+And my second question, Ali, is just sort of on the outlook for next year.  If I remember from the last call, sort of thinking something on the order of roughly 4 million of revenue from the legacy Telecom business and then on the Video side, I believe, 21 million from HDplay, perhaps another 10 million between HD wire and licensing.  Can you just confirm if those are the right ballpark numbers for Telecom and the Video business?  And then if so, on the HDplay, it sounds like [inaudible] projectors and projectors are some of your, perhaps, bigger opportunities, at least – or earlier opportunities.  Do you think that they account the biggest percent of HDplay revenue in ’13 or do you see other opportunities, perhaps multi-function monitors or other devices actually accounting for the highest share of HDplay by the end of the year? 
+Ali Khatibzadeh - President and CEO
+
+Yes, your first question, I do reaffirm the opportunities, the revenue targets we have for video products. I did not quite hear the number you mentioned for telecom.  I  just want to make sure I heard it correctly.  
+Unidentified Analyst
+
+I thought something on the order of roughly 4 million per quarter, sort of among that – the Telecom business. 
+Ali Khatibzadeh - President and CEO
+Yeah, it may not follow a steady [inaudible] – for the total year we’ve given a target and that still stands.  We have opportunities in the Telecom space to that.  But it may not follow a quarter-on-quarter flat rate, so I just want to be clear about that.  
+With regards to the percentage mix of our video products in terms of projectors, PICO projectors or other opportunities.  Certainly the timing of the traction that our initial customers, the projectors and potentially people, projectors, will give that more of a – probably a percentage but we do have opportunities in the TV space that we are following those, as I’ve said before, and we’re still on the same path.  We expect those to be coming in the second half of next year and we have a lot of opportunities that we’re working on and we believe we will have – because of the size of that market, any [inaudible] could be significant and I would say at this point in terms of the size of opportunities for next year, I would say the TV market, PICO projectors and projectors and the other in that order, I see those making up our business next year. 
+Unidentified Analyst
+Great.  Okay, thanks very much, Ali.  
+Ali Khatibzadeh - President and CEO
+
+Thank you. 
+Operator
+We’ll go next to Mike Lattamore with Northland Securities.  
+
+Ryan Macdonald – Northland Sec.
+Hi, guys.  This is Ryan Macdonald on for Mike Lattamore.  I just had a question, a few questions around the patents, the potential patent sales.  I was wondering if you could provide a little bit more color on that. I know you said it was a smaller portion of your portfolio, are you able to give a number of patents or you know, kind of what the patent burn relation to it all? 
+Ali Khatibzadeh - President and CEO
+
+Let me cover that.  I think there’s – the comments I made specifically is there’s a subset of – smaller subset of the patents that we have marketed through a separate channel and that – we do have a contract on those patents and we expect to collect on those soon.  The bulk of the patents, as we’ve announced publically, we’re marketing through our growth area [inaudible].  And those patents  currently being marketed actively and as I said, I have early indications we are cautiously optimistic, we see a number of companies indicating interest and asking for information and we provided information.  And those patents generally pertain to what we call digital communications and cloud services and they’re – these patents, they’ve been developed for telecommunication networks and they’re very expansive.  They cover a number of market segments and some of them are broad patents that could – can be used in networks that are related to cloud services business and data centers.  Some of them are more specific to the telecommunication networks and we are putting a lot of energy and effort into making sure that we highlight the applications in this market and to the specific market segments.  And again, based on that, we see that there’s an interest out there in the patent market that specifically in the market segments that I mentioned, there’s a lot of activity and there’s a lot of investment in those markets so therefore there’s more interest in licensing opportunities.  
+Ryan Macdonald – Northland Sec.
+Okay.  And then what’s the larger group that’s currently being marketed?  Do you think this was – the patent sale would likely come as a lump sum sort of sale or more of in a royalty format?  
+Ali Khatibzadeh - President and CEO
+
+No, I think our intention is to have a lump sum – again, that’s our plan at the moment.  
+Ryan Macdonald – Northland Sec.
+Okay.  And then just one question on the cost savings.  Can you quantify where those cost savings will come from for the fourth quarter?  
+Ali Khatibzadeh - President and CEO
+
+Well, the cost savings we mentioned have already gone into play.  We completed the restructuring and so – and because of the timing, we could not utilize a full quarter worth of savings.  I think we enacted these in July, so we – we had almost two months of savings in the quarter.  In the fourth quarter we’ll have a full three months of savings and as we said, we expect our operating expenses to be in the range of 5 to $5.5 million, in that range.  
+Ryan Macdonald – Northland Sec.
+All right.  Thank you very much. 
+Operator
+
+We’ll go next to Mark Saffold with Safford Capital.  
+Mark Staffold – Stafford Capital
+Hi, Ali.  You did a good job.  I got on the call a little late, so I just want to confirm this number.  Did you guys do the number of 8 million being the breakeven point? 
+Ali Khatibzadeh - President and CEO
+
+8 to 8.5 million.  You know, but that obviously depends on the assumption of gross margin and gross margin, as you know, depends on a mix of products.  So if you assume a similar gross margin to what we have announced for the third quarter, I think you get a number in that range based on operating expenses [inaudible].  
+Mark Staffold – Stafford Capital
+Okay.  And then the second part, I believe I heard was with the sale of the patents.  Was it the larger portfolio or the smaller portfolio that would help alleviate any capital needs going into next year?  
+
+Ali Khatibzadeh - President and CEO
+
+I think a combination of both. 
+Mark Staffold – Stafford Capital
+Okay.  All right.  I just wanted to reconfirm that.  Thanks a lot and keep up the good work.  
+Ali Khatibzadeh - President and CEO
+
+Thank you, Mark. 
+Operator
+
+Now we’ll go to Shepard Davis, private investor. 
+Shepard Davis – Private Investor
+Yes, this is directed to Mr. Lynch.  I think we’re very fortunate to have you on the Board and I’m glad you’re there.  What I can’t understand, a Chief Financial Officer is responsible for keeping the company in good financial shape, and our Chief Financial Officer has allow us to get in this grievous financial situation.  I also understand that he costs us close to half a million dollars a year and I can’t understand why this continues.  Can you explain that? 
+Ali Khatibzadeh - President and CEO
+
+Hi, Shepard, this is Ali.  I think Mr. Lynch is not willing to take questions on the call so it’s maybe something that can be directed separately, but I’d like to answer any questions that are on the call but on this one, I really have nothing to add on the call.  I think it’s more a comment than a questions so I’d like to pass on that.  
+Operator
+
+Okay, we’ll more next to a follow-up from Richard Shannon with Craig Hallum.  
+Richard Shannon - Craig-Hallum Capital
+Ali, I just want to follow up on your comments responding to a question earlier about the – kind of the contribution of HDplay revenues next year and I think you gave an order of end markets you expect that to happen.  I just want to make sure I got that correctly and this wasn’t in descending order that I think I heard you say TVs and PICO projectors and other projectors and displays.  Did I catch that right, meaning that TVs you think would be the biggest contributor in HDplay next year?  
+Ali Khatibzadeh - President and CEO
+
+We expect that, but again, this is based on – we have mentioned over 50 customers opportunities.  If you add up the total opportunity, it’s obviously significantly higher than the target revenue we have because we expect some of these will change, the forecast that you see out will change, there’s market dynamics beyond our control that may affect each particular opportunity.  But on an aggregate basis, I think we have enough opportunities there to reach our target revenue and we’ve been careful not to sort of break it down in any particular – to really because of the uncertainty about how these opportunities move in time and the fact that we may not win all of these opportunities.  I want to be very clear.  Some of these are in the early stage and if we go through the design win process, issues often come up or a customer changes their plan, there’s a number of things that obviously goes on until you get to revenue.  But the order – I expect because of the market size, to see our revenues split in the order that you mentioned.  But what percentage of it being what, I do not fee comfortable talking about it.  
+And as we get into 2013, we’ll try to get more color to it. 
+Richard Shannon - Craig-Hallum Capital
+That’s fair.  Just following up, again, on the TV side here, you know, my understanding is TV development cycles were just in order to get into the revenues in the second half of next year you have to be fairly well engaged if not selected to do some work already.  Would that be a fair assessment of your globalization with TV OEMs? 
+Ali Khatibzadeh - President and CEO
+
+Yes, we do have some opportunity engagements that we have currently for that – for that product cycle and we expect to be able to generate revenue.  As I said, specifically as we get into the second half of 2013 and you know, by the way the product cycles are, as you know very well, if you’re working on them now with a [inaudible] customers, you can expect a Q4 production next year, maybe a little earlier, but that’s where we are.  
+
+Richard Shannon - Craig-Hallum Capital
+Okay, fair enough.  That’s for the color there, Ali.  I’ll jump offline. 
+Ali Khatibzadeh - President and CEO
+
+Thank you. 
+Operator
+
+And we’ll take a question from Michael (Moore), private investor.  
+Michael (Moore) – Private Investor
+Yes, thank you.  First of all, I’d like to say I really appreciated the presentation by Chairman Lynch.  As a long-time investor it gives me just another evidence of confidence in the future of the company.  My question relates to something Mr. Lynch noted, which is how can a small company like TransSwitch compete with the [inaudible]?  You know, it’s apparent that it has the lean now in video connectivity but how long can that last given the relative of companies in this space?  
+He mentions strategic options for the future.  To me, that sounds like an alliance to say single customer and/or sale of the company. Would you care to elaborate on the possible options?  Thank you. 
+Ali Khatibzadeh - President and CEO
+
+Thank you, Michael.  Again, this is Ali.  I just wanted to mention Mr. Lynch did not want to take questions on the call.  He really – the intent was for him to make a few introductory remarks about his views on the company and I would like to take that question, if you don’t mind.  I think as Dick mentioned,  we are looking at not just developing this business organically, but also developing partnerships that would allow us to scale this business.  And within that context are, number one, first and foremost, is of course the shareholder value.  And we want to make sure that we take the steps necessary to maximize shareholder value.  And there are different strategic partnerships that you can develop to achieve that and they’re not specifically calling out any particular one.  As Dick mentioned, I’m working with the Board actively on a variety of options and [inaudible] forward. 
+But I think your point about scale certainly is well understood and captured and – but you know, if you look at our semiconductor industry, you see the dynamics of companies becoming more and more specialized, so you have companies that are developing IPs and developing specific products or market segment and you see companies that aggregate IP and products into much larger multiple market segments.  And they’re very few in between.  You really, the way the market is shaping up, because that whole vertical integration model is kind of disappearing.  You see companies the scale of TransSwitch or larger and focused on particular solutions for markets and then you see companies that aggregate those kinds of solutions into solutions into multiple market segments.  So we’re not exception.  
+Operator
+
+And we’ll take a follow-up question from Quinn Bolton with Needham and Company.  
+Quinn Bolton - Needham & Company
+Hey, Bob, just a quick question.  You’d mentioned that you had taken I think some additional capital into the Aspire agreement.  Can you just give us what your outlook would be for the fourth quarter in terms of the share count?  Is that something now probably up in the 34, 36 million range? 
+Robert Bosi – VP, CFO
+
+Right now our share count right now at the end of the quarter is 35.8.  We have not sold any shares to Aspire so far this quarter and as Ali has mentioned, our primary objective here is to use – fund the company with the patent sales.  We hope not to raise additional but again, we can’t promise that.  
+Quinn Bolton - Needham & Company
+Understood, great.  Thank you. 
+Operator
+
+And we have no additional questions in our queue. 
+Ali Khatibzadeh - President and CEO
+
+Well, thank you ladies and gentlemen. I realize that this has been certainly a challenging and difficult stretch for stakeholders and shareholders and employees alike.  But in closing, I want to emphasis that we are making visible and tangible progress on the commercial launch and expansion of our new video business.  We’re making progress on the concrete and near-term steps that we’re taking to improve our balance sheet and we’re actively developing strategic partnerships to scale our business and create value for our shareholders and I appreciate your support and patients and I hope that – and I believe that I think I look forward to even a more improved call for the fourth quarter next time we meet.  

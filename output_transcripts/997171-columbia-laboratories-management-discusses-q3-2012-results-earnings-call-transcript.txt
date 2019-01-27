@@ -1,0 +1,192 @@
+Columbia Laboratories (CBRX) Q3 2012 Earnings Call November  8, 2012 11:00 AM ET
+Executives
+Lawrence A. Gyenes - Chief Financial Officer, Principal Accouting Officer, Senior Vice President and Treasurer
+Frank C. Condella - Chief Executive Officer, President and Director
+Analysts
+Walter Schenker
+Jason Aryeh
+Thomas McCarthy
+Ralph Labriola
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+Operator
+Good day, ladies and gentlemen, and welcome to Columbia Laboratories Third Quarter 2012 Earnings Conference Call. [Operator Instructions] As a reminder, this conference call is being recorded. I would now like to hand the conference over to Ms. Trisha Swanson from The Trout Group.
+Unknown Executive
+Good morning. Thank you for joining us for Columbia Laboratories\' Third Quarter 2012 Financial Results Conference Call. I\'m Trisha Swanson of the Trout Group, Columbia\'s Investor Relations firm. With me this morning are Frank Condella, President and CEO; and Larry Gyenes, Senior Vice President, CFO and Treasurer of Columbia Laboratories. If you have not already received it, you can access the press release Columbia issued this morning at www.columbialabs.com, and you can also access the live webcast of this call from there.
+During the course of this call, management will make projections and other forward-looking statements regarding future events and the company’s future performance. These forward-looking statements reflect Columbia’s perspective on current trends and information, and can be identified by such words as expect, plan, will, may, anticipate, believe, could, should, intend, estimate, project, and other words of similar meaning. Such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, including those noted in Columbia’s filings with the SEC on Forms 10-K, 10-Q, and 8-K. Actual results may differ materially from these projected in the forward-looking statements. Columbia disclaims any intent or obligation to update these forward-looking statements.
+A replay of this call will be available 2 hours after completion through Thursday, November 15. You’ll find the dial-in information in today’s press release. The archived webcast will be available for 1 year on the company’s website, columbialabs.com. For the benefit of those who may be listening to the replay, this call was held and recorded on November 8, 2012. Since then, Columbia may have made announcements related to the topics discussed, so please reference the company’s most recent press releases and SEC filings.
+And with that, I’ll turn the call over to Larry.
+Lawrence A. Gyenes
+Thanks, Trish, and good morning, all. Today, we are reporting total net revenues of $6.7 million for the third quarter of 2012. Total net revenues are comprised primarily of net product revenues and royalties. Total net product revenues, which are primarily CRINONE sales to Merck Serono and Watson, were $5.6 million, up $1.5 million from last year\'s Q3 levels.
+Net product revenues from Merck Serono increased 15%, despite a 15% volume decrease related to the timing of batch orders and more than offset by penetration of higher-priced country markets. Net product revenues from Watson increased 62% on a 26% volume increase over third quarter of 2011.
+Total royalty revenues were $1 million in the third quarter of 2012, a 30% increase from the third quarter of 2011. As a result, total net revenues were $6.7 million compared to $4.9 million in the same quarter last year.
+The gross profit margin on total net revenues was 52% for the third quarter of 2012 compared to 37% in the third quarter of 2011. The gross profit on net product revenues was 43% compared with 24% for the same period in 2011. The improvement mainly reflects the continued shift in sales mix to Merck Serono in favor of higher margin country markets.
+
+Total operating expenses decreased by $400,000 versus the same quarter last year, reflecting lower R&D costs. G&A was unchanged because quarterly savings of $300,000 from the workforce reduction earlier this year were offset by higher professional fees for business development activities and securities litigation costs. As a result, we posted operating income of $1.4 million in the third quarter of 2012. This compares to an operating loss of $0.6 million in the third quarter of 2011.
+After accounting for the noncash change in the fair value of outstanding stock warrants, we reported net income for the third quarter of 2012 of $400,000 or $0.00 per basic and diluted share.
+Our balance sheet remains healthy with $25.6 million in cash, cash equivalents and short-term investments at September 30, 2012. This is an almost $2.6 million increase from the close of the second quarter.
+We will continue to operate generally as cash flow-neutral to positive for the foreseeable future, however, quarterly results may fluctuate due to the nature and timing of product orders and potential business development costs.
+For further details on our financial results, please look at today\'s press release, which is available at our website, www.columbialabs.com.
+And with that, I\'ll turn the call over to Frank.
+Frank C. Condella
+Thanks, Larry. In the third quarter of 2012, our partners, Watson and Merck Serono, continued to drive CRINONE growth in their respective markets through their ongoing promotion of the product for infertility. In the U.S., IMS prescription data continues to show an upward trend, with a 13% growth in total domestic prescriptions for CRINONE this quarter as compared to last year. We believe that it\'s this prescription growth that is primarily driving the increase in royalty payments from Watson.
+Prescription growth for CRINONE in the U.S. in the future will likely affected by the size of the fertility market, CRINONE\'s share of the fertility market and the frequency with which physicians prescribe the product for use in women with short cervix according to ACOG guidelines.
+Outside the U.S., it was Merck Serono\'s continued penetration of higher-priced country markets such as China, Australia and Korea, rather than volume increases that contributed to our revenues this quarter. However, we expect volume in the fourth quarter to increase due to a higher number of CRINONE batches delivered to Merck Serono to meet the needs of all of its markets.
+CRINONE continues to be an important product in our partners\' portfolios, and we believe that our revenue streams from Watson and Merck Serono for CRINONE and infertility will continue to grow for several years to come.
+In the U.S., this is because Watson is pursuing its life cycle management program for CRINONE by developing a next-generation progesterone product. We expect that they will manufacture this new product themselves, so once they launch this new product into the market, our low-margin product revenues for Watson will decrease, but we will continue to receive at least 10% royalty on annual net product sales of this new product. At this time, I can\'t give you any further details on this new product or expected time-to-market.
+Outside the U.S., we expect Merck Serono to continue to grow sales in its existing and emerging markets, primarily relying upon the strength of the CRINONE brand and its position as a complementary product in their overall product offering to fertility specialists.
+A few weeks ago, the FDA denied Watson\'s formal dispute resolution request, or FDRR, related to the PROCHIEVE NDA. We\'re very dispirited and frustrated that the FDA has refused Watson\'s attempts to determine a viable pathway for approval of PROCHIEVE for the preterm birth indication.
+
+Watson has been very clear that they have been more than willing to conduct another large clinical trial with PROCHIEVE as part of an FDA approval. In fact, they have proposed several potential Phase IV post-marketing trials that would provide additional information to the FDA on the clinical use of PROCHIEVE to reduce the risk of preterm birth in women with premature cervical shortening. We understand that the FDA\'s position in their denial of the FDRR is to revert to their position in a complete response letter in February, which essentially states that Watson needs to conduct another large, well-controlled Phase III trial primarily in U.S. women prior to resubmitting their NDA for further review.
+The problem with this approach is that earlier this year, ACOG and the Society of Maternal and Fetal Medicine each established a clear protocol for the use of vaginal progesterone to prevent preterm birth. Both the ACOG practice bulletin and the SMFM clinical guidelines are very direct. Women who are identified with a short cervix at mid-pregnancy with a singleton congestation and no history of preterm birth, should be treated with vaginal progesterone.
+With these policies in place, it\'s clear to me that it\'s nearly impossible for Watson to conduct a large placebo-controlled clinical trial of vaginal progesterone for this indication. This is because we believe that physicians would not want to run the risk that a pregnant women with a short cervix gets put on placebo. While there might be other potential approaches than using placebo as the control, any new Phase III trial would take years to conduct. Therefore, given the position the FDA has taken, we do not expect any near-term upside from PROCHIEVE. However, if Watson does find a way forward with the FDA in the future, we retain our financial interest in the product.
+So while the news about PROCHIEVE is very disappointing and we are very positive, on the other hand, about our base business and the potential to grow this into something of increasing value to shareholders, we have an efficient organization, growing revenues, a healthy balance sheet and operating loss carryforwards.
+Our strategy is to continue to focus on maximizing income and cash generation from our sales of CRINONE to Merck Serono and our royalty streams from Watson, while we evaluate potential strategic transactions that would add additional long-term value for our shareholders.
+With that, operator, please open the call for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] And our first question comes from Walter Schenker from MAZ Partners.
+Walter Schenker
+What is required by Watson on the life cycle management for a next-generation progesterone gel relative to regulatory side?
+Frank C. Condella
+Walter, I really can\'t -- I really don\'t know the answer to that question. And anything that I know about Watson and what their regulatory strategy is, I really can\'t relay at this time.
+Walter Schenker
+But let me ask a generic question. If you change a product which is approved, generally, into life cycle management, does it -- and I\'m not asking here specifically, does it always require another clinical trial?
+Frank C. Condella
+It generally requires some sort of clinical trial. It can be -- it doesn\'t necessarily have to be a large Phase III clinical trial.
+Walter Schenker
+Okay. And then, the second comment and question to you Frank is, which I\'ve asked many times and I\'ll repeat it because I like to hear it, I understand the desire to do something from a strategic standpoint to enhance shareholder value. I would like to hear, again, a commitment by the company that whatever you find, we, the shareholders, will be allowed to have -- express our opinion, hopefully, through a shareholder vote as to whether or not that\'s the direction we want the company to take.
+
+Frank C. Condella
+Well, Walter, I appreciate your concern about this. I think that we have a long history with Columbia and shareholders, I don\'t have -- my history now is a little over 3 years, but I will say that we are focused on strategies that would be accretive to shareholders that would allow us -- shareholders, to have a larger, more diversified royalty -- not royalty stream, rather, larger diversified revenue stream. And what we do, it could be a large material transaction or it could be a series of smaller nonmaterial transactions. Anything that involves a change of control would involve a shareholder vote. We\'re not looking to invest in any high risk situations. We understand that, at this point, given the history with -- a lack of success with a number of different single product clinical programs that Columbia has not been successful with, we wouldn\'t want to take and move down a road like that, although, a number of small companies do, do those things on a repeated basis. We understand our shareholders are not supportive, and our board is not supportive of going in that direction. So we\'re looking at transactions, like I said, that would diversify our revenue stream, give us increasing revenues and increasing profits and cash flow.
+Walter Schenker
+Immediately, so these are existing -- these are not development projects but existing products with sales and hopefully, cash flow, which we could utilize our tax loss carryforwards with and would be -- would not require additional FDA approval or high risk, which is always identified with FDA approval of new products?
+Frank C. Condella
+Yes. I think initially, we want to try to expand our revenue streams with existing products and services that would diversify our revenue sources. It would not be taking our $25-plus million and investing in an early or late stage clinical development program. My hope is just that, assuming we don\'t do some larger change of control type of transaction that we would be able to build up the company on a step-by-step basis that someday in the future, maybe, we would get back into development but only if we were a much larger company with a much more diverse revenue and income stream and cash flow.
+Operator
+[Operator Instructions] Our next question comes from Jeremy Link[ph]  from[indiscernible].
+Unknown Analyst
+It\'s Jeffrey Link. I just wanted to follow-up on Walter\'s question. Can you give us some perspective on the NOL and how it can be you utilized -- well, obviously, it could be utilized by you, but if the company were to be acquired, how the NOL could be quantified?
+Lawrence A. Gyenes
+Yes. This as Larry Gyenes. First of all we have, at the moment, $153 million of NOLs. In terms of its utilization, there are 2 components to determining what the annual restriction would be. The first one is basically in round numbers, about 4%, okay, as a market capital of the company. So let\'s just call that -- call it $3 million, okay, as an annual limitation. And that goes over the whole term of the NOL. And then, there\'s something else called the built-in gain. And that any transaction that would be -- represent a change of control, you would take the net -- excuse me, the market cap, less the book value tax basis, which is essentially our cash. And for some unknown reason, we -- you have to divide that by 15 and that\'s the incremental amount that you get annually for the first 5 years. So in round figures in today\'s numbers, we are probably talking somewhere around a $6 million to $7 million limitation on the use of the NOLs for the first 5 years, after which, it would drop to around, perhaps, $3 million, depending upon interest rates at that time.
+Unknown Analyst
+Okay. I guess, and I wanted to just follow-up also on the previous caller\'s questioning on your -- the announcement about potential strategic transactions. Is there anything that is still within your portfolio, i.e., other patented compounds or the opportunity to potentially pursue a drug -- the drug approval for PROCHIEVE internationally, and I don\'t know if that exists, but just within what you have, without going out to potentially acquire something since you\'ve kind of given the rights out to Merck Serono and to Watson, what is kind of left that you have beside the NOL that would be considered of value?
+
+Frank C. Condella
+Well, we have -- we really have 2 early-stage product development programs, and one of which, we\'ve licensed out to a small company that was started by one of our previous clinical employees that\'s pursuing a product for the treatment of bacterial vaginosis which we have a patent that goes out to 2028, I think, 2022. And we also have a vaginal anesthetic that would be used for pain related to obstetrical procedures that is on hold right now. But we\'re continuing to pursue the intellectual property for that and have some patents around the world. But be aware, right now we don\'t have any clinical development capability in-house. We\'ve taken that out of our organization to save money and we don\'t have any near-term intention on investing our own cash to develop those products.
+Unknown Analyst
+But is there an opportunity or do you still have the rights if you would assign them to some international or some other international drug companies so that they have the potential to pursue trials where, on the international side, for PROCHIEVE?
+Frank C. Condella
+PROCHIEVE, we don\'t have any rights to PROCHIEVE anywhere in the world. It\'s Watson and Merck Serono that have those rights. And with the lack of the -- an FDA approval, it\'s less likely that anyone is going to try to approach it in other markets, but I know that it\'s still under evaluation in a couple of markets that are under the purview of Merck Serono. But I don\'t have the timing or the actual budgetary commitment of that, at this point, and certainly, having an FDA approval would certainly help accelerate any of those activities.
+Operator
+Our next question comes from Jason Aryeh from General Equities.
+Jason Aryeh
+Quick questions. I guess, I\'m a little bit confused as to why you would be considering in-licensing products. I mean, you\'ve done a brilliant job for shareholders of restructuring the company. As you\'ve just said, Frank, getting rid of your development capabilities and company expense, getting rid of the commercial capabilities and the company expense. Why would you want to seemingly go backwards and now add in, I guess, what you\'re seeing as potentially commercial infrastructure, to be a one-or-so small product company. I mean, those never seem to work and less than often. I guess, it\'s just perplexing as to why you would even consider that.
+Frank C. Condella
+Well, Jason, sorry, but I didn\'t say that. I didn\'t say that we\'d be looking to license in products or develop a commercial infrastructure. Let\'s hypothetically think, maybe there\'s a small company that adds revenues that could use part of our cash to buy them and add that to our existing revenues. The criteria would be is just that it would be cash flow positive and it would generate a better return and not 02% we\'re getting in -- the money on the bank.
+Jason Aryeh
+So that would be more conveying -- kind of, but if the company-generating royalty revenue if there is no commercial infrastructure with it?
+Frank C. Condella
+Yes, or they -- or like I said, it could be a product or services business. It doesn\'t -- I don\'t have anything specific today to talk to shareholders about, but we\'re very conscious about increasing the income -- operating income, diversifying the sources of that operating income and the cash flow for the future. I think that, that\'s the way that we could build up a company. What we\'re not looking to do is just to enter into a new higher risk clinical development program.
+Jason Aryeh
+Well, I hope -- at least, we certainly hope that you will not diversify and we think you have an interesting little business, as is, and it\'s probably appealing to somebody. And I think there\'s a lot of risk in doing reverse mergers and the like, as we\'ve seen so many times in the market.
+
+Operator
+Our next question comes from Thomas McCarthy from Raymond James.
+Thomas McCarthy
+Please speak to the issue of possibly licensing out your patented Bioadhesive Delivery method to other companies for their development of other product. Is -- how much of a possibility is that?
+Frank C. Condella
+I would think that at this point, there\'s very little possibility of out-licensing our Bioadhesive technologies because they expire in the next couple of years. I think 2019 is our longest patent life on any of the Bioadhesive technologies. So anybody that was going to develop a new product at this point wouldn\'t -- really wouldn\'t get any value from that.
+Thomas McCarthy
+Okay. I have a second question, should I go to the end of the line?
+Frank C. Condella
+Yes. Go ahead.
+Thomas McCarthy
+Okay. The issue of the product that you have in the marketplace that\'s already been approved can be used for preventing premature births off label. I know that in the United States, that possibility cannot be promoted or advertised. What is the situation in other countries? Could Merck Serono be, in some other countries, be promoting the use of off label?
+Frank C. Condella
+It depends on what country, but generally, in any regulated market, it\'s not approved to be able to do that. And Merck Serono doesn\'t have a presence in the obstetrician and gynecologist office around the world, so it makes it difficult. They\'re very focused on the endocrinologist or the fertility specialist. And the person that would be prescribing that progesterone for preterm birth would be an obstetrician or gynecologist.
+Operator
+[Operator Instructions] Our next question comes from Ralph Labriola from Stifel, Nicolaus.
+Ralph Labriola
+A quick question, I\'m trying to understand what happens in the doctor’s office when a salesperson comes in with CRINONE? Do doctors have ACOG\'s recommendation concerning premature birth? Did they look at that and not at the FDA? Did they look at the FDA\'s recommendation or a lack thereof? What position would the doctors put in between the 2?
+Frank C. Condella
+So if the doctor, Ralph -- it\'s Frank. If you were to go into a doctor\'s office today and you -- and the doctor found that you have a short cervix at mid-pregnancy, it would be -- if they\'re going to follow the ACOG guidelines, they\'re either going to prescribe CRINONE, which would be off label, but that\'s within their ability to do that or they can prescribe a -- one of the other vaginal or oral progesterone products to be used vaginally. They could prescribe Prometrium off label, which is an oral capsule, which is the same as the-- it\'s the same as the oestrogen [indiscernible]  Product which was studied in the Fonseca trial. So if you look at the ACOG guidelines, they talk about the micronized progesterone gel capsules or the vaginal progesterone gel. Obviously, the vaginal progesterone gel is CRINONE, so they would likely use one of those 2 products.
+Ralph Labriola
+And does the ACOG practice bulletin change your practice, alleviate any or maybe risk associated with the doctor prescribing this without an FDA?
+Frank C. Condella
+There\'s no risk for the doctor to prescribe CRINONE off label. The risk becomes if the -- and probably more to the contrary, let\'s say, if they don\'t follow the current clinical practice or current clinical guidelines.
+Ralph Labriola
+It seems like, I mean, we were not able to obviously market this as PROCHIEVE, but can it be marketed via ACOG and the SMFM as off label? I mean, there\'s no path forward in terms of our ability to somehow promote it in a different direction?
+Frank C. Condella
+There\'s no way in which Watson can promote the product. All they can do is if a physician were to call them up with a about the question about the product, another medical professional at Watson could answer that question.
+
+Operator
+And our next question comes from Jeffrey Link[ph].
+Unknown Analyst
+I want to ask you on the ACOG and NIH endorsements. Is there any risk, now that the FDA has denied the appeal that history suggests that they may somehow pull their recommending the progesterone gel?
+Frank C. Condella
+Well, the ACOG guideline came out after the FDA had  issued a complete response letter in the whole advisory committee situation. We are working with 2 different approaches, the ACOG and SMFM are approaching it from a scientific basis based on what they\'ve seen in the literature. The FDA\'s approaching it from a clinical regulatory perspective. That is, what are the regulations and how they apply the regulations. And the FDA is clearly taking a very, I guess, by-the-books approach and it\'s saying that, usual requirement for getting a product approved or near indication are 2 well-controlled clinical trials that reek statistical significance for their prior endpoint. But they can, in some cases, go on one clinical trial. And we believe that our clinical trial was sufficient, and that any indication that we had from the FDA up until we had the advisory committee was, that they were open to an approval process that may involve another clinical trial but as part of the approval, and that\'s the approach that Watson has carried on with, so 2 different issues. The FDA review of the product probably won\'t influence practitioners in their decision-making, but it clearly prevents Watson from doing any promotion or having a conversation with practitioners.
+Unknown Analyst
+Maybe you can just elaborate on this having listened to the Watson call last week and the frustration and Wilkinson[ph], when he responded to the question about why it was denied. It just doesn\'t intuitively makes sense that if you have a drug that has been approved that you know is safe, and I\'ve spoken to a gynecologist who say there really is nothing else out there today. And Watson came back and said we are prepared to do a Phase IV bigger trial than we did previously, what was the rationale behind the FDA saying we\'re not going to take that route?
+Frank C. Condella
+We don\'t understand it. I mean, that\'s why we\'re frustrated as well. The FDA has a standard of -- the product has to be proven clinically effective and it has to be proven safe. While they don\'t argue with the fact that our product is safe, they just say that they want more clinical evidence before they approve the product, and they want that prior to approval. It would be nice if they saw the clinical need. Maybe they\'re happy with the fact that physicians can prescribe this off label, and the only way that they\'re going to open the gates for promotion is if someone does another Phase III trial prior to resubmitting. But it doesn\'t make any sense to me, I don\'t know why they\'re not willing -- the real conundrum here is, as I said earlier, is just that you can\'t do another placebo-controlled trial like we did before. Now that the guidelines are out there and it\'s a well-accepted practice, there\'s nobody that\'s going to run the risk of having their patients get placebo. And the FDA hasn\'t, at this point, tried to engage on a discussion about alternatives to that. But even if there were alternatives to that, it\'s very hard to imagine how that would make sense to spend the next 3 or 4 years with another large clinical trial prior to resubmitting. It just doesn\'t make any sense, so sorry.
+Operator
+And our final question comes from Thomas McCarthy from Raymond James.
+Thomas McCarthy
+Do you promote and advertise the availability of suppositories that would make for this purpose?
+Frank C. Condella
+I\'m sorry, could you repeat the question?
+Thomas McCarthy
+Is a compounding pharmacy that would make suppositories, typically, the progesterone allowed to publicize and promote the availability of their compounded suppositories for the purpose of reducing premature birth?
+
+Frank C. Condella
+No, absolutely not.
+Thomas McCarthy
+To what extent -- well, let me back up. I am correct that they may supply such a product to fertility prescription, correct?
+Frank C. Condella
+If a doctor writes prescription for a vaginal progesterone suppository and he defines what that is, yes, the pharmacy can -- compound to fill it.
+Thomas McCarthy
+If the compounding pharmacy allowed to promote the fact that they have such products available, are they allowed to promote it to physicians so that physicians know that such a prescription would be possible?
+Frank C. Condella
+Yes, they can do that, but they can\'t say what it would before. They could say, I can mix you up with a chocolate milkshake if you come and ask me for it but they can\'t say, this chocolate milkshake is going to reduce the risk of preterm birth. So they can\'t promote any of their products for an unapproved indication.
+Operator
+Our next question comes from Raymond Myers from Benchmark.
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+Much of the topics have been covered. One that I wanted to touch on was gross margins for the sales to Merck Serono were particularly good in the quarter. Can you touch on where we expect that to go in the future, and can we get any visibility to what gross margin might be trending next year?
+Lawrence A. Gyenes
+Yes, this as Larry, Rick. The gross margins are going to fluctuate, okay. We\'re basically down to a much easier-to-project set of financial statements, at least, on an annual basis because we\'re down to the product sales to Merck Serono and then, the royalties from Watson on a going-forward basis looking out to next year. Overall, the gross margins, at least historically, on the Merck Serono\'s sales, have averaged around 40%. But we\'ve seen in recent quarters, and some quarters are better than others depending upon which markets they\'re supplying, we\'ve seen that increase as Merck Serono enters higher-priced markets and expands their presence there, such as China. And so depending upon which markets are being supplied, the margins will be a little lower or a little higher, but it looks like they\'ve firmed up at and are probably rising over the 40% level. The second component that contributes to the margins is the Watson royalties and that, of course, has 100% gross margins. So in the overall mix, the greater the royalties become as the total mix, the better the margins will be.
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+Sounds good. And you characterized in the past that we expected third quarter would be seasonally soft, it was down sequentially. Is that, indeed, because of seasonality? And to what extent do you expect the improvement in Q4?
+Lawrence A. Gyenes
+Well, there may be a seasonal element in it to the extent that Europe is closed in August, basically. But it\'s -- we can see it in the order patterns, okay, that have come in each year. And sometimes, they match last year and sometimes, they don\'t. But we know, for instance, as Frank had mentioned earlier, that the orders from Merck Serono for the fourth quarter will be greater than those for the third quarter.
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+Excellent. And then, maybe a final question, if you could help us with how to think about longer-term earnings. You\'ve done $0.02 per share of earnings now 2 quarters in a row, even in this seasonally softer Q3, you still achieved that. Can we now think of $0.02 a quarter as a base that we can build from as scripts continue to grow?
+Frank C. Condella
+Yes, I think, Ray -- this is Frank, I think that, depending upon any cost associated with -- loosely might make it -- to make our organization even more efficient or things along those lines, I would say, that we should be able to do that. There might be an occasional quarter, but anyway, we\'ve got -- as long as the revenues keep growing the way they are, like I said, we\'re looking to maximize operating income and the only other thing that\'s really affecting that -- the net income is this fluctuation of the-- and Larry, maybe you want to talk to this, is there a noncash fluctuation..?
+
+Lawrence A. Gyenes
+Yes, the change in the value of the redeemable warrants, but I\'m assuming you\'re excluding that from your calculations since it\'s all noncash.
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+Yes, we exclude all that noncash.
+Lawrence A. Gyenes
+Yes. So that\'s the only other item that actually impacts upon the bottom line. Sometimes it\'s usually positive, and sometimes it\'s usually negative. But it\'s just an accounting aberration.
+Frank C. Condella
+Ray, I think, I just like to expand on your point, I mean, with $25 million in cash and maybe, it\'s going to grow over the next year so. While that helps increase our value, we\'re not getting any earnings off of that to speak of. And so we continue to look at options that would increase our earnings per share and therefore, increase the value of the company. So I don\'t think that would affect our earnings but it could potentially affect our cash position. I mean, it would help earnings and -- but also affect our cash position.
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+But are we right to believe that the acquisitions that you make will be accretive? Could you maybe elaborate on what, specifically, are the metrics or guidelines that you\'re imposing on yourself internally to evaluate these acquisitions from an accretive point of view?
+Frank C. Condella
+We\'d like there to be some synergies to the reason why we would be doing it. We\'d want to have it -- when we announced the shareholders, the shareholders would be supportive of it. I mean, and that would be the benchmark we use. I think that the idea of us continuing just as we are, which, as a few people suggested today, doesn\'t give you a long-term picture of a very large company. I mean, we\'re a small micro-cap company right now. And I think to get people interested in buying and selling our stock and getting, investor liquidity and interest in capital accretion, then we have to look at doing things. But we\'re not going to go out and do something that would take all of our cash and bet it on risky FDA approval process. So I guess there\'s more about what we wouldn\'t do and I can\'t get too much into specifics of what we would do because we don\'t have any deals to announce today. And until like, I guess, as Larry said, until it\'s done -- it\'s not done or, till it\'s over, it\'s not over.
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+Sure. And are we right to believe that if the company were to propose a significant deal, investors would have the ability to vote on such a transaction, is that correct?
+Frank C. Condella
+Yes. If it\'s a material transaction that involves change of control, or involves a certain number of shares needing to be used, then absolutely, that\'s within our bylaws. They have to vote on it.
+Raymond A. Myers - The Benchmark Company, LLC, Research Division
+And in what circumstances wouldn\'t they have to vote on it?
+Frank C. Condella
+It\'s not material. If we don\'t need general approval, I mean, to -- unless it really involves the share capital, I guess. If it should require issuing new shares or change of control, then -- if somebody comes tomorrow and offers to buy the company, then first of all, they\'re not going to be able to -- we still have our poison, I don\'t want to call it poison in front of all the shareholders -- the right plan. Thank you, Mike. But if someone came and then offered us a significant premium and we thought it was worthwhile to take shareholders and that would go to a shareholder vote.
+Operator
+This concludes our conference call today. I would like to hand the conference back over for any closing remarks.
+Frank C. Condella
+No, I just want to thank everybody for spending time with us this morning and I appreciate your support. And I hope you have a good day. Take care.
+
+Operator
+Ladies and gentlemen, thank you for participating in today\'s conference. This concludes our program for today. You may all disconnect, and have a wonderful day.

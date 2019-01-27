@@ -26,13 +26,16 @@ def insert_function_basic_transcript_info_table(mydb, url, pub_date, ticker, tit
 def insert_function_2(mydb, url, pub_date, ticker, title, text):
 
     mycursor = mydb.cursor()
-
-    sql_command = '''INSERT INTO BASIC_TRANSCRIPT_INFO 
+    try:
+        sql_command = '''INSERT INTO BASIC_TRANSCRIPT_INFO 
                      (URL, PUBLICATION_DATE, TICKER, TITLE, TEXT)
                      VALUES (%s, %s, %s, %s, %s)'''
 
-    mycursor.execute(sql_command, (url, pub_date, ticker, title, text))
-    mydb.commit()
+        mycursor.execute(sql_command, (url, pub_date, ticker, title, text))
+        mydb.commit()
+    except mysql.connector.errors.DatabaseError:
+        print('mysql.connector.errors.DatabaseError triggered')
+        pass
 
     return None
 
