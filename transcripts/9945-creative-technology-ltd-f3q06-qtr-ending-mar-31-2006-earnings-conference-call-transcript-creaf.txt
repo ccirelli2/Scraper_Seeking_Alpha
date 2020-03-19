@@ -1,0 +1,261 @@
+Creative Technology Ltd. (OTCPK:CREAF)
+F3Q06 Earnings Conference Call
+May 2, 2006, 8:00 p.m. EST
+Executives
+Phil O’Shaughnessy - Senior Director of Corporate Communication
+Craig McHugh - President of Creative Labs
+Sim Wong Hoo - Creative’s Chairman and Chief Executive Officer
+Ng Keh Long - Chief Financial Officer
+Analysts
+Patrick Yo - Vincuri
+Akona Chama - Diawa Securities
+Don Seed - CBS
+KingHo Lim - Credit Suisse
+Gregory Yep - Kepping Securities
+Operator
+Good evening. I would like to welcome everyone to the Creative Technology Limited third quarter fiscal year 2006 earnings release. (Operator Instructions) I will now turn the conference over to Phil O’Shaughnessy, Director of Corporate Communications. Sir, please proceed.
+Phil O’Shaughnessy
+Thank you. Good morning to those of you joining us in Singapore and good afternoon and evening to everyone in the US. Thank you for joining us today. I am Phil O’Shaughnessy, Creative’s Senior Director of Corporate Communications and I would like to welcome you to Creative Technology\'s third quarter of fiscal year 2006 earnings release conference call. 
+The press release can be downloaded from our website which is www.creative.com. We’re also offering a webcast of today’s call, which you can access through the Investor Relations page on creative.com. 
+Today’s call will be hosted by Craig McHugh, President of Creative Labs. Craig will be joined on the call by Sim Wong Hoo, Creative’s Chairman and Chief Executive Officer; Ng Keh Long, our Chief Financial Officer; and Hock Leow, our Chief Technology Officer and President of 3D Labs.
+During our call today, Craig and the other participants, who may be speaking on the call will, with the exception of historical information, be making forward-looking statements, including statements relating to inventory, operating expenses and gross margin and profitability. These forward-looking statements are based on the information that is available to us as of today and reflect management’s current analysis, belief, or expectations. Actual results could materially differ for a number of reasons, including those detailed in today’s press release and in our filings with the Securities and Exchange Commission over the last 12 months. 
+You are urged to review the risk factors set forth in our press release and in our SEC filings including our annual report on Form 20-F. Also, please note that Creative undertakes no obligation to update any forward-looking statement made in today’s call or in our press release to reflect events or circumstances that occur after today.
+For today’s call, all results are stated in US dollars. We will begin today with Craig McHugh providing a review of the results for the third quarter of our 2006 fiscal year. We will then open up the call for questions and answers. At this time, I would like to turn the call over to Craig McHugh, President of Creative Labs. 
+Craig McHugh
+Thank you, Phil. Our sales for the third quarter were $225.7 million compared to sales of $333.8 million for the same quarter last year.  Sales for the first nine months of our 2006 fiscal year were $896.7 million compared to $919 million for the first nine months of the previous fiscal year.  Net loss for the third quarter was $114.3 million with a loss per share of $1.38, including one-time charges of $41.6 million, primarily related to goodwill and restructuring charges for 3D Labs; and, an investment gain of $2 million.
+Excluding the one-time charges and investment gain, net loss for the third quarter was $74.7 million with loss per share of $0.90.  This compared to the net income of $15.9 million with EPS of $0.18 for the same quarter last year, including an investment gain of $14.8 million.  Excluding the investment gain, net income for the same period last year was $1.1 million with EPS of $0.01.
+
+In the early part of the third quarter, we were very optimistic about our prospects to achieve strong flash MP3 player sales in the period.  In order to support our expected demand, we began to secure the high volume of flash memory that we needed.  We believed it was important to secure the memory early in the quarter, as in the preceding holiday quarter, flash memories had very limited availability and we were unable to secure adequate volume in that quarter.
+In January, availability began to improve and we significantly increased our flash memory purchases so we would not be caught short as we had been in the prior period.  However, the price for flash memory began to slide as the supply of flash memory exceeded market demand for, among other reasons, MP3 player manufacturers, most notably Apple, had significantly lower MP3 player unit sales in the first calendar quarter than in the holiday quarter.
+The oversupply of flash memory continued throughout the quarter, resulting in a steep drop in the price of flash memory at the end of the quarter.  Our inventories for flash memory now had a cost well above market value.  This resulted in our having to take a substantial write-down of our inventory of flash memory and our flash-based MP3 players. 
+The steep drop in flash memory prices in the quarter also created uncertainty and pricing instability in the retail market for MP3 players, further contributing to a significant slowing of worldwide sales of MP3 players, particularly in Europe.  Our sales were negatively impacted with MP3 player unit sales dropping quarter over quarter by 51%, and Apple was down approximately 6 million units quarter over quarter, or 40% from 14.5 million players to 8.5 million MP3 players sold. 
+We believe the unexpectedly large 6 million unit drop in Apple sales of MP3 players in the March quarter from the holiday quarter was the key factor in the market price collapse of flash memory. 
+The magnitude of the drop in sales of 6 million Apple MP3 players in the March quarter from the holiday quarter was unexpected by the market and by us, as this was counter to the prior two-year trend for the sale of Apple\'s MP3 players.  The trend in the previous two years was for sales of Apple\'s MP3 players to be higher in the calendar first quarter than in the preceding holiday quarter.
+Apple\'s unit sales in the March quarter of 2004 exceeded unit sales in the holiday quarter of 2003; and unit sales in the March quarter of 2005 exceeded unit sales in the holiday quarter of 2004.  With the lower sales in the worldwide MP3 market, retail prices for MP3 players fell in the back half of the quarter, negatively impacting our revenues and our gross margins in the period.  Overall, our PDE category contributed 60% of revenues in the period, compared to 68% of revenues for the same period last year.
+We believe that the price of flash memory may stay at low levels for the remainder of this calendar year, and that going forward the low price of memory can provide a significant opportunity for Creative to improve our gross margins and profitability.  I will address this opportunity in more detail in just a few moments.
+Our results in the quarter were also negatively impacted by our decision to refocus our 3D Labs graphics business.  We announced on February 24th that we were moving away from the shrinking workstation graphics market and focusing on the portable handheld device market.  As a result in the quarter, we had to take one-time restructuring charges and non-cash impairment charges for goodwill and other intangible assets related to 3D Labs.
+Moving forward, we believe that the portable handheld device market provides strong market opportunities for 3D Labs for long-term revenue growth and profitability. 
+
+Paramount among the benefits of the refocusing of 3D Labs, we moved 3D Labs from a shrinking market into a potential high growth market.  Secondly, we were able to reduce operating costs going forward as we reduced head count by 100 employees. 
+Just as we examined our 3D Labs business and took the steps that would yield the benefits I just mentioned, we are now carefully analyzing each of our product categories and areas of business to determine ways to reposition them for future revenue growth, increasing gross margins and reduction of our operating expenses.
+In a moment, I will discuss some of the opportunities that we are evaluating for each of our major product areas to improve our results going forward.  Before I do that, let\'s finish our breakdown of sales by category and geography, and the other historical financials.
+As I just mentioned, sales for our PDE, personal digital entertainment, category which includes our MP3 players and web cameras, contributed 60% of total sales in the period.  This compares to 67% of revenues last quarter, and 68% of revenues for PDE in the same quarter of last year.
+Our audio category contributed 13% of sales in the period, consistent with 13% of sales last quarter and 13% for the same quarter last year. Our speaker business contributed 17% of revenues in the period, compared to 13% of revenues last quarter and 12% of revenues for the same period last year.  Revenues from all other products accounted for 10% of total sales in the period.
+Looking at the breakdown of revenue by specific geographic regions, the Americas represented 41% of sales compared to 37% for last quarter, and 42% for the same period last year.  Europe contributed 38% of total sales, compared to 48% last quarter and 40% for the same period last year.  Asia contributed 21% of revenues compared to 15% last quarter and 18% for the same period last year.
+Our gross margin for the period was a negative 4.5%, including the one-time charges associated with 3D Labs. Excluding those one-time charges, our gross margins would have been a negative 2.6%.  The negative gross margin was as I had discussed earlier, primarily the result of the collapse in flash memory prices in the quarter.
+Operating expenses for the third quarter, including the one-time charges for 3D Labs, were $108 million, coming in at 48% of sales.  Excluding the one-time charges for 3D labs, our operating expenses for the period were just $71 million, or 31% of sales.  This compares to $78 million or 20% of sales last quarter, and $71 million of operating expenses, or 21% of sales for the same period last year.
+Moving on to the balance sheet.  We ended the quarter with $224 million in cash compared to $200 million last quarter and $255 million for the same quarter last year.  During the quarter we reduced net inventory by 8% to $276 million compared to $301 million at the end of the last quarter.
+DSO at the end of the third quarter were 53 days compared to 47 last quarter and compared to 44 days for the same period last year.  The value of our investment portfolio as of March 31 was $89.8 million.  Of this total, approximately $78.6 million is in listed investments, including $34.5 million of unrealized gains.
+During the third quarter we did not repurchase any shares from our share buyback program. 
+As I mentioned a few moments ago, we are now carefully analyzing each of our product categories and areas of business to determine how to best position them in high growth market segments in which we feel that we can obtain at or above 20% gross margin and contribute to the Company\'s return to profitability.
+At the same time, we are working to identify areas within each product category where we can reduce our operating expenses.  In addition to analyzing each of our product categories, we are exploring strategic alternatives for improving our operations, including supply chain, procurement and inventory management.  As we feel we can reduce our product costs and inventory levels while improving our product availability, quality and gross margins by changing our current operations strategy.
+
+Through this process, we feel we can become a leaner, more productive and agile organization and return our Company to profitability in the second half of this calendar year.  
+I would like to share with you a couple of the initial directions we are evaluating for our major product categories.  
+With our MP3 player business, we believe we can position ourselves to benefit from the low price for flash memory moving forward.  We can take a leadership position in the emerging market for portable media players, and streamline our MP3 player product lines.
+Although precipitous drop in the price of flash memory negatively impacted us last quarter, the resulting low market price of flash memory now provides us with a significant future opportunity to improve our gross margins and profitability in the category.
+Prior to the collapse of flash memory, the cost of flash memory represented a very large percentage of the manufacturing costs of our flash-based MP3 players.  The high price of memory made it difficult to hit aggressive market pricing on our entry-level flash MP3 players, while achieving acceptable margins.  As the price of flash has now come down low enough, the price of memory for even a 1 Gigabit flash player now represents less than half the total cost of the player, compared to over 70% of the costs when the memory prices were substantially higher.
+Going forward, we can produce high capacity flash players of 1 Gigabit or more at lower costs than ever, allowing us to hit compelling retail prices while improving our gross margins because of the much lower costs.  Of preeminent importance, the low price of flash memory significantly reduces our major competitor\'s previous advantage over us, as they were able to obtain memory at significant lower prices than we were because of their purchase volumes or their position as flash memory producers.  
+We believe we can now be much more competitive as we can produce mass market MP3 players with 1 Gigabit or more capacity, with a cost closer to even our largest competitor.  Our improved competitiveness will help us to achieve higher gross margins in the category going forward.  The lower flash memory prices will also allow us to produce lower cost, higher capacity flash MP3 players featuring our patented ZEN user interface.  As the memory capacity of the players goes up, the ease of use of our ZEN user interface provides us with a strong strategic advantage.
+We have already achieved a strong number two market share position worldwide in the flash player market, and we have also achieved a strong number two in the high capacity MP3 jukebox market.  This is evidenced by the latest IDC report just issued in April that details MP3 player worldwide market share for all of 2005.
+In addition to our strong global market share position, we achieved the number two market share in the U.S. for total MP3 players.   We believe we can grow share in the second half of this calendar year while improving gross margins in the category, helping us achieve our target to return to profitability in the back half of this calendar year.
+Next, we feel there is a rapidly emerging, long-term growth market with our video enabled portable media players.  Although we have taken a very conservative approach to date with production of our award-winning ZEN Vision M portable media player, as we ramp our capacity there is opportunity for growing revenues with target margins.
+Currently, the consumer demand outstrips our ability to produce sufficient quantities of the ZEN Vision M.  We also believe there is opportunity to streamline our MP3 player business with a focus on strategic, high volume and profitable products, instead of the large number of product offerings we have today.  Streamlining our product offerings will assist us in our efforts to improve our supply chain and reduce our net inventory.
+
+In our audio category, we are dividing the business into two distinct groups.  The first group will focus on the PC gaming market with our SoundBlaster X5 family of Xtreme Fidelity sound cards.  The group will also be responsible for marketing our expanding line of high performance gaming peripherals, including gaming mice, head sets and gaming keyboards.
+The second group in our audio business will focus on the consumer electronics market, with our proprietary XFi audio technology, enhancing MP3 music and digital audio and video in the home. We believe we can extend our market leadership in PC audio into the larger consumer electronics market.  
+For the CE market, we are working to expand the application of our Xtreme Fidelity audio standard, which can be implemented in a variety of exciting digital entertainment products.  The expansion of the XFi technology into consumer electronics, we believe, provides a growth opportunity for our audio business, with historically high gross margins.
+In our speaker category, we are focusing on what we believe are the higher growth, higher margin segments of the market, including the MP3 digital audio market with docking and portable speaker systems, headphones and lifestyle speakers for the home.  We will be streamlining our PC speaker offerings.
+In web cameras, we believe we can expand our market share while maintaining high gross margins by transitioning our business to the high end of the category, with the introduction of Advanced live webcams, incorporating several of our Advanced proprietary technologies. We feel that we can utilize our technological advantages in the area of voice and video to position ourselves very well in the potentially high growth markets for video instant messaging, video chat and video blogs.
+As we analyze each of our four major categories: MP3 players, audio, speakers and cameras, we are also exploring ways to improve our supply chain and procurement efforts with the goals of improving gross margins, reducing cost and our inventory.
+In review; moving forward, our key strategic areas of focus include the following:
+
+Returning to profitability in the second half of the calendar year.
+ Examining each of our product categories to determine how we can best achieve the revenue growth potential, and refocus any non-profitable or declining product category, as we\'ve already done with 3D Labs.
+ Focus on growing our audio business by expanding the market for XFi and Xtreme Fidelity in the consumer electronics space.
+ Continuing our focus on reducing our operating expenses to under $65 million. 
+Exploring strategic alternatives for improving our operations, including supply chain, procurement and inventory management.
+ Returning our gross margins to 20% or higher in the second half of this year.
+
+At this time, I would like to open up the call to question and answers.  
+Question-and-Answer Session
+Operator
+(Operator Instructions)  Your first question comes from Patrick Yo - Vincuri.
+ Patrick Yo - Vincuri
+Good morning Sim. Good morning, Craig. Could I just get some clarity in terms of, of the inventory that you have reported on your balance sheet, how much of that actually is related now to flash memory and products containing flash memory?
+Craig McHugh
+Hi, Patrick.  For competitive reasons we are not going to break it out down to the component level or the product level.  I will share with you that right now our inventory is divided very close to the division of sales, with about 60% of our revenues coming from our PDE, about the same level it is in our inventories.  If you look at our inventory make-up, about 43% is in raw materials, 2% in WIP, and about 55% in total inventory in finished goods.
+ Patrick Yo - Vincuri
+Right.  So the adjustment in inventory has basically taken the value of inventory back to what flash prices were at the end of the March quarter?
+
+Craig McHugh
+Yes, we took the appropriate write downs and as I said in the presentation, with our flash memory and also our inventory of flash memory players.
+ Patrick Yo - Vincuri
+Right.  Is the Company considering alternatives to manufacturing such as outsourcing and perhaps releasing a lot of the assets currently fixed assets on the balance sheet?
+Craig McHugh
+I tried to highlight today one of the key areas of focus for Creative right now is exploring strategic alternatives for our operations.  The executive team is looking at all different strategies with regard to operations, because we believe we can improve not just our product availability but reduce our inventories, be able to reduce our exposure to inventory and be able to be more responsive to the market.  
+At the same time, of course, that potentially could free up working capital, as you noted.
+ Patrick Yo - Vincuri
+And the target for this to be completed?  Is it the next two quarters, or is there a timeline?
+Craig McHugh
+As we shared, right now our horizon for returning to profitability is the back half of the year.  We are actively looking at each of our product categories.  The first one we moved on of notable size was the refocusing of 3D Labs.  We don\'t have a specific timeline for our decisions with each group in the operations but we are putting all of our efforts into these areas of focus right now.  I think you are going to be seeing changes from Creative in our direction in the coming months.
+ Patrick Yo - Vincuri
+Thank you.
+Craig McHugh
+Thank you for the question, Patrick.
+Operator
+Our next question comes from  Akona Chama - Diawa Securities.
+ Akona Chama - Diawa Securities
+Good morning.  First quarter, let us know what is going on with the audio business?  I think you only had revenue of $29 million on the last quarter; which is the lowest revenue so far you have recorded so far in the audio business.
+Craig McHugh
+I think as you saw the downturn in the value of our audio business as far as revenues, I think that led to the strategic decision to divide our efforts into two groups.  I believe we have been under-investing in the marketing of XFi.  We have done a great job with the early adopters, we have done a great job with the press being able to get a lot of believers in the excitement and the power of XFi and what it can do for both gaming as well as for entertainment, music and movies.
+I don\'t think we\'ve made the marketing investments to drive the sales of our audio business.  Perhaps we have been so focused on achieving a number two share worldwide in MP3 we have under-invested in our core audio business.
+Sim now is committed to having a heavy focus worldwide in audio, hence the division of our Company into two groups on the audio side.  We believe we have an outstanding opportunity to go with our core market, which is in the gaming area.  Those are the folks that we believe we can make an immediate impact.  
+You are going to see significant increases in our grassroots marketing efforts. We are going to be supporting the large LAN gaming networks worldwide.  We will have a major presence in all of the largest professional gaming arenas.  We are focusing on our relationship with Fatality, the worldwide number one PC Gamer, who is a big advocate of our products.  We have a line of Fatality peripherals.  
+We believe we can extend our audio business through the line of peripherals.  We are going to be introducing very soon a very high end headset for gamers that works perfectly with the SoundBlaster Xtreme Fidelity cards.  You will see other gaming peripherals such as our recently introduced gaming mouse.  We believe this will all extend our penetration.
+I think the area of greatest excitement is as we move into the consumer electronics market.  The XFi dramatically enhances the digital audio experience.  Digital audio and MP3 as you know is probably the most exciting part of the technology market right now.  We have the opportunity to reach out to all of the owners of MP3 players and all of the lovers of digital music with external devices that don\'t require the PC that work in a consumer electronics fashion to enhance MP3 music.
+
+So I think we are disappointed by the results this quarter in audio, but we are going to focus more heavily on audio than we have in the past two years.  I believe it will give us strong results and it will transition us into a high growth market.
+Over the past four years, the PC audio market has been shrinking, particularly at the low end.  The low end of our business now has moved away from us.  The XFi is actually growing, but it has not been growing at the rate we would like to see, hence the further investments we are going to make.
+I would ask you to watch the audio space in the year ahead as we move into the consumer space.  I believe it is a significantly larger market than any we have been able to try and penetrate and what we\'ve done in the PC space.  That is where our big focus is going to be.
+I also shared that we expect to move in the consumer electronics space with very high margins.  Audio continues to be our highest margin product category.  So as we increase our audio sales it is going to have a very positive impact on the corporate margins.
+ Akona Chama - Diawa Securities
+I think you had mentioned about reducing the head count by about 100 employees. Could you elaborate?  Which area are you cutting the head count going forward?  
+Craig McHugh
+Let me clarify.  The 100 employee number was the number of employees that we let go as part of the refocusing of 3D Labs. So that number was specifically related.  We have made other cutbacks in headcount worldwide in various operations to improve the operational efficiency, productivity and reduce the cost of certain groups. 
+As we look forward in each of the product areas as we determine what is the best, most highest return for each group, we are looking at reducing costs. We believe we can reduce costs by improving productivity, and for those areas that are under performing or we don\'t like the high end potential for those groups, we are going to make cutbacks.
+As we mentioned, just as we did in 3D Labs we are going to refocus each of these businesses to reduce costs and increase our productivity and enhance profitability.
+ Akona Chama - Diawa Securities
+An interesting comment you made there; your video portable media players, I think your sales were higher than probably what you can supply.  Have you levered how you are procuring that particular product and how you are going to probably scale up the production for video portable devices?
+Craig McHugh
+Yes, the ZEN Vision M when we made the major U.S. launch at the Consumer Electronics Show in January of this year, it got a phenomenal response, both by the consumers at the show and by the retailers.  We gained a similar response when we made the introductions in Europe and in Asia.  Openly, the response and the excitement around the player was significantly greater than we had first anticipated.
+The product was first announced in the U.S. at $329 and for competitive and other reasons, before release we brought the price down to $300.  $300, we are the same price as the competitive offering from Apple for their video player.  And at $300, again, it drove the demand higher than we had expected.
+So the combined effects of the great reception during the introduction; the competitive price moves that position us head to head versus Apple has really far outstripped our ability to produce.
+We are working in two areas right now.  Internally we are working to increase our manufacturing capacity, and we are working with our vendors to increase their supply of key components.
+As we are able to increase our manufacturing capacity and get the components in we need, we will be able to significantly ramp.  We are looking at a strong ramp in the back half of the year for the ZEN Vision M.  If you look at the sell through reports, virtually everywhere it is at we have very strong sell through.  Our only problem right now is being able to get them onto the shelves.
+
+It is doing very well in the online sales as companies such as Amazon, Dell\'s online site, Buy.com and doing well at all of the worldwide major retailers. So this is a case where we were conservative in our approach, we wanted to gauge the success of the product. In this particular case it was far more successful than we had anticipated.  
+There is a lot of excitement around the product.  I don\'t believe we\'ve hurt ourselves by not having the volume we would have liked to meet demand, because right now there is so much excitement, there is so much positive press and there is so much talk on the news about how good the ZEN Vision M is.  It is a great product and I believe we will be able to take advantage of it going into the back half of the year.  
+It is particularly important because as I highlighted today, we believe there is an emerging excitement around video; video blogs, video chat, downloadable TV shows, streaming video that will become downloadable soon, sports shows.  Creative has a group now that is focused with the content providers to have a wonderful video solution to match with our players.
+So I believe not just in ZEN Vision M, but our entire roadmap for video-enabled portable players provides great opportunity going forward.  As you know, video has been something that has been talked about for years.  I believe this is the year of video. Just as the past three years have been, for us, the year of audio, audio and video players together provides great opportunity.
+I would ask you, when you look at the ZEN Vision M compared to the competitive players, we have a fantastic offering. That is why we are getting such great reviews because of the quality of our video, the quality of the user experience and how easy it is to download video.  I think we are doing exceptionally well in that space.
+ Akona Chama - Diawa Securities
+Could you at least give us some color?  Like on the PD segment, what percentage of revenue came from the video segment?  
+Craig McHugh
+For competitive reasons right now, I don\'t want to break that out.  As I mentioned, the ZEN Vision M, we originally sold out worldwide so that limited out revenues.  It is included in the total number, but I prefer not to break it out.
+ Akona Chama - Diawa Securities
+The last one is on the investment portfolio.  How much of a percentage is in the unrealized gain?
+Craig McHugh
+Bear with me for one moment and I will give you the specific numbers on that.  I think in the presentation I gave the exact numbers, I don\'t have it at my fingertips.  In the investment portfolio, the total is $89.8 million.  $78.6 million is in listed investments.  Included in that is $34.5 million of unrealized gains.
+ Akona Chama - Diawa Securities
+Thank you.
+Craig McHugh
+Thank you.
+Operator
+(Operator Instructions) Our next question comes from Don Seed - CBS.
+ Don Seed - CBS
+Hi, good morning.  I have two questions, one of my questions was answered earlier.  First was your XFi on the consumer electronics front, could you share with us a little bit more on what are your plans? Something more concrete?  Like, by the end of the year what can we expect the XFi to appear in?  I think you have said this a few times already.  Do we have plans, has it started in anything yet?
+Craig McHugh
+The addition of our audio efforts in the two groups I think reflects how close we are to driving products in the consumer electronics market.  There are two areas of focus for us.  One, of course, is our own products.  This year you will see from us a family of products that are focused in the home that are away from the PC that will dramatically enhance the user\'s experience with their MP3 portable players, with digital audio and with their entertainment systems.
+I believe anyone who has heard the SoundBlaster XFi in a PC would love to be able to have that same experience in their home with their home stereo systems, home theatre systems, and the portable media players and MP3 players.  Our goal is to be able to provide that by the end of the year.  So we will have PC systems, but we will also have systems available that are Xtreme Fidelity that someone can go into their home, away from their PC and be able to upgrade their player experience, their home stereo experience to XFi quality.
+
+I can\'t go into specifics right now, but we are very close and you will see products well in time for the holiday this year.
+On a separate front, we are working with major CE suppliers worldwide to evaluate and for them to be able to bring XFi into their components.  Many of the suppliers in the consumer electronics space saw what we were doing at the CES Show, they came and heard XFi for the initial time.  There was a huge amount of excitement around the Xtreme Fidelity platform and the Xtreme Fidelity audio platform.
+So our focus on CE, we will be able to spread that into multiple platforms.  I believe this year you will see it in products from us; in 2007 you will see it in products from major CE suppliers outside of Creative\'s own products. That is the timeframe we are looking at.
+ Don Seed - CBS
+My next question, on the selling and administrative, your SG&A expense, despite falling sales, you have not been able to bring that number down.  Could you give us some color on that please?
+Craig McHugh
+Yes, openly as we shared throughout today\'s presentation, the precipitous drop in the flash memory prices impacted our gross margins but had a huge impact on our revenues.  As you saw and I also shared with you, our unit sales in MP3 players were down about 51%, primarily attributable to uncertainty in the market and difficulties in pricing.  People were taking a wait and see attitude at the retail and the global level of where the prices were going.
+That was an instantaneous drop in a very short period of time, so it makes it very difficult to pull back on your sales and marketing programs.  As I noted today, we actually were very optimistic about having a very large quarter in MP3 sales, especially flash player sales in the period. We made substantial marketing and advertising and promotion investments in the period.  At the same time, we made a major investment at the Consumer Electronics Show.  For those of you fortunate enough to be able to see our both at the CES show, it was one of the largest booths at the show. We got the best product of the entire show as a result of our efforts, and generated huge interest in what we were doing.
+As I mentioned, we got so much excitement around the ZEN Vision M.  I believe we were very effective with our marketing programs, but as we saw downturn sales in the period, it was far too late into the period to put a breakdown on our marketing and advertising spending.
+If you look at quarter over quarter, I believe our operating expenses did fall from the high holiday period from $78 million to approximately $71 million and we were consistent year-over-year at $71 million in the same period last year.
+Going forward, as I have shared today, we expect to be able to bring our operating expenses down at or below $65 million. Historically, for those of you who have known us in the past, Creative exerts very strong control in management with regard to operating expenses, setting aggressive targets and being able to achieve those.
+That is why we are giving a forward-looking horizon.  We are analyzing each of our businesses to get the OpEx down.  I believe our OpEx was difficult to have been able to move any of the SG&A down in that period.
+Going forward, we have to be very judicious in our marketing and our advertising. We have some very exciting products and things in our roadmap that do require proper launching and focus.  That is why we are looking at each part of our business to see where we get the highest return.
+So today we set the expectation of where we are going to drive operating expense down to over the next few months.  I believe we will get there and we will continue to manage expenses appropriately as we return to profitability.
+ Don Seed - CBS
+Could you just give me as a percentage of your overall sales, what percentage of that was actually outsourced and what percentage was done in house?
+
+Craig McHugh
+We haven\'t broken that out before.
+ Don Seed - CBS
+Could you provide that?
+Craig McHugh
+I am not prepared to do that today, because we are right in the middle of cost-specific -- exploring strategies, so I think as we share our forward going strategies and finalize those and we move forward and execute on alternative strategies, it would be more appropriate to break those out. 
+Today we have two facilities, we have our main facility, one in China where we produce all of our MP3 players. Many of our speakers today are outsourced.  So when you look at the percentage of our sales, our MP3 players, audio products are primarily produced inside.  Our speakers are almost exclusively produced on the outside.  That gives you some good feedback as far as what the percentage of outsourcing would be.
+ Don Seed - CBS
+Finally, I have one last question on your repayment schedule for your long-term debt.  Can you give us some details on that? When is that amount supposed to be repaid?
+Craig McHugh
+Keh, I am going to ask you to take that question please with regard to any information or schedules with regard to the repayment of our long-term debt.
+ Ng Keh Long
+As indicated, that is a five-year loan so we got it over one year ago.  Repayment is not due until 3.5 years later.
+ Don Seed - CBS
+3.5 years later, okay.  Thank you very much.
+Craig McHugh
+Thank you.
+Operator
+Our next question comes from KingHo Lim - Credit Suisse.
+ KingHo Lim - Credit Suisse
+Hi, Craig.  Now that the flash prices have sort of stabilized, have you seen a recovery in your MP3 sales?
+Craig McHugh
+We very recently -- and I say recent because all the price drops in flash were precipitous.  We recently affected our price moves in Europe and in the United States.  I am very excited about some of the sell through information we have been getting over the past couple of weeks, out of specific markets and geos in Europe, and also in the U.S.  I mentioned I was optimistic last quarter, I think we need to see a few more weeks of sell through right now.  The velocity of the MP3 players is very strong right now in the channel.  
+I think when you look at Amazon in the U.S., they have the hot sellers.  We have moved up dramatically. In all CE products, we have recently moved in the past week into the top 50, I think reflecting the excitement around the new price points.  The new price points I mentioned, even though they are significantly lower than we were before, with the low price of flash memory our margins will be significantly increased.  It is a wonderful opportunity for us to hit mass market prices and be able to achieve good margins in this category.
+I think where we have seen the biggest uptick in sales in Europe so far has been the Scandinavian countries, as well as some of the southern countries.  So I think there is some good receptivity in the market to these new prices.  I think going forward, we are going to be able to open up some new markets with these mass market prices. 
+ KingHo Lim - Credit Suisse
+I think separately, given the seasonality of flash prices, what is your fulfillment strategy going to hit?  Are you guys just buying from the spot market, or are you stocking up at the lower prices?
+Craig McHugh
+I think clearly one of the most important areas that we have to focus on is in the area of operations as a Company.  Critical supply chain, our procurement policies, our procurement strategies, are intertwined so closely with that.  Kin, that is one of the areas we are focused on most heavily right now.  What is the proper procurement strategy for Creative going forward?  Whom do we work with, whom do we partner with and how do we dramatically reduce the exposure that we suffered this last period?
+So that is the area we are focused on most right now.  We are in the middle of a process of exploring alternatives, so it is difficult to break that out right now.  But there has been historically seasonality in flash.  I shared with you our belief right now, as we look at the market we look at the supply and demand window for flash memory, we believe that the prices will remain low for the rest of this year, which gives us an opportunity, truly, to be able to increase our market share while improving margins.
+
+ KingHo Lim - Credit Suisse
+Separately as you look to streamline your various product lines, do you think it is possible that inventory could actually go down to below $200 million, which is where you guys were just a couple of years back?
+Craig McHugh
+We are not breaking out a specific target today.  I believe we reduced our inventories 10% in each of the last three quarters. Driving inventory down is an opportunity for us, both with our current operations but I think as we look at strategic alternatives, one goal is to drive inventories down to those types of levels.
+ KingHo Lim - Credit Suisse
+Looking at the finished goods component of your inventory, do you have very old MP3 players in there which may need to be written down, or?
+Craig McHugh
+In the write-down of our inventories I noted, we wrote down our inventory for flash memory.  We also noted that we took an inventory write-down for inventory of flash memory players.  We had a large inventory of finished goods between our geographic regions, as well as in-process and in-transit.  That doesn\'t mean that they were all players.  We were ramping up our new players for what we thought was going to be a very high quarter.
+I will speak to low margins and inventory write downs that is not old or depressed inventories, but that we were preparing large inventories for what could have been, was shaping up to be, a very, very large quarter for us.
+I think as you look at all of our inventories worldwide I think it is comprised to a large extent of new inventories, and that is not an issue or concern for us as far as finished goods.
+ KingHo Lim - Credit Suisse
+Lastly, you mentioned about bringing OpEx down to below $65 million. Any timeframe that we could expect that to be achieved?
+Craig McHugh
+We are actively working, as I mentioned, we made the reduction in expenses with the refocusing of 3D Labs.  We have made reductions in other groups globally already, and we are looking at all of our efforts right now.
+I think you are going to see us achieve $65 million during the second half of this calendar year.
+ KingHo Lim - Credit Suisse
+Thank you so much, Craig.
+Craig McHugh
+Thank you, very much.  It was nice to talk with you again.
+Operator
+(Operator Instructions) We now go to the line of Gregory Yep - Kepping Securities.
+ Gregory Yep - Kepping Securities
+Hi, guys.  Earlier on you talked about streamlining your product offerings, reducing the wide range of products that you have out now and also reducing the operating expense costs in each category.  Does that include getting out of certain spaces altogether?  Spaces where you don\'t have category leadership and don\'t expect to have it in the next two or three quarters?
+For instance, the low end MP3 player market. Why do you need to try to compete in this market where you may not have a good chance of achieving profitability, or good profitability?  As good as what you hope to achieve for your high end offerings?
+Craig McHugh
+Thank you for that question, it gives me a chance to clarify.  As we look at each of our businesses, we are right now targeting to move each of them into potentially high growth markets.  This is what we did with 3D Labs.  We were in a shrinking space, we didn\'t like the long-term prospects of the shrinking workstation, graphics market.  We are very excited about the long-term opportunities that we see in the portable handheld device market. 
+So we closed one group, took the restructuring charges, took the hit this quarter as far as some of the pains I shared with you, it impacted our financials as we refocused that group.  Two clear benefits are now we have a very bright future for 3D Labs and reduced operating expenses.  Just as we looked at 3D Labs, we look at each product area.  If we identify an area that doesn\'t have strong growth opportunities, strong profit opportunities and high margin opportunities for us, we will either divest ourselves of that, move away from it, give our best efforts to refocus it into an area of high growth.
+
+In audio, for example, I was very upfront that we think that the PC market for audio is not a high growth market, it is a very strong one for us.  We are going to maximize that by focusing on the gaming element, which we can get the highest return.  
+But we see a focus on consumer electronics to be both high growth, high margin and a great opportunity for Creative to become the leader in the long term.
+So not so much that we can\'t be a leader in two to three quarters, but if we can\'t return that group -- any group -- to profitability with growth prospects, then we are going to make the decision just as we did with 3D Labs.
+We talked about we need to streamline the organization as well as the product line, we need to become leaner, more productive and focus all of our efforts in areas where we can have a higher return and return the Company to profitability. So we are committed to make those types of decisions in looking at each area of our business.
+ Gregory Yep - Kepping Securities
+So there is a possibility that you could exit the lower MP3 market altogether?  Because especially memory prices might be low now, and that seems to be a key foundation of your strategy in the next six months. But it might not stay low, if Apple decides to have a great quarter again, then prices would shoot back up.
+Craig McHugh
+I think there are a couple of elements, and that was the second part of your question I was going to get to. There are a couple key elements of what we talked about today.  If you look at the IDC report, you look at other reports very similar, Creative has the number two market share worldwide in flash and number two market share worldwide in hard drive.  And in the U.S. market for the combined hard drive and flash, we are number two.  We are ahead of Sony, we are ahead of Samsung, we are ahead of iRiver, we are ahead of SanDisk and others.
+That has been a very difficult marketplace to be able to achieve such a great position.  It is one that we believe with our market share we can return to profitability in each of the sectors.
+I mentioned ZEN Vision M, there are great prospects with video. We are going to expand our mid-range with a couple of wonderful products on our roadmap.  In the low end, as we revamp our manufacturing strategy, our operations strategy and reduce our costs, clearly we can be competitive with any producer in the world.  
+We have great relationships and partnerships with the chip companies with our ability to work with our retail partners.  I truly believe we can be successful in each market segment.  After further research, if we determine there is risk and we are not able to be successful at the low end, we have enough market segments for us to be successful in.  
+But right now, we can hit great price points.  If you look at some of our largest customers, if you look at Wal-Mart, Circuit City, Media Mart in Germany, [Finac] in Europe, the customers that demand to be able to have mass market products, we are doing a great job.
+So I believe that no one should underestimate us in the very low end of the market.  It is a very high end market opportunity, and as we see, we believe the price of flash will stay low.  There is also going to be higher capacity players because of the lower flash. That will enable our mid-range and high end strategies.
+We don\'t have to be in each of those markets.  I believe there are opportunities for Creative to achieve good gross margins, growth and profitability in each of the areas that we\'ve identified. Streamlining our products I think, more tends to be, let\'s focus on our great products such as ZEN Vision M at the high end; some of the mid-range products that are coming out.  Not as many or as high a number of products, but great products with high velocity.
+
+I don\'t discount your point.  We are going to look at every part of our market in every product category to see where we can get the highest return.  Right now, I believe there is great opportunity for Creative to increase our market share, expand our reach and solidify our position as the strongest number two player in MP3 worldwide.
+ Gregory Yep - Kepping Securities
+Thank you.
+Operator
+At this time there are no further questions. Are there any closing remarks?
+Craig McHugh
+Kyle, thank you. I would like to thank all of you for taking the time to join us today and we look forward to working with all of the Creative team members worldwide as we drive back to profitability in the back half of this year and explore ways to improve the productivity and profitability reach of our business units.  Thank you very much and have a good afternoon and morning in China.
+Operator
+This does conclude today\'s Creative Technology Limited Conference Call. You may now disconnect.

@@ -1,0 +1,368 @@
+Brooks Automation, Inc. (NASDAQ:BRKS) F4Q 2012 Earnings Conference Call November  8, 2012  4:30 PM ET
+Executives
+Steve Schwartz – President & CEO
+Martin Headley – CFO
+Analysts
+Edwin Mok – Needham & Company
+Patrick Ho – Stifel Nicolaus
+CJ Muse – Barclays
+Ben Pang – Caris Company
+David Duley – Steelhead Securities
+Jairam Nathan – Sidoti & Company
+Satya Kumar – Credit Suisse
+Operator
+Welcome to the Brooks Automation Q4 Financial Results Conference Call. (Operator Instructions) Afterwards we will conduct a question-and-answer session. (Operator Instructions) As a reminder this conference is being recorded Thursday, November 8, 2012. And I would now like to turn the conference over to Mr. Martin Headley, Chief Financial Officer. Please go ahead Mr. Headley.
+Martin Headley
+
+Thank you very much, Chantel and good afternoon everybody. I’d like to welcome each of you to the Year-End Financial Results Conference Call for Brooks Financial 2012 Year. We’ll be covering the results of the fourth quarter that ended on September 30 and providing an outlook into the quarter, the first quarter that will end on December 31. Our press release was issued at the close of market today and is available at the investor relations page of our website www.Brooks.com as are the illustrative PowerPoint slides to be used during our prepared comments during today’s call.
+I’d like to remind everybody that during the course of the call we’ll be making a number of forward-looking statements within the meaning of the Private Litigation Securities Act of 1995. There are many factors that may cause actual financial results for other events to differ from those identified in such forward looking statements. I will refer you to the section of our earnings release titled Safe Harbor statement. The Safe Harbor slide in the aforementioned PowerPoint presentation on our website and the company’s various filings with the SEC. Make no obligation to update these statements should future financial data or events occur that differ from forward-looking statements presented today.
+I’d also like to note we also make reference to a number of non-GAAP financial measures which are used to, in addition to and in conjunction with results presented in accordance with GAAP. Management believes these non-GAAP measures provide an additional way of viewing aspects of our operations and performance and that when considered with the GAAP financial results and the reconciliations of GAAP measures provide a more complete understanding of the Brooks’ business measures. Non-GAAP measures should not be relied upon to the exclusion of GAAP measures.
+With me today is Brooks’ President and Chief Executive Officer, Steve Schwartz who will follow my introductory remarks with commentary on the business environment and our current initiatives. I’ll then provide an overview of the fourth quarter financial results and a summary of our financial outlook for the quarter ending December 31st which is the first quarter of our new fiscal 2013. We’ll then take your questions.
+During our prepared remarks I will from time-to-time make reference to a slide number and those are the slides that are available to everybody on the Investor Relations page of our website. An introduction and to frame the events of the quarter a summary is provided on Slide #3.
+During the quarter we experienced a 30% sequential downturn in front-end semiconductor product revenues, reflecting weak demand from some of our larger customers. Despite this we ended with revenues at the high-end of our guidance range with Life Science System revenues increased by 25% and we saw growth in revenue to adjacent markets, albeit at the low base. We also had a weak order environment during the quarter with bookings of $97.5 million that points to a continued downturn in the market environment.
+
+Recognizing that difficult market environment we initiated a restructuring program during the quarter that covered all areas of our company. This program also encapsulated previously planned activities to reduce the cost footprint of our Life Science Systems business. Overall, we reduced head count by approximately 10% in executing on the program from September through November.
+Let me also talk briefly about a couple of non-operating matters that have a significant impact on the reported financial results. Firstly, reflecting the cumulative probability that the company has driven over this last cycle, management came to the conclusion that it was appropriate and necessary to reverse $121.9 million of valuation allowances that we had maintained for many years against deferred tax assets arising from prior tax losses. This resulted in a $1.85 per share one time income tax benefit that is reflected in our fourth quarter GAAP earnings of $2.08 per share. Following these reversals the company will reflect a full tax rate of around 35% although our cash tax rate will remain below 10%.
+The second significant one time item was the termination of the previously frozen U.S. defined benefit plan that resulted in an $8.9 million, or $0.14 per diluted share, settlement charge against fourth quarter earnings. We assessed and determined that the return on the $6.4 million cash used in this action provided a beneficial return on investment and removed a residual non-operating liability from our balance sheet.
+With that scene setting, let me introduce Steve. Thank you, Steve.
+Steve Schwartz
+
+Thank you, Martin. Good afternoon, everyone, and thank you for joining our call. We’re glad to have a chance to speak with you again, and although we’re in a period of pull back in the Semiconductor Front End business, we have much progress to report to you. After remaining flat in revenue from March to June we were not able to resist the strong downdraft in the SEMI business. Our revenue in the September quarter was $119 million, down from $140 million in June.
+To give some color to the $21 million decrease, approximately $18 million came from our two largest OEM customers, one of which was our only customer who was greater than 10% of our revenue in the June quarter. An additional $8 million drop was the result of the abrupt stoppage of shipments to two of our Korean OEM customers, who almost exclusively supply systems to Korean IT makers. Unfortunately, we do not foresee any pickup from these customers in December.
+That said, in the aggregate we saw an increase in other portions of our business. As we continue to benefit from design wins share gains. And we were particularly pleased with the performance of our Life Science Systems business where our revenue increased by 25% from the June quarter to $14 million with gross margin coming in just above 40%. This business is on a good trend toward our near-term target of 45%. We continue to find more growth potential in this market and we are pleased with our progress after a downtick in the June quarter.
+Consistent with our long-term strategy to invest and grow in Life Sciences and to strengthen our position in the semiconductor and adjacent markets, last week we announced the acquisition of Crossing Automation headquartered in Fremont, California. We’re very excited about this addition to the company as it brings it new customers and new applications. It strengthens important parts of our product and technology portfolios. And it gives us a stronger presence in Silicon Valley, which is the source for a large portion of our core semiconductor business revenue.
+Crossing Automation is a global supplier of atmospheric semiconductor automation products that include equipment front-end modules or EFEMs and wafer lot sorters which are based on the innovative Spartan Linear Architecture of which there are more than 1,000 units currently running in fabs around the world. They also have a portfolio of load ports and RFID tags in readers.
+
+Crossing has also developed an inventive automation system that has been sold directly to IC fabs to enhance factory productivity by improving the efficiency of the exchange of wafers between the material handling system and the process tools. This system provides significant value to fabs by enabling higher throughput without having to add or remove process tools or to make changes to the material handling system. The addition of Crossing Automation also significantly advances our 450 millimeter Automation presence as they’ve already shipped and signed off 450 millimeter EFEMS and wafer lot sorters and to date have recognized more than $1 million in revenue from an advanced 450 millimeter load port design that has already proven to meet some very stringent particle and cleanliness specifications.
+They’ve shipped 450-millimeter products to six different customers. Four are new 450-millimeter customers for Brooks. This strong atmospheric product set is an excellent addition to the vacuum system components that we’ve already developed at Brooks. And it gives a huge boost to our 450-millimeter position in terms of a more complete product offering. Crossing Automation comes with a powerful patent portfolio of 124 patents granted with 50 more patents pending. We are particularly pleased with the customer base as Crossing’s technical prowess has earned business at some of the largest and most sophisticated IC manufacturers and OEMs.
+Approximately 50% of Crossing Automation’s business is from end-users. And their OEM business consists of an A-list of customers which complements our Brooks customer base. Most important of all financially this is an excellent transaction. Trailing 12 months of revenue for Crossing Automation is $51 million with gross margin of 41%. Operating income was $3 million and the company has been profitable for the last eight quarters.
+Additionally, because of significant overlap in the customer base, global footprint and technologies employed, we anticipate very meaningful synergies that will be recognized in fiscal 2013 and beyond.
+We’re impressed with the very capable and talented Crossing Automation team and we look forward to adding much value to Brooks’ shareholders as a result of this combination.
+I’ll now give some specifics about accomplishments in the last quarter which was highlighted by more market capture. In our BPS business unit we had another strong quarter of share gain as we recorded 18 more OEM design wins across a breadth of applications and customers. Nine of the wins were for front-end semi and nine were for adjacent market applications including back-end packaging, MEMS, LED and solar.
+Six of the wins were from European customers, four were in China, four in North America and we had two each from Taiwan and Japan. We had added three new customers in the quarter; one in China and two in Europe.
+For the year we recorded 78 wins; almost identical to the 79 wins we had in the prior year. Since the beginning of fiscal 2011 we have booked just over $50 million in bookings from these design wins and we anticipate that our fiscal 2011 wins will begin to generate more meaningful revenue for us in fiscal 2013 as OEM tools that are currently installed and being qualified in fabs will generate more significant revenue for our customers in the next wave of purchases.
+In our Life Science Systems business we received orders for four new automated storage systems. We believe we captured the majority of the new systems that were awarded in the quarter and we continue to gain market share.
+The mix in this business gives us a sense about the diversity in the customer base and gives us the continued confidence about the potential for this business in broad-based applications and geographies. The most recent wins will be installed in four different countries for four different applications, one commercial biobank, one research facility, one hospital and one for an agricultural company for plant genomics.
+
+It was also an important quarter for the Celigo automated cell imaging product line which we acquired in December 2011 and that we started to have real traction for an exciting product line. We booked just under $1 million of product, which is roughly the same as what we booked in the two previous quarters combined. This cell imaging device is important in the measurement and quantification of the quality of samples that are stored and thus an important element in the cold chain as it relates to the delivery of high-quality biological samples.
+We estimate the market potential for applications served by the Celigo product line to be approximately $100 million so our current share is quite small and gives us significant upside potential. The product continues to perform well in all installations and we have a high success rate when we compete for business. We will continue to build out our capability in Automated Cold Storage Systems and in the automated handling and quantification of high quality samples as the market needs are high and there’s a real demand for improved performance all along the cold chain. In total, even in this down semiconductor business environment we continue to advance all aspects of our long term road map as we position ourselves for a bright future.
+In addition to our market position improvements we also continue to make gains improving the profit potential for the company. In the quarter we implemented some restructuring actions that lowered our annual cost structure by $12 million and we continued to make meaningful and measurable reduction in the cost of goods sold. In a quarter when revenue dropped by 15%, our gross margin decreased by only 60 basis points. We believe we have good traction on our gross margin initiatives and these improvements will be evident when the revenue begins to stabilize and even more meaningful when there’s a recovery in the SEMI Front End.
+We remind you that over the last five quarters we’ve divested an 8% gross margin contract manufacturing business and launched a thrust in into Life Sciences where our gross margins are over 40%. Also, our acquisition of Crossing Automation gives us a business whose gross margins are also above 40%. We will continue to make positive advances in our gross margin initiatives and will grow these segments of our business.
+In terms of outlook, without question the Semiconductor Front End Equipment business has slowed appreciably, with reported revenue results and guidance from our main OEM customers dropping by somewhere in the range of 20% to 45% from June actual to December guidance. Our forecasted drop over the same period is consistent with the market, but our overweight exposure to Korean OEMs who serve Korea put us toward the lower half of the grouping. We feel even more of a drop off in the December quarter as the back end joins the front end after a robust first half of the year. All of us are hoping that we’ll soon be at the bottom of the current cycle, that some certainty returns to end markets and the demand for next models of mobile devices begins to move chip makers to begin to increase supply.
+One and a half years into our plan to strengthen our position in our core business and expand into Life Sciences we remain confident that this is a path to generating above average shareholder return. The changes that we’ve made to our business have us performing better at all parts of the business cycle compared to any time in our history. We will continue to invest to strengthen our robust tech platform as it enables us to capture market share in all of our market segments.
+In our core SEMI and Adjacent business we continue to see long term growth potential in that high single digit percent range that is positively compounded when we superimpose our market share gains. And we believe that we can outperform the market for years to come. The continued consolidation of the customer base allows opportunities for larger and more capable suppliers like Brooks and we intend to remain the leader in those markets that we serve, both by internal investment and organic growth as evidenced by our strong design win results and by the smart acquisition of companies and capabilities that enhance our market position.
+
+I’ll now turn the call back over to Martin.
+Martin Headley
+
+Thank you very much, Steve. Before embarking on the discussion that focuses primarily on the fourth quarter, thought it was important to make reference to the full-year fiscal performance and particularly the comparative revenue performance. Slide #4 shows that the Reported Revenues declined by $168.6 million from $688.1 million to $519.5 million. However, that $688.1 million of revenues in fiscal 2011 included $137.3 million generated by the contract manufacturing business that we sold to Celestica in June 2011.
+Thus, the true comparative is actually a reduction of $31.2 million as we saw a full-year of the growing Brooks Life Science Systems business, a modest 3% pull back in the Brooks Global Services business in a difficult environment where 1,000 foundries were running below capacity, and a 15.6% pull back in the Brooks Product Solutions revenues. Within the Brooks Product Solutions revenue performance, SEMI Front End revenues were down 10%, Industrial revenues were down 19%, and revenues into our various adjacent markets declined by 37% reflecting the extremely difficult market conditions for much of the fiscal year.
+Focusing on the fourth quarter, Slide #5 reflects the 15% sequential reduction in revenues from $140.4 million in the June quarter to $119.4 million in the September. The gross margin impact was limited to 60 basis points as we pulled back our spending to reflect the deteriorating demand conditions. We also carefully controlled operating expenses to limit the operating profit drop through from the revenue decline to $6.8 million, or a 33% drop through rate.
+Turning to Slide #6, the waterfall chart demonstrates our declines in the SEMI Front End products market, produced a $9.2 million reduction in operating profits that was compensated by growth in the Life Science Systems business that produced a 1.4 incremental profit on a $2.7 million revenue increase. And we also addressed surplus resourcing in the Brooks Global Services business and this resulted in a $200,000 profit improvement on a $400,000 revenue decline. Operating expenses were reduced sequentially absolutely by about $800,000.
+As Slide #7 shows, GAAP net income for the fourth quarter of fiscal 2012 was $116.2 million or $1.77 per diluted share. This includes Special Charges of $11.1 million being the cost of the restructuring program and the pension termination charge and additionally, we had a one-time tax benefit of $121.8 million. Adjusted net income excluding those items was $5.5 million or $0.08 per diluted share. We were pleasantly surprised by improved performance from our joint ventures when we were expecting challenge performance and we also had a small benefit on our regular taxes from a routine tax reserve release.
+Brooks generated $10.2 million of adjusted EBITDA for the fourth quarter of fiscal 2012 which compares to $17.2 million in the third quarter of fiscal 2012 and $18.3 million in the fourth quarter of fiscal 2011. A reconciliation of this non-GAAP measure to the appropriate GAAP comparison is included as an attachment to our press release.
+As illustrated on Slide #8, the adjusted EBITDA performance continues to track revenue trends with a fairly consistent 34% drop through. Slide #9 portrays how that EBITDA performance resulted in cash flow from operations of $3.5 million but would have been $9.9 million if we had not made the decision to terminate the pension plan. While working capital movements were adverse largely from a significant reduction in accounts payable as we reduced production activities it was largely offset by substantial dividends from one of our joint ventures. After capital expenditures of $2.3 million in our quarterly dividend we had a small net cash outflow and closed the fiscal year with cash and marketable securities of $200.2 million.
+
+As shown on Slide #10 our balance sheet is a very healthy one with $126 million of net working capital. Receivables grew as a result of a significant late payment from a distributor who was shut down at the end of September, and as previously noted, accounts payable were relatively light at the end of the year. The balance sheet now includes significant deferred tax assets, and our net tangible assets at the end of the fiscal year were $521 million or $7.93 per share. For those modeling out Brooks’ forward performance, note that we are suggesting that capital expenditures for fiscal 2013 are likely to be around $12 million.
+Beginning on Slide #11 we break out results for each of our three segments in the fourth quarter of fiscal 2012. The Brooks Life Science Systems business recognized $13.9 million of revenue in the September quarter, a 25% increase sequentially compared to $11.2 million of revenues in the previous quarter. With a 52% gross profit drop through from the incremental revenues and a partial quarter restriction benefit, the business recovered to just shy of breakeven. The gross margins improved to 40.3%.
+Turning to Slide 12 now, revenues for the Brooks Product Solutions segment declined to $84.4 million with front-end semiconductor revenues down $24.9 million. These volume declines resulted in a $9.2 million or 39% drop through to gross profits. The drop through rate to the bottom line was moderated by reductions in operating expenses.
+On Slide #3 we see that revenue for the Brooks Global Services segment declined slightly at $21.1 million compared to $21.5 million in the third fiscal quarter of 2012 with a slowdown in pump repair activities that have ticked up in the June quarter. Reductions in the fixed cost base of the service business enables us to actually increase gross profits despite the reduction in revenues. With additional operating expense reductions, the segment reported an increase in segment operating profit from $2 million to $2.3 million. We move on to comments focused forward rather than the rear-view mirror. A significant impact going forward will be from the integration of the Crossing Automation business that we acquired on October 29, 2012.
+Slide #4 summarizes some additional color around this business. Crossing is currently approximately a $50 million revenue business with 41% cash margins. These margins will be reduced slightly by intangible amortization under purchase accounting. With the significant operating expenses required to provide the global customer service required in this industry, operating margins have recently been around 6%. We will report the approximately $12 million service business with our Brooks Global Services segment while the Products business is being managed as part of our Systems Solution Group within the Brooks Product Solutions segment.
+The Crossing business has a complementary product portfolio with strong IP. The customer base has minimal overlap with the Brooks customer base for similar products and extends the extent of our revenues direct with end users. Accordingly, there should be no revenue cannibalization as a result of this transaction. Rather, we have opportunities to bring together complementary technologies to advance our product offerings to a broader customer base.
+After executing on the considerable synergies available to the two businesses we’re targeting an incremental return on invested capital for 2014 and beyond in excess of 15% and thus in excess of our target threshold for acquisitions. We see that we can obtain about two-thirds of the plan synergies within the first six months of ownership. The integration teams are already hard at work and teams from both businesses are heavily engaged in the learning and decision making processes that will secure significant benefit, most notably in reducing operating expenses.
+
+In part as result of an outsourced manufacturing model, Crossing is asset-like with net tangible assets of approximately $15 million. With limited capital expenditures and working capital comparable to Brooks’, the cash returns from this transaction are strong and will enable us to rebuild the cash coffers with this at currently around $140 million. We expect the transaction to be slightly dilutive for two quarters and accretive in the back half of fiscal 2013.
+On Slide #15 we’ve portrayed the revenue trends of business excluding the contract manufacturing business but including the partial quarter contribution from Crossing in the December quarter. With weak bookings in the September quarter and a continuation in the first six weeks of the December quarter, together we shut down activities of OEM customers. We have pessimistic expectations for Semiconductor Front End product revenues. This contraction may result in us being without a 10% customer in the quarter. Accordingly, we provide guidance as summarized in Slide #16 of revenues of between $85 million and $95 million. This reflects a 33% to 45% decline in the core technology business that is offset by continued growth in the Brooks Life Science Systems business and from a partial quarter contribution from the Crossing Automation acquisition.
+This extremely low level of activity places stress on our operating financial model and we guide adjusted EBITDA to be between break even and a $5.2 million loss for the December quarter. This will translate into an adjusted diluted loss per share of between $0.05 and $0.15. We continue to review what additional actions are necessary while taking into account the significant levels of activity that are associated with integrating the Crossing business, the continuing resources associated with the successful design and win activities and the likelihood of being required to support a meaningful ramp in activities at our OEM customers.
+Finally, we announce that our Board of Directors has declared a dividend of $0.08 per share payable on December 28, 2012 to stockholders of record as of December 7, 2012. Future dividend declarations as well as the record and payment dates for such dividends are subject to the final determination of the company’s Board of Directors.
+And with that I’ll turn it over to Chantel for questions.
+Question-and-Answer Session
+Operator
+
+Absolutely. Thank you. (Operator Instructions) And we have our first question from the line of Edwin Mok with Needham & Company. Please go ahead, sir.
+Edwin Mok – Needham & Company
+
+Hi. Thanks for taking my questions. Sorry about the background noise. Just maybe some background or some color on the Crossing Automation. Just curious in terms of your fourth quarter how much incremental OpEx you expect from Crossing and also I just got take away you said on this presentation it seems like implied Crossing Automation will only have like mid-single digit revenue range in the fourth quarter. Is that correct and is that just a function of the industry?
+Martin Headley
+
+Sorry, Edwin. I meant the last parcel regarding the revenues.
+Edwin Mok – Needham & Company
+
+Yeah. If I take what you guys had on the numbers and do a description on your presentation to imply Crossing revenue is in the mid-single digit revenue, $5 million, $7 million, somewhere around that range. Is that correct and why the decline from the last 12-month level?
+Martin Headley
+
+No, Edwin. Don’t forget we’re only getting two months of the Crossing business and what we have in our guidance is actually a revenue level that’s entirely consistent with trailing 12 month activities. In fact, what we are finding with the Crossing business is that it has not taken a sharper decline in part because of the activities it has direct with the end users.
+
+Edwin Mok – Needham & Company
+
+And in terms of
+Martin Headley
+
+In terms of operating expenditures from Crossing clearly what you’re looking at is it will be minimal reduction from the level of operating expenses that were in the business previously so that’s roughly about $4 million with a little bit of additional intangibles amortization during that period.
+Edwin Mok – Needham & Company
+
+Okay. That’s very helpful. And then talk a little about the industry it sounds like things are slowing down a lot and I guess two part question. One is how much of that is SEMI equipment? Are you seeing similar slow down on your other adjacent market or Industry market? And the second question, you mentioned the Korean customer eventually stop ordering. How do you guys think about that? Do you think that trend can continue for a few quarters before they come back or is it just a short term thing?
+Steve Schwartz
+
+So Edwin, this is Steve. Just a couple things. To give you some color on the SEMI Front End equipment, in the June quarter we were just over $80 million and our estimate for December is about $40 million. So that’s about a 50% drop over a two quarter period for SEMI Front End. And when we look at the Korean OEMs, uniquely we have some customers who provide tools really only to Korean IT makers and we don’t anticipate any recovery in December. We’d be hopeful in the March quarter but in the September and December quarters, we’ve gone to almost no activity from something that was a lot more robust in June.
+Edwin Mok – Needham & Company
+
+I see. Any color beyond that, that you can share? Beyond the December quarter?
+Steve Schwartz
+
+I’m sorry. One more time?
+Edwin Mok – Needham & Company
+
+Yeah. Anything else in terms of any visibility beyond the December quarter you can share? Do you think those customers will come back or is it uncertain right now, so?
+Steve Schwartz
+
+Yeah, Edwin, we just don’t know. Of course we hope everybody’s going to come back, we just, we don’t have any idea as to when based on our look at the business today.
+Edwin Mok – Needham & Company
+
+Okay. That’s fair. And then on the Life Science side it looks like things have get back on track. I remember last quarter you guys talked about some of these budgets being frozen in Europe and just wondering if you have any updates around that and also given, in terms of the business beyond just this occurring quarter, how are you going to think about things trending? I understand the bookings tend to have a longer visibility so you guys should hopefully have more color than beyond the December quarter.
+Steve Schwartz
+
+Yeah, Edwin. Right now the pipeline looks pretty robust still so we remain positive on the business, we remain positive on our ability to grow the business. There are 12 months worth of potential systems in the pipeline and what we’re able to close in a quarter is – if those are the ones that we – we look at the ones that are the best likelihood and we spend the most effort there. So we’re positive on the business and we don’t see any huge impact but a quarter like the one we just had would be a good Q4, calendar Q4.
+Edwin Mok – Needham & Company
+
+Hi, Steve. It sounds like your European issue is somewhat behind you guys. Is that fair to describe that?
+Steve Schwartz
+
+Yeah. We had two of the four systems were systems for Europe.
+Edwin Mok – Needham & Company
+
+I see. Very helpful. And then lastly, I guess, use of cash. You guys have spent some cash on the acquisition here and I think firstly you guys talked about potentially some other tuck-in acquisitions around the Life Science and you are still keeping it as an embrace the way it is right now. Right? So given that business level has come down this much, any thought about changing any of those plans in terms of more position around Life Science or your development level?
+
+Steve Schwartz
+
+No. Edwin, we’re still very much committed to Life Sciences’ opportunities that may come. We won’t do things that don’t fit the hurdles that we have and the strategy for the business, but we’ll continue as those opportunities come into play.
+Martin Headley
+
+We continue to see that the business model will drive cash generation and the deployment of that cash will be a critical piece of our success for the future.
+Edwin Mok – Needham & Company
+
+Okay. Great. That is all I have. Thank you.
+Operator
+
+And our next question is from the line of Patrick Ho with Stifel, Nicolaus. Please go ahead, Mr. Ho.
+Patrick Ho – Stifel Nicolaus
+
+Thank you very much. Steve, big picture question in terms of just managing the business. I mean you’ve seen many of these minicycles so there is no surprise there. How are you guys managing, I guess, the investments needed for Life Sciences relative to the volatile cycle that you’re always going to see in the semi side of things – you mentioned the restructuring. Where are you allocating, I guess, a lot of those costs? How do you keep the investments going in that emerging business without hurting your overall corporate model?
+Steve Schwartz
+
+Yeah. Patrick, thanks. The investments we have in the Life Sciences, as the moment they’re relatively modest. We’re just below an annual run rate of $10 million and those are the kinds of things that we can sustain. As we continue to grow the business that’ll become a smaller portion of the R&D investment, if you will, but the amount, the dollar amount is satisfactory for what we think we need to do to both run the business and we’re developing products both for minus 80 and for colder stores with that budget.
+So we think the products that we’ll launch here over the next 12 to 18 months are adequately funded at this present level. If there’s continued deterioration in the SEMI Front End we think that even in an environment we had a couple more quarters like this so we continue the investment in the Life Sciences at the current rate and that it would be adequate for the growth and the, to assure the future of that business.
+Patrick Ho – Stifel Nicolaus
+
+Okay. Great. That’s really helpful. I think as you know, the Crossing Automation I think does provide you a great complementary bit to your overall SEMI Front End Automation Solutions portfolio. I guess the question for me on the cost side of things is although they’re very complementary on the product side of things and there’s no overlap they do use a lot of common supplies and parts. How quickly can you get those cost synergies into the business model that will help enhance the overall SEMI side of things.
+Martin Headley
+
+Patrick, the most immediate synergistic benefits are as I mentioned in the prepared comments around operating expenses where we may have duplicative development programs on the product side, where we’ve got a duplicative global footprint and we can leverage a single operating structure from an SG&A side. They utilize outsource contract manufacturing. So there are less elements around the detailed product run component level supply chain benefits that come. But we believe this could be a very strong contributor to our own direction of moving more manufacturing into low cost contract manufacturing environments to leverage off of the contract capabilities, et cetera within Crossing Automation.
+Patrick Ho – Stifel Nicolaus
+
+Okay. I just want to make clear. So there’s opportunities for you guys to leverage their manufacturing models for your core business.
+Steve Schwartz
+
+That’s right. They have a very sophisticated outsource manufacturing capability and we really like that as a means to accelerate some of the initiatives that we’ve undertaken.
+Patrick Ho – Stifel Nicolaus
+
+Okay. Great. Final question for me. Again, these cycles are things that we see on a regular basis on the SEMI side, but given what your customer feedback has been – and I know some of the dynamics of Automation are a little bit different from other subsystems and component suppliers – do you believe your customers have a level of inventory that they want to work off first or is this purely a near term demand issue that’s caused the slowdown in your business?
+
+Steve Schwartz
+
+We think a little bit of both. We think some management of inventory and we think that the lead times on a lot of the products that we have, have grown short enough that we anticipate there’ll be a pretty quick upturn when there’s more demand that’s required.
+Patrick Ho – Stifel Nicolaus
+
+Great. Thank you.
+Operator
+
+And our next question is from the line of C J Muse with Barclays. Please go ahead, Mr. Muse.
+CJ Muse – Barclays
+
+Hi. This is Olga calling in for C J. Thank you for taking my question. Just wanted to see or get your thoughts on the addressable market within the SemiCap business. Before the – just for Brooks stand alone and how does that expand with the acquisition of Crossing?
+Steve Schwartz
+
+So the size of the opportunity doesn’t change very much. In terms of available market, the additional things that Crossing brings relate to the lot sorter and to some of the factory automation improvements that they’ve done related to what people refer to as a tool buffer between the material handling system and the tool front end. So say in a $30 billion front end wafer equipment market, we look at an available market of somewhere around $1.5 billion as Brooks and we’ve added now, with Crossing, an opportunity to increase by about $200 million of opportunity just to give you some idea. In all other areas the available markets overlap.
+CJ Muse – Barclays
+
+Hi. Got it. And then in terms, as we think about the target model moving into 2013 given your recent cost cuts and then the addition of Crossing, if we assume at some point a quarterly revenue of about 120, which is what you saw in the September quarter, and a similar mix between Products, Service and Life Sciences how would your gross margins and OpEx change as a result of these two changes?
+Martin Headley
+
+Part of this is a little bit of passage of time. It depends whether you’re talking before we’ve got the full extent of the Crossing synergies as well as that gnarly old subject of the approval and design in of our supply chain benefits which get a little delayed during a downturn environment such as this. But what we ought to be talking about in the near term, or should I say towards the back end of the current fiscal year, is that those kinds of revenue levels you’re probably talking 35%, 36% gross margins and you ought to be talking about a potential for operating margins getting close to 10%.
+CJ Muse – Barclays
+
+Hi. Got it. Thank you.
+Operator
+
+And our next question comes from the line of Ben Pang with Caris Company. Please go ahead, Mr. Pang.
+Ben Pang – Caris Company
+
+Thanks for taking my question. First on Crossings, the $200 million that you mentioned at the surge of double the market, is that for all the products in Crossings?
+Steve Schwartz
+
+No. Ben, the Crossing serves on the atmospheric side. They side the same markets that Brooks serves. Just from an incremental standpoint so Brooks serves everything that Crossing does in the tool automation side, plus we have vacuum capability and vacuum systems. The incremental market opportunity comes from lots orders and some of the fab automation capabilities that relates to the tool buffer and some of their rhetorical indexing systems that they have in their portfolio.
+Ben Pang – Caris Company
+
+Okay. And then in terms of the gross margin for Crossings, you mentioned that corporate margin is gross margin is similar to yours. What’s the range? Do they have some lower margin products?
+Martin Headley
+
+They have a few lower margin products that we are reviewing as to how we deal with those, either through substitution or alternative strategies. What is very nice about this business is that the vast majority of the business does have consistent gross margins in that very high 30s, low 40 range.
+Ben Pang – Caris Company
+
+
+Okay. And then on the Korean customers that you talked about, were they a 10% customer for the whole fiscal year?
+Martin Headley
+
+No. Neither of the Korean customers have been 10% customers of ours. I think there are two things we have, the fact that our largest customers have declined very significantly and that our two large Korean customers have declined very significantly. If you were to take just the four customers there we’re talking about, that would actually account for all of our semiconductor front-end market decline. Not the market decline, the revenue decline.
+Ben Pang – Caris Company
+
+Okay. And the last question for me on the Life Sciences, and this is a follow-up to an earlier question that you had in terms of Europe. In your fourth quarter results, was that a surprise in terms of the level of revenues to the Life Sciences?
+Martin Headley
+
+No. That was pretty much as we anticipated with the unfortunate blip that we had talked about in the June quarter. Other than that we’re largely running as we anticipated. So we’re glad to be back on track and performing exactly as we planned.
+Ben Pang – Caris Company
+
+Thank you very much.
+Martin Headley
+
+Thanks, Ben.
+Operator
+
+(Operator Instructions) Our next question comes from the line of David Duley with Steelhead Securities. Please go ahead, Mr. Duley.
+David Duley – Steelhead Securities
+
+Thank you. Couple questions for me. It looks like on an annual basis you just lend those numbers you gave us about Crossing and we have about $17 million in operating expenses. Could you give us a dollar figure of how much you think you can reduce those by?
+Martin Headley
+
+We, you can actually back into it from our ROIC guidance, Dave, making some assumptions about volume levels. And I want to make it very clear that those dollars don’t come from just reducing Crossing expenses. The integration teams are working about how we preserve best in breed from the two organizations. We have some very aggressive cost reduction targets that we are seeking to achieve and will achieve, I believe. But that comes from changes that will occur in both organizations not exclusively for instance on the West Coast versus the East Coast. So at this juncture it’s a number that should be more than $12 million quite nicely.
+David Duley – Steelhead Securities
+
+Okay. And you think an annual expense target sometime in 2014? Is that what you said?
+Martin Headley
+
+Well, what we said is we’re looking to get about two-thirds of the synergies in place within six months. So you won’t actually be getting much benefit in that first six months but we’ll be running at about two-thirds of that run rate in the back five months or so of the fiscal year and we should have all the synergies in place we believe no longer than 18 months.
+David Duley – Steelhead Securities
+
+Okay. Did you, why now with deferred tax asset just because you’ve been consistently profitable for three years? Is there some accounting hurdle that you had to jump over to bring that on?
+Martin Headley
+
+Yeah. Unfortunately that’s a dubious record for Brooks. It’s the first time we’ve actually had three years of cumulative profitability. We look at this around the cycle of Semiconductor and if you talk about it being roughly a four-year cycle, we’re cumulative profitability over four years and that’s basically what we’ve agreed with our auditors is the appropriate way of looking at that particular asset.
+David Duley – Steelhead Securities
+
+And so how to interpret this is you’re just bringing these things back on the balance sheet and we won’t be paying $121 million in U.S. taxes over...
+Martin Headley
+
+Well, that means that there’s $121 million of future tax bills that we won’t pay because we’ll utilize those losses in the future.
+David Duley – Steelhead Securities
+
+
+Okay. And you mentioned, that was a hard book number that you have, that $7.90 or whatever?
+Martin Headley
+
+Yeah. That’s the tangible book.
+David Duley – Steelhead Securities
+
+Okay. And the final thing from me – sorry there’s all these little random questions – is this dividend that you got from your joint venture, I think you said it was 5.2. Could you just talk about that?
+Martin Headley
+
+We reflect during the course of the year earnings from our joint ventures as is traditional, particularly with Asian joint ventures or Japanese joint ventures. Those profits don’t get paid out to the joint venture parties during the course of the year, they get paid out typically at one point in the year and for the cycle of the joint venture that paid it was in our fourth quarter. They’ve had a lot of success. They’ve built a lot of cash and we convinced them that they ought to be paying significant amounts of that out in dividends to both joint venture parties.
+David Duley – Steelhead Securities
+
+Do you think this will continue?
+Martin Headley
+
+I think that business is very well positioned and I would certainly expect a substantial dividend. Whether it’s quite to the degree that we have this year might not be the case, particularly in the macro environment that’s enveloping everybody at the moment, but I still would imagine it being substantial. These are still nicely profitable businesses.
+David Duley – Steelhead Securities
+
+Okay. Final thing from me is I think you mentioned earlier are you seeing – I just wanted to clarify – are you seeing the typical inventory destocking by your two large OEMs at this point?
+Martin Headley
+
+Relatively few of our product lines where they’re actually holding inventory. In many cases we’re actually in can bound situations so those don’t typically tend to change much. As Steve mentioned there are a couple of product lines where there are inventory situations and it’s clear, for instance, destocking going on a verified e-readers as an example but it’s relatively small proportion of our business, we believe.
+David Duley – Steelhead Securities
+
+So I guess the other question is when do you think your shipments would match the shipments of your OEMs?
+Martin Headley
+
+We would think we tend to lead and we typically think that we tend to see our business recover a quarter ahead of the shipments of our major OEM customers.
+David Duley – Steelhead Securities
+
+Thank you.
+Operator
+
+And our next question is from the line of Jairam Nathan with Sidoti & Company. Please go ahead, Mr. Nathan.
+Jairam Nathan – Sidoti & Company
+
+Hi. Thanks. Thanks for taking my questions. Just first on Crossings, can you give us an idea of the market position as well as market share and the competition?
+Martin Headley
+
+It’s really a very nice story, Jairam, because it’s a question on some of the product lines putting what you have at Brooks and Crossing together and becoming the new #1. If you were to take the EFEM business, we’re probably the #2 and the #3 individually between the two companies and now become the #1. We were the – in RFID business probably the #2 and #3 and become the #2. In the factory automation business, Crossing was clearly the leader there and it advances it by adding the modest levels of our factory automation business. So in the niches that Crossing participates in it was typically a leader or a strong #2 or #3.
+Jairam Nathan – Sidoti & Company
+
+Okay. And just on the margin differences between Crossing’s 40% versus you guys, versus Brooks, do you think the differences is largely due to their outsourced manufacturing?
+Steve Schwartz
+
+Frankly, I think they have some very significant product offerings. They sell directly to IC manufacturers that have very high value and so they have some high gross margin products that they sell directly. The outsourced manufacturing model is very effective in the cycle, but the value of the products I think are priced adequately and the cost side of the equation is very stable because it is an outsourced manufacturing model.
+
+Jairam Nathan – Sidoti & Company
+
+Okay. Thanks. Last question is on CapEx. I see that it goes from $8.5 million to $12 million. What drives that increase?
+Martin Headley
+
+Frankly, the largest piece of that increase is associated with some tenant improvement ahead of leasing out idle owned buildings that should result in a reduction in our operating cost structure in 2013 as well.
+Jairam Nathan – Sidoti & Company
+
+Okay. And just if I could squeeze one more, what was – after 95 million or so bookings, how much was Life Sciences? And do you think – can you sustain that 20% growth in Life Sciences going forward? Does that change?
+Steve Schwartz
+
+Yes. So, Jairam, the Life Sciences’ bookings were just in excess of $11 million. The quarterly increase of 25% would be tough to sustain. But we’ve been very consistent talking about annual year-over-year growth in the business in the 20% to 25% range and we absolutely believe that we’ll continue on that growth path.
+Jairam Nathan – Sidoti & Company
+
+Okay. Great. Thanks so much.
+Operator
+
+And our next question is from the line of Satya Kumar with Credit Suisse. Please go ahead.
+Satya Kumar – Credit Suisse
+
+Yeah, hi. Thanks. I was wondering if you could give a little bit more color on the type of CapEx that drives revenues for Crossing. Is this something that – I see that they have two types of products on the IC side or on the OEM equipment side. I was wondering if you could give a sense of what each part is. And does this revenue depend upon increasing wafer-start capacity installed at the customer base? Or construction of new fab projects?
+Steve Schwartz
+
+Yeah, so, Satya, this is Steve. Let me try a couple pieces. One, the lot sorter business at Crossing, that will be capacity additions. So as factories get built out, as more tools get put in as capacity is required, lot sorters will be placed into fabs. The business that can address some of the fab-productivity issues, where Crossing had just begun to put some tools in goes actually into existing fabs where process tools are in place and where automated material-handling systems are also in place.
+You can imagine there are instances where there’s congestion on the material-handling system or a need to load a significant number of proofs on and off a process tool at various times. There’s an opportunity there for an automation system that buffers, if you will, in between the material-handling system and the needs of the load ports. And Crossing’s been able to install those, so far to great effect. The size of that particular market opportunity is one that we’ll continue to pursue because we know the product works, we know the products installed in factories. And it’s just a new market chance for them. But that’s for increased productivity for existing fabs and does not require additional fab capacity to serve that market opportunity.
+Satya Kumar – Credit Suisse
+
+Okay. I guess just on a high level again, was Crossing an asset but you always had intentions of pulling into Brooks at some point? Because it does feel like that is quite complementary and over time I can understand that you could extract some pillaging value out of it. The reason I ask is that obviously you have long-term targets to diversify your revenues away from semiconductors as well. But with this acquisition you seem to have increased your exposure to the semiconductor side of things. I guess like how did you arrive at this acquisition as the best use of your capital versus investing it even more aggressively on the Life Sciences, say for example.
+Steve Schwartz
+
+Yeah. So Satya we’ve always tried to clearly state the strategy for the company is to grow both parts of the business. We still see the growth opportunities that exist in Life Sciences to be greater. We are getting stabilized in Life Sciences, getting a presence, and we continue to monitor a significant number of opportunities to help us to add capability there and to grow that business. We at the same time saw Crossing Automation as an opportunity to increase gross margin in the company, to have a very positive return on invested capital for the investment that we made, and also to strengthen the position we have both with customers and with OEM customers and the end users to continue to drive capabilities of Brooks to gain additional market share.
+
+And probably just as important there’s a very strong atmospheric portfolio which is not the strongest part of our product technology portfolio. It was a necessary capability that we thought was important to add to Brooks to get the atmospheric side of the portfolio to be on par from a capability standpoint with what we have in the vacuum side. So there are a number of reasons why Crossing very specifically was a very good target for Brooks, something that we’ve had in mind for some time and this was an opportune moment to go ahead and take advantage of the chance and to add really great capability to the company. It was not at the expense of things that we’re doing for Life Sciences, it was something that has been in the making for quite some time, actually.
+Satya Kumar – Credit Suisse
+
+Okay. And then how should we model the linearity of the Life Science revenues over the next fourth quarters? Are you saying that for December sequentially the revenues are up from September levels?
+Martin Headley
+
+I would say that for modeling purposes, best we know at this juncture you should be seeing something that is roughly a linear growth equivalent to about a 25% year-on-year growth for fiscal 2013 over fiscal 2012. I am sure it will actually deviate from that linear line a little bit just by nature of it being some large contracts in there. But to the best of our knowledge from the way that we see the pipeline it shouldn’t deviate too far from that pathway.
+Satya Kumar – Credit Suisse
+
+Okay. And one last question on the SEMI business again. Your comment about the Korean equipment OEMs’ activity being particularly low for you in the September and December quarter with limited – it appears that you have limited visibility on how that’s going to go at this point. How would you contrast that versus how you saw this business play out last year at this time?
+Steve Schwartz
+
+Well, that’s a good question Satya and I can’t respond exactly with data, but I can tell you specifically that the amount of business we were doing with the Korean OEMs at that time was not as great. They increased market presence and penetration and so the June quarter was actually a very strong quarter for the two customers that we’re talking about very specifically.
+Martin Headley
+
+We would say that when we did start seeing the return of spending in Korea, the spend through those two customers were some of the first that we saw being turned on.
+Satya Kumar – Credit Suisse
+
+Got it. Thank you very much.
+Martin Headley
+
+Okay.
+Operator
+
+And we have no more questions on the telephone lines at the moment, Mr. Headley. I will now turn the call back to you. Please continue with the presentation or closing remarks.
+Steve Schwartz
+
+We thank everyone for your interest in Brooks and we look forward to speaking with you when we report our results for fiscal 2013 first quarter. Thanks very much.
+Operator
+
+Ladies and gentlemen, that does conclude our conference call for today. We thank you for your participation and ask that you please disconnect your lines. Have a nice evening, everyone.

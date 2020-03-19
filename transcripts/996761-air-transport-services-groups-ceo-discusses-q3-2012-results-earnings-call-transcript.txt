@@ -1,0 +1,482 @@
+Air Transport Services Group Inc. (NASDAQ:ATSG) November  9, 2012 10:00 AM ET
+Q3 2012 Earnings Call
+Executives
+
+Joe Hete – President and CEO
+Quint Turner – CFO
+Rich Corrado – Chief Commercial Officer
+Analysts
+
+Kevin Sterling – BB&T Capital Markets
+Jack Atkins – Stephens
+Helane Becker – Dahman Rose
+Steve O’Hara – Sidoti & Company
+Adam Ritzer – Pressprich
+Michael Chapman – Private Capital Management
+
+Operator
+Welcome to the Air Transport Services Group Third Quarter Earnings Call. At this time, all participants are in a listen-only mode. Please note that this call is being recorded.
+I will now turn the call over to Joe Hete, President and Chief Executive Officer of Air Transport Services Group. Mr. Hete, you may begin.
+Joe Hete
+Thank you, operator. Good morning and welcome to our third quarter 2012 conference call. I’m Joe Hete, President and Chief Executive Officer of ATSG. With me today are Quint Turner, our Chief Financial Officer; Joe Payne, our Senior Vice President and Corporate General Counsel; and Rich Corrado, our Chief Commercial Officer.
+We released our results and filed our 10-Q yesterday afternoon. If you haven’t had a chance to review them, you can find them on our website atsginc.com.
+I want to begin by expressing our concern for the many people in businesses in the Northeast, dealing with the devastation caused by the Superstorm that hit them last week. I also want to express my appreciation to our employees, who have again proved their flexibility and professionalism as they dealt with disruptions to our U.S operations caused by the storm and its aftermath.
+Through our partner in DHL and on our own as well we’re supporting relief efforts by carrying important supplies to the Northeast that will hopefully bring comfort and faster restoration of normal conditions to the millions affected by this disaster.
+Turning to our financial results for the third quarter, I would characterize them as demonstrating the resilience of the business model when measured against the unprecedented uncertainty in the markets we serve. They were consistent with the guidance we gave you in August when we said our third quarter would look very much like the second.
+But behind the scenes the last three months have been extremely challenging and as we described in our press release that led us to once again revise our outlook for the remainder of the year. Beyond this year and especially if the market improves in 2013 we think we have very compelling shareholder return opportunities resulting from a relatively unencumbered cash flow.
+I’ll share more about the events of the last three months, the current environment and how we see this skies ahead in a few minutes. Rich Corrado is going to share his perspective on our market opportunities as well. But first Quint will review our numbers and discuss how our strong financial position and intrinsic cash generating power puts us in a very favorable long-term position relative to many others in the space. Quint?
+Quint Turner
+Thanks Joe and good morning everybody. As I always do I need to start by advising everyone that during the course of this call we will make projections or other forward-looking statements that involve risks and uncertainties. Our actual results and other future events may differ materially from those we describe here.
+These forward-looking statements are based on information, plans and estimates as of the date of this call. And Air Transport Services Group undertakes no obligation to update any forward-looking statements to reflect changes in the underlying assumptions, factors, new information or other changes.
+These include but are not limited to changes in the market demand for assets and services, timely completion of additional Boeing 767 and 757 aircraft modification scheduled during 2012, our continuing ability to place completed aircraft into commercial service, the availability and cost to acquire used passenger aircraft for freighter conversion to redeploy or sell surplus aircraft. Our operating airlines’ ability to maintain on-time service and control costs and the timely completion of the merger of two of our airline operations that were impacted by Schenker’s elimination of its U.S. air cargo network in 2011. There are also other factors contained from time-to-time in our filings with the SEC, including our third quarter Form 10-Q.
+
+We will also refer to non-GAAP financial measures from continuing operations including adjusted EBITDA as well as adjusted pre-tax earnings, which management believes are useful to investors in assessing ATSG’s financial position and results. These non-GAAP measures are not meant to substitute for the GAAP financials. We advise you to refer to the reconciliation to GAAP measures, which was included in our third quarter news release, and can also be found on our website.
+As Joe said, despite the uncertainty in the transportation sector right now our third quarter results were in line with the expectations we set during our August conference call. It was the third quarter that looked a lot like the second. I’ll quickly cover the income statement highlights for the quarter and call your attention to a few balance sheet and cash flow items as emphasis for Joe’s comment about our very strong financial position and cash generation potential going forward.
+On a consolidated basis revenues for the quarter were $153.8 million flat with second quarter’s $153.6 million, while down from last year’s $195.5 million. The $41.7 million decline in year-over-year revenues is all Schenker related, recognizing that the line down of the dedicated air network we provided for Schenker began in September 2011, but still contributed substantial revenues for us through the fourth quarter.
+Net earnings from continuing operations for the quarter were $11.6 million, below our $13.9 million in adjusted third quarter earnings in 2011. Last year we recorded a GAAP loss of $4.8 million in the third quarter including $27.1 million in pre-tax non-cash impairment charges related to the reduction in the Schenker business and $1.9 million in unrealized losses on derivative instruments.
+For the first nine months this year revenues were $452.9 million compared to $563.7 million in 2011. Again most of the decline can be attributed to the loss of the Schenker business. Net earnings from continuing operations were $29.4 million up from $10.3 million a year ago, which includes the impairment and credit facility charges I’ve just mentioned.
+We completed a five year credit agreement under more favorable terms in May of 2011 which included one-time cost to close out the former credit facility and non-cash derivative items totaling $6.8 million pre-tax. This year that facility was extended for 14 months to July 2017 under similar terms but with even greater borrowing flexibility than before.
+Once again as you consider our GAAP earnings you need to keep in mind that our tax NOL carryforward remains large enough that we do not expect to be a significant cash payer of federal income taxes at least through 2014. Our adjusted EBITDA, which excludes the non-cash charges I’ve just described and the continuing non-cash effect of unrealized derivative gains and losses was $43.4 million in the third quarter down from $48.3 million in the third quarter of 2011. But again adjusted EBITDA was roughly flat on a consecutive quarter basis.
+For the first nine months of 2012 adjusted EBITDA totaled $120.6 million down 9% from $132.7 million in the first nine months of 2011. As Joe said at the outset, the aircraft deployment delays we’ve reviewed with you in early August became progressively worse from that point forward and not better as we expected back then. Joe will review our experience over those months and explain why we have revised our adjusted EBITDA goal for 2012.
+Turning to our segment results our leasing business CAM had pretax earnings of $17.3 million for the third quarter up 7% over third quarter of 2011. Revenues increased 6% to $39.2 million. At the end of the third quarter CAM owned 53 aircraft available for service, 21 of those CAM owned aircraft released to external customers and 32 released to our affiliate airlines.
+
+In the first nine months of 2012 CAM modified three more owned 767 freighters and added them to our fleet. One more came out of freighter conversion last week and two others were complete modification in the first quarter of next year. Our airlines also operates six 767s that are owned and leased to us by third parties. A summary of our fleet changes and year end outlook can be found in a table at the end of our earnings release.
+Third quarter results from our ACMI Services segment reflect the effect of delays in aircraft deployments. The delays reduced ACMI revenue and margins as the majority of our costs are fixed in the near term. But the principle comparative factor year-over-year remains the loss of our Schenker contribution in 2011. Our third quarter pretax loss in ACMI Services operations this year was $1.7 million versus a $2.8 million pre-tax profit in the third quarter of 2011.
+Revenues for airline operations were $102.9 million in the third quarter, excluding fuel and other reimbursed expenses down from $118.9 million in the third quarter of 2011. Results in the third quarter of 2011 included $24.2 million in airline service revenues from Schenker’s discontinued North American air network. So our revenues excluding reimbursables and Schenker actually increased 9% year-over-year.
+Third quarter results from our military combi operations were relatively stable compared with a year ago and the second quarter. Our new two year award from the military for combi operations took effect on October 1, the beginning of the government’s fiscal year. We don’t expect a significant near-term change in our return from those operations. Our third quarter block hours were down 16%, overall from a year ago, but increased 6% when you exclude block hours flown by Schenker in the third quarter of 2011.
+Pre-tax earnings from all of our other activities were down 8% from the third quarter a year ago at $3.4 million, but up from last quarter’s $3.2 million. Revenues for the segment were flat at $26.8 million including inter-company revenue. During the quarter, we inked agreements with the U.S Postal Service extending for two more years, ATSG’s management of sorting facilities in Indianapolis, Dallas and Memphis.
+That summarizes our segment and other businesses results, Joe and Rich will update you on our more recent ACMI deployments, the current outlook and how our pending airline reorganizations and flexible business model help us react to change in the ACMI and leasing businesses.
+We now expect our CapEx spending to be approximately $145 million in 2012. That includes maintenance CapEx, the two 767-300s we purchased in February and freighter mod cost for four 767s and two 757s we will have completed by the end of the year. Earlier we had guided you toward about $200 million in CapEx for 2012, the main reason for the change is our deferral into 2013 of our plans to complete the upgrade of our combi fleet and mod cost for the two 767s that I won’t complete until early next year.
+We had spent $108 million through September versus $163 million for the same period in 2011. As of September 30, we have drawn an $131 million against our revolving credit facility, nearly all of which was used to supplement the cash flow we dedicated to aircraft acquisition and modification cost. In mid July ATSG obtained creditor commitments to increase the limit on a revolver portion of the secured credit facility from $175 million to $225 million, leading us capacity to complete our current programs and remain open to other opportunities.
+Our debt to EBITDA ratio at the beginning of the second quarter was slightly above two times adjusted EBITDA, which qualified us for continued low interest rates of 2.5% on a revolver throughout that period. Our credit agreement along with our strong cash generating capacity even under current conditions continues to be a strong differentiator for ATSG. That’s the sort of time when many other asset based air freight operators are struggling or in bankruptcy including some in our mid size market. Even with some uncertainty about the ultimate timing of our aircraft deployments, we are confident of our ability to meet all of our current and currently projected obligations with access to attractively priced additional financing options should we wish to pursue them.
+
+Looking ahead to 2013 and a relatively small growth capital component in our current CapEx plan, a larger portion of that future cash flow remains uncommitted versus prior years. Prior to elaborating on these results and Q&A I want to say that although it has been a challenging period for us and as you have been hearing certainly from others in our industry we remain confident about our business and its prospects for the future. With the reorganization of our airline businesses our flexible strategy to work creatively with our customers and backed by our strong financial resources and free cash flow prospects I’m looking forward to a much improved 2013.
+With that I’ll turn the call back to Joe Hete for his operating review and more on the outlook. Joe?
+Joe Hete
+Thanks Quint. As I said at the outset the medium wide body freighter segment we lead today is more short term focus than I’ve seen in our nine years as a public company. The impression of flat to slightly negative market condition suggested by the IATA’s Air Freight Data is heavily influenced by the big global network carriers. In some ways our experience suggest that those big players may be masking more volatility among the smaller regional players. I am going to our Chief Commercial Officer, Rich Corrado to share his thoughts on that in a moment.
+In such a market we’re fortunate to have DHL a premier global logistics provider as our business partner and largest customer. DHL provides us with a solid base business and have aided our entry into new markets. We are constantly looking for similar relationships with other carriers that need a reliable tested partner to manage the mid-size market requirements. But as you have been hearing elsewhere, many airfreight operators beyond the big three have substantially weakened. That’s the reality driving the conditions we face today and expect to persist as long as the global economy marks time.
+Fortunately, our business model is constructed to better withstand just such trying conditions. As I’ve said three month ago, the issues we face in the marketplace have nothing to do with the quality of this services we offer for the value we are able to deliver through our freighter fleet of 46 Boeing 767s and 3757s.
+None of the recent delays we have faced in completing deployments have resulted from direct competitive losses to providers of similar aircraft. We understand that the conditions that customers are facing and we are doing everything we can do accommodate reasonable requests. But we will not place or aircraft in long-term arrangements or we cannot earn a return consistent with our commitments to our investors.
+In August, I outlined a relatively positive outlook for deploying all or nearly all of our then available freighters within a matter of days or weeks, based on strong indications from customers that they would act very quickly on our proposals for ACMI Services. That environment changed very quickly beginning in late August. Relatively solid, near-term commitments were delayed by several months and some business with current customers that we had expected to continue ended early instead.
+Here is just a brief rundown on how the outlook changed just for our 767s from August to now. Of the six 767-300s we had at the end of June, including the two, we have under operating leases four were in full ACMI Service in early August and two others were due to be deployed by the end of that month to two different customers. Each of those two deployments were delayed until last month, one to early October and the other to late October. In addition, one of the four that had been in service was returned in early September. We expected another customer to take up starting in early October, but shortly before the aircraft return that second customer decided to delay until January.
+
+In a similar regard a 767-200 that had been operating in ACMI in Asia was returned in October. That happened not because of economic conditions, but due to political issues that prevented the customer from getting regulatory renewal for the route it was serving. Two other 767-200s intended for customer in Asia in October were delayed with no new start date yet.
+And finally a dry lease customer has been unable to renew a contract that backed its lease of two of our 200s. As a result we expect both to come back later this year or in early 2013.
+It bears was repeating that shorter term contracts and the potential need for redeployments are a factor in the ACMI business. As you have heard from others the number of aircraft returns and interval between each return and redeployment has been increasing as the market has softened. That’s true of us as well. We expect to end 2012 with about 30 months of loss revenue due to freighter aircraft redeployment delays compared with only a few months in 2011.
+The net revenue effect in the fourth quarter of our deployment delays is primarily what led us to again revise our guidance for the rest of 2012. Our new guidance of $160 million in 2012 adjusted EBITDA or approximately $40 million for the current quarter represents results from business that is already in place and is fully expected to continue and from the already contracted peak season flying that we normally do.
+We will defer providing guidance for 2013 until March when we release our fourth quarter results, when we will have a better sense of actual and future deployments. Some customers tell us they will have a better sense of their own requirements as they transition into 2013.
+Our mod schedule has changed somewhat based on delays and required rework at our contractor II. One 767-300 have been due out of mod in the third quarter was just completed last week, the two remaining 300s in mod will be completed early next year with some related CapEx shifted accordingly for the CapEx outlook that Quint provided. We have two 757s in mod, one freighter and our first combi. The freighter will be deployed later this month and the 757 combi will start certification testing this week within service due early first quarter.
+Finally the reorganization of our ACMI business, which includes the merger of Capital Cargo International Airlines and to Air Transport International is continuing and set to generate more than $4 million in annual savings as we discussed earlier. The reorganization now due for FAA approval on early 2013 will make ATI stronger airline with the lower combined cost structure and good growth prospects.
+We continue to move forward plans to upgrade our combi fleet in the wake of the U.S. military’s award for a two year combi contract starting last month. This agreement with the Air Mobility Command will allow us to replace our four DC-8 combis with more efficient 757-200s, the first of which we expect to deploy early next year. We’re still exploring options for obtaining the three other 757 combis. We hope to be able to announce more on that before the end of the year.
+At this point I am going allow Rich Corrado conclude our prepared remarks with his views about the market environment in general, how and when we think it might improve and how we are positioned to respond even if the current conditions persist. Rich?
+Rich Corrado
+Thanks Joe. Although the mid-size freighter market is smaller overall than the long haul large freighter market both of these meaning the same current market issues, stagnant or slower growth, mod shifting impact from higher fuel prices and weak consumer and business confidence particularly in the EU and U.S. There are also significant differences. Looking specifically at ACMI in charter markets long-haul is intensively competitive with several large players.
+
+In contrast our mid-sized ACMI and drive lease space has few significant players, almost all regionally focused. We are by far the largest asset owner and operator in the segment roughly triple the size of the number two provider. We have the best in class asset the Boeing 767 as the core of our fleet and excellent quality reputation, a global presence and the widest range of integrated support services.
+Being the market leader in mid-size means that there are always market opportunities in our sales pipeline including several multi-aircraft opportunities targeted for the first half of 2013. Existing customers continue to tell us they want to grow in mid-size. In the meantime, however, they are taking a more cautious approach towards executing agreements. Our business model has always emphasized a balance between long-term guide leasing and short-term ACMI and we are still very committed to maintain that balance.
+At the beginning of the year, our marketing efforts were focused on several growth regions, where our assets are flexible and competitive lift in the medium wide body segment. Key relationships we are developing there have brought new prospects into our pipeline and we’re navigating our way through regulatory requirements and operating authority rules in others parts of the world.
+The longer-term outlook for our assets remains very good, especially when moderate economic growth returns. From a product perspective, we have continued to develop our service lines. For example, we have our turnkey offering for new customers branded let to dry that allows customers to get started quickly with us on a wet lease or ACMI basis. Then when they are comfortable with the economics and performance of our assets we can ship them into a dry lease and help them train and certify their own crews and maintenance staffs. That flexibility is unique to ATSG and differentiates us from our competitors while also generating incremental returns on our base assets.
+Let me sum up by saying that our issues are not really about competition from other asset providers. Competition on the cargo business that contracts from mid-sized freighters know who we are, the aircraft assets we have and the service quality and the flexibility that we deliver. What really drives the decision about when to take on an aircraft is the confidence about when and for how long they can operate it profitably. We’re doing everything we can to help them resolve those concerns.
+I hope that gives you a better picture of how we’re leveraging our strong market position and our broader way of capabilities in the challenging market. I am confident that when the air freight ticks up again next year our size, scale and financial strength will make our offerings even more compelling to customers around the world. Joe?
+Joe Hete
+Thanks Rich. And with that operator we’re done with our prepared remarks and ready to handle some questions.
+Question-and-Answer Session
+
+Operator
+Thank you. (Operator Instructions) And our first question is from Kevin Sterling of BB&T Capital Markets. Please go ahead.
+Kevin Sterling – BB&T Capital Markets
+Thank you, operator. Good morning gentlemen.
+Joe Hete
+Hi Kevin.
+Quint Turner
+Hi Kevin.
+Kevin Sterling – BB&T Capital Markets
+Joe, you talked about the combination of your two airlines ATI and CCI and I think you said $4 million in annual cost savings, when do you anticipate these beginning in 2013 and really what type of costs are you pulling out?
+Joe Hete
+Generally Kevin the cost we should start to realize those in the January, February timeframe as we close down the two different air carriers and combine them into one and exactly what you’re looking at is the G&A, SG&A type costs that are duplicative on both sides. There is a lot of fixed cost and people involved in maintaining an aircraft operating certificate. So, right now we anticipate being able to start putting everything together in December and that will roll into January with the idea that we would ultimately get to the surrendering of the operating certificate in February.
+
+Kevin Sterling – BB&T Capital Markets
+Okay it’s kind of early in 2013.
+Joe Hete
+Yes.
+Kevin Sterling – BB&T Capital Markets
+Okay, hey Quint you talked about your CapEx for 2012 being down to I think they are $145 million, given some delays, how should we think about that impact on 2013, it looks like your CapEx wasn’t going to be too big for 2013, but now you’re pushing some of that in the 2013, should it be a similar run rate of $140, $150 million type CapEx number for 2013 now that you push some of that into 2013?
+Quint Turner
+Right now Kevin we’re expecting a lower number in 2013 even with the slice of the combi expenditure into 2013. You’re talking about probably something on the order of maybe 30 – difference of maybe 30 from what we’re expecting in 2012 right now. Again that’s assuming that we just complete modification of the assets we already own in terms of the 767s and we don’t – we have not baked into that number any potential growth expenditures on additional 767 aircraft for next year.
+Joe Hete
+Kevin depending upon timing if we were to find some assets for these combi conversation program for example that we bought this year and start to induct in mod process that would increase that 145, but, right now it assumes, everything beyond the first combi falls into 2013.
+Kevin Sterling – BB&T Capital Markets
+Okay, great. And that’s very helpful to kind of give an idea of where CapEx will be and I guess we found some potential conversion aircraft that would be a good thing. And Joe that leads me to my next question, given such a volatile market, are you seeing any feedstock available, but maybe you’re not actively looking given some of your customer concerns and delays, I would love to get your thoughts on any feedstock?
+Joe Hete
+We always try to keep our finger on the pulse of the market in terms of what may or may not be available from a feedstock perspective, because as you know the market can turn fairly quickly. But, we still don’t see a whole lot out there, I know there wasn’t an auction a week or so ago on some for American Airlines but, they just didn’t fit the profile we were looking for, I think it was three tails in total. But, it’s not like there is all the 70 plus of aircraft out there to go after.
+Kevin Sterling – BB&T Capital Markets
+Okay, great. And Joe you threw out a lot of numbers in your prepared remarks, talking about some of the delays, the customer deferrals, can you just simply tell me how many planes do you need to place in 2013 that have been delayed?
+Joe Hete
+If you look at where we’re at today Kevin and just take you back a little bit through the prepared remarks if you remember last quarter we thought we were going to have two 300s a week would be deployed before the month of August was out and as I said in my remarks that didn’t occur until October. Essentially as it sits right now, we have four aircraft that are not deployed today, that are call it ready for service, they completed modification et cetera.
+In addition to those forward there will be three more assets to come out, one basically which kind of finished up the mod process last week, one that should come up probably in December timeframe, may be slip into January a little bit and then the last 300 would be probably mid to late first quarter. So, I mean if you looked at it in total it would be seven assets that we have to find a home for.
+Now that said as we look at it today when we talk about the fact that customers have differed commitments, we’re still talking to those same customers, so it’s not like they said never mind I don’t need the assets. So, the outlook is still pretty good, it’s just a matter of the timing side of the equation. One customer for example would take three aircraft if everything came to fruition and that would be some time in the first quarter.
+
+Kevin Sterling – BB&T Capital Markets
+Okay that’s helpful, I mean seven in total is very helpful and it sounds like the matter of when.
+Joe Hete
+Yeah from our standpoint we still delineate it – we said it’s not an issue of the services in there, they were losing out to competition, I mean part of the issue that we have today that’s ironic and that one of the reasons for some of the availability we’ve had is that some of the customers actually had to replace our 767s with an asset that really didn’t even fit the profile. Lan Chile for example ended up taking two 777s they had on order and because they had no place else to deploy those assets they had to terminate our agreement and replace the 767-300 with the 777, which from a practical perspective doesn’t makes sense, but doesn’t makes sense either for them to have an asset sitting idle while our is flying in their network.
+Kevin Sterling – BB&T Capital Markets
+Right okay. And then last question Joe I know you don’t want to give guidance until March, but at least rationally help me think about it if you don’t mind, you’re talking about $160 million in EBITDA for this year and let’s assume that the market still stays stagnant in 2013, in there your EBITDA still grow above 2012 levels in 2013 I know you’ve got the cost savings and things like that, is that – am I thinking about that right?
+Joe Hete
+Yeah I think there is – definitely there will an improvement over the 2012 numbers, I mean if you look at where we started off this year for example, we’ve had a significant loss in the first quarter in the ACMI segment alone because we felt the initial impact of the first wave of wind down of the backs business and we came back pretty strongly reduce that loss by over $6 million from first quarter to second quarter. So when you think about that and like you said I think ultimately we’ll be in much better position in terms of getting the assets deployed that aren’t out there today plus the additional ones we will have coming online.
+Kevin Sterling – BB&T Capital Markets
+Joe that’s helpful. Thank you so much for your time today.
+Joe Hete
+No problem, Kevin thanks.
+Operator
+Thank you. Our next question is from Jack Atkins of Stephens. Please go ahead.
+Jack Atkins – Stephens
+Good morning guys and thanks for taking my questions.
+Joe Hete
+Hi Jack.
+Quint Turner
+Hi Jack.
+Jack Atkins – Stephens
+So Joe just kind of pegging back on one of Kevin’s questions there on the number of planes you’ve got sitting, the four that are sitting today does that include I guess, it may be does include the potential additional aircraft that you may be getting back next year where I think you said one or two that may be coming back from our customer in South America?
+Joe Hete
+No, that does not include those at this point Jack only because we haven’t received them back yet. Customers still making their payments, it is just a matter of timing as to when they actually return them. So...
+Jack Atkins – Stephens
+Okay.
+Joe Hete
+Again what it does do obviously is give us a little bit more time as well, as well as making those payments to continue to look for opportunities for redeployment.
+Jack Atkins – Stephens
+Absolutely, absolutely, so when we think about the fact that these customers at least some of them seem to be pushing aircraft back to you earlier than your would have thought, I mean is there any sort of recourse that you guys have from a contractual perspective to maybe recoup some of the losses associated with those...
+Joe Hete
+We had the weather to dry lease or a wet lease operation, from a wet lease perspective there are no dis-carriage in there that are much shorter than what we allow for the dry lease situation. I mean the dry lease is really – there is no early return provisions, I guess contractually and our General Counsel sitting here next to me will correct me if I misstate, but essentially there aren’t up for those lease payments although we have a duty to mitigate by trying to redeploy those assets as quickly as possible, but having a contractual requirement to do that versus actually collecting the dollars can always be two different things.
+
+Jack Atkins – Stephens
+Yeah absolutely that also makes sense. And so when we think about the potential for the ACMI business next year I know that this year has been a struggle because of the backs wind down, but you’re going to have the benefit of the cost savings in the next year hopefully for most of the year and if you think about the fact that really in the first nine months you’ve seen over a $16 million swing in the pre-tax earnings for that business. I mean would you expect ACMI to get back to that call it $4 million to $5 million in pre-tax profitability once all the cost savings are in place and once that business returns to normal?
+Quint Turner
+I mean certainly we expect the ACMI business to return a single digit type margin on a pre-tax basis, Jack. That’s what – we price it to do and as we’ve explained in our model of course a lot of the results on the CAM side owe to the fact that those aircraft are deployed under wet leases by the airline affiliates, and so I think as we’ve said I mean the risk, the operating risk is always on the, is more on the ACMI segment side, certainly than the CAM side. So, we do expect a single digit type margin applied to airline services revenue. So, if you look at, now, one of the things that we faced this year is as we’ve alluded to in the prepared remarks was a greater number of aircraft being returned of those contracts.
+And I think that’s a function, you know the softness in the market. And I think that’s been echoed by others in our space. And if you look back at 2011, we didn’t have a lot of those wet lease agreements and, unexpectedly or what we would consider to be prematurely. So, if you look out at 2013, the question will be, at what rate do we see customers turn, do we have customers are returning back in the airplanes.
+Because once we’ve – as we’ve always said with the asset base we have, if we are completely deployed, we can generate, something on the order of, 50 plus a quarter in EBITDA. But, again you’d also, heads that with the, hey what’s the softness of the market going to be like and are we going to see airplanes coming back with those transition delays and breaks in the revenue. And that’s what has been a difficult sort of headwind for us this year.
+Joe Hete
+And in airline in this particular year and I think we mentioned it on our last call is that when we started off the year, the things look pretty solid so much the fact that, we actually leased in one additional aircraft and external lease or just because the demand we had pent up and then just turn that quickly and call it a 90, 120 day period.
+Jack Atkins – Stephens
+Okay. Got you, I got you. And so Quint, when we think about that low single-digit margin at ACMI sort of getting back to that level will really require those planes that are currently parked being put back under lease or do you think that once you’ve consolidated your subsidiary airlines that you will be able to sort of get back to that low single digit margin at that point, just trying to think about when we should get to see sort of a normalized profitability level here?
+Quint Turner
+I think we said that the savings from consolidation next year we expected to be around $4 million and so that’s little over a $1.25 million, may be gaining a little speed because first quarter is kind of transition, but for the year $4 million. So I think it takes, again it takes that once the airlines deploy those assets and wet leases that we have minimal breaks in those revenue streams. I think if they’re operating for somebody and they get an airplane back they are holding flight crews perhaps that were serving that customer and they -when you got short notice periods you sometimes are carrying those cost and that’s as I mentioned a minute ago that’s a factor and whether those guys are going to able to achieve that single digit margin.
+
+In 2011 when we didn’t have much of that when it was more stable, you saw better numbers there and I think if the market improves that’s certainly going to help that ACMI Services segment significantly.
+Jack Atkins – Stephens
+Okay, okay that makes sense. Last question from me and then I’ll turn it over. On the maintenance expense line, you were running up low double-digits on a year-over-year basis, just sort of curious at – is there anything sort of one-time in there sort to drive higher maintenance this year versus last year, I would have thought that we will begin to see that maintenance line again to trend downwards given that we’re targeting a bunch of the older DC-8s and 727s
+Joe Hete
+Jack that’s again some of that is timing related and keep in mind that under the lease agreements that we have for the dry leases particularly the DHL for example as is typically on a lease agreement, the lessee reimburses that maintenance cost and so that expense is going through our P&L line item, but so is the revenue, the offsetting – there is offsetting revenue where they are reimbursing on sort of that airframe check.
+You’re seeing over time obviously the aircraft getting a little bit older, you’re seeing a difference in work scope, but from quarter-to-quarter it’s a timing issue. There is also included in that an increase that we – I think we’ve noted in previous quarters and what we are charged through the PBH agreement for the engine maintenance on the CF6 engines that the 767-200 aircraft operate.
+And again in our model certainly on the dry leases we make that available to our customers and they reimburse us for that, but on the ACMI, on the wet lease side we have to build that into what we charge our wet least customers, but we’ve seen – I think we’ve mentioned it earlier this year we’ve seen some increase in that line item in 2012 and so you’re seeing the impacts of that come through that line item.
+Rich Corrado
+The other think Jack as you look at it you’re right, when you look at some of the older aircraft coming out, there is some offset in that particular case, but what you have to remember is with the number of aircraft that we put into service over the last call it two years having maintenance visits are on a 20 month calendar cycle, and so what – as some of those other ones were falling off, the newer ones we’re starting to come into the realm of where they needed to go through the heavy maintenance side, so kind of balanced each other out.
+Jack Atkins – Stephens
+Okay, great. Thanks for the time guys.
+Operator
+Thank you. Our next question comes is from Helane Becker of Dahlman Rose. Please go ahead.
+Helane Becker – Dahlman Rose
+Thank you very for that, hi guys.
+Joe Hete
+Good morning.
+Quint Turner
+Good morning.
+Helane Becker – Dahlman Rose
+Just a couple of questions, one is in terms of, I think you mentioned regulatory hurdles in your prepared remarks, is that or, the press release was that just the one aircraft that was coming back that from Asia is that what you’re referring to...
+Joe Hete
+Yes.
+Helane Becker – Dahlman Rose
+Or is it other?
+Joe Hete
+That was the one big event in terms of the, in fact we couldn’t get the agreement renewed, because of this agreement between the two governments involved in terms of getting the approval on the wet lease operation. But, the other piece of that we’re referring to is well Helane is as we move into other areas of the globe. The amount of time that takes to get all the appropriate approvals can be much longer depending upon which country you’re entering into etcetera. And some time you just said the pleasure of how fast that particular entity wants to move, I mean they’re not under any specific time schedules per se.
+Helane Becker – Dahlman Rose
+Okay. Do you look at all countries or do you just focus on countries that have signed – they keep talent convention?
+
+Joe Hete
+Any place where somebody is expressed an interest as far as money to make use of our assets, we’re going to start the research project in terms of what is going to take to get there. Part of our business is a little bit different than what you see for say like an Atlas for example, if the aircraft touches the U.S in its trip or its route, makes it lot easier to get aircraft deployed in terms of setting up a base or making a stop in a particular country, but when we look at ours because it is a regional freighter in many cases most of you are talking like going between the Middle East and Europe or Asia, it’s a little bit different in terms of what you have to be able to meet in terms of standard because you are not touching the U.S.
+Helane Becker – Dahlman Rose
+Gotcha okay. And then would you consider scheduled service?
+Joe Hete
+In terms of selling cargo?
+Helane Becker – Dahlman Rose
+Yeah in terms of utilization for your aircraft, instead of like coming then on the ground for a length of time between when you can have – between homes let’s say, would you consider putting them in service like just finding, having a sales person or two go out and find – cargoes that you could fly around, at least your aircraft would be in utilization (inaudible) is that an option?
+Rich Corrado
+Helane this is Rich. In many cases, not in many cases but in some cases what we do is we will – we’ll find a customer that has half a plane worth of freight and we’ll go out and try to find another Ford or another large customer that will be able to complete that load considerably quick – complete that load and then we’ll work with those customers to get together and one of them will take the ACM – will hold the ACMI agreement on the lane.
+So in fact we do a lot of that. One of the aircraft that we just deployed in October flying into South America is a combination of two companies that agreed, one company is holding ACMI agreement. So we tend to prefer to do things that way and encourage one to do a block space agreement with the other and put together a program that works. So we find that that allows the risk to get spread between those two as well and so it’s a lot more likely to selling an asset in to a market that normally you might not be able to find one customer to take the aircraft.
+Joe Hete
+Yeah. One of the other advantages of our business model the way we structured it Helane is unlikely pure dry lease or and one of the reasons that the ACMI segment of our business carries a little bit more of the burden is from our standpoint once an aircraft completes mod we want to take advantage of every possible opportunity to drive revenue with it. So we will go on an operating certificate, so that we can pick up some ad hoc work here and there if a need arises and be quickly prepared as opposed if you were just a pure dry lease or once you had an aircraft that was ready to go, if you didn’t have the dry lease customer it’d just be sitting there on the ramp that whole time and not giving you one nickel of revenue.
+So, we don’t want to get out to where we’re selling individual boxes, it’s just not a strength that we have. It requires a heck of a lot more infrastructure than what we’ve got in place today and so we’ll focus on as Rich said kind of acting as a broker in many cases to bring two larger customers together and that’s being about the extent of our efforts in that direction.
+Helane Becker – Dahlman Rose
+Okay. And then yesterday on their conference call DHL said that they were seeing a slowing in their business in Germany, that doesn’t affect you right because you’re just doing U.S. domestic or does that affect you?
+Joe Hete
+Well we have a couple of aircraft in Europe today, but they’re actually flying for TNT.
+Helane Becker – Dahlman Rose
+
+Right.
+Joe Hete
+Not for DHL, we have one that comes out of Europe that connects up with the hub in Cincinnati, but it’s I think is driven more by that comes through Charles de Gaulle as opposed to coming out of Germany.
+Helane Becker – Dahlman Rose
+Okay. So, you are not having problems or they are not having problems filling that aircraft?
+Joe Hete
+Not that I’m aware of at this point.
+Helane Becker – Dahlman Rose
+Okay. And I’m assuming that since the UPS hasn’t closed the deal and looks like it will be at least another six or nine months, TNT hasn’t talked to you about returning those aircraft?
+Joe Hete
+No, actually TNT is actually expressed an interest in having to add some additional lift potentially as they transition into next year and if you look at the press releases what they talk about the – they’ve extended the deadline to February and then who knows how long it’s going to take for UPS and TNT assuming it comes off, how long it would take them to integrate their networks. So, I think from our standpoint we’re in decent shape or at least looking out through 2013 in that respect.
+Helane Becker – Dahlman Rose
+Right that’s what I was thinking. Then my last question is really coming on it from a different angle, have you thought about spinning out the dry leasing company and kind of just running the dry leasing company and I don’t want to say sweeping the ACMI being send to the rags but separating it into two separate companies and kind of doing at that line?
+Joe Hete
+No.
+Helane Becker – Dahlman Rose
+Okay.
+Joe Hete
+In fact when we talk to some other leasing companies they really like our model for the simple fact that they’ve got an operating outlook, an operating outlet for the aircraft that they may have idle and so they look at us and say well it’s kind of a new operating model. So, it’s interesting, but it does give us a competitive advantage and differentiation as a leasing company.
+Helane Becker – Dahlman Rose
+Right, right and then there is no issues from a balance sheet perspective right, you don’t have any big debt due next year, anything like that debt covenants we should be aware of?
+Joe Hete
+No, Helane its I think we’re expecting something like $21 million of principal repayment that we’ll make, but I mean again our leverage ratios remains pretty low, we don’t really have any significant issues there, we can – with the cash flows we have and the capacity on our revolver and our outlook for CapEx and so forth, we’re in good shape there.
+Quint Turner
+And our current facility goes out to 2017.
+Helane Becker – Dahlman Rose
+Okay.
+Quint Turner
+We’ve got asset-backed loans as they mature pointing the 2016, 2017 time period.
+Rich Corrado
+I think 16 to 18 is one like really early 18 or something...
+Helane Becker – Dahlman Rose
+I think that’s right, I was looking at that this morning. But I guess it would be – it’s a long time to ask about returning capital to shareholders right now and the dividend...
+Quint Turner
+That’s a question, it hasn’t been asked on the numerous occasions in the past and they already to that end and I’m sure it will come up again sometime but, one of things that everybody has to be cognizant of and people can do different math on it. But, we still the restriction on the DHL note that’s outstanding that we would have to pay basically pay a 20% premium.
+Helane Becker – Dahlman Rose
+Premium right.
+Quint Turner
+Up to the value of the remaining balance on that note. And there also is a restriction in our current credit facility that says we can’t do that unless after getting affect to that it would be less than two turns of EBITDA. Although, I guess you could pursue and have had some preliminary discussions as whether will it be feasible to get a waiver on that particular covenant?
+Helane Becker – Dahlman Rose
+
+Got you. Okay, well, I’m sorry this is happening to you right now, but hopefully 2013 will be a better year. Thanks for the time guys.
+Quint Turner
+Yeah thanks, Helane.
+Joe Hete
+Sure Helane.
+Operator
+Thank you. (Operator Instructions) Our next question is from Steve O’Hara Sidoti & Company. Please go ahead.
+Steve O’Hara – Sidoti & Company
+Hi, good morning.
+Joe Hete
+Hey, Steve.
+Steve O’Hara – Sidoti & Company
+I was just wondering, if you could talk about assuming maybe a more dire scenario that these seven aircraft don’t get signed up with customers and I assume you can kind of downsize the staff required for them, I mean if you did that kind of the move, what would have cost you in terms of maybe core aircraft in the terms of EBITDA to kind of hold those for a year?
+Quint Turner
+Well I think if you look at from an EBITDA standpoint Steve in terms of the run rate that we have out there for the fourth quarter, it doesn’t reflect the four aircraft that I talked about that are un-deployed right now and then of course the three more to come out, so from a pure EBITDA standpoint you’d basically flat line the fourth quarter number, I mean of course we could reduce the – we get the benefit of the combination of CCIA and ATI, the savings we talked about there and may be get some additional cost savings, but it’s not going to be something that’s going to drive us into a negative position.
+Steve O’Hara – Sidoti & Company
+Okay. And then in terms of the internal leased aircraft and the customers there, I mean those are pretty much constantly renewing and so forth and they are one to two year agreements for the most part?
+Quint Turner
+Yeah generally one year is the predominance, but we do have some occasionally that are longer than that.
+Steve O’Hara – Sidoti & Company
+Okay. And in terms of I mean can you characterize the conversations there, I mean have they gotten any better or worse over the last let’s say six months?
+Joe Hete
+Well I think like as I mentioned earlier as some of the irony that we’re experiencing is this people replacing 767s with 777s just because they had their own idle assets that were – that they ordered from Boeing couple of years ago and those are kind of unusual situations you would normally expect somebody to replace an aircraft that does 100,000 pounds and one that does 200,000 pounds from a payload perspective. But I think in terms of the customers that we’ve been talking to and we referenced is to flooring their commitments, the discussions are still active, and it’s just a matter of timing.
+Steve O’Hara – Sidoti & Company
+Okay and then I guess finally I think somebody asked you about the feedstock question. I mean what’s your feeling on maybe from a – would you be – I assuming you’re over aggressive in pursuing feedstock at this point given you have seven aircrafts kind of inline for customers?
+Joe Hete
+Yeah, that’s correct I mean we’re not going to run and acquire any additional assets until we’re closer to being fully deployed now, if we get down to where we’ve got one asset that’s sitting and we’ll certainly start looking at assuming the demand in the marketplaces there, but yeah we’re not going to go out there aggressively tomorrow and pursue additional assets.
+Steve O’Hara – Sidoti & Company
+Okay. But I think...
+Joe Hete
+For combi.
+Steve O’Hara – Sidoti & Company
+Yeah, okay. Thank you.
+Operator
+Thank you. Our next question is from Adam Ritzer of Pressprich. Please go ahead.
+Adam Ritzer – Pressprich
+Hey guys. How are you?
+Joe Hete
+Hello Adam.
+Adam Ritzer – Pressprich
+Just a couple, get a little more specific on some of these things other people asked, in terms of your CapEx for next year, beyond the maintenance what are you know specifically saying you’re going to be spending?
+Quint Turner
+I think that question was asked a while ago Adam and we said it’s – you’re talking based on what we know now and again we – that can move around depending of the timing of some of that. In 2012 we’ve guided to 145 and I think I mentioned to Kevin Sterling earlier in the call that based on what we know now and what we expect to happen, which we would expect around $30 million less than that call it $25 million to $30 million less than that in 2013 so you...
+
+Joe Hete
+That assumes all of the spending for the additional three combis would occur in 2013 Adam so if any of that slops in to 2012.
+Adam Ritzer – Pressprich
+Right.
+Joe Hete
+It would change that outlook.
+Adam Ritzer – Pressprich
+Okay. But I still -what is that number?
+Quint Turner
+Well its 115 to $103 million – 145 less, 25 million to 30 million would be...
+Adam Ritzer – Pressprich
+So it’s about 115 million to 120 million.
+Quint Turner
+Correct.
+Adam Ritzer – Pressprich
+Okay, plus maintenance right?
+Quint Turner
+Maintenance CapEx, yes.
+Adam Ritzer – Pressprich
+Okay.
+Quint Turner
+Well that includes maintenance CapEx.
+Rich Corrado
+Well that may include maintenance CapEx that’s our capital expenditures that we report.
+Adam Ritzer – Pressprich
+Okay so that includes maintenance?
+Quint Turner
+Yes.
+Adam Ritzer – Pressprich
+Okay, okay. So 115 million to 120 million. And then beyond that, is there any pension contribution you need for next year?
+Quint Turner
+Well I mean there is some, there is pension contribution, I mean it’s somewhat dependent upon, we wanted to we have some flexibility there, because our funded level is such that given the change in the law we could – we choose not to put in there is much. But typically we’re going to put in 25 million, 26 million into the pension plans.
+Adam Ritzer – Pressprich
+Okay, so you got 115 million to 120 million for CapEx another 25 million for pension is you know 140 million, 160 million of cash you need?
+Quint Turner
+Right.
+Adam Ritzer – Pressprich
+Is that my underwrite page here?
+Quint Turner
+Yes.
+Adam Ritzer – Pressprich
+Okay. And getting back to the question of plane deployment, I think people have discussed seven that you need to place, right?
+Quint Turner
+Of course, once we finish the last modification.
+Adam Ritzer – Pressprich
+Right. But you also said there is two more one coming in the late 2012, one being given back early 2013, does that seven include those two or is that two on top of that?
+Quint Turner
+Yeah so we’re clear there is four today.
+Adam Ritzer – Pressprich
+Yes.
+Joe Hete
+There is three more that complete mode and then there is a question of the ones that are coming back from a custom model dry lease we don’t know when they are coming back at this point.
+Adam Ritzer – Pressprich
+Okay, so it’s at least seven it could be nine.
+Joe Hete
+Could be.
+Adam Ritzer – Pressprich
+Okay. Got you. And now for your guidance for Q4 40 million, how much of that is included in planes that you’re getting back, I am just trying to figure out what the real run rate is less anything that you’re not going to have?
+Joe Hete
+Real run rate of...
+Adam Ritzer – Pressprich
+You’re guiding...
+Joe Hete
+I am sorry, excuse me Adam.
+Adam Ritzer – Pressprich
+Okay. So you’re guiding the $40 million for Q4 and I think you’re getting back, one point you said you’re probably to get...
+Joe Hete
+I think we’re about to give 2013 guidance Adam I think we kind of we’re, our view on that was we wanted to wait until February, March timeframe when we’ve got more clarity on the airplanes, the seven airplanes. We’ve also got a little more background of where the market is at, but I think we’ve been pretty clear about what the model could produce based on current deployments. Joe just I think answered that one. So, I realize you’re kind of going through this, I think you’re trying to get a handle on 2013.
+Adam Ritzer – Pressprich
+But not really what I am trying to get a handle on is if you’re going to do $40 million in Q4 how much of that could come out from planes that you kind of think is that number really $35 million?
+Quint Turner
+No I think Stephen Hara I think asked that question.
+Adam Ritzer – Pressprich
+Right.
+Quint Turner
+I think from our perspective it’s, call it $40 million is kind of a floor at this point.
+Adam Ritzer – Pressprich
+Got it.
+
+Quint Turner
+(Inaudible) in there and there is opportunity for some cost saving, so I mean it’s not going to go backwards I don’t believe that.
+Adam Ritzer – Pressprich
+Okay that’s what I am trying to – yeah I am just speaking so – right I’ll just try and get room for clarification. So, $40 million is kind of your floor, I am now looking for 2013 guidance, but with seven to nine planes kind of knowing what these lease for again it doesn’t give you guidance, but it gives you let’s say what you could do or what you’ve talked about in the past would that be a fair assumption?
+Joe Hete
+Say that again Adam.
+Quint Turner
+I’m just trying to, I mean look – we’ve been talking about the 200 million of EBITDA we offered in the last years. And we’ve done between 160 and 180 now for four years.
+Adam Ritzer – Pressprich
+Right.
+Quint Turner
+And we just spent 400 million 500 million on new planes and now we’re going to have 7 to 9 of those that are not going to be in operation. So, we spent a lot of money here, we still have a decent amount of planes that are not leased and again sometimes expectations are not met, but that’s a lot of cash that we’ve spent on planes that are not being used that could have been used to all these things, is that all I’m saying.
+Rich Corrado
+Adam let me cut to the chase.
+Joe Hete
+Yeah.
+Quint Turner
+Okay. So, when you talk about the 200 run rate and whatever ultimate, first of all no one anticipated that Schenker is going to shutdown their network last year, at least that wasn’t part of the business plan going forward. So that’s obviously traction from that.
+When you look at the assets from the market standpoint, yeah we have some that are sitting today, we did not believe that that the tracks from the asset value in the marketplace, it’s just unfortunate the economic conditions on a global basis today are, pretty bad and if you look around the marketplace. I can’t send the airplane back to somebody, I’m already committed to it, we will finish those modification. And we expect to start generating the returns from those assets as we transition through 2013. And we still have a pretty positive outlook that the aircraft will get deployed, I’d say it may slide out of 60, 90, 120 days from what we would like to see. But we’re still confident, we’ll get the assets.
+Joe Hete
+I think if you look at the end of last year Adam we were – we had placed what is it Joe 7, 8 aircraft in the service and we were fully – we were fully deployed at the end of last year. And I think what we have seen this year has been well documented in this space the market’s been difficult so, we had more of the returned aircraft and what we would expect to see over the long-haul. And that’s -I’m not just saying that’s based on what Boeing and cargo, cargo backs and others have projected for the cargo space growth rate over the long-haul.
+So, it has been a difficult environment, but, we don’t expect it to persist over the long-term. Even in that environment, our model has produced pretty significant gains on our equity during the year. I mean, if you look at the sort of the intrinsic cash generating power in the model it’s pretty evident. And unless you are going to accept that that we will continue to see for multiple years an environment like we’ve got now. I think we’re still confident that we can attain the levels that we’ve talked about. As Joe said the back Schenker thing that was a significant chunk of EBITDA, they were our second largest customer and so that was a difficult thing to digest at the same time that the market was as tough as it’s been this year.
+Adam Ritzer – Pressprich
+Right, right, I understand. Okay, I just been – it’s been tough spending a lot of money now we have planes that are not in service I know the economy is not that great. And we did start – we’re not really generating free cash is what you’re telling me you’re going to spend next year and the pension contributions, even if next year is up a little bit, again it doesn’t leave a lot to return to shareholders that I know we’ve discussed that in the past.
+
+Joe Hete
+That last thing Adam...
+Adam Ritzer – Pressprich
+Yes.
+Quint Turner
+Actually there is the nice thing about our business model is that we can pull in our horns pretty quickly from a CapEx perspective, because we don’t have to make commitments years out like it would if you were buying new aircraft and as I mentioned earlier and I’ll say it again is we’ve had four aircraft impacted by 777s, because they were ordered by those particular customers years ago and the economy has changed markedly for them. So, we’ve got lots of flexibility once we get pass this last big thing, which is the 757 combi completion.
+Adam Ritzer – Pressprich
+Exactly, right we’ll see, but there is at least 50 million, 60 million of flexibility beyond that spend that at some point in time we’re start seeing.
+Quint Turner
+Exactly.
+Adam Ritzer – Pressprich
+Okay, we’re on the same page. I appreciate it thanks very much.
+Joe Hete
+Thank you.
+Operator
+Thank you. Our next question is from Michael Chapman of Private Capital Management. Please go ahead Michael.
+Michael Chapman – Private Capital Management
+Thank you. Could you may be just give me an update on the plane looks like for me, in terms looks like that’s a dry lease how long was the contract still yet to go so, how early in the contract of returning that one?
+Joe Hete
+The aircraft was – the aircraft were delivered to them mid-summer last year, and that was a 59 month lease, so essentially you got what – maybe 15 months into it.
+Michael Chapman – Private Capital Management
+Okay. And so that’s what your reference were, you try to deploy that plane and then determine whatever remedies you have contractually to get cash from that customer?
+Joe Hete
+Right.
+Michael Chapman – Private Capital Management
+Okay. Then has there then any change in customers, I mean you guys have the 767, which seems to be the preferred airfreight are there opportunities, may be this is for Joe or Rich, are there any opportunities for A340s or other DC-8 that was still in the market for you guys to go after that for cost savings for customers?
+Joe Hete
+In terms of, looking at A340 is much bigger than 767, if you look at target opportunity there are still some A300B4s flying around out there a little number, those are just been parked and not replaced with customers having some financial issues, targets potentially and I’ll let Rich go after that in a second, also you could creep up against the MD-11 marketplace for example, which is slightly bigger than the 767-300, but lot more expensive to operate. So, Rich I don’t know if you want to...
+Rich Corrado
+Yeah if you look at the A300B4 the DC-8 and the DC-10 series aircraft there is about 60 of those still out there, 60 freighters that are still out there operating for folks that are potentials, some are already in the process of – they’ve already had arrangements to go to a an A300-600 for example in Europe with DHL as replacing theirs with that series of aircraft. So, there are number of aircraft, it’s fewer than it used to be two years ago. There was well over 120 of aircraft replacements, so it’s been cut in about half from a replacement standpoint.
+If you look at the past year about two-thirds of our placements came from – two-thirds of our placements came from replacement opportunities and the third came from growth. 2011 was just about the flip of that, more of the business coming from 2011 was from growth versus replacement. But it is still an ongoing opportunity that we’re going after. We also go after on the segment just smaller than the 767. We go after the 727 market from a replacement standpoint because a lot of time it may make sense to get in to a more of a growth environment with the 767, while they are looking to replace – for example replacing a couple of 72s with a 76s are some other opportunities like that. So when we’re going from a replacement target perspective, we go a little bit broader than just the direct aircraft.
+
+Michael Chapman – Private Capital Management
+Okay. And then maybe just an update on last quarter you guys had mentioned that you had a customer who wasn’t paying, is that the customer who is now returning aircraft or is that customer become current?
+Joe Hete
+That’s the same customer again. They’re bringing their numbers up current.
+Michael Chapman – Private Capital Management
+Okay. They have bought their numbers to current.
+Joe Hete
+Not totally, but they’re getting there.
+Michael Chapman – Private Capital Management
+Okay. And then maybe could you get into a little bit more regionally where there has been weakness and we’ve been hearing that there is definitely over capacity on the long-haul out of Europe, I mean sort of out of the Asia to Europe and the U.S, but it sounds like Inter-Asia wasn’t quite as bad as the long-haul and it didn’t sound like with the South America to North America wasn’t bad. So maybe you kind of localize where you guys are seeing the most pressure with deference?
+Joe Hete
+Our pipeline is strongest in the Far East, although, there is softening of rates in lanes. And so what happens when the – when there is – when the amount of freight drops then there is more competition for the freight and the freight rates drop. And that’s where some of the deference come in whereas customers are looking to put up a lane and looking at the competitiveness of the lane and the rates that they can get support the aircraft. There was rates drop, if they take a step back and say we’re going to take and look at this next quarter perhaps, but they’re going to business plan to put the aircraft up at the softness of the demand for and the movement of freight is causing the rates to impact that lane.
+So there has been some of that nature. We’ve got some really good opportunities there to put up multiple aircraft opportunities in markets, where our manufacturing is moving to. So it’s, the logistics lift is moving towards where the manufacturing is going. So, we’re trying to stay ahead of that curve. We’ve seen some growth actually in the South American area, the two aircraft that we placed in October, one was on the West Coast, one was on the East Coast both serving Mexico and South America and with customers that we’re looking to expand their markets and also increased lifts in the markets that they were currently going into.
+The EU has been very soft, from a perspective, last year for example at this time, we have placed three aircraft there for peak this year. Although, we’re talking with the same customers, it doesn’t seem to be as much of a peak demand.
+The peak demand in the U.S looks to be similar to what it was last year from what we’re placing from the fourth quarter perspective. In the Middle East, we’ve had some decent growth this year, we placed three additional aircraft. There is obviously some strong growth going in and out of the Middle East. But there is also the uncertainty of what the military wind down may break. So, we’re watching that closely as well.
+Michael Chapman – Private Capital Management
+Okay. And then maybe if you could just comment on maybe any dedicated opportunities you guys fly for DHL here, TNT in Europe. Are there any other large carriers given what’s going on in the market where they may be facing some low utilization rate, so they may trim the fleet and go to a flux provider like you guys for a dedicated business or other opportunities for that out there or those not really available?
+Joe Hete
+We don’t see that much available these days, the other two large U.S integrators obviously, there is restrictions for us to fly for them with their crew agreements. And then in other parts of the world, they tend to use localized carriers, because of the operating authorities and rights they can get in more – what they perceive as a more stable operational over a longer period of time. We do talk to them though, and we provide service for few of them during peak. But, we don’t really see that much going forward.
+
+Michael Chapman – Private Capital Management
+Okay. And then Joe, you had kind of mentioned this, just want to clarify those, you guys probably wouldn’t be buying any airfreights until you’ve got pretty close to fully deployed on the aircraft that you presently have, is that the right kind of think about it until you start seeing real demand, there is not going to be a lot of the airfreight purchasing?
+Joe Hete
+That’s correct.
+Michael Chapman – Private Capital Management
+Okay. And then just on the DHL loan, have you approached DHL to modify that loan agreement to list that penalty?
+Joe Hete
+We don’t really like to talk about the discussions that we had with our key customers like that, so suffice to say it’s on our radar screen.
+Michael Chapman – Private Capital Management
+Okay. When you re-negotiated credit lines with banks and extend or do a stuff like that, you generally have the negotiations with a small fee that’s paid and just kind of from a shareholders standpoint DHL not going to get any money from you guys because it’s a forgivable loan over time that they would be happy to take a small fee upfront to modify that because that’s the money that they wouldn’t get and then that would at least give you the flexibility and you probably wouldn’t have to face the questions for almost every quarter on, hey could your buyback stock with a share trading at 3.3, 3.4 times in a price value to EBITDA?
+Joe Hete
+I mean we understand your way of saying like I mean I think it’s certainly that the loan is zero by the end of March 2015. So from a cash standpoint it’s really not going to produce anything with the way we had negotiated it to amortize with DHL, so it’s – the cash value to them is pretty negligible.
+Michael Chapman – Private Capital Management
+Right. That’s helpful. If you went to them they’ll say we’ll pay you 1% fee upfront could we negotiate because this doesn’t really affect their economics at all and I think when you guys negotiated that agreement there was some feel on DHL’s standpoint that you – if you paid money out you may not be able to operate it and based on your balance sheet and your cash flow now that seems to be not an issue.
+Joe Hete
+We appreciate your comments.
+Michael Chapman – Private Capital Management
+Okay. And I guess that’s all I got then. Thank you.
+Joe Hete
+Thanks, Michael.
+Operator
+Thank you. We have no further questions at this time. I will now turn the call back over to Joe Hete, CEO and President.
+Joe Hete
+Thank you, Christine. As we have discussed on this call, we’re facing some decisions about how best to allocate capital both through the remainder of this year and into 2013. The net effect of those decisions and the timing for carrying them out could result in significantly more capital spending this year, specifically our combi program for more next year. As we generate more cash in a stronger economy, we could be looking at more free cash deployed in 2013.
+But, I do want to make clear however, is that this moment we intend to acquire only those aircraft assets for which we have a contracted customer and until this current market uncertainty is resolved. Under those circumstances, we may have the opportunity to look at a range of options for enhancing shareholder value. Thanks for listening. We look forward to seeing you on the road over the next few months and in March on our next call.
+Operator
+Thank you ladies and gentlemen this concludes today’s conference. Thank you for participating. You may now disconnect.

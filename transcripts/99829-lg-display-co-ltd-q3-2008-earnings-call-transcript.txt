@@ -1,0 +1,157 @@
+LG Display Co., Ltd. (NYSE:LPL) Q3 2008 Earnings Call October 14, 2008  8:00 AM ET
+Executives
+C. Thomas Hyun- Vice President of Investor Relations
+Kevin Choi - Vice President of TV Marketing
+Davis Lee - Vice President of IT Marketing
+[C.S. Chun] - Vice President of Mobile Marketing
+[Yin Strong] – Senior Manager of the Market Intelligence Department
+[Ciecha Lee] - Senior Manager of IRP
+Analysts
+[Andy Abrians - Avion Securities]
+Daniel Kim - Merrill Lynch
+Jae H. Lee - Dalwa Securities
+Jonathan Rhee - Citigroup
+[Olga Lesinzon] - Barclays
+[Frank Lee - La Capital]
+[Chung Tan - Nevsky Capital]
+Matt Evans - CLSA
+C. Thomas Hyun
+Welcome to LG Display’s third quarter 2008 conference call.  My name is Thomas Jung and I am the Vice President of the Investor Relations.  On behalf of LG Display I’d like to welcome everyone to our global quality earnings conference call.  I’m joined by Kevin Choi, Vice President of the TV Marketing Department, Davis Lee, Vice President of the IT Marketing Department, [C.S. Chun], Vice President of the Mobile Marketing Department, [Yin Strong], Senior Manager of the Market Intelligence Department, and [Ciecha Lee], Senior Manager of IRP.
+We have approximately one hour for this call and we’ll spend the first part of the call discussing the key issues for the quarter which will correspond to the slides available on our website.  Afterwards we’ll take your questions.
+Before we move into our discussion of the earnings results, please take a minute to read the disclaimer.
+We are reporting and consolidated Korean GAAP appendix to this presentation that includes our reconciled Korean GAAP and US GAAP numbers.
+Over the next hour, I will review our earnings results from the third quarter of 2008, discuss our performance and conclude with the outlook for the fourth quarter of 2008.  Afterwards we would be glad to take your questions.
+Please turn to the next slide.  Before we get into the details of our last quarter’s financial performance, I would like to offer some observations of both our business and the industry.  During the third quarter LCD panel makers faced a challenging industry environment which greatly affected our performance.  This sluggish global economy conditions resulted in slow demand of LCD panels and we expect the total demand for the year is likely to be reduced compared to our original expectations.
+In the TV segment there was continued downward panel sized shift from large to small and medium in the US.  In the IT segment there was continued inventory adjustment by IT set makers.  Regarding the inventory situations of the TV and IT set makers at the end of the third quarter, we believe their inventory levels have become close to normal.  In order to proactively overcome the challenging market environment, we decided to cut production from the last week of July and average the production cuts in Q3 was approximately 10%.  These efforts resulted in our inventory to reach a normal level in the last quarter.  We’ll continually be flexible about production cuts going forward.
+Our investment in Gen. 8 and Gen. 6 extension plans will be carried out as planned.  However the ramp up schedule and speed can be flexibly adjusted depending on the market conditions.
+Due to the challenging market environment our EBITDA margin recorded 23%, however we managed to achieve cost reductions of 7% decrease quarter-on-quarter through our own great cost reduction efforts.  Our cost reduction initiatives include effectively reducing procurement costs through win-win collaboration with our suppliers as well as developing and launching new cost innovative models.
+During the third quarter some of our operations were positively affected by Korean Won depreciation against the US dollars.
+We made the positive strategic move in the third quarter through forming a joint venture with AmTRAN which will produce LCD modules and TVs as part of our business transformation efforts.  This collaboration will help us to expand our customer base by securing a stable long-term source of demand for our panels and to lower costs by producing LCD modules and LCD TVs in the same plant.
+
+Although we will be facing challenges going forward, we are confident that we have the right strategies in place to quickly and efficiently respond to the constantly-changing market dynamics and to create additional value for our customers, shareholders and other stakeholders of the company.
+Now to the financial details.  Next slide please.  Revenues in the third quarter were 30.9 trillion KRW, down 8% from the second quarter of 2008 and down 2% compared to the same period last year.  It was the result of a slower-than-expected demand growth affected by the sluggish economy environment.  COGS per square meter in US dollars decreased by 7% quarter-on-quarter in line with our guidance.  Operating income in the third quarter was 254 billion KRW.  EBITDA margin recorded 23%.
+Next slide please.  As of September 30, 2008 we reported approximately 3.8 trillion KRW cash.  During the third quarter our finished goods inventory turnover level for large panels was reduced around two weeks from slightly under three weeks in the second quarter.  TV inventory level was decreased to three weeks from slightly over four weeks in the second quarter while IT inventory level was decreased to under two weeks from about two weeks in the second quarter.
+Our liabilities-to-equity ratio as 80% while our current ratio was 186%.  On the bottom left, our debt was approximately 4.2 trillion KRW which was 97 billion KRW decreased from the end of the second quarter.  So our net debt-to-equity ratio was 4% slightly down from the end of the second quarter.
+Next slide please.  Cash at the beginning of the third quarter was approximately 3.8 trillion KRW.  Cash flow from operations was 1.1 trillion KRW.  Cash flow from investing activities during the third quarter was -920 billion KRW.  Cash at the end of the quarter was approximately 3.8 trillion KRW which was almost the same level as the beginning of the quarter.
+Next slide.  Now I’d like to explain in more detail about several specific performance metrics.
+Next slide.  During the third quarter shipment of the total display area increased by 12% and reached the 3.7 million square meters which is slightly lower than our expectations.  Shipments didn’t increase as much as we had originally anticipated in the third quarter due to the sluggish global economy environment which resulted in slow demand growth of the LCD panels.  In the IT segment set makers continued their even draw quarter.  Also, ASP decline was steeper than our original expectations.  On average ASP per square meter of net display area decreased by 22% to $992 US dollars.  For the TV segment average ASP per square meter in the third quarter fell 16% and for IT fell 27%.
+Next slide please.  Due to the larger-than-expected ASP decline of IT panels, the revenue mix changed quite a bit.  During the third quarter the TV segment represented 51% of revenues which was followed by both monitors and notebooks representing 22% each.  Other applications accounted for 5% of our revenues.
+Next slide please.  During the third quarter the total production capacity of LG Display increased by 8%.  However as previously announced, we did not fully utilize our capacity in the third quarter through production cuts by about 10%.
+Next slide please.  Now we turn to our outlook discussion.
+Next slide.  I would like to present you our outlook for the fourth quarter of 2008.  We expect our total shipments to increase by the low-to-mid-teens percentage.  Average ASP per square meter is expected to decrease by a high single-digit percentage.
+In the TV segment we anticipate shipments to increase by a high teens percentage with an average ASP decrease of a high single-digit percentage.  In case of the IT segment we expect the shipments to increase by a low-teens percentage with an average ASP decrease of a high single-digit percentage.  We’ll continue to drive our cost reduction strategies and expect our COGS reduction per square meter to be a high single-digit percentage in the fourth quarter.
+
+We expect our EBITDA margin for the fourth quarter will be a low 20s percentage.  Regarding CapEx we had communicated in the last quarter that this year’s CapEx will be around 4.5 trillion KRW but it is expected to be reduced to around 4.1 trillion KRW.  That’s because around 400 billion KRW worth of equipment is expected to be delivered to our fab early next year instead of by the end of this year.
+This ends our presentation for the third quarter of 2008.  We are glad to answer your questions now.
+Question-and-Answer Session
+Operator
+(Operator Instructions)  Our first question comes from [Andy Abrians - Avion Securities].
+[Andy Abrians - Avion Securities]
+I wonder if you could characterize your customer base during the third quarter.  Have you expanded that base?  Has the character of that base changed so you’re now working with a broader group of customers or maybe you could just give us some color on how that worked for you during the third quarter?
+Kevin Choi
+I’ll explain about TV first.  In the TV area our customer base, we are not selling our panels to Sony and Samsung and Sharp but except those customers the rest of most of the TV companies are our customers.  Out of those customers our side as electronics and their market shares have been growing steadily since last year, so our volume shift to electronics ultimately grows together.  But that was some plus to our side.
+Also Visio case in the US market, second quarter the business was slower than the first quarter but third quarter their business has been improved.  So our shipments have been increased also.  All of the Japanese customers business is also improved compared to the second quarter.  Some European customers businesses, our position has been growing compared to second quarter.  So most of the customers are improving.
+In China markets, China local companies there is a big SIM company in China and second quarter their business was impacted by China’s situation like the earthquake.  Although the economy situation was poor, global brand in China markets gained market share.  But third quarter after the Olympic Games, China’s local companies’ market share has been increased about 10%.  As you know we are shipping a big portion to these companies so ultimately our volume shipment has been increased also.  That was the TV side information.
+Davis Lee
+To follow the TV side, I will continue with the IT side.  Regarding the IT side, actually there has been no significant change about the customer base but we successfully increased our SIM portion compared to the competitors.  The reason behind that is we have product strength if you will aligned with our major customers and also the cost advantage comparativeness that we have over our competitors and the quality of the products and the very intimate customer relationships that we have been maintaining up to this moment, that all contributed to expand our SIM portion compared to our competitors.
+Also there is some increase in the customer base but the major portion I would like to say is mainly coming out of our increased SIM portion.
+[Andy Abrians - Avion Securities]
+If you could talk about the smaller size you mentioned I guess particularly in the US, what’s been your view on average panel side from your perspective in the TV space?  Can you give us some idea of how much it’s changed from maybe the beginning of the year and then maybe from last quarter?
+Kevin Choi
+When you look at the market, the US market first quarter, second quarter and third quarter trend was a little bit different than other regions because the US market normally in the first quarter includes the Super Bowl so normally in the first quarter the US market the big screen TV sales are pretty good compared to other regions.  That is why normally the first quarter and second quarter if you compare, normally in the second quarter size wise a little bit decrease may happen.  Because first quarter is Super Bowl season and people buy big screen TVs.
+
+Europe and other countries normally in the first quarter, second quarter should go a little bit deeper but the US market specifically the second quarter may be slightly smaller than first quarter.  That’s normal.  
+But on top of that, because of the economy situation people buy a little bit lower priced models and a little bit smaller size TVs so that impacts slightly the total average size of the decline a little bit.  It’s not a huge impact even though the trend is a downward trend but it’s not a huge big change.  So we still think that when the fourth quarter comes, bit screen TV promotions will be very pushed by the TV maker.  I think that fourth quarter 42” and 46” and 47”, those kinds of sizes promotions will hit the market.  That downward trend even though it’s happening, still it’s not a big change.  It’s a slight change.  That’s how I’m focusing.
+Operator
+Our next question comes from Daniel Kim - Merrill Lynch.
+Daniel Kim - Merrill Lynch
+A quick question with regard to your inventory level for the third quarter and what you expect in the fourth quarter.  It seems like a slight inflation or spike up in the KRW to the dollar rate made the inventory look worse in the third quarter yet the KRW to the dollar  didn’t move that much in the third quarter versus what we’re seeing right now.  What do you see the impact of your US dollar denominated inventory in fourth quarter if the Won ends at 1,200 to the dollar?
+Thomas Jung
+You’re right.  Because of the US dollar our situation is the US dollar appreciation is quite appreciated.  So the value in terms of the amount you see in inventory looks high.  That is an fx impact.  In terms of when you look at the DIO, days of inventory, it’s pretty normal.  Through all the production cuts we went through, the inventory has been down to a normal level.
+Operator
+Our next question comes from Jae H. Lee - Dalwa Securities.
+Jae H. Lee - Dalwa Securities
+I have revised on the CapEx numbers which is based on the delivery base.  I’d like to know what will be the amount in terms of cash-out base for 2008 and also if you have guidance for that for 2009?
+[Ciecha Lee]
+Regarding the catch-up basis we don’t have any data in front of us at the moment.  Regarding the CapEx next year directionally we think it will be around 1.5 trillion KRW to 3 trillion KRW which is over adjusted from 1 trillion KRW to 1.5 trillion KRW reflecting the technical adjustment because the [inaudible] which are scheduled to deliver at the end of the year will be carried over next year around the 400 billion KRW.  If we’ll accept that, then our original guidance 1 trillion to 1.5 trillion it is just naturally moved to 1.5 trillion KRW to 3 trillion KRW.
+[Andy Abrians - Avion Securities]
+How about for the depreciation amount from 2Q to third quarter?  The amount has decreased over 10% and I was wondering what to expect for the fourth quarter?
+[Ciecha Lee]
+The one thing is that our depreciation for P6 has been fully depreciated so the amount is about 40 billion KRW impact.  So Q4 is about 40 billion KRW less than Q3.
+[Andy Abrians - Avion Securities]
+Around 580 or so.
+Operator
+Our next question comes from Jonathan Rhee - Citigroup.
+Jonathan Rhee - Citigroup
+I noticed your tax in the third quarter decreased quite substantially.  Can you tell us where this is coming from?  And also on the non-operating side, do you have the details of the biggest contributor to the gains?  I’m assuming it’s coming from fx related stuff.
+[Ciecha Lee]
+We mentioned about the tax payables.  Let me explain.  As you know, we started to fab in our Gen. 8 facilities from Q3 which incurs some tight credit for the investments which affected several ways to our tax payable in Q3.  We expect that trend will continue in several months so regarding some gain in our profit will be the cash.  As you know we have around [43 trillion] KRW in cash at the beginning of the quarter which will incur some cash interest profit.  That is the main contributors in our non-operating profit.
+
+Operator
+Our next question comes from [Olga Lesinzon] - Barclays.
+[Olga Lesinzon] - Barclays
+When you talk about your guidance for 4Q in terms of reducing your COGS by high single digits, can you talk about which factors are driving that and which components you see the biggest cost reductions?
+[Ciecha Lee]
+Actually from last year we are very focused on the win-win collaborations with our component suppliers so we make efforts to make some profit from them.  But from the field we have some benefits from that so we cooperate with each other with our component suppliers.  In Q4 we will see the most part of our cost reduction from the component side.
+[Olga Lesinzon] - Barclays
+The 400 billion CapEx push-out to 2009, is that related to the Gen. 6 fab, the Gen. 8 fab or a combination of the two?
+[Ciecha Lee]
+Actually it is a combination of both the Gen. 8 and Gen. 6.
+[Olga Lesinzon] - Barclays
+By mid-2009 what is the capacity of each fab that you expect?
+[Ciecha Lee]
+Actually just a technical timing adjustment so it will not affect any CapEx.  Our CapEx is as scheduled.
+[Olga Lesinzon] - Barclays
+No adjustments to your capacity ramp schedule?
+[Ciecha Lee]
+Right.
+[Olga Lesinzon] - Barclays
+Can you provide us with some guidance on what your utilization levels were in 3Q and where you expect them to be in 4Q?
+[Ciecha Lee]
+Q3 we started our production cuts from the last week of July and we continued that throughout the rest of the Q3 and average was about 10%.  In October we are doing our production cut is about 5% level.  For the rest of the quarter, November and December, we haven’t decided yet how much percentage we are going to do.  We’ll just look at the market very carefully and we’ll just react and respond to those market situations.  We will just flexibly adjust our production cuts if necessary.
+Operator
+Our next question comes from [Frank Lee - La Capital].
+Frank Lee - La Capital
+Number one, given your fourth quarter guidance of unit growth are you still looking for sequential growth?  Are you expecting to gain more market share relative to your competitors in the fourth quarter or do you expect that overall market demand is recovering or seeing some seasonal strength in terms of the better unit growth guidance for Q4?
+Kevin Choi
+For the TV side we think that our growth ratio in the fourth quarter is higher than the market growth ratio.  That means that we expect our market share will increase in that portion.  Yes, you can say we expect our market share will grow in the fourth quarter.
+Davis Lee
+For the IT side, yes even though the monitor market is quite flat or a small increase, we expect a quarter-over-quarter increase of about 10% because the last quarter the industry has reduced the inventory levels so significantly.  Also if you think about the seasonality even though annual growth is very small, but quarter-over-quarter we still expect about 10% growth.
+The notebook side even though the market outlook for the macro-economic situation is not so good still we are foreseeing about 20%+ market growth.  In that kind of growth you can see that it is a little bit higher than our competitors’ growth.  You can interpret it as the overall competitiveness contributed that kind of guidance but we clearly can tell you that we are not just raising on market share gain whatsoever.
+Frank Lee - La Capital
+I think there was a point brought up about depreciation for your Gen. 6 line; Gen. 6 fab is fully depreciated and you would save about 40 billion in costs.  Is that right in Q4?  How much of that is part of your expectation in terms of the cost savings that you’re guiding for the fourth quarter?  Is this dependent on the depreciation savings you’re seeing?
+C. Thomas Hyun
+Yes.  Depreciation reduction out of Gen. 6 slightly contributed to our cost reduction but as to your question, there are many different areas of all the initiatives that contributed to cost reduction efforts, not just singly depreciation.  For instance, there is a still Max Capa part of minimal initiatives going on.  We are getting a lot of our process improvement and there are a lot of production efficiencies we are getting.  There are huge improvements.  All those add to the raw material cost reductions that we are getting out of all the win-win collaborations with our suppliers.  It is a rather holistic approach to cost reduction efforts where depreciation again is a small part of it.
+
+Frank Lee - La Capital
+Given the cost savings you’re seeing and especially from the depreciation side related to your market share growth, do you see perhaps a more aggressive pricing strategy from LG going into Q4 to see the strong unit growth that you’re seeing for Q4?
+Kevin Choi
+It’s not just a pricing strategy.  We’ve been working with the customers since earlier this year because in the TV market it takes a long time to align the product because at least it takes a minimum of more than six months to align the product line with a customer.  Since January and February we start aligning our product with our customer and that aligned very well in all the third quarter, so ultimately our volume is growing right now based on that kind of product alignment.
+As I explained, we have very good technology in the IPS area so [120 hertz] or that kind of product line we have very strong picture quality and product quality.  In all those levels, it’s very good.  In that kind of area our market share is very high.  Ultimately that helped our volume growth.  It’s not just a price competition.  It’s a kind of product related strategy together with the right price range.  We expect that our fourth quarter TV shipment volume will be higher based on that kind of situation.
+Also one of the better things as I explained to you is the China market has been improved and that also helps our volume growth.  And our major customers’ market share is steadilizing the market so we are also slightly increasing our share in that strategy customer also.  Those two factors help our market share growth.
+Davis Lee
+Let me add some other point in the IT side.  At this moment on the IT side there are a lot of changes in the product side; for example, 15x9 transitions and a lot of new products.  So it’s really a difficult time for our customer too.  They have a lot of increased SKUs to [vanish].  Our customers are also trying to reduce the supplier base taking advantage of an oversupply situation.  That also contributes some of the consolidation effort in the supply basis.
+Even without that kind of trend, we have clearly set out our strategy and we are simply not raising the market share winning gain alone.  Based on our competitiveness we’ve been demonstrative.  Also on the customer side, there are needs for consolidating their supplier base.  It all contributes to our gaining market share.  That’s the way I understand it.
+Operator
+Our next question comes from [Chung Tan - Nevsky Capital].
+[Chung Tan - Nevsky Capital]
+Regarding your depreciation, you were saying that Q4 depreciation’s going to drop off.  Could you give us some guidance on your 2009 depreciation and when do you expect depreciation to sort of jump up again once [HE] starts ramping up?
+C. Thomas Hyun
+Our 2009 depreciation would be approximately the same as this year 2008, which is about 2.7 trillion KRW and 2.8 trillion KRW or in between 2.5 trillion KRW and 3 trillion KRW.
+[Chung Tan - Nevsky Capital]
+Regarding your Max Capa initiative, as I understand that basically that initiative has been to stretch your existing capacity to maximize production from them.  I’m just wondering how much more you can get out of that.  Will that be sort of fully realized by the end of this year or will that initiative carry on into 2009?
+C. Thomas Hyun
+We are obviously in the first phase of Max Capa.  There are a lot of initiatives we started.  The second phase and third phase goes on.  We are working on different areas; more the engineering side of Max Capa initiatives is going on.  Where we are also studying new fabs and there will be new models, new sizes coming in; there will be more opportunities with different angles of how we maximize our Max Capa initiatives.  As far as we know, the Max Capa initiatives will go on for a while.
+
+[Chung Tan - Nevsky Capital]
+Regarding your capacity ramp up, given your guidance of 1.5 trillion KRW to 2 trillion KRW CapEx next year, does that imply that you can fully ramp up your [HE] and your [6G] fabs by the end of next year?
+C. Thomas Hyun
+Our original ramp up schedule will be fully ramped up by the end of next year; you’re right.  It doesn’t affect our CapEx.  Our CapEx will be exercised as is as originally planned.  However as I mentioned earlier, our ramp up schedule and the speed will be flexibly adjusted depending on the market situation.
+Operator
+Our next question comes from Matt Evans - CLSA.
+Matt Evans - CLSA
+You mentioned that the depreciation for one of the fabs has been completed but I wasn’t clear on whether that was this quarter or next quarter.  Did that result in 40 billion dropping out in the third quarter or is that to come in 4Q?
+Operator
+There are no further calls.
+C. Thomas Hyun
+It was fully depreciated at the last quarter.  Given that there are no questions, I’d like to try to end the conference call.  On behalf of LG Display we thank you for your participation in our third quarter earnings conference call.  If you have any further questions, please contact either myself or my colleagues.  Thank you.

@@ -1,0 +1,278 @@
+Echo Therapeutics, Inc. (OTC:ECTE) Q3 2012 Earnings Call November  8, 2012  9:00 AM ET
+Executives
+Christine H. Olimpio – Director, Investor Relations and Corporate Communications
+Patrick T. Mooney – CEO, President and Chairman of the Board
+Christopher P. Schnittker – CPA SVP and Chief Financial Officer
+David Walton – Vice President, Marketing & Commercial Development
+Analysts
+Amy Yacko – Jefferies & Company
+Keay Nakae – Ascendiant Capital Markets
+Stephen Dunn – LifeTech Capital
+Ben Haynor – Feltl and Company
+Operator
+ 
+Good morning and welcome to the Echo Therapeutics, Inc. third quarter 2012 financial results conference call. All participants will be in listen-only mode. (Operator instructions) 
+Please note this event is being recorded. I would now like to turn the conference over to Christine Olimpio. Ms. Olimpio, please go ahead.
+Christine H. Olimpio
+Good morning. This is Christine Olimpio, Director of Corporate Communications and Investor Relations of Echo Therapeutics. Thank you for joining Echo Therapeutics today for our third quarter 2012 earnings call. Joining me on the call today are Patrick Mooney, our Chairman and CEO; Christopher Schnittker, our CFO; and David Walton, VP of Marketing & Commercial Development.
+A replay of this call will be available in the events section of our website for the next two weeks. Before we get started I like to remind everybody that our discussion today may include forward-looking statements as defined under the securities laws. The statements in this call that are not historical facts may constitute forward-looking statements that are based on current expectations, and are subject to risks and uncertainties that could cause actual future results to differ materially from those expressed or implied from such statements.
+Those risks and uncertainties include, but are not limited to, risks related to regulatory approvals and the success of Echo\'s ongoing studies, including the safety and efficacy of Echo\'s Symphony tCGM System, the failure of future development and preliminary marketing efforts related to Echo\'s Symphony tCGM and Prelude SkinPrep Systems, Echo\'s ability to secure additional commercial partnering arrangements, risks and uncertainties related to Echo\'s and its partners\' ability to develop, market and sell diagnostic and transdermal drug delivery products based on its skin permeation platform technologies, including the Symphony tCGM and Prelude SkinPrep Systems, the availability of substantial additional equity or debt capital to support its research, development and product commercialization activities, and the success of its research, development, regulatory approval, marketing and distribution plans and strategies, including those plans and strategies related to its Symphony tCGM and Prelude SkinPrep Systems.
+These and other risks and uncertainties are identified and described in more detail in Echo\'s filings with the Securities and Exchange Commission, including, without limitation, its Annual Report on Form 10-K for the year ended December 31, 2011, its Quarterly Reports on Form 10-Q, and its Current Reports on Form 8-K. Echo undertakes no obligation to publicly update or revise any forward-looking statements.
+I would now like to turn the call over to our chairman and CEO, Patrick Mooney.
+Patrick T. Mooney
+
+Thanks Christine. Good morning everyone, and thank you for taking the time to join us today. We are in the midst of very exciting times here at Echo. Our team here at Echo has continued to execute our strategy to complete the development of Symphony and gain regulatory clearance for non-invasive, continuous glucose monitoring for use in hospital patients and subsequently in patients with diabetes.
+In today’s call, in addition to a brief review of our third quarter financials, we would like to update you on our progress in product development, including the implementation of our clinical and regulatory plan. We would then provide you with an opportunity to answer your questions.
+
+Turning now to R&D, we continue to move forward assiduously with our Symphony System. So far we have completed 10 pilot studies that have evaluated the feasibility of a Symphony system in a broad spectrum of patients, including healthy subjects, patients with diabetes and critically ill patients. 131 patients have been monitored, generating over 9000 data points.
+We have also tested Symphony over 1000 times in internal studies and have achieved similar results. We believe these studies and this corpus of data show that Symphony’s performance is consistent and effective at monitoring glucose. Importantly, we have also tested Prelude skin permeation studies and CGM studies over 2000 times, and have confidence that it safely and precisely permeates the skin.
+With the oral presentation of data from our fall 2011 trial in patients with diabetes at the American Diabetes Association Scientific Sessions in June, and the completion of our critical care studies at the Tufts Medical Center and Thomas Jefferson University Hospital earlier this year, we have received growing, consistent and positive feedback from clinicians about our data and the potential of the Symphony system.
+We anticipate that data from those studies will be presented in upcoming critical care conferences, and will be submitted to peer-reviewed medical journals. On the regulatory front, we are working with our notified body in order to finalize the CE Marking requirements for commercialization of Symphony in Europe. Importantly, we believe that we are on track to obtain ISO 1345 certification, and to submit our CE Mark technical filing next year. 
+With an anticipated CE Mark, we are preparing for European launch in target markets in the second half of next year. As we near commercialization, we expect to hire additional management team members with proven expertise in the launch of glucose management products. Additionally for the United States, we are also developing and refining our clinical strategy for FDA pivotal trials, and the PMA filing for Symphony.
+We plan to begin that pivotal trial next year immediately following the submission of the CE Mark technical file. With this brief overview, I would now like to turn the call over to Chris Schnittker, our CFO, who will give a brief review of our financials. Chris.
+Christopher P. Schnittker
+Thanks Pat. Good morning everyone. Turning to the income statement first, operating expenses were $3.6 million during the third quarter of 2012, compared to $2.2 million during the third quarter of 2011. Operating expenses were $10.4 million during the first nine months of 2012 compared to $6 million during the same period in 2011.
+This increase in operating expenses included an increase in research and development expenses by approximately $1.4 million to approximately $2.1 million for the three months ended September 30, 2012, from approximately $700,000 for the three months ended September 30, 2011.
+Research and development expenses increased by approximately $3.2 million to approximately $5.7 million for the nine months ended September 30, 2012, from approximately $2.6 million for the nine months ended September 30, 2011. R&D expenses consisted of primarily development, clinical and manufacturing preparation costs during the periods.
+Selling, general, and administrative expenses decreased by approximately $19,000 to approximately $1.5 million for both the three months ended September 30, 2012, and 2011. Selling, general, and administrative expenses increased by approximately $1.3 million to approximately $4.7 million for the nine months ended September 30, 2012 from approximately $3.4 million for the nine months ended September 30, 2011.
+We have experienced increase in personnel costs, legal costs and expenses related to the addition of our corporate office here in Philadelphia. As a result of the factors above, we had a net loss of approximately $4.3 million for the three months ended September 30, 2012, compared to approximately $1.5 million for the three months ended September 30, 2011. We had a net loss of approximately $10.4 million for the nine months ended September 30, 2012 compared to approximately $10.1 million for the nine months ended September 30, 2011.
+
+Let me finish my session of this morning’s call by providing an update on the company’s financial condition. Our cash balance as of September 30, 2012 was approximately $1.4 million. In August, the balance sheet was augmented by a $20 million credit facility open with Platinum-Montaur. To date Echo has received $3 million in cash proceeds from that facility.
+Now I would like to turn the call over to Dave Walton, our head of marketing and commercial development to discuss our marketing strategy.
+David Walton
+Thank you Chris and good morning to everyone on the call. First, I want to say how excited I am about the opportunity for Echo to take our CGM technology and help improve the way glucose is monitored in the hospital setting. From my years of personal experience with using CGM systems, and my professional experience in developing and marketing CGM devices, there is clearly an opportunity for us to help address significant unmet needs.
+As Pat mentioned, we continued to advance our commercial planning of the Symphony tCGM System, with an expected European commercialization in 2013. Over the last several months, the go to market efforts have included target market identification and sequencing, European headquarters identification, selling and distribution structure development, and key opening leader development.
+We have developed the European business plan and will continue to update and refine this plan as we gather more market data and competitive intelligence, and additional feedback from potential users of the Symphony system. We have met with dozens of key opinion leaders in Europe and the US, and numerous other potential users, such as critical care nurses and will continue those efforts moving forward.
+As Pat also mentioned, another key component to the marketing plan is the development of a global medical meeting and communications plan that prioritizes conferences and symposia for Echo to conduct presentations, poster sessions and exhibitions that will ensure that the full range of Symphony’s benefits are well known in the hospital and key opinion leader communities.
+We continue to build relationships with dozens of European and US opinion leaders in both hospital critical care and diabetes to maximize both market development, and revenue potential of our novel CGM technology. As we look forward, there are a number of additional commercial planning activities that will intensify as we work to clearly communicate the benefits of the Symphony tCGM System.
+We believe there is a very compelling value proposition based on the current state of glycemic control in the hospital setting, and the unique combination of safety, accuracy, ease of use and cost effectiveness that we believe Symphony will provide. Given my prior experience in successfully launching a continuous glucose monitoring device in Europe first, I’m confident we are making significant and relevant progress as we march towards European commercialization next year.
+So with that brief update, I would like to turn the call back over to Pat.
+Patrick T. Mooney
+Thanks Dave. That concludes our prepared remarks to everybody. These are indeed exciting times at Echo. We look forward to 2012, and your participation in the story going forward -- 2013, excuse me, and your participation in that story with us.
+We now like to open up the call to questions. Operator, we are now ready to take any questions.
+Question-and-Answer Session
+Operator
+(Operator instructions) And the first question comes from Amy Yacko with Jefferies.
+Amy Yacko - Jefferies & Company
+
+Hi, guys. Thank you so much for taking our questions. I was wondering if you could talk a little bit more as you all do your market analysis in Europe, have you decided whether or not you will be looking to go with the direct distribution model or do you think distributors, any thoughts around that?
+
+Patrick T. Mooney
+Dave.
+David Walton 
+
+Sure. I can add some commentary there. As we evaluated that situation, we definitely have realized that there are significant market development activities that need to be undertaken that we want to have a hand in playing. So there will be an aspect of a direct component in our sales force that we will absolutely establish.
+As we evaluate distributors, their strengths are typically not in the market development side of things, but much more in their commercial footprint and the feet on the street, and being able to have that large promotional voice. We are still evaluating certain alternatives for augmenting that commercial presence, recognizing there will be a few different players competing in this space, most likely in 2013. But there will certainly will be a direct component to our structure.
+Amy Yacko - Jefferies & Company 
+And when do you think you’ll start hiring?
+David Walton 
+We will start hiring in 2013. I don’t have the specific breakdown of the month or quarter that where that lays out. We are certainly going through our staffing and budgeting prioritization. And trying to be very focused and prioritized on the most important needs. But…
+Patrick T. Mooney
+David, Amy let me take a little bit of that. I mean David is already working with some key consultants over there that I think have sort of dived in to Echo pool. They are probably likely going to be employees. There is no need to bring on that headcount right now, I think as an FTE. We are still refining where our HQ is going to be, and where we’re going to have a couple of small branch offices for selling and marketing purposes.
+So, David is working through that right now, but you know, we have a plan. We would like to put a little bit more of a finer point on it. We would like to keep these guys as consultants until the last possible minute, and then bring them on as FTEs. But you know, look if you assume that we are going to be commercializing in the second half of next year, selling products second half of next year, we’re going to need to be hiring people before the second half of next year.
+Amy Yacko - Jefferies & Company
+Okay, great. 
+Patrick T. Mooney
+That is the level of guidance I will be prepared to give right now, but you can do the math.
+Amy Yacko - Jefferies & Company 
+Okay, great. And then just to drill down a little bit further on progress for the CE Mark trial for Europe, I think you said underway, so how much longer do we have to go, are you still enrolling additional sites, and when do you see that kind of wrapping up and preparing for submission.
+Patrick T. Mooney
+So, it is actually not yet -- let me just correct you, it is not yet underway Amy. I keep telling Mary. Amy, but we’re actually in discussions with the notified body now to actually finalize what those CE Marking requirements are going to be for that study. So I don’t want to give too much guidance but it is actually fluid and potential in a positive way for Echo. The study may not be as big as the guidance that we have given in the past. We had initially speculated that it could be up to 50 patients. It may be less than that.
+Amy Yacko - Jefferies & Company 
+Okay, great. 
+Patrick T. Mooney
+But we are in those discussions right now. We anticipate starting that reasonably soon.
+Amy Yacko - Jefferies & Company 
+Okay, great. Thank you so much.
+Patrick T. Mooney
+Just to give a little bit more clarity, we have identified four sites, two of which we have run studies in the past. That would be Jefferson and Thomson. We have identified two additional sites that are actually going to be doing very small, what we call familiarization studies this fall, which will allow these docs and nurses to get used to using the Symphony system before we use it in a clinical trial with them. These studies won’t necessarily count towards the CE Mark tech file, but they are really just quick user studies I guess you would say, five patients or so just to get these guys onboard so they know how to run the studies when we start the pivotal study for Europe.
+
+Amy Yacko - Jefferies & Company 
+Okay. That is great. Thank you so much.
+Operator
+
+Thank you. And the next question comes from Keay Nakae from Ascendiant Capital.
+
+Keay Nakae - Ascendiant Capital Markets
+Yes, good morning. Pat can you tell us where you stand with respect to locking down a final version of the device that would be used in a pivotal study?
+Patrick T. Mooney
+We are pretty much there Keay, I mean, you know, the technical term of design freeze I guess is sort of what you are asking. We have got a device that -- I will put it this way, I think prelude is done. I think the biosensor is done. The engineers like to optimize until the very last possible second. David is smiling over there. (inaudible) he knows that.
+You know, the monitor is -- that is sort of a long pole on the tent right now, and it is still in [wet form factor] I think the monitor is going to take. We have identified that, but we are trying to make sure that -- people have seen the picture of how the monitor in prelude will interact; there is a holster on the side of the monitor for prelude. We want to make sure that we would -- we design it and finalize it in a way that we address all [recurrence], everything even from infection controls, how Symphony would sit in that holster.
+So, very, very close. It is not a gating factor for us. It is not holding us up in any way. We are going to let these guys tinker until we get to that sort of milestone of design freeze, until we are ready to go to the study. If we had to go to design freeze now, could we do it, yes. So, I mean we’re just about there, but we are letting them tinker and optimize till the last minute. Dave.
+David Walton
+Yes, I’m going to just add one piece of information. We will be getting here. In November there is some ease of use and usability information from some users who will be going through different activities with the system. So we will be getting some of that information here in November.
+Keay Nakae - Ascendiant Capital Markets
+Yes, I mean…
+Patrick T. Mooney 
+
+One other point Keay, FDA is very, very big on usability. They want to make sure that the end-user has had a chance to use the device and have comments. And they actually want to see iterations based on user comments. So we’re in that process now. I mean, again people at Echo have heard me say, I will quote my words here that better is the enemy of the good. I mean we’re good enough right now. We think we just want to let these guys optimize it until the very last possible minute. But again it is not a gating factor.
+Keay Nakae - Ascendiant Capital Markets
+Well, following up on gating, I think you still need to check the box on what else on either the manufacturing or quality side do you still need to address if anything?
+Patrick T. Mooney
+So, we’re actually addressing both right now. We need our ISO 1345 certification. We have already had an internal audit that went very well. Actually I shouldn’t it was an internal one; I guess it was a preliminary audit. It went very well. We will be achieving that in the first part of next year we believe. So that is not a gating factor either. It is right in line with when we would expect to commence the study. So that wouldn’t be holding us up.
+From a manufacturing perspective, I mean there is process development work that is ongoing right now. I think you should expect to see some of that key personnel that we talked about -- I would expect us to fill some of those holes in the senior management team on a manufacturing global supply chain. I expect this to sort of fill those types of holes as well.
+Keay Nakae - Ascendiant Capital Markets
+Okay. That is all I have. Thanks.
+Operator
+
+Thank you. And the next question comes from Stephen Dunn with LifeTech Capital.
+Stephen Dunn - LifeTech Capital
+
+Hi guys. Thanks for taking my questions. Pat, I guess a little more granularity on the actual timing, and we have a design lockdown that we need to do, then you are going to conduct your ISO 1345 audit sometime in Q1. Then it takes at least a month or two to get the results back from the audit. Then you got the trial for the CE Mark, the completion of that trial with the data. Then review of the regulatory by the grant of CE Mark. So I wonder if you can actually walk me through the timing through next year on how that is going to work. And when you say you are expecting European launch in the second half of 2013, are you really saying Q4 of 2013, or you know, what is your -- I’m having trouble with the timing here? It looks like it is going to take a bit?
+Patrick T. Mooney
+Stephen, it seems like you just walked me through the timing. So, in answer, and I would have to correct you on some of it. I mean, I don’t want to put too fine a point on these things, we would rather leave them in big buckets, and under promise, over deliver rather than the other way around.
+But we will complete the ISO 1345 audit early next year for sure, the preliminary audit, at very minor comments. So we expect to be able to complete that in the very early part of next year. Again, this study in here -- I don’t want to provide any -- we will do another update call as we get closer to starting the study to provide guidance on what the size of that study is, but -- and again I don’t want to provide too much guidance, but we are optimistic about what the requirements may need to be for European clearance.
+We are in discussions right now with the notified body, so clearly if we had to do a smaller study, the timeline of that study is going to be much shorter than if we needed to do a larger study. We have four sites currently enrolled. We are actually looking at the fifth and sixth sites as well, so we can increase the rate of enrolment in that study. So it is I would prefer right now to say, a launch of the product in the second half. I don’t know Steve if it is going to be July, August, September or October when we actually begin to launch that because there are some things in here that I can’t control such as the notified body review.
+But I feel pretty confident that our deliverables are such that we will be able to get a tech file in in a reasonable amount of time that it is not a December launch, or November launch, it is something earlier than that is what our expectation is right now.
+Stephen Dunn - LifeTech Capital
+Okay. That is good enough. On reimbursement or I guess payments for this, what is your strategy there in Europe?
+Patrick T. Mooney
+Dave, why don’t you take it?
+David Walton
+Well, we are actually working with some European reimbursement consultants right now on some of the different country, country by country issues that exist, the way that the payment flows at certain hospitals and how they are reimbursed from the government, or what have you.
+So it also plays in with the target market and the sequencing. So, it is fair to say we won’t be going to every country in Europe all in day one. There will be certain localization, certain things in certain countries have slightly different registration requirements and so forth that add a little bit of time here or there. But I think this quarter is where we are intensifying some of the reimbursement and pricing planning.
+So I’m not sure if Pat mentioned this, but we -- I think that is an update later on that we expect to be able to give a little more clarity around, but at this point we are in the midst of that with the consultant.
+Patrick T. Mooney
+Steve, remember Dave has been here for six months. So, I mean, he is like a one legged contestant in a rear end kicking contest. He’s very busy. So, he has got a lot of things on his plate. He is refining though over the next call it 2, 3 months what the pricing, marketing strategy is going to be, and we will provide more detailed guidance on that. I just don’t want to get locked into something right now. So give us a little bit of time, but it is forthcoming.
+
+Stephen Dunn - LifeTech Capital
+All right. If you answer this it will be great, if not fine. Do you have a feel for what your top two initial market, launch markets will be in EU?
+Patrick T. Mooney
+Yes.
+Stephen Dunn - LifeTech Capital
+Yes, sure…
+Patrick T. Mooney
+Well, I answered your question, but yes, you are probably having another question, Dave why don’t you.
+David Walton 
+
+I mean certainly, when you look at market potential, the critical care, bed capacity in the way glycemic control is monitored that there are some countries that ride to the top, and the usual suspects in almost -- we have done a few European launches and usually see the same UK, Germany, France at the top based off a lot of that potential.
+But we are also tweaking this based on how some of the key opinion leader development works, and that may actually facilitate you know, smaller countries moving up a little higher. We have had a number of discussions with very influential key opinion leaders in countries like Netherlands, Austria, Belgium. So, we have got some options there, but certainly I think UK will be at the -- closer to the top of the list, also because of the lack of translation and other things that come in with being able to from the timing of the launch.
+Stephen Dunn - LifeTech Capital
+So, if I can put words in your mouth, it sounds like UK and Benelux.
+Patrick T. Mooney
+I didn’t necessarily say that, and -- but it is certainly, UK is towards the top of the list and we have got a couple of different scenarios here based on other perimeters that we are looking at that could move things here or there, but you are not looking at a year gap in between some of those countries from what we’re -- in terms of that sequencing and timing.
+So, we’re getting to that finer detail on what comes in a month versus two months later. I mean that is still being refined as we -- for some of the reasons I just mentioned.
+Stephen Dunn - LifeTech Capital
+Okay guys, thanks. I’ll jump in the back.
+Operator
+
+Thank you. The next question comes from Ben Haynor with Feltl and Company.
+Ben Haynor - Feltl and Company
+Good morning gentlemen.
+Patrick T. Mooney
+Hi Ben.
+Ben Haynor - Feltl and Company
+Just thinking about the first patient enrolment is that something that could occur in 2012, or is it looking more early 2013?
+Patrick T. Mooney
+You know, again we are in the middle of these discussions with these regulatory authorities, the notified body Ben. I think if we had to enroll a patient, it would be in 2013. Yes, I mean, I think it is unlikely that we will be able to get that study started in the fourth quarter of this year.
+Ben Haynor - Feltl and Company
+Okay, and then…
+Patrick T. Mooney
+(inaudible) but you go ahead.
+Ben Haynor - Feltl and Company
+And then, how do you expect expenses to kind of flow through related to the study?
+Patrick T. Mooney
+I think the number that we have used is a place over historically for studies. It is about $10,000 a patient ballpark. Each institution is a little bit different because you have to pay the investigators a little bit around the studies to be involved, and you know, each institution has a little bit of a better budget, but I think on an average, you know, I think that $10,000 number is something that we have used in the past.
+Ben Haynor - Feltl and Company
+And then you mentioned it could be less than 50 patients. You know, what would be the lower end of that possibility?
+Patrick T. Mooney
+I would say that it could be anywhere from you don’t need to use any more patients, potentially package up the data that we have right now to 50 patients.
+Ben Haynor - Feltl and Company
+Okay.
+Patrick T. Mooney
+That is why we are being a little bit cagey here. We are in discussions, but I’m not going to get into the details of our discussions with the notified body, but you know, clearly what we would like to do is not do another study. Is it enough for us to package our data that we have done in the studies that we have conducted, you know, I can run through the numbers with you again.
+
+You know, we have done 131 patients externally. We have tested Symphony over 1000 times internally. We have never had any unanticipated side effects. We believe the device performed consistently, and it monitors glucose at a level with which we are comfortable. You know, and then importantly one of the things that the notified body regulatory agents are going to look at is the skin permeation device, did it cause any big problems with the skin permeation device. You know we have tested it over 2000 times. We have done over 2000 skin permeations, probably more than that, but the ones that have actually been documented we have done over 2000 times and it never once had any safety issues that we didn’t expect other than minor red markers, which would resolve within 24 to 48 hours.
+And you know, we believe we have got our stop algorithm for the preciseness of skin permeation right here. I mean we think we have got a very good skin permeation system that quickly, safely, effectively permeates the skin.
+Ben Haynor - Feltl and Company
+Okay. Great, and then…
+Patrick T. Mooney 
+
+Given that sort of corpus of information our argument that we would like to part of that is that we have got enough, whether they buy it or not, we are in the midst of that discussion right now. But I think the range, Ben, and answering your question is from no patients to know I guess is no more than 50. That is where I would probably leave it for now. Again, before we would start a study, we will provide more granularity to folks.
+Ben Haynor - Feltl and Company
+Okay, perfect. And then, I know this is a small piece of what the future business could be. But is there any update on Ferndale going out there in the rest of the world?
+Patrick T. Mooney
+No, I think Ferndale right now is doing their internal work with the device, and they are dealing with the regulatory authorities as well.
+Ben Haynor - Feltl and Company
+Okay, great. That is all I had. Thank you very much.
+Patrick T. Mooney
+Thanks Ben.
+Operator
+
+Thank you, and the next question comes from Nathan Cali with Noble Financial.
+[Eric] - Noble Financial Capital Markets
+Hi, this is Eric in for Nathan. Thanks for taking the questions. First question is relative to the discussions with the FDA, have they guided on primary end point yet?
+Patrick T. Mooney
+I can give you the answer, but yes, I answered your question. So, if you are asking what that end point is, we think that the endpoint is going to be somewhere in the ballpark of a certain percentage of patients need to achieve a certain level of accuracy within a continuous error grid. So, for example, 90% of the patients, 95% of the patients need to have 90%, or 95% of the readings either accurate or benign errors. That would probably be the primary end point. The secondary endpoint would be point accuracy related to MARD.
+[Eric] - Noble Financial Capital Markets
+Okay. And second question is relative to -- there is a previous question relative to this. If you had any discussions with European hospitals on the kind of demand you can expect in critical care units?
+Patrick T. Mooney
+Well, we have just begun those discussions. I mean, we have got a lot more to do in that area. Certainly we have been gathering updated information on some of the -- on the potential, you know, the capacity within any cities, countries, the percentage of patients that are on insulin, and/or receiving what we call tight glycemic control, but there is a lot more effort there to really fine tune that.
+And then obviously it is going to come part and parcel with pricing. So it is hard to really conceive of the volume estimates with them until we have a little more information about where we’re going to price the product.
+[Eric] - Noble Financial Capital Markets
+Got it. And lastly, who else will be presenting at the Hospital Based Glucose Symposium?
+
+Patrick T. Mooney
+You mean the DTS meeting this weekend?
+[Eric] - Noble Financial Capital Markets
+Yes.
+Patrick T. Mooney
+Well, OrthoScan is presenting. There is -- I mean it is a whole range. This meeting is a whole range of topics on insulin delivery, continuous glucose monitoring, insulin pumps, traditional glucose monitoring. Geoffrey Chase, I believe, is presenting on some data -- Information on SPRINT protocol. You know, a lot of artificial pancreas work.
+So, there is a lot of crossover CGM, but certainly there are lot of researchers, and a lot of crossover key opinion leaders, we are meeting with those who are heavily involved in diabetes, but also get involved with glucose monitoring in the hospital setting. So outside of the formal presentations and workshops, you know, there is a lot of meetings with some of those researchers.
+[Eric] - Noble Financial Capital Markets
+Great. Thank you.
+Patrick T. Mooney
+As you know, we are presenting at DTS (inaudible) with a group of people, (inaudible) who did the oral presentation of our data at ADA will be presenting tomorrow at the DTS meeting.
+[Eric] - Noble Financial Capital Markets
+Thanks.
+Operator
+
+Thank you, and the next question comes from (inaudible).
+Unidentified Analyst
+Hi, good morning. Thanks for taking my call. In terms of all the discussion about the CE Mark. I’m wondering, as I understand the program, you also have an FDA program that is going to follow. So what if the study is no patients, 20 patients, 50 patients, how valuable is it to have these sites up and running so that we can quickly post the CE Mark process enter into FDA studies. And at the same time does the new discussion I hear over the (inaudible) commercialization, but where if anywhere does partnering enter into this as the company has not just the hospital market, but the diabetes market to follow on, what is your thinking now about partnering?
+David Walton 
+The question is -- I will take it first, which was getting the sites up and running and following through. You know, our anticipation is that upon completion of the EU study, we are going to roll right into the US study at the same sites, plus additional sites as well. So we said we have got four sites lined up right now. We’re looking to recruit one or two more. We have identified them and are starting the dialogue with some key opinion leaders at those sites as well.
+Whether again, and we do 0, 20, or 50 patients for the European study, we plan to jump right into as soon as possible thereafter. And you can translate, I would even say immediately would be my goal start that US pivotal study. The sites are already going to be up and running, we will be very familiar with it.
+So pick the number of patients that we need to do, 50, just use that number that we have used consistently in the past, might roll -- once that study concludes, we will roll over you know, within a very, very, very short period of time patient number one in the US study. Did that answer that first question for you?
+Unidentified Analyst
+Yes, but would you also be expanding the number of sites?
+David Walton
+Yes, as I said we have got 4 now. We are looking to go to 6 possibly for this European study. I don’t know that we would go beyond 6 Mike for the US study, and maybe we would, I mean then you start to get into a lot of sites and it becomes a little bit more difficult to manage, and my concern is you have -- you could have site variability, but what we would do, certainly we will use as a basis 4 to 6 sites that we are using for the European study. We will see how quickly they are able to enroll. And if we think that those sites are enrolling in a rate that is acceptable to us, we would certainly look to layer on additional sites.
+We are very sensitive. Europe is a nice teaser market for us, and we think it is actually very robust and meaningful for a company of our size, but we understand that the much bigger market is the US and we are assiduously working towards getting US approval as well. We’ve talked quite a bit about the European approval, but the goal here is US approval. And we will be working towards that very quickly.
+
+David Walton 
+
+Mike, your second quarter again was, can you just?
+Unidentified Analyst
+A lot of talk about commercial, but what about partnering?
+Patrick T. Mooney 
+Mike, you and I have talked about this many times, you know, we need to build the company with an eye towards nobody in fact is ever going to want to acquire us. That is why we brought David on. We are beginning to build a management team around David and to support those commercialization efforts on our own.
+However, I think the empirical data out there speaks for itself. Just about every small diabetes company, with the exception of DexCom and Insulet right now, you know, that are public have been acquired, and you know, my guess is they are acquisition candidates on somebody’s radar screen. And we actually have in our PowerPoint presentation, a slide that shows you know, and you have seen it Mike, there is 10 or 12 companies that were smaller companies, like us, that grew to a certain level with a certain level of revenue or market adoption, and they were acquired at reasonable premium.
+So my guess is , you know, despite our efforts to stay independent we will probably not have a choice at some point down the road in that the company would be either partnered for an indication, more along the lines of a biotech pharma. You know, the new thing about our technology as we have talked about is this is a technology that can be used in the hospital, not just the critical care unit, but out on the floor in the hospitals, which is a very big market opportunity, and then actually it is a very similar device.
+It is almost the same exact device, the monitor will be slightly different in the consumer market, you know, in the type 1 diabetes, type 1 diabetes market in the outpatient setting. So we could sort of structure any partnership relationships differently than potentially some of the competitors could because we have multiple indications in multiple geographies. You know, whether it is hospital in Europe, hospital in the United States, consumer in the United States, consumer in Europe.
+So we could potentially go along the lines of a biotech pharma licensing deal rather than the more traditional medical device acquisition. However, I also think that any partner, everybody knows who the likely candidates are, right, it’s the big players. They are generally the ones who do the acquisitions, and while they might be interested in a partnership, my guess is they would be pushing for, they see the value in the technology, and they would probably be pushing for something more than that.
+So, again to summarize, we build the company with an eye towards doing this on our own, fully aware of the history in diabetes medical devices is one of acquisition and partnership.
+Unidentified Analyst
+Thank you.
+Patrick T. Mooney
+Thanks Mike.
+Operator
+
+Thank you. And we have a follow-up question from Keay Nakae with Ascendiant Capital.
+Keay Nakae - Ascendiant Capital Markets
+Yes, thanks, a question for Dave, follow up on reimbursement, when we think about a device like yours for use in critical care in the hospital, and with a caveat that we have different countries with different systems in the mix of public and private hospitals. But, you know, how common is it that the reimbursement at the hospital gets for use of such a device in critical care, more like the in hospital [DRG] system, where you are getting a lump sum payment, and it is up to them to deliver the quality of care, as opposed to maybe a more explicit [carve out] for use of a device like yours?
+David Walton 
+Right. I think, you know, a number of people we have spoken to have had not used those specific words, but that analogy of, you know, a case rate or some type of payment they are receiving for a patient. You know, there is some intricate fees in certain countries where the way that their severity of illness is reported back to the payment authorities. They get adjustments in their payment and those are the types of things we are trying to be smart about is understanding those, understanding there are certain pricing thresholds within certain institutions that if you are above it you go to a certain committee, and if you are below it a clinician has kind of some autonomy to make a decision to order something.
+
+And so we are trying to gather that. It is an arduous process to get all of that information for different hospitals in different countries, but we’re trudging along with that kind of information to help inform us. But I think, you know, more often than not what we expect is what you just described in the first part of that, which is a case rate, or they are getting some type of global payment and then it is a decision about can we demonstrate through health, economic and value proposition that it is compelling for them to use this product to monitor glucose based on all those other expenses they would incur, whether they be direct or whether they be related to outcomes and so forth.
+Keay Nakae - Ascendiant Capital Markets
+Okay, thanks.
+Operator
+
+Okay. There are no more questions at the present time. So I like to turn the call back over to management for any closing remarks.
+Patrick T. Mooney
+We really don’t have any closing remarks. I just like to thank everybody for joining the call today. Again these are exciting times at Echo. We look forward to your participation throughout 2013. I would expect as we suggested on this call more guidance and granularity as we get into the beginning part of next year, and get more clarity from regulatory authorities about what our plan and path will be for CE Marking in Europe, and then ultimately FDA approval in the United States.
+Again thanks everybody for taking the time to join the call. Christine will be available to answer calls if anybody has any additional questions.
+Operator
+
+Thank you. That does conclude today’s teleconference. Thank you for participating and have a nice day. You may now disconnect your phone lines.

@@ -1,0 +1,318 @@
+Kratos Defense & Security Solutions (NASDAQ:KTOS) Q3 2012 Earnings Call November  8, 2012  5:00 PM ET
+Executives
+Laura L. Siegal - Principal Accounting Officer, Vice President, Treasurer and Corporate Controller
+Eric M. DeMarco - Chief Executive Officer, President and Director
+Deanna Hom Lund - Chief Financial Officer and Executive Vice President
+Analysts
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+Tyler Hojo - Sidoti & Company, LLC
+Kevin Ciabattoni - KeyBanc Capital Markets Inc., Research Division
+Michael Crawford - B. Riley & Co., LLC, Research Division
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+Mike Greene - The Benchmark Company, LLC, Research Division
+Bhakti Pavani - C. K. Cooper & Company, Inc., Research Division
+Yair Reiner - Oppenheimer & Co. Inc., Research Division
+Operator
+Good day, ladies and gentlemen, and welcome to the Kratos Defense & Security Solutions\' Third Quarter 2012 Earnings Conference Call. [Operator Instructions] I would now like to turn the conference over to your host today, Laura Siegal, Vice President, Corporate Controller. Please begin.
+Laura L. Siegal
+Thank you. Good afternoon, everyone, and thank you for joining us for the Kratos Defense & Security Solutions\' Third Quarter Earnings Conference Call. With me today is Eric DeMarco, Kratos\'s President and Chief Executive Officer; and Deanna Lund, Kratos\'s Executive Vice President and Chief Financial Officer.
+Before we begin the substance of today\'s call, I\'d like to make some brief introductory comments. Earlier this afternoon, we issued a press release, which outlines the topics we plan to discuss today. If anyone has not yet seen a copy of this press release, it is available on the Kratos corporate website at www.kratosdefense.com.
+Additionally, I\'d like to remind our listeners that this conference call is open to the media, and we are providing a simultaneous webcast of this call for the public. A replay of our discussion will be available on the company\'s website later today.
+During this call, we will discuss some factors and matters that are likely to influence our business going forward. Any matters discussed today that are not historical fact, particularly comments regarding our future plans, objectives and the expected future performance, constitute forward-looking statements. These forward-looking statements may include comments about our plans and expectations of future performance.
+These plans and expectations are subject to risks and uncertainties, which could cause actual results to differ materially from those suggested by our forward-looking statements. We encourage all of our listeners to review our SEC filings, including our most recent 10-Q and 10-K and any of our other SEC filings, for a more complete description of these risks. A partial list of these important risk factors is included at the end of the press release we issued today.
+Our statements on this call are made as of November 8, 2012, and the company undertakes no obligation to revise or update publicly any of the forward-looking statements contained herein, whether as a result of new information, future events, changes in expectations or otherwise for any reasons.
+This conference call will include a discussion of non-GAAP financial measures as that term is defined in Regulation G. Certain of the information discussed, including adjusted EBITDA and the associated margin rate; pro forma EPS from continuing operations, excluding transaction expenses; amortization of purchased intangibles and excess office space expense using a cash tax rate and using a statutory tax rate of 40%; adjusted cash flow from operations, reflecting cash flow from operations excluding transaction-related items; and adjusted free cash flow, reflecting cash flow from operations, excluding transaction-related items and less capital expenditures, are considered non-GAAP financial measures.
+
+Kratos believes this information is useful to investors because it provides a basis for measuring the company\'s available capital resources, the actual and forecasted operating performance of the company\'s business and the company\'s cash flow, excluding extraordinary items and noncash items that would normally be included in the most directly comparable measures calculated and presented in accordance with Generally Accepted Accounting Principles. The company\'s management uses these non-GAAP financial measures, along with the most directly comparable GAAP financial measures, in evaluating the company\'s actual and forecasted operating performance, capital resources and cash flow.
+Non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information presented in compliance with GAAP. And non-GAAP financial measures as reported by the company may not be comparable to similarly titled amounts reported by other companies. As appropriate, the most directly comparable GAAP financial measures and information reconciling these non-GAAP financial measures to the company\'s financial results, prepared in accordance with GAAP, are included in the earnings release, which is posted on the company\'s website.
+In today\'s call, Mr. DeMarco will discuss our financial and operational results for the third quarter of 2012. He will then turn the call over to Ms. Lund to discuss the specifics related to our financial results. Mr. DeMarco will then make some concluding remarks about the business, and we will then open up the call to your questions.
+With that said, it is my pleasure to turn the call over to Mr. DeMarco.
+Eric M. DeMarco
+Thank you, Laura, and good afternoon. Over the past few years, we\'ve acquired a number of companies supporting the C5ISR specialty products and technology area, which, from a strategic-, mission- and customer-related standpoint, are all highly complementary and primarily focused on national security priority areas, platforms and programs. As a result of the execution of our business plan, Kratos today generates a substantial amount of its work from sole or single-source program positions, where Kratos owns the data rights where Kratos products and technology are designed into the critical national security systems. And we are highly diversified with no one Kratos contract representing more than 3% or 4% of our revenue.
+We believe that our third quarter results validate the strategy, reflect the successful integration of the acquired businesses and reflects the overall strength of the very unique and specialized company we\'ve built. We also believe that our third quarter results are representative of the revenue, earnings and cash flow generation potential of our business when a DoD budget is in place, even in these challenging federal budgetary times, due to the priority and mission-critical nature of the national security programs we support.
+Operationally in Q3, Kratos\'s electronic products, SATCOM, ISR and BMD product businesses all performed very well. Additionally, in the third quarter, Kratos\'s critical infrastructure security business, which is non-DoD funded, continued to be one of the most important growth drivers of our company, generating 20% organic sequential growth in Q3 above the second quarter.
+Kratos\'s traditional services business, which is approximately $100 million in revenue, continues to contract. And this contraction is expected to continue at least throughout all of 2013, due primarily to low-priced technically acceptable procurement decisions being made in virtually every government services-type contract award. This situation has been getting worse over the past several months as there are basically no new contract awards being procured and competition for existing work and recompete is fierce and is expected to remain so. The contraction of this business has adversely impacted our organic growth throughout 2012 and is expected to continue to do so going forward.
+
+In Q3, CEI performed as expected, generating strong sequential quarter-to-quarter organic revenue growth and EBITDA margin expansion over Q2. We expect CEI to have a similarly strong performance in Q4 of this year, and we also continue to expect CEI\'s fiscal 2013 to generate solid year-over-year sequential organic growth above 2012.
+Related to this organic growth expectation, in the third quarter, we were advised by one of CEI\'s largest customers that they expect to continue to procure CEI targets at production rate for at least the next 4 years. Additionally, a separate CEI customer, also one of CEI\'s largest for whom we produce a very specialized drone, notified us in Q3 that in the near future, CEI will be sole-sourced for all future aircraft of this type procured. This was previously a dual-sourced program and CEI is currently producing several hundred of a variant -- of this type of aerial drone per year, and total quantities are now expected to increase.
+Conversely, in Q3, CEI did have a very large expected international contract award, for CEI\'s targets and drones have been selected as the customer\'s requirement, be delayed 12 to 15 months. This is a big program we had originally expected to receive at the end of this year with approximately $25 million to $35 million in expected 2013 revenue and with the contract continuing on for many years thereafter. The opportunity is now looking like a late \'13 or early \'14 award.
+From an overall strategic standpoint, we believe that Kratos is well positioned for the ongoing pivot in U.S. national security posture as detailed in the DoD Priorities for 21st Century Defense documents. We also believe that we are well positioned for the associated Air-Sea Battle strategy, anti-access area-denial capabilities and Counter A2AD capabilities and the shift away from tactical to strategic systems and initiatives. Directly related to Kratos\'s strategic positioning, today approximately 70% of Kratos\'s business is specialty product centric, where Kratos is either manufacturing or producing the product or Kratos\'s solutions or services are supporting the product and where, once again, Kratos is designed in, we have the socket or we have the data rights.
+For the divestitures of the noncore businesses we previously announced, the sale of these businesses is on track, with one recently being sold for cash, and the substantial balance of these noncore businesses targeted to be divested around the end of this year, also for cash.
+Now moving on to our guidance. Two weeks ago, Hurricane Sandy caused widespread damage in the New York and New Jersey area, which is Kratos\'s critical infrastructure security division\'s largest region and where approximately 30% to 35% of our entire PSS business\'s revenue is generated. The damage and aftermath of Hurricane Sandy has caused a number of very large transportation system and critical infrastructure-related security deployments we are under contract for and were working on to be temporarily suspended due to flooding, other damage or customer reprioritization. We\'ve been informed that these security system deployment programs will be delayed until probably Q1 of next year. These program delays are a primary driver and are being conservative in our fourth quarter guidance and in our internal budgetary planning for the first quarter of next year.
+However, we do believe that mid and long term, there may be an even greater opportunity here for Kratos\'s specialized security offerings in this region. There are literally thousands of existing and deployed security and surveillance cameras, sensors, elements and access control points in and on tunnels, mass transit hubs, tracks, lines, facilities and bridges and all of the related command, control and communications infrastructure, all that has water or other damage from the storm that will need to be replaced. Discussions have already begun with certain of our customers regarding the scope of the work and resourcing that will be required to address these issues.
+
+Also causing us to be cautious in our Q4 guidance and as we look into the first half of \'13, since October 1, 2012, in the beginning of our fiscal fourth quarter, the government contracting industry has been operating under a 6-month federal budgetary Continuing Resolution Authorization, which goes through the end of March of \'13, and we also now have a potential sequestration event just 7 weeks away. Under a CRA, federal funding is basically frozen at prior year\'s programmatic spending levels with no new contract starts or procurements being awarded.
+Directly related to these dynamics, since we reported our second quarter and, most recently, since October 1 in the commencement of the CRA, we\'ve seen certain contract awards, primarily in our Gichner business unit, that we have been expecting in the fourth quarter of this year be delayed until after the current CRA is resolved. This was very similar to what we experienced on our Gichner business under the extended 2011 Continuing Resolution, with new equipment orders basically being delayed until a federal and DoD budget were approved and in place.
+Accordingly, even though there was no one single significant Kratos DoD program or contract where we have a specific concern, as a majority of our work and funding is currently obligated or under long-term contract, we are going to be cautious in our assumptions for new federal government-related contract awards in our fourth quarter guidance and as we prepare our first half \'13 and overall fiscal \'13 budget.
+Deanna?
+Deanna Hom Lund
+Thank you, Eric. Good afternoon. The third quarter financial performance was stronger than we expected due to a favorable mix of revenues, as well as stronger-than-expected demand for certain of our satellite communications and electronic warfare businesses. Our revenues of $276.3 million were up 25.7% sequentially from the second quarter and approximately 10% sequentially from an organic perspective, which excludes the $34.7 million generated by CEI in the third quarter.
+The organic growth was driven by sequential organic growth in our critical infrastructure business of 20%, as well as sequential growth in our electronic warfare business, our satellite communications business, our Aegis and BMD business and our specialized ground equipment business and our cybersecurity business, which collectively grew an aggregate 10% sequentially from the second quarter. This sequential growth was partially offset by an approximate 2% sequential decrease in our traditional services business and legacy weapon systems reset business.
+On a year-over-year basis, our revenues increased $69.7 million from $206.6 million in the third quarter of \'11 to $276.3 million in 2012. Approximately $59.7 million of this increase was generated by the acquired businesses of CEI, Integral Systems, SecureInfo and the acquired critical infrastructure business. This growth was offset by a reduction of approximately $3.2 million in traditional services revenues that continued to be compressed, as Eric discussed earlier, as well as a reduction of $7.5 million in shipments of our ground equipment business and other legacy weapon systems. As mentioned earlier, we saw stronger-than-expected demand in our satellite communications and electronic warfare business in the third quarter, we believe, partially as a result of additional funding that was available or freed up by our customers in anticipation of the 6-month Continuing Resolution.
+Our adjusted EBITDA of $34.4 million for the third quarter of 2012 is from continuing operations and excludes M&A expenses of $300,000, stock compensation of $2.3 million and $700,000 of unused office space expense. The EBITDA for the third quarter was up sequentially from $24.3 million in the second quarter, due in part to the strong demand for certain of our businesses mentioned earlier, the favorable mix of revenues in the current quarter and due to the recent CEI acquisition.
+
+From an operational segment\'s perspective, our Government Solutions segment generated $223.5 million in revenues and $30.2 million in adjusted EBITDA or 13.5% adjusted EBITDA margin. This was up sequentially from the second quarter revenues of $175.8 million and $20.6 million in adjusted EBITDA or 11.7% EBITDA margin. Our Public Safety & Security segment financial performance for the third quarter improved sequentially from third quarter -- sorry, second quarter revenues of $44 million and adjusted EBITDA of $3.7 million or an 8.4% EBITDA margin to revenues of $52.8 million and adjusted EBITDA of $4.2 million or 8% adjusted EBITDA margin.
+Although the operating margin improvement is not what we had originally expected to achieve in the third quarter, due to the revised overall timeline of the integration of the acquired critical infrastructure businesses that we discussed on our prior calls, we are pleased with the overall sequential growth and top line and EBITDA generation. As we continue to complete the integration of the acquired business into our Public Safety business for the balance of 2012 and into early 2013, we expect to continue to see the EBITDA margins expand.
+However, due to the recent damages caused by Hurricane Sandy in the New York-New Jersey area, which is our largest regional presence for the critical infrastructure business, which accounts for roughly 30% to 35% of the overall segment\'s business, we expect the continued margin expansion to be delayed until 2013. We believe the financial performance of this region will be impacted through the balance of 2012 as several of the -- our largest customers in the region, which include a large transportation system and critical infrastructure-related security deployments, have been suspended for the foreseeable future.
+Our gross margins decreased from 28.6% in the third quarter of 2011 to 26.8% in the third quarter of 2012 and were up slightly on a sequential basis from 26.3% in the second quarter of \'12 as a result of product mix. Our mix of revenues for the current quarter is 55% products and 45% services, which is the same percentage as the prior year third quarter.
+On a GAAP basis, net loss for the third quarter was $4.2 million, which included income from discontinued operations of $200,000, $300,000 of acquisition-related expenses, $13 million of expense related to amortization of intangible assets, as well as a $1.3 million tax provision, primarily due to the impact of tax liability in individual states and foreign jurisdictions for which we do not have NOL offsets.
+We continue to believe it is also meaningful to provide our earnings per share, excluding the amortization expenses, acquisition-related expenses and the excess office accrual expense and reflecting a cash pay income tax. On a pro forma basis, EPS from continuing operations, excluding these items and utilizing an average quarterly cash pay tax provision of approximately $900,000, which is our current estimate of cash taxes for the year straight lined on a quarterly basis, was $0.18 for the quarter.
+Moving to the balance sheet and liquidity. Our cash balance was $37.6 million at September 30, plus $5.6 million in restricted cash. As a reminder, the cash balance at the end of the second quarter of $145.7 million included the net proceeds of $97 million from the equity offering we completed in May to fund the CEI acquisition, which closed after the second quarter on July 2. For the third quarter of 2012, we generated $25.5 million in cash from operating activities, excluding the payment of $200,000 of acquisition-related expenses. For the first 9 months of 2012, we have generated $38.2 million of cash from operations, excluding the payment of acquisition-related expenses of $3.1 million, and have generated $26.2 million of free cash flow for the first 9 months, excluding the acquisition expenses of $3.1 million and less capital expenditures of $12 million.
+
+Cash on hand today is approximately $25 million with 0 drawn on our revolving line of credit, down from the $40 million draw we made to fund the cash portion of the CEI acquisition, which closed on July 2. We currently have a revolving line of credit of $110 million with approximately $13 million of letters of credit outstanding. Our total available liquidity today is approximately $114 million.
+Our DSOs for the third quarter at a 100 days, down sequentially from 106 days in the second quarter, which is above our target DSOs of approximately 90 days. We continue to expect that as milestone-related contractual-telling terms are met on certain contracts and as we continue our newly implemented, more rigorous billing processes and procedures for the newly acquired critical infrastructure businesses, that we will be able to continue to reduce that overall DSOs and generate additional operating cash flow. As a reminder, a 4-day reduction in DSOs at our current revenue level is equivalent to approximately $10 million in cash flow generation. Although we did reduce our DSOs by 6 days in the third quarter, this cash generation was offset by the working capital required to fund the organic growth in the third quarter.
+Debt under our outstanding notes at September 30 was $625 million, plus the issuance premium of $19.7 million. Total net debt today, net of the $25 million of unrestricted cash and the issuance premium of $19.7 million, is approximately $606 million.
+Our contract mix for the third quarter was 71% fixed-priced contracts, 16% cost-plus-fixed-fee contracts and 13% time and material contracts. Revenues generated from contracts with the federal government were approximately 59%, including revenues generated from contracts with the DoD of 56% and 3% with non-DoD federal government agencies. We also generated 6% of our revenues from state and local governments, 21% from commercial customers and 14% from foreign customers. Backlog at quarter end was $1.3 billion with $692 million funded.
+Moving on to the guidance for the fourth quarter. We are forecasting fourth quarter revenues of $250 million to $270 million or annual revenues of $955 million to $975 million and fourth quarter adjusted EBITDA of $27 million to $32 million or annual adjusted EBITDA of $111 million to $116 million. The guidance reflects the estimated impact of Hurricane Sandy on our critical infrastructure business, as well as the estimated impact of the Continuing Resolution and, specifically, the impact of delays impacting previously expected shipments of ground equipment in our Gichner business, which are now expected to occur in 2013 rather than in the fourth quarter. We expect the amortization expense to be approximately $44 million for 2012 with $11.6 million in Q4.
+We are also updating our pro forma EPS for 2012 with an estimated weighted average shares outstanding for the year of 47 million, which reflects the equity offering of 20 million shares to fund the CEI acquisition on a weighted-average basis and excluding amortization, acquisition expenses, excess office space expense and using an estimated cash pay tax provision of approximately $3.6 million, which are now estimated to be $0.45 to $0.55. Using a full statutory 40% tax rate, excluding amortization expense and acquisition expenses, we estimate pro forma EPS to be in the range of $0.30 to $0.40.
+In addition, we have updated our free cash flow guidance from continuing operations, excluding acquisition-related expenses after interest payments and capital expenditures, of $35 million to $45 million a year. This is derived by the $26 million adjusted free cash flow generated for the first 9 months, excluding the acquisition expenses of $3.1 million, plus our expectation to generate an additional free cash flow for the fourth quarter of $9 million to $19 million after payment of the semiannual interest payment of $32 million for the notes and after estimated capital expenditures of $4 million to $5 million and payment of taxes of approximately $900,000 and the generation of working capital, resulting from the expected reduction of DSOs, of approximately $19 million to $25 million, which reflects an approximate additional reduction of 7 to 12 days on our DSOs.
+
+I will now turn the call back over to Eric.
+Eric M. DeMarco
+Thank you, Deanna. Kratos\'s third and fourth quarters are typically our strongest, and we had previously forecast this for the third quarter we just reported. We believe that this is primarily due to federal government fiscal year end of September 30, and we expect this situation to continue going forward.
+In these challenging federal budgetary times, it\'s important to note that approximately 30% to 35% of Kratos\'s business today is not DoD or federal government funded and is focused on critical infrastructure security and international security-related customers, which, as you\'ve seen today, have been growing very solidly throughout this year. This is a result of a strategic diversification decision we made a few years ago, and we\'ve been executing on it.
+Additionally, the vast majority of our DoD and U.S. national security and federal agency business is on long-term strategic programs, contracts or, once again, under obligated funds, which is why we are confident that even through the next 6 or 9 months could be very choppy from a federal budgetary standpoint, we\'re going to continue to generate solid financial results, and we\'re going to continue to forecast approximately $50 million annually in free cash flow generation. In closing, we remain focused on operational excellence, successfully completing the integration of the acquired businesses, generating strong key -- free cash flow and delevering the business.
+With that, we\'ll turn it over to the moderator for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Mark Jordan with Noble Financial.
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+Relative to the problems with Sandy in the northeast, you mentioned that 30% to 35% of your business was in this geographic area, and you had significant disruptions there. If you run the numbers, I guess, that implies that you have somewhere between $10 million and $13 million of revenue of [indiscernible] or potential loss there. That\'s my question. In terms of the earnings impact, obviously, you want to have the revenues, you don\'t have the earnings associated with it but you have fixed cost infrastructure or people that you have to continue to pay, and do you have, say, business interruption insurance or something that will eventually make you whole? Because I would assume that this has some significant negative operation leverage in the fourth quarter.
+Eric M. DeMarco
+Right. So, Mark, we were -- our previous forecast for our PSS business for the fourth quarter was between $58 million, $59 million. That\'s what we were looking at prior to this. Now we\'re looking at mid-40s. Gross margins in this business are high-20s, near 30%. And as you mentioned, the fixed cost stays, so those gross margin dollars fall straight to the bottom line. And so that is the impact that we\'re seeing. We do have insurances, and we are looking at that. So we\'re not sure where that\'s going to fall or if it will fall. We\'re not counting on it at this time.
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+So none of that recoupment in your expectations. That would be a favorable event in and out period if it occurs?
+Deanna Hom Lund
+Yes. And, Mark, unfortunately, with business interruption coverage, since we\'ve had this before with Hurricane Irene, it\'s not that easy to be able to file the claim and to get coverage.
+Eric M. DeMarco
+It\'s hard.
+Deanna Hom Lund
+It\'s typically if your facility is damaged or there is direct impact. But for lost revenues, it\'s difficult, especially since the customers\' been impacted as well. So we\'ll obviously explore every avenue possible, but it\'s not terribly easy.
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+
+Okay. Do you -- Deanna, do you have a amortization number for 2013 as compared with the $44 million for this year?
+Deanna Hom Lund
+Yes. Mark, that\'s about $35 million.
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+Okay. And then, Eric, relative to the CR and Gichner and other contracts, given the long-term nature of the contracts or programs you\'re on, if you have a next phase delay because of the CR, does that, in effect -- do you lose revenue when it occurred in that fiscal year? Or does it just push it out into the second half of the fiscal year, assuming you got a budget in May -- or March?
+Eric M. DeMarco
+What we saw with this -- with the extended of 2011 6-month Continuing Resolution is that contract-specific order businesses, there are no new contracts. So under the CRA, you don\'t get them. When the federal budget comes into place, you start getting them. We recouped, the last time, 60% or 70% in our fiscal year and that CRA ended in May. So you do catch up some, but it\'s -- we did not catch up all of that -- all of it in the 2011 one.
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+Okay. And then does that -- did that slip into the next year or is that lost?
+Eric M. DeMarco
+We have not gotten it back yet.
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+Okay. Final question. Relative to the divestitures, in aggregate, do you have a ballpark number of the amount of cash to be generated by those divestitures?
+Eric M. DeMarco
+Mark, I\'m laughing because we do, but we\'re negotiating price. So I don\'t want to get into that right now until these are closed up.
+Mark C. Jordan - Noble Financial Group, Inc., Research Division
+Okay. If you\'re having multiple bidders, you can tell them that the small price is on for the other guy.
+Eric M. DeMarco
+I know. I\'m looking at the screen and a couple of those multiple bidders are listening to this so we\'re not...
+Operator
+Our next question comes from Tyler Hojo with Sidoti & Company.
+Tyler Hojo - Sidoti & Company, LLC
+Just a follow-on to the last question in regards to divestitures. Could you maybe talk about what percent of the sales base you\'re looking to kind of trim here?
+Eric M. DeMarco
+Yes. So at the -- when we announced back earlier this year on the disco, the original forecast for these businesses that we\'re divesting was approximately $35 million in revenue for 2012. We pulled that out of the revenue of the operating model and put it down in discontinued operations.
+Tyler Hojo - Sidoti & Company, LLC
+But the discontinued operations is the only business that you\'re looking to divest, there\'s nothing in continuing ops?
+Eric M. DeMarco
+As of right now, there is nothing in continuing operations that we\'re looking to divest.
+Tyler Hojo - Sidoti & Company, LLC
+Okay. I just wanted to clarify that. And then in regards to critical infrastructure, just curious, you mentioned some pretty decently sized potential opportunities from replacing some hardware. Could you maybe expand on that a little bit? I\'m just trying to get a gauge on how big of an opportunity that could potentially be?
+Eric M. DeMarco
+We -- it\'s probably premature to talk about that, but I will tell you this, we were awarded, right before this occurred, an $18 million to $20 million single source award on part of critical infrastructure or transportation network in that region that has been put on hold. But that customer has come back to us and said that it could be double that amount because of what we will need to replace, just this one guy.
+Tyler Hojo - Sidoti & Company, LLC
+And typically, these contracts -- what type of timeframe do they cover? Is it like a multiyear thing or do they get done pretty quickly?
+Eric M. DeMarco
+Yes, 12 to 18 months.
+Tyler Hojo - Sidoti & Company, LLC
+
+12 to 18, all right, great. And just last for me, in your prepared remarks, Eric, you said you felt comfortable with generating about $50 million in free cash flow a year. I\'m just trying to get an understanding of kind of how much comfort you have in that and maybe you could talk about why.
+Eric M. DeMarco
+Right. And so at a high level, we -- the vast majority of our business, our Government business, the non-Government business aside, because that\'s not under the CRA sequestration. So the 70% of our business, that\'s U.S. government funded. The vast majority of it is on long-term programs like Trident or F-18 or Patriot and I can go on and on and on, where there\'s long-term programs and the money is obligated. And so we feel pretty sure that, that is going to be safe for the next couple few years because those are the contracts that we\'re under in these cases. And so in a sequestration or long-term continuing resolution type of situation, we\'re all going to take a squeeze. But historically, the way we\'ve looked at getting to that $50 million in cash flow is if we can generate somewhere around $120 million, $125 million in EBITDA and we have $62 million of interest and we have $15 million or $20 million of CapEx and $3 million of taxes and we bring our receivables down a little bit, we can generate $50 million. And that\'s why we\'re comfortable in a static environment that we can do that.
+Operator
+Our next question comes from Kevin Ciabattoni with KeyBanc.
+Kevin Ciabattoni - KeyBanc Capital Markets Inc., Research Division
+Looking at that critical infrastructure business, I know you guys have been expecting PSS margins to increase sequentially through the back half. Obviously, that didn\'t happen with the hold-up on the integration. I just was curious as to kind of what drove the lower margin, how things played out differently than you had originally anticipated?
+Eric M. DeMarco
+Absolutely. There is -- in the New York, New Jersey area, we are working on several very large programs. One of those programs, it\'s one of the top 3 largest in the entire PSS division. It is a multiyear and we are probably 1/3 in to this multiyear deployment. We had some issues with some subcontractors. And the margins that we\'re looking at -- that we were looking at are not coming in. So we are going to be conservative on booking it until we get later on into this program.
+Kevin Ciabattoni - KeyBanc Capital Markets Inc., Research Division
+Okay. And the integration, I mean, did that...
+Eric M. DeMarco
+The integration now -- separate issue. The integration is moving ahead and we expect to have the integration of the acquired business substantially complete end of this year Q1, substantially 95-plus complete, done, so we are on track.
+Kevin Ciabattoni - KeyBanc Capital Markets Inc., Research Division
+Okay, that\'s great. And then the bidding proposal was up pretty substantially from just over $4 billion to just over $5 billion sequentially, just wondering how much of that is from CEI versus kind of organic opportunities?
+Deanna Hom Lund
+It\'s both, Kevin. So there\'s, obviously, a portion that, that is related to CEI but there\'s also some organic growth internally, as well. So it\'s twofold.
+Kevin Ciabattoni - KeyBanc Capital Markets Inc., Research Division
+Okay. And then CEI, obviously, had a pretty good quarter here relative to kind of where your full year expectations were that kind of $60 million bogey, I assume that there\'s a kind of a bump to that for the full year, to that $60 million number?
+Eric M. DeMarco
+It is meeting or potentially could exceed our expectations so far.
+Operator
+Our next question comes from the State of Wisconsin Investment.
+Unknown Attendee
+Last quarter, with all of the uncertainties, it was kind of hard to judge your progress. And this quarter it\'s -- I wanted to just say, again, congrats, good job and I\'m very pleased with the progress that you\'re making on reaching those goals.
+
+Deanna Hom Lund
+Thank you, John [ph]. We appreciate that.
+Eric M. DeMarco
+Thank you, sir.
+Unknown Attendee
+My one question is related to the Obama shift -- strategy shift for the Defense Department to the China Pacific region. How do you think that will affect you in coming years?
+Eric M. DeMarco
+Since January, and January of this year, the strategic foster paper came out, the administration is tracking almost exactly to what that 12-page document says, where there\'s a significant shift going on right now away from tactical systems and away from primarily army and marine tactical systems into Navy and Air Force. We are -- the vast majority of our business is on strategic systems, strategic UAVs, ballistic missile defense, Aegis, Air Force platforms, so if he stays the course and they stay consistent with the strategic repositioning document, we feel we are as well positioned as anyone, not just programmatically, but also geographically. We have a significant presence obviously, on the west coast, in Hawaii and in other places we can\'t get into out in the Pacific that we\'ve had for this pivot. So if it stays on the course, we feel pretty good about it, John [ph].
+Operator
+Our next question comes from Mike Crawford of B. Riley & Co.
+Michael Crawford - B. Riley & Co., LLC, Research Division
+Regarding composite engineering with the shifts, the positive and negative shifts in the business for next year, does that change your growth outlook for 2013?
+Eric M. DeMarco
+It does for \'13. \'13 is coming down but \'14 is going up and it\'s that one primary program where we have been selected from the requirement side.
+Michael Crawford - B. Riley & Co., LLC, Research Division
+So again, that\'s a program where you\'ve been selected and was expected to, I\'m sorry, be as much as -- did you say -- did you give a revenue number?
+Eric M. DeMarco
+I did, $25 million to $30 million, $35 million in the first year and then it continues for 9 years. It\'s a 9-year program not at that level but the first year, there is a significant delivery, second year, there\'s a significant deliveries. And then the out years it\'s the operation of the systems.
+Michael Crawford - B. Riley & Co., LLC, Research Division
+And then what was the reason for the supposed delay?
+Eric M. DeMarco
+It is not appropriate for me to get it into that on this.
+Michael Crawford - B. Riley & Co., LLC, Research Division
+Okay. And then so then that\'s the part that\'s out and then the other system we are now sole-sourced, is there any way you can put a value on what you might pick up there?
+Eric M. DeMarco
+Maybe $5 million, and that\'s the increment piece.
+Michael Crawford - B. Riley & Co., LLC, Research Division
+Right. Then in an environment of -- if sequestration does kick in, is that something that -- how long do you think effects -- would it take for effects of that to hit you any differently than what you\'re already experiencing today, do you think?
+Eric M. DeMarco
+Right. So from what we\'ve been seeing and from what we\'ve been discussing with our customers, the service providers are going to take the first hit. What\'s going to happen is the service contracts that are either 1 year contracts for the past quarter when they come in January of \'13, February of \'13, March of \'13, they\'re not going to be renewed. And so as we talked about, less than $100 million of our business is service contracts right now, and I don\'t -- I think most of those goes out through 2014 or 2015, there aren\'t short-term ones. But the service contract area, primarily the ones that are top quarter [ph] funded are going to take the immediate hit. That seems to be the consensus. If sequestration, the way it is written, occurs right now, that won\'t impact us. I don\'t believe we will be materially impacted by it for at least the first 12 months. But what we talked about last year and what I could see happening with some of the big OEMs, there could be some major system, new system programs canceled where they\'re going to lose some base and then where companies like Kratos are supplying subsystem or systems to those primes when those come up for renegotiation, we think there could be some pricing pressure, where there hasn\'t been in the past, there very well could be in the future as those primes try to make up some of that lost work.
+
+Michael Crawford - B. Riley & Co., LLC, Research Division
+Okay. And then just back to CEI. So overall for Kratos, the internal R&D was down a bit this quarter, has there -- what\'s the thought on developing proprietary unmanned combat aerial systems?
+Eric M. DeMarco
+What\'s the thought?
+Michael Crawford - B. Riley & Co., LLC, Research Division
+Yes, has that -- have you decided to -- it\'s something that has been a consideration to produce -- to move forward and produce -- try to produce -- develop something like that on your own. Has there been a progression in the decision-making on how to proceed regarding your CIS?
+Eric M. DeMarco
+I think at this time, it\'s probably most appropriate for me to say that we think that strategically, over the next 5 or so years, that is where the market is heading. It is heading to fly in contested airspace and versus uncontested air space where it has been previously. We are participating in that now with certain -- in certain areas and we hope to participate in that in an expanded way in the future. That\'s probably the best way to say it right now.
+Deanna Hom Lund
+And, Mike, I would just say as a general comment, as far as the level of internal R&D from a percentage of revenue perspective, we do expect the level of investment to increase slightly into 2013. So I don\'t think what you saw in the third quarter with a slight reduction is not what we expect for the future.
+Michael Crawford - B. Riley & Co., LLC, Research Division
+Okay. And then regarding Herley and Integral systems, at least for integral systems, the part -- the sub -- the space part that you\'re keeping, have those been performing as expected? And have you issued any other warrant notices besides the ones in Baltimore?
+Eric M. DeMarco
+Right. So both Herley and Integral Systems are performing absolutely outstanding and they are the exact, exact appropriate businesses for what is happening strategically with the United States National Security posture right now. They support strategic systems and they support the strategic systems that are needed for the strategic pivot. And they are both doing outstanding and those are 2 of the primary reasons why Q3 came in so strong. That\'s because what\'s happening with the pivot and funding flows, of course, but they\'re doing great. The war notice was 100% related to the non-core businesses that we are divesting.
+Operator
+Our next question comes from Howard Rubel with Jefferies.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+Just a couple of odds and ends to tie some things up. SG&A was up noticeably, sequentially. Is there anything there? Is this -- I know on a percentage of revenues, it\'s not that different there but is there anything in there? And are we going to see some further benefits of consolidation in that line item?
+Deanna Hom Lund
+Howard, that\'s all primarily related to the acquisition of CEI since that was -- the third quarter was the first quarter that we reported and included CEI in our financials.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+Yes, that\'s what I had sensed. But I -- and then also related to CEI, so if we do the math, it\'s somewhere in the $30 million range, is that about right?
+Deanna Hom Lund
+No. It was -- I think in my prepared remarks, I gave that the revenue was $34.7 million for the quarter.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+All right. I\'m sorry. And then also related to that, I wanted to understand your cash numbers. I think you talked about cash at the end of the second quarter being what, about $145 million and then...
+Deanna Hom Lund
+That\'s correct.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+And then if we exclude the stock, you\'re at full, what, $48.7 million or something like that, and then I think you ended the quarter at, was it $25 million?
+
+Deanna Hom Lund
+Actually $37 million.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+I\'m sorry, $37 million.
+Deanna Hom Lund
+Yes.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+So that\'s reconciling...
+Deanna Hom Lund
+It\'s related primarily, Howard, to the acquisition of CEI, which was $155 million in cash so -- and that did not occur until after the second quarter end.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+Right. It was like a July 2 close or something like that.
+Deanna Hom Lund
+Correct, correct. Yes, so that\'s primarily all driven by the funding of the acquisition.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+And then just related, does that explain why interest expense was a little high, just because of the timing of the borrowings and that this is why the fourth quarter will be lower?
+Deanna Hom Lund
+Yes. So there\'s 2 items that are impacting the interest expense for the quarter. So part of it is related to the $40 million draw that we did on our line of credit for a portion of the quarter, and that\'s roughly at about LIBOR plus-3 and then 3 3/4. In addition, this quarter actually had 8 more days than the prior quarters, so that extra week is attributable to about $1 million additional interest on the notes, just the way we accrue it from on a quarterly and weekly perspective.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+I appreciate that. And then the last thing, Eric, when you had these discussions regarding the continuing resolution, how has the customer sort of set you up? Because in some cases he actually needs the work you\'re performing. And is he just slowing down the payments or the work required, I mean, can you kind of characterize the discussions and how you\'re working to solve the problem?
+Eric M. DeMarco
+Right. It\'s a little bit of each of what you just said, Howard. It\'s slowing down some of the payments where they make commitments and you continue working. So you can continue to work. Your receivables may roll a little bit along the way when the continuing resolution is resolved, you get paid. We have not seen thus far, other than primarily in the Gichner business and where we have -- we\'re selling some of the cyber software products. And in these areas, there are -- these are purchase-order driven. They\'re very short term, both on the Gichner side, they are less than 1 year deliveries and on the software side, they\'re less than 1 year deliveries. So I think the way the customer looks at those as those are new contracts and they\'re outside of the previous contract so there\'s no funding for them under the continuing resolution, so those are just being delayed and those are being pushed out.
+Howard A. Rubel - Jefferies & Company, Inc., Research Division
+That\'s wonderful. When they get under attack and then they can\'t solve the problem.
+Eric M. DeMarco
+I know. But we\'re -- that is what, Howard, that\'s -- I\'m sorry to say, but that is what we started seeing right after October 1 on these purchase-order driven businesses that we have, where a purchase order is like a \"new contract\", but there are no new contract awards under the CRA, as you know better than anybody, so it fits.
+Operator
+Over next question comes from Mike Greene with The Benchmark Company.
+Mike Greene - The Benchmark Company, LLC, Research Division
+I saw Australia announced some planned EA-18 and P-8A orders during the quarter, does this give you confidence on your electronic warfare revenue run rate for the next few years? And are there any other foreign electric warcraft you see on the road?
+Eric M. DeMarco
+Absolutely. You are spot on, on your research. Australia has order on the 12 and they have 24 wired, fourth, but they\'ve only ordered 12 now on the EA-18 and their order on the P-8A Poseidon. Take a look at what\'s going on with India with P-8A Poseidon, the P8i, these are all ripe. We are designed in, we are on bolt on this in a big way. F-18 has been extended out I believe through 2015. I read something just yesterday. It looks like it\'s going to go out through 2016. That\'s one of the largest programs in our company today. So these are -- yes, sir, these are why even though we may get nicked here and there and this, the vast majority of the base business run rate is pretty stable.
+
+Mike Greene - The Benchmark Company, LLC, Research Division
+And following up on Integral, could you give us a little more clarity on what drove what looks like double-digit sequential growth there this quarter?
+Eric M. DeMarco
+Right. So Integral Systems is involved in strategic satellites, primarily Geos. Some of the big ones they are on are Sievers High [ph], WGFs, MEOS and there is a significant amount of activity going on with these satellite constellations. I believe it\'s a prime. I don\'t want to say their name because I\'m not sure if I\'m allowed to, but it\'s out there publicly, the prime on Sievers just received orders for 2 additional ones. As you know, ground equipment goes out well in advance before the satellites go up so there\'s no downtime once they\'re in orbit. And so this ties in to what\'s going on with the strategic pivot and the strategic shift and another area to the Pacific, of course. And another area tied into -- directly tied into the setting what Integral is doing has to do with RF interference relative to the satellite signals in the connectivity to ships and planes and UAVs. We are deeply involved in that with our equipment and our software and that is driving the growth as well.
+Mike Greene - The Benchmark Company, LLC, Research Division
+Great. Is that the rate we should expects going forward, is a going to trend a little back to maybe second quarter level?
+Eric M. DeMarco
+Right. As I said in the remarks, historically, for most of our business, including Integral, Q3 is typically the strongest, Q4 is pretty darn strong and Q1 and 2 are the weakest. And it appears to be because our calendar Q3 and Q4 surrounds the 9/30 federal year end. And at the end, coming up to 9/30, agencies/customers want to spend the money because if they don\'t spend it all or obligate it all when they go for money next year, somebody will say, \"You didn\'t spend all of last year, so you don\'t get it.\" And then heading into the new year, they\'ve obligate it, et cetera, in Q3 and so we ship it out in Q4. That\'s why Q3 and Q4. In some of our product businesses, primarily Integral is one of them, is a very strong.
+Operator
+Our next question comes from Max Battern [ph] with Wingfield Capital.
+Unknown Analyst
+I hate to belabor a sore subject but I thought I heard Eric, you say that the impact of Sandy would be -- a lot of the states would be starting in 2013 Q1 again. And I thought I heard Deanna say that they were suspended for the foreseeable future, that\'s the first part. The second part is, do you get any sense that the infected agencies and transportation are going to try to renegotiate this with you a little bit?
+Eric M. DeMarco
+Okay. On the second point, second question, absolutely not, no. Those are definitized contracts with definitized scopes of work and values, so absolutely not.
+Unknown Analyst
+Eric, when you have redo, a lot of this you were part of the way through and the stuff got knocked out. Is there any of that, do they cover the redo?
+Deanna Hom Lund
+As of right now, 2 weeks in, we have seen nothing like that. All -- the only discussions that we have had have to do with when we would be potentially restarting the existing contracts that we are on. That looks like Q1, the restarts with no change in scope, no change in value, et cetera. And then b, new contract opportunities for the replacement of the damaged or destroyed equipment that\'s out there, which would be Q1, Q2. It would be out there. Those scopes haven\'t even been defined yet. We\'re just entering the discussions because a lot of the critical infrastructure tunnels, subways, bridges, CCTV and thermal imaging cameras that are in certain areas, those are -- they\'re still being assessed on the damage, not just to those elements but also to the command-and-control backhaul, which is significantly damaged, which will have to be replaced as well. So I don\'t have scopes on that yet but we\'re in discussions with several major existing customers on new opportunities next year to start fixing that.
+
+Unknown Analyst
+So I thought I heard Deanna say that these things were suspended for the foreseeable future. Now maybe I misheard that and maybe it\'s something new that I didn\'t get, but could you tell me about that?
+Deanna Hom Lund
+I did say that, Max [ph], so they -- so for now, for the foreseeable future is what we know currently in this current quarter. On the other hand, they\'re also talking to us about when they\'re back online, what they would like us to do. So you heard both correctly.
+Eric M. DeMarco
+Yes, foreseeable future is this quarter.
+Operator
+Over next question comes from Bhakti Pavani with C. K. Cooper & Company.
+Bhakti Pavani - C. K. Cooper & Company, Inc., Research Division
+My first question is related to with the recent pardon military series opportunity happening with India and Australia, how do you think the revenue mix for Kratos is going to change going forward, taking into consideration that the Department of Defense is currently in the continuing resolution, would you comment on that?
+Eric M. DeMarco
+Right. Taking into consideration both of those FMS opportunities and taking into consideration the significant number of international opportunities that CEI has been winning and that CEI is pursuing, I believe, we believe, over the next few years that our foreign, international, either direct sale or FMS business, is going to grow as a percent of revenue while the U.S. DoD piece, not necessarily because it\'s shrinking, but if it is shrinking, it\'s going to be less because there are more international opportunities right now for us.
+Bhakti Pavani - C. K. Cooper & Company, Inc., Research Division
+Okay. And the continuing resolution taking into consideration that no new contract awards have been awarded right now and with the PSS business kind of sliding into the next year maybe, how do you think the revenues -- I mean that PSS business revenues will be able to kind of offset, I would say, the shrinkage because of the continuing resolution in other business segments?
+Eric M. DeMarco
+Right. So as of right now in the PSS business, we\'re looking at this as definitely as a Q4 issue, probably/possibly a Q1 issue and then we\'re right back on track in Q2. So we\'re looking at this as a very short-term aberration because of, obviously, the storm. All right? So we\'re not -- it\'s -- we see it as a short-term hiccup and then we\'ll be back on track hopefully in Q1 but I\'m very confident right now by Q2.
+Bhakti Pavani - C. K. Cooper & Company, Inc., Research Division
+So would it be fair to say that the revenues in FY \'13 would be more concentrated towards the second half, I mean, because of all these issues?
+Eric M. DeMarco
+I think, right now, and again it\'s early. But I think, right now, it\'s probably safe to say that I\'ll say second 3 quarters, okay, but it\'s hard to say.
+Bhakti Pavani - C. K. Cooper & Company, Inc., Research Division
+Okay. Just quick question. What would be the fair CapEx assumptions going forward in \'13 and forward, what would be the fair numbers?
+Eric M. DeMarco
+CapEx.
+Deanna Hom Lund
+CapEx, okay. that\'s going to be very similar to the guidance we gave this year but a little bit higher. Our guidance this year was $12 million to $17 million. It will be closer to probably $15 million to $20 million because we have a full year of CEI in our numbers.
+Operator
+Our next question comes from Gary Reiner with Oppenheimer.
+Yair Reiner - Oppenheimer & Co. Inc., Research Division
+Just a couple of questions. First, on CEI, I just want to make sure I\'m modeling it right for next year. I think originally you talked about I think about 15% growth next year, which equates to about $20 million. It sounds like about $25 million to $30 million is getting pushed out. You\'ve added $5 million from a new contract, should we think now that CEI being more or less flat now for 2013?
+
+Eric M. DeMarco
+No, no. For full year \'12 against full year \'13, I think somewhere around 5% to 10% pure organic growth, and that\'s including that big one just moving out to \'14.
+Yair Reiner - Oppenheimer & Co. Inc., Research Division
+And then you mentioned that you had 8 extra days in the quarter. To what extent did that help performance? And then are there any short quarters coming up that we should think about when we model?
+Deanna Hom Lund
+There probably was a little improvement because of those additional 8 days. I haven\'t quantified that but the remaining quarters are the same number of days of 91 days, 90 to 91 days. This was a 98-day quarter, so Q4 will be very similar in days to Q1 and Q2.
+Yair Reiner - Oppenheimer & Co. Inc., Research Division
+Okay, great. And then just one final question for me, the free cash flow number for the year went down. You went through some of the factors driving the free cash flow but can you just give us the bridge between the prior free cash flow guidance and then the update today?
+Deanna Hom Lund
+Sure. So clearly, from -- there\'s a bridge from the EBITDA, the previous guidance, there\'s a spread of about $9 million on an annual basis, so there\'s $9 million of the spread. And then the remaining spread is about $4 million and that\'s just related to some working capital requirements to fund the growth for the third quarter and some items that we were expecting to collect before the CRA was put in place, which did not occur in a couple million dollars level, so that\'s the sense of the bridge there.
+Operator
+I\'m not showing any other questions in the queue. I\'d like to turn it back over to Eric DeMarco for closing comments.
+Eric M. DeMarco
+All right. Thank you very much for joining us this afternoon and our next scheduled time we\'re scheduled to chat is when we release our fourth quarter, I think, in late February or early March. Thank you.
+Operator
+Thank you, ladies and gentlemen. And thank you for your participation in today\'s conference. This does conclude the conference. You may now disconnect. Good day.

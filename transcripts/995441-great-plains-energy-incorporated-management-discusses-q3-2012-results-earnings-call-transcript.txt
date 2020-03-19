@@ -1,0 +1,357 @@
+Great Plains Energy Incorporated (NYSE:GXP) Q3 2012 Earnings Call November  9, 2012  9:00 AM ET
+Executives
+Kevin E. Bryant - Vice President of Investor Relations and Treasurer
+Terry Bassham - Chief Executive Officer, President, Chief Operating Officer of KCP&L, Chief Operating Officer, President of KCP&L and Director
+James C. Shay - Chief Financial Officer and Senior Vice President of Finance & Strategic Development
+Analysts
+Paul Patterson - Glenrock Associates LLC
+James L. Dobson - Wunderlich Securities Inc., Research Division
+Paul T. Ridzon - KeyBanc Capital Markets Inc., Research Division
+Shahriar Pourreza - Citigroup Inc, Research Division
+Brian J. Russo - Ladenburg Thalmann & Co. Inc., Research Division
+Charles J. Fishman - Morningstar Inc., Research Division
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+Operator
+Good morning, my name is Therese, and I will be your conference operator today. At this time, I would like to welcome everyone to the third quarter 2012 earnings call webcast. [Operator Instructions] After the speaker\'s remarks there will be a question-and-answer session. [Operator Instructions] Thank you. I would now turn the call over to Kevin Bryant. You may begin your conference.
+Kevin E. Bryant
+Thank you, Therese, and good morning. Welcome to Great Plains Energy\'s Third Quarter 2012 Earnings Conference Call. Joining me this morning to discuss our third quarter earnings and operating results are Terry Bassham, President and Chief Executive Officer; and Jim Shay, Senior Vice President and Chief Financial Officer. Scott Heidbrink, Executive Vice President and Chief Operating Officer of KCP&L is also joining us and will be available during the question-and-answer portion of today\'s call.
+Before we begin, I must remind you of the inherent uncertainties in any forward-looking statements in our discussion this morning. Slide 2 and the disclosure on our SEC filings contain a list of some of the factors that could cause future results to differ materially from our expectations.
+I also want to remind everyone that we issued our earnings release and third quarter 2012 10-Q after the market closed yesterday. These items are available, along with today\'s webcast slides and supplemental financial information regarding the quarter on the main page of our website at www.greatplainsenergy.com.
+With that, I\'ll now hand the call to Terry.
+Terry Bassham
+Thanks, Kevin and good morning, everyone. Thank you for joining us today. Before we discuss our third quarter results, I\'d like to express our deep concern for those affected by the devastation that resulted in Hurricane Sandy. It takes a tremendous effort to restore power after a disaster like this, and our industry has a rich history of assisting each other in times of need to serve customers across the country. We have employees in the Northeast assisting those utilities and our customers with the restoration efforts.  And we look forward to their safe return to Kansas City.
+Yesterday, we announced third quarter 2012 earnings of $145.8 million, $0.95 per share compared with earnings of $126.1 million or $0.91 per share for the same quarter last year. The increase in earnings includes the effects of weather and the record-setting heat our service territory experienced in July.
+In addition to the impacts of weather, there were a number of factors that affected our earnings, including a meaningful decline in weather-normalized retail megawatt hour sales. With 3 quarters behind us, we are nearing our 2012 full year earnings guidance range to $1.25 to $1.35 per share from $1.20 to $1.40 per share. Jim will provide you more detail on the quarter and year-to-date results in his comments.
+
+Earlier this week, our Board of Directors approved an increase in our quarterly common stock dividend, raising it from $21.25 per share to $21.75 per share up from $0.85 to $0.87 per share on an annual basis. We believe a competitive, sustainable and increasing dividend is an important driver in our total shareholder returns.
+Turning to Slide 4, I will provide an update on our general rate cases. In Kansas, KCP&L initial revenue increased request was $63.6 million, subsequently updated to $56.4 million. Kansas Corporation staff and its direct testimony recommended that the commission authorize a revenue increase of $27.5 million.
+A nonunanimous stipulation and agreement to settle a number of the issues in the case was filed by KCP&L, KCC staff and the Citizens Utility Ratepayer Board. Primary issue settled included depreciation rates and the agreement of the parties not to contest KCP&L\'s request for commission preapproval to file an abbreviated rate case for construction work in process, or CWIP, for the La Cyne environmental upgrade. KCC has not issued an order on the stipulation agreement at this time, but we are confident that commission will approve the stipulation.
+An evidentiary hearing on the remaining issues that were not part of the stipulation and agreement, including ROE, was held in early October. Kansas orders expected by December 17, with new rates projected to be in effect on January 1, 2013.
+In Missouri, our total initial revenue request for KCP&L and GMO were $105.7 million and $83.5 million, respectively. Since the initial filings, things have progressed according to schedule. The number of agreements that are subject to commission approval have been filed by KCP&L, GMO and the parties to settle some of the issues in both cases. These agreements settle multiple issues in a comprehensive manner without assigning specific value to individual items. Several, but not all of the agreements were approved by the MPSC earlier this week. An agreement entered into just yesterday, the parties settled a number of additional issues to result in a staff revised revenue increase of $53.5 million for KCP&L and $346 million for GMO. These amounts include the staff\'s recommendation of 9% ROE.
+I want to emphasize that parties have not agreed to an ROE, and that it is an important area still to be ruled on by the commission. From an order of magnitude standpoint, 100 basis points of ROE is worth $30 million to $35 million in revenue increase depending on the rate base and other true-ups. Beyond ROE, a number of other items remained open for the commission to rule on, including holding company cost of debt, a request for a transmission tracker, several matters relating to crossroads and a few other items.
+Several additional pieces of yesterday\'s agreement include the party\'s agreement, the return to the  traditional treatment of wholesale margins at KCP&L, an agreement that the companies will no longer seek a property tax tracker or in interim energy charge in the current KCP&L case. However, we continue to pursue the transmission trackers filed in the original cases, as they represent an important recovery mechanism that\'s key element of our strategy to reduce the impact of regulatory lag.
+The $34.6 million GPO -- GMO revenue increase also includes the staff-assumed ROE, and cost of debt issues yet to be ruled upon. Included in yesterday\'s agreement is approximately $19 million related to our proposed enhanced energy efficiency and demand side management programs under the Missouri Energy Efficiency Investment Act or MEEIA.
+Last December, GMO filed its initial request with the MPSC seeking to recover costs for new and enhanced energy efficiency in demand side programs under MEEIA. In October, GMO, MPSC staff and other parties filed a nonunanimous stipulation agreement with the MPSC to settle all the issues in the MEEIA request. And earlier this week, the agreement was approved by the commission. The agreement provides for a 3-year Energy Efficiency Investment plan that recovers both project at program costs and related 90% of throughput disincentive. At the conclusion of the 3-year plan, GMO will also be eligible to recover remaining throughput disincentive and incremental incentive through base rates set in the future general rate case based on program performance.
+
+We believe in creating a balanced framework to part with our customers and develop a sustainable cost recovery approach for our investment energy efficiency. We look forward to working with our customers under the newly established MEEIA programs to identify reliable and sustainable energy solutions.
+Evidentiary hearings for the remaining issues in the Missouri rate cases that were not part of the stipulation agreements, including cost of capital, capital structure, were completed in the late October, and true-up testimonial was filed this week. We anticipate the Missouri orders to be filed in January 2013 and new rates effective later that month. As a successful completion of these cases, it is integral to our strategy of delivering competitive shareholder returns. Jim will discuss the financial impact of our recent rate case activity during his remarks.
+In both Kansas and Missouri, the settlement in these cases reflect constructive working relationships with the parties, which allow us to minimize the need for litigation. While it\'s difficult to speculate on the final outcome of the rate cases, we believe we put forth solid cases and are expecting fair treatment.
+We believe that successful outcomes in these rate cases will provide us with the opportunity to reduce regulatory lag, enable us to avoid filing rate cases until we seek recovery of the expenditures on La Cygne environmental upgrade.
+Next on Slide 5, I\'d like to provide you with an update on Transource Energy, our joint venture with American Electric Power. As a reminder, we own 13.5% of the joint venture.
+In August, KCP&L and GMO filed an application with the MPSC seeking regulatory approval to transfer certain transmission property related to the 2 SBP regional projects to Transource. Separately, Transource Missouri, a wholly owned subsidiary of Transource, filed a request with the MPSC seeking regulatory approval to construct, own and operate the projects.
+Also in August, Transource Missouri filed a request with FERC, seeking incentive rate treatment and acceptance of a formula transmission rate, including a base ROE of 10.6% to recover the cost of current and future projects.
+Last week, FERC issued an order approving certain incentive rate treatments and conditionally accepted the formula transmission rate for Transource Missouri, subject to the outcome of an administrative hearing or settlement expected to occur during 2013.
+Authorized base ROE will be determined through the hearing of our settlement process. And in the Appendix, we provided a summary of incentive rate components that were requested in the case.
+Following approval of these filings, KCP&L and GMO must also seek approval from the SPP to novate the projects to Transource. The SPP will then submit its approval of the novation to FERC for final approval. We anticipate receiving necessary regulatory approvals, novate these projects by the fourth quarter 2013.
+By partnering with AEP, I recognize as a leader in the transmission business, we believe Great Plains Energy will be positioned to compete in the emerging competitive transmission market while further diversifying our earnings and footprint.
+Next, I\'ll turn to operations. Our transmission and distribution systems and generation fleet performed well during the third quarter. Our combined fleet equivalent availability factor, or EAF, for the quarter, was 91% compared to 89% for the same period last year.
+Although our Wolf Creek nuclear unit had another strong quarter running at 99% EAF. It\'s not been satisfied with its overall performance during the past few years. Additional nuclear regulatory commission oversight and efforts to comply with new industry-wide regulations prompted by Japan\'s Fukushima Power Plant event last year, we expect an increase in operating and maintenance cost at Wolf Creek. We, along with our co-owners, are evaluating options for the operation of the unit and are considering aligning with another fleet operator. We\'re in the process of soliciting proposals. At the end of the process, the owners may hire one of these companies to help with operations and keep you updated on further developments.
+
+Before I conclude my initial remarks, I would also like to mention our La Cygne environmental upgrade. Project remains on budget and on schedule for completion by the second quarter of 2015. Upon completion, we expect approximately 72% of our coal fleet will have emission-reducing scrubbers installed.
+With that, I\'ll turn the call over to Jim.
+James C. Shay
+Thank you, Terry, Good morning, everyone. I\'ll begin with Slide 8, which provides the year earnings per share reconciliation to the prior year.
+For the third quarter 2012, Great Plains Energy consolidated earnings were $0.95 per share, compared to $0.91 per share in 2011. There were a number of factors contributing to the $0.04 per share increase.
+First, it\'s important to note that the prior year included $0.09 in special factors relating to the effects of coal conservation and other related expenses due to Missouri River flooding. In addition to the absence of special factors, earnings increased $0.06 per share due to weather and $0.06 per share from lower interest expense.
+These increases were partially offset by lower weather-normalized demand of $0.09 per share and dilution of $0.09 per share relating to the issuance of common shares in June 2012 to settle our obligations under the equity units.
+For the 9 months of 2012, earnings were $1.34 per share, compared to $1.24 per share in 2011. Primary drivers impacting the $0.10 per share increase include first, the absence of $0.22 in special factors, relating to a number of items, including the Missouri River flooding, organizational realignment and voluntary separation program, an extended refueling outage at Wolf Creek and other costs associated with rate case outcomes. In addition, earnings increased $0.20 per share due to new retail rates in Missouri that became effective in May and June 2011 for KCP&L and GMO, respectively.
+The increases were offset by a net decline in EPS of $0.07 per share, reflecting lower demand offset by the impacts of weather. We also incurred higher expenses in 2012 of $0.09 per share relating to Wolf Creek, which included an unplanned outage in the first quarter of 2012. The offsets also include the combined impacts of $0.13 per share relating to higher interest expense and higher share count relating to the previously discussed issuance of common stock.
+Third quarter 2012 and year-to-date earnings for the Electric Utility segment can be found on the Appendix in the earnings release we issued yesterday.
+Next, turning to Slide 9, I\'ll provide comments on our retail customer consumption. For the quarter, total retail megawatt hour sales decreased 1.6%. Cooling degree days for the quarter were $0.18 -- 18% above normal and 6% above the comparable 2011 period. Compared to normal, third quarter pretax gross margin was favorable by approximately $37 million or about $0.15 per share. Year-to-date total retail megawatt hour sales decreased 2%. Compared to normal weather, positive pretax gross margin impact of weather was approximately $54 million or about $0.23 per share.
+On a weather normalized basis, retail megawatt sales for the quarter declined by 4.2% compared to 2011. The industrial sector experienced the most significant decline among our 3 sectors with a 5.9% drop in demand. We believe over half of this large drop in industrial sales is due in part to the temporary shutdown of Ford Escape\'s assembly line to retool for the production of the transit commercial van, which also affects suppliers in the regions.
+In addition, there were a few plant closing in our service territory, including a bottle manufacturer and a coffee plant. Weather normalized retail megawatt sales declined in the residential and commercial sectors by 3% and 4.5%, respectively. We believe we\'re beginning to see the impact of customers to choose -- choosing to buy new, more efficient air-conditioning units and pulling forward replacements at a quicker-than-normal pace.
+
+Like others in the industry, we may be seeing more than just a change in customer behavior during periods of extreme heat and challenging economic cycles and possibly the more lasting effects of energy efficiency standards for major household and commercial end users -- uses, such as air conditioning and light fixtures.
+Year-to-date, weather normalized demand has declined by 1.5%. And as a result, we are revising our full year projection from 0.5% growth to a 1.1% decline. Our revised expectation assumes flat year-over-year weather normalized sales in the fourth quarter.
+Although demand results were challenging for the quarter, we continue to see positive longer-term developments in our service territory, including ongoing improvements in housing starts and a reduction in the unemployment rate to 6%.
+Turning to Slide 10. We continue to maintain a strong liquidity position during the quarter. As of September 30, 2012, approximately $760 million of capacity remained on the company\'s $1.25 billion of revolving credit facilities. Given our 2013 maturity schedule in outstanding commercial paper, we continue to evaluate a number of refinancing alternatives and expect to issue long-term debt for both KCP&L and GMO in 2013.
+As we\'ve indicated in the past, improving the company\'s credit metrics at sustainable and higher levels is a key goal. The credit metrics continue to improve, and we were pleased with the increase our cash dividend as Terry discussed earlier.
+We continue to believe, if we receive fair and constructive rate case outcomes in our rate cases, we do not expect to issue additional equity through the end of 2013. Beyond 2013, if we have a need to issue equity that would support our credit rating and true up our cap structure, we would likely try to target the issuance to be introduced in the true-up base in the general rate cases to bring the La Cygne environmental expenditures into rate base.
+Next, turning to Slide 11. As Terry noted, we are narrowing our 2012 guidance range to $1.25 to $1.35 per share, or $1.20 to $1.40 per share. We would expect to be at the lower end of the range, if there was some combination of an unexpected significant decline in demand, extreme weather or unanticipated charges associated with the rate case orders.
+2013, we plan to provide earnings guidance in connection with the announcement of our 2012 year end results in February. Moving into 2013, we continue to target 50 basis points of normalized lag in our regulated operations, as our primary financial target. Generally speaking, $0.10 in earnings per share is a reasonable proxy for 50 basis points of regulatory lag. One of the key factors we are monitoring is demand.
+As noted earlier, we are forecasting for 2012 a 1.1% decline in demand as compared to 2011. Since the kilowatt hour sales used to determine final customer rates are generally based on the historical test year, without any growth, our new rates could potentially have up to 50 basis points of embedded lag based on demand.
+On the regulatory front, one of the key areas of focus is wholesale margins. Current amount built in the KCP&L\'s Missouri rates is about $46 million or the 40th percentile determined in the last rate case. The inability to achieve this target negatively impacted our 2011 and 2012 year-to-date results. As structured, one of the settlements Terry referenced contains a significant adjustment for wholesale margins to reflect current market conditions.
+In addition, the parties have agreed to no longer track off-system sales by eliminating the wholesale margin cap. If approved by the commission, we believe this to be a meaningful improvement in our rate structure moving forward.
+In addition to the wholesale margin cap, trackers per transmission cost and property taxes are key elements of our strategy to achieve 50 basis points of lag. For 2013, we are forecasting cost increases relating to these areas as compared to our test year period.
+
+As Terry noted, we requested trackers for both cost of service elements in our current cases. As part of the settlement agreement, we agreed to withdraw our request for a property tax tracker and are continuing to pursue a transmission tracker in connection with the ongoing rate case proceedings.  Although as trackers don\'t provide a cash benefit, they are an important recovery mechanism and a key element of our strategy to reduce earnings per share lag.
+Regarding Wolf Creek, we expect to incur operating and maintenance costs to address the oversight and plants\' performance improvement matters Terry discussed. These costs will be higher in the Wolf Creek cost, included in our test year period. Combined potential impacts of demand, Wolf Creek expenses and other costs of service increases represents approximately 50 to 100 basis points of regulatory lag pressure moving into next year. Achieving successful regulatory outcomes with respect to the remaining items in our rate case, along with overall retail and wholesale sales growth, are important to help offset this lag.
+In addition, we plan to continue to manage the business tightly to mitigate cost increases, while maintaining our overall high level of system reliability and performance.
+In summary, we remain committed to targeting 50 basis points of regulatory lag for 2013. I wanted to provide some additional clarity on several key areas of focus we are managing.
+I\'ll now turn the call back over to Terry.
+Terry Bassham
+Thanks, Jim. In closing, we remain focused on our simple vision of being a reliable regional utility for our employees\' customers and shareholders. By executing on a strategy of providing operational excellence, tightly managing cost and maintaining a diligent regulatory approach, we believe our team of dedicated employees can deliver a high-quality service to customers and create competitive long-term shareholder returns in the years ahead.
+Thank you for your time this morning. And we look forward to seeing many of you next week at EEI. Jim, Scott and I would now be happy to take your questions you may have.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from Paul Patterson with Glenrock Associates.
+Paul Patterson - Glenrock Associates LLC
+I wanted to sort of go over these regulatory lag numbers that you guys now have. How do we think about -- I mean, you mentioned that you\'re now looking at, I think, at 1.1% negative growth for this year. How should we think about next year?
+James C. Shay
+Well, the message we tried to communicate is that we\'re just not really providing our view of demand for next year. We\'re basically just communicating that the way the test year is set up and how kilowatt-hour sales, generally, are based on last year\'s actuals, if the math works out that -- when we get our rates set. And it should be based on historical kilowatt-hour sales with 1.1% decline in sales this year. We\'ll have 50 basis points of embedded lag kind of in our current rates, which could be mitigated by an offset by growth next year, but we haven\'t come out with our view. But generally, with a rate case true-up, you don\'t have lag going into the following year, but just with the decline we\'re seeing this year, there\'s that potential for embedded lag.
+Terry Bassham
+Obviously, when we give our guidance, we\'ll be describing what kind of growth is embedded in that guidance at that time.
+Paul Patterson - Glenrock Associates LLC
+Okay. Any thoughts about new regulatory regime in terms of decoupling or something? Or -- because it does seem that there is some energy efficiency efforts. Obviously, I guess, passively -- well passively, but in terms of your customers. But also these efforts on the part of the regulators or the legislature, et cetera. How should we think about that?
+
+James C. Shay
+Well, obviously, those are things that have happened in other jurisdictions, and we\'re always open to have those conversations with regulators, legislators, our fellow utilities in the state. Right now, I would say that, that\'s not something we\'re currently discussing in the near term. But as we continue to see what\'s happening with demand, different issues like that, that have been addressed in other states are certainly things we\'re watching and would be talking about, not necessarily though in the near term, I would say.
+Paul Patterson - Glenrock Associates LLC
+Okay. The ROE, is there a possibility that, that might be settled, or is that going to be left as it often is to the commission, do you think, in the Missouri case, I\'m sorry?
+James C. Shay
+Well, there\'s always a chance of settlement until the order comes out. I would say based on where we stand in the process and the time and the settlement that have been filed that, that\'s likely to be finally decided by the commission.
+James L. Dobson - Wunderlich Securities Inc., Research Division
+Okay. And then on Transource, I believe there\'s a hearing procedure in terms of the formula rate plan they had. In some -- I know they\'re instituting some of this stuff for the purpose of the filing, but it seems like they also are calling into question the need to review them, at least, in some sort of a additional procedure. Could you just sort of outline the timing on that and what we should be looking for?
+James C. Shay
+The timing for the setting of the ROE?
+Paul Patterson - Glenrock Associates LLC
+Well, I believe that they -- in terms of the formula rate plan, I think the ROE was part of that. My understanding was that they indicated that there was issues of material fact that cannot be resolved before the record. And that they believe that the formula rate plan and protocols might have to be reviewed because of determining whether they\'re just and reasonable, what have you.
+Terry Bassham
+I don\'t -- I mean my belief of what the order said basically was that we were going have a separate hearing on ROE, base ROE as it is to the extent that, that gets done, it will be done in 2013. Probably, early midyear, certainly, before the Missouri process is over.
+Operator
+Your next question comes from Paul Ridzon with KeyBanc.
+Paul T. Ridzon - KeyBanc Capital Markets Inc., Research Division
+Just to clarify in Missouri, there\'s basically agnostic to wholesale sales at this point?
+James C. Shay
+Well, what included in the settlement that was filed yesterday, we agreed on a number of issues that resulted in an agreed revenue requirement in connection with that group of issues. And the agreement around structure is that, that\'s embedded, which is what we used to do. And we\'re no longer going to attract those. So to the extent that we over-performed with what\'s embedded, it\'s just part of the revenue requirement we keep to the extent that we underperform, like the old mechanism, we would lose. We\'ve done away with kind of the one-sided piece of that mechanism. But again, the bottom line is that that\'s embedded in the overall number that was part of that settlement. And it does also -- the main issue there, Paul, is that it was -- part of that negotiation was offset based upon current market conditions, which obviously have changed over the last 18, 24 months since it was set last time.
+Paul T. Ridzon - KeyBanc Capital Markets Inc., Research Division
+You really don\'t have any idea what that number is because it\'s messed up with a bunch of other issues?
+Terry Bassham
+Well, obviously, we have a sense of it. That was based on our negotiations. But, the parties didn\'t have to agree on what that single number was. It was part of the overall total. Again, the key there for us and for investors to know is that it was set based upon a visual of the current market as opposed to previous numbers or previous periods.
+
+Paul T. Ridzon - KeyBanc Capital Markets Inc., Research Division
+And you\'re comfortable based on the current market there?
+Terry Bassham
+We are, we are.
+Paul T. Ridzon - KeyBanc Capital Markets Inc., Research Division
+And just there\'s no way to revisit volumetric changes in rate case true-ups, that\'s correct?
+Terry Bassham
+Demand, you mean?
+Paul T. Ridzon - KeyBanc Capital Markets Inc., Research Division
+Yes.
+Terry Bassham
+We think volumetric. Yes, the way the process is set up, it\'ll be our job to manage around those numbers, which are set consistent with the current process in the state.
+Paul T. Ridzon - KeyBanc Capital Markets Inc., Research Division
+And then, as the final rate case outcomes come, and obviously, we\'re not expecting you\'re going to get your ask [ph]. But as the authorized [ph] comes in, if it moves incrementally lower, does that make achieving the 50 basis points that much harder just to less headroom?
+Terry Bassham
+Well, actually, the 50 basis points works off the ROE allowed. So we will be working toward our lag and minimizing the lag around that allowed ROE. It would obviously affect the overall allowed return, but the basis point lag piece of that is -- will be consistent with whatever the final allowed ROE is.
+Operator
+Your next question comes from Shahriar Pourreza with Citigroup.
+Shahriar Pourreza - Citigroup Inc, Research Division
+When you look at your load numbers for the quarter, can you decompose how much of that is really attributed to energy efficiency and conservation versus macro?
+Terry Bassham
+No, there\'s probably 3 things driving those. I mean, obviously, number one, we\'ve got the economy, things that are affecting it from a pure economic basis. We\'ve got weather, which sometimes the more extreme the weather, the more difficult to separate those factors versus actual economic effects. And then we do have this developing trend across the country -- I\'m sorry. At any rate, we do have this developing issue about trying to determine exactly how much of that is economy and how much of it is actual energy efficiency. I think it\'s pretty clear that as people replace equipment, and standards for that equipment continue to improve, that there is some effect to that. So all those factors are there. It\'s difficult to separate those out.
+Shahriar Pourreza - Citigroup Inc, Research Division
+Are these plant closures permanent or are they just temporary?
+Terry Bassham
+Well, there were 3 we mentioned, and they\'re just examples. The first one was temporary as Ford retools for a brand-new product. And actually, we\'ll see a little growth from that event because not only will we have a new product, but there\'s some other surrounding entities that will be doing some work there. The other 2 we mentioned were permanent. They were an old coffee plant, and a bottling company that did close down. So a combination of those. And those are just examples. Remember that our industrial load is not the largest part of our demand driver, but certainly, affected it in this quarter, it appears.
+James C. Shay
+Yes, and about the Ford plant closure, which is temporary, that had about a 2.5% impact, which we\'ll start to get back in the first quarter of next year. And that\'s just the plant impact and thus, it wouldn\'t also pick up impact on other suppliers in the region.
+Shahriar Pourreza - Citigroup Inc, Research Division
+Okay. And then let me ask you, the load numbers are obviously worse than expected, but the guidance wasn\'t really revised. Is this something you accounted for in your outlook?
+Terry Bassham
+Well, we committed to deliver. So certainly, we\'ve been working to offset the effects of that. We did have some weather which demands that as well. But I would say that the demand, the extent of the demand drop in the third quarter was certainly a bit of a surprise for us.
+
+James C. Shay
+And Shahriar, you\'re talking about the guidance, for the current year guidance?
+Shahriar Pourreza - Citigroup Inc, Research Division
+That\'s right.
+James C. Shay
+Yes, we\'re doing very well on the cost side of the equation. So if you look at the year-over-year O&M comparables, we\'re managing the business very tightly. So we\'re -- we\'re very comfortable with the range.
+Shahriar Pourreza - Citigroup Inc, Research Division
+Got it, got it. And then just one last question. When we -- if we assume we get a favorable outcome in the rate case and you get a favorable outcome with the OSS, I mean is it fair to say that we won\'t see you file for other rate case until, like what, the mid-2014, to coincide with La Cygne? Are you out of a rate case?
+Terry Bassham
+That\'s certainly our strategy. Again, until we see those outcomes, we always want to be cautious. But the plan, preference, I guess, better said, would be not to file again until La Cygne would be in place. It is set to be in service mid-summer, 2015. About that time period is also the time period we\'re entitled to ask for a fuel factor at KCP&L. But the timing of that case will be managed around a lot of those factors likely to be some time in 2015.
+Operator
+Your next question comes from Jay Dobson with Wunderlich Securities.
+James L. Dobson - Wunderlich Securities Inc., Research Division
+I wanted to talk a little more about these retail numbers as we look out to \'13. And I appreciate that you\'re not giving guidance for 2013 yet. But is there anything inside those numbers or trends that you\'re seeing that suggest it will change or improve? And I appreciate the industrial side with the Ford plant coming back. But you mentioned in your prepared comments that this was sort of replacement or accelerated replacement of maybe some AC units and the like. And that, that would actually suggest that this new lower level is sort of here to stay. So I\'m just trying to understand, although I know you\'re not giving guidance, what gives you, if anything, optimism that this\'ll improve in \'13?
+Terry Bassham
+Well, certainly, if you look at the metro and regional information around what\'s happening here, it\'s very positive. We have housing starts, which are up. We have unemployment, which is down. We have a lot of economic development going on. And so from that perspective, we feel good about the Kansas City region. Certainly, on a shorter term basis, we have -- we\'ve seen in this quarter some industrial, if you will, closings. But again, Ford starts backup, we think we have positive trends from a macro level basis. So I don\'t think that we anticipate the kind of numbers you see in the third quarter to be consistent. But certainly, it\'s an indicator that we continue to have a sluggish short-term economy that we\'ve got to deal with, plan around and manage.
+James L. Dobson - Wunderlich Securities Inc., Research Division
+Got you. Okay, fair enough. Maybe then turn it around a little bit. If you do get reasonable outcomes in the case, but we see, maybe not the decline in sales, but maybe flatter sales than you\'re expecting and hence, the 50 to 100 basis points of sort of embedded lag still exist. Can you talk a little bit about some of the levers that you have to pull in \'13 to bring you back to that 50 basis points of lag, which you\'ve committed to, which I appreciate is very important to you. But maybe it\'s another way of saying, how much of the cost reductions you\'ve done this year are actually durable and not delays. And then which of these -- what else can you do incremental to that?
+Terry Bassham
+Well, certainly, as this year has gone, we have managed cost extremely tightly around expected growth and around our expectations to continue to provide great quality service, reliable service to our customers. As we move forward, if growth is not what we expect, obviously, there is some opportunity there around the lack of growth to manage down cost consistent with that lack of growth. We\'ve committed to live within our means, i.e. the result of these rate cases will set a cost of service out that we obviously clearly know we need to match. And then we\'ve got the ability to manage capital projects and other things that are related to, again, expected growth that may not be developing. As a result, you manage all those things down consistent with not only our current regulatory approvals, but also our, maybe, revised expectations around growth, both on a capital and on an ongoing O&M perspective.
+
+Operator
+Your next question comes from Brian Russo with Ladenburg Thalmann.
+Brian J. Russo - Ladenburg Thalmann & Co. Inc., Research Division
+Correct me if I\'m wrong. But I\'m sensing from your comments on the embedded lag on demand and Wolf Creek expenses, that it seems like your confidence level in the 50 basis point target reg lag in \'13 is less than it previously was. Can you just comment on that?
+Terry Bassham
+The way I would describe it is, absent the demand issues, we remain very confident we can manage to the numbers. Although, we do have a couple of things, such as demand in the Wolf Creek piece that are challenges, and we want to be transparent about those challenges. We\'re committed to the numbers. We\'re going to work extremely hard to get there. But if we see a larger disconnect on demand than we anticipate, we\'ll have to manage that in the context of continuing to provide solid, reliable service to our customers, which we\'ll always continue to do. I hope that kind of answers your question.
+Brian J. Russo - Ladenburg Thalmann & Co. Inc., Research Division
+Yes. And how important is the transmission tracker to you achieving your target of 50 basis point lag?
+Terry Bassham
+The transmission tracker is probably not as critical in \'13 as some other things. The transmission tracker is important because of the ongoing nature of transmission expense and the volatility or increases we could see over time. We\'re continuing to try to work through the processes and regulatory mechanisms to manage our business on a very reliable basis and not have to file rate cases and single issues, which may be a little more volatile, occur. And so it\'s important long-term. Transmission may, and it\'s important next year, it may not be as important as some others.
+Brian J. Russo - Ladenburg Thalmann & Co. Inc., Research Division
+Okay, your 9 months year-to-date EPS is $1.34, and the mid-point of your \'12 guidance is $1.30. I guess, that implies, you\'re expecting a fourth quarter loss on earnings.
+Terry Bassham
+No, not necessarily. I mean, if you look at our historical numbers. Certainly, the fourth quarter is our softest quarter. But we want to provide, again, transparency around things that could happen. We have rate cases. They\'re not completed. We had demand in the third quarter, which was a little bit of surprise. And we are headed into a winter storm season that could have some effect as well. So we\'ve been cautious in that regard. But no, if you look at our past fourth quarters, they\'re soft, but not necessarily expecting, on ordinary basis, those kind of numbers. It would be based on the 3 factors I mentioned primarily.
+James C. Shay
+And in my comments tried to emphasize that there might be some combination of extreme weather, maybe a storm. Rate case charges associated with the -- is finalizing the rate cases that we\'re not currently anticipating or if we\'ve got a forecasted flat demand for the fourth quarter, if there were a significant retrenchment in demand in the fourth quarter, those are the types of things that might pull us down to the lower end of the range. But we\'re very comfortable with the overall range.
+Brian J. Russo - Ladenburg Thalmann & Co. Inc., Research Division
+Okay. And just to be clear, the general rate case strategy, when will you be filing the abbreviated rate case?
+Terry Bassham
+In Kansas on La Cygne?
+Brian J. Russo - Ladenburg Thalmann & Co. Inc., Research Division
+Yes.
+Terry Bassham
+It will be in -- within the 12 months of 2013. So it\'s -- you have a period of 12 months after finalizing this current rate case. So it will be some time next year.
+Brian J. Russo - Ladenburg Thalmann & Co. Inc., Research Division
+Okay. So in Kansas, you\'re going to file next year, probably late in the year for an abbreviated rate case and then in Missouri, you\'re likely to file in mid-\'14, for rates in mid-\'15?
+
+Terry Bassham
+No, we\'re not really committed to a time period around Missouri. Again, we\'ve got several factors that are important. We are confident around La Cygne going into service mid \'15. But we\'ve also got some other factors, such as the right to ask for a fuel factor in KCP&L and some other things that may drive the actual filing date. But it\'s likely to be some time in \'15. It\'ll be around those factors. And just as a reminder, the abbreviated case in Kansas is intended to cover quip only, which is the benefit of that kind of filing.
+Operator
+Your next question comes from Charles Fishman with MorningStar.
+Charles J. Fishman - Morningstar Inc., Research Division
+On the -- you indicated your concern on Wolf Creek cost for next year. Is that a reliability concern? Or is that a concern over just an increase in O&M costs and then follow that?
+Terry Bassham
+No, it\'s not a reliability cost. Our unit, in fact, has continued to run very well. We\'ve had, and been a bit disappointed, in some outage issues that have gone longer than expected and has resulted in some increased NRC oversight. And along with that NRC oversight include some cost to respond to that, as well as some cost to address some of the issues that came up through that process. And so we\'re looking at those kinds of issues. The unit has continued to run very well once it came up from its last outage.
+Charles J. Fishman - Morningstar Inc., Research Division
+And the next refuel for Wolf Creek?
+Terry Bassham
+It\'s in the spring. Starts in February, I believe.
+Charles J. Fishman - Morningstar Inc., Research Division
+Okay. And then on the property tax tracker that you have taken off the table. What was the objection that? Because it seems like that\'s something that is totally out of your control that would be ideal for a tracker.
+Terry Bassham
+Well, it\'s not property tax that is the issue. In Missouri, the parties feel pretty strongly, that trackers are \"single issue rate making\" and they oppose those in general. For example, we have a tracker in MEEIA that was approved by the legislature. Fuel factors, which are a form of tracker/rider approved by the legislature. They have a pretty firm position that they don\'t agree with trackers as a regulatory mechanism. Whereas in Kansas, there\'s not that opposition. In fact, we\'ve got the property tax rider or tracker in Kansas. So it\'s more of a regulatory position than it is a property tax or single item issue.
+Operator
+Your next question comes from Mike Lapides with Goldman Sachs.
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+I want to beat the demand issue, to beat that dead horse as much as I possibly can. Can you tell us, what was the demand? How the -- what demand level gets used in your rate case? Meaning, is that a historical demand? Is that a projected demand? How does that demand level differ from what you actually have seen in the last 9 months?
+Terry Bassham
+The demand is actually historical.
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+Weather-adjusted?
+Terry Bassham
+Yes.
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+Okay. So demand in -- just the weather-normalized raw megawatt hours in first 9 months 2012 tracking above or below what was filed in the rate case?
+Terry Bassham
+Below.
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+Okay. So unless you get growth that creates natural lag, even if demand\'s flat year-over-year?
+Terry Bassham
+Yes, that was the kind of the outline Jim was -- that we\'re making, absolutely.
+James C. Shay
+Yes and in my comments, Michael, we\'re 0.9 negative year-to-date. So -- excuse me, we\'re minus 1.5 year-to-date. So projecting flat for the fourth quarter is the minus 1.1% that creates the potential for 50 basis lag --  50 basis points of embedded lag in the rates.
+
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+Got it, okay. One other thing, what O&M -- what drove the year-over-year change in O&M in the third quarter?
+James C. Shay
+It was a $12 million number. We had fewer outages during the period. But when you kind of go line item by line item, a significant reduction in support in other areas as we tried to tightly manage the cost of the business.
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+Got it. And if you were to receive unfavorable rate case outcomes, and it doesn\'t sound like that\'s, the path this is going down. But just in case, what -- how does that impact your thoughts on both O&M and capital?
+Terry Bassham
+Well, again, when we talk about living within our means, what we\'re talking about is living within that cost of service. Now the -- so the result of the outcomes of those cases would be that we would be responsive to them. And if something was disallowed, we wouldn\'t do that thing. What you\'re seeing, though, in these settlements is that\'s not really what\'s happening. And if we\'ve gotten a good response through the settlements, and the 2 real issues left are we\'re going to have to manage around lag related to demand and cost that have occurred post case and whatever our returns are. And the returns, again, drive returns on equity there, but don\'t directly affect allowed cost of service issues.
+Michael J. Lapides - Goldman Sachs Group Inc., Research Division
+Got it. And one last thing. And Terry, this is a little bit more longer-term focused. So La Cygne capital spending remains elevated, obviously, in \'12, \'13. You get closer to finishing the project through \'14. And then we get to 2015, and there\'s only probably a couple of months of spend on the project in 2015. I know it\'s a long way out and the world can change 5x between now and then. But come mid 2015, if I think about it, depreciation goes up a lot. O&M goes up a little to run the scrapper. If CapEx comes down a lot, are you setting -- is GXP setting itself up in a position to where your free cash flow profile could look significantly different when La Cygne is done versus what it is really looked like since you began Iatan 2 in 2005?
+Terry Bassham
+Yes. I mean, we have certainly had what we call strategic spend now for basically the 7 years that I\'ve been here, starting with the agreement around our comprehensive energy plan. And we\'ve been in a pretty heavy build cycle. And certainly, a combination of completing this last major environmental add. And the way demand has gone, probably no need to immediately build another large generating station of some sort. We ought to be in a very favorable cash position. We\'ll be looking at that point, hopefully, and needs for Transource. We\'ll also be, at that point, looking for opportunities around energy efficiency. The MEEIA rulings that were just approved relate to GMO because, currently, we don\'t need generation, if you will, that virtual generator we talked about for our KCP&L but at that time, we probably will, with opportunities for growth and use for that cash. But certainly, from a cash perspective, we would be in a little bit different cycle than we\'ve been over the last several years.
+Operator
+The next question comes from Steve Fleishman with Bank of America.
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+A couple clarification questions. So you had a 50 basis point kind of structural lag target even before the sales issues and the Wolf Creek issues came up. So when you talk about this 50 to 100 basis points, is that incremental to the kind of structural 50 that was already there?
+Terry Bassham
+Yes. I mean, I think it\'s pretty consistent among the industry that 50 basis points would be a favorable low level of natural lag. And what we\'re talking about of trying to outline what we\'re going to be working hard on, which is this additional impact of the way the rate cases work in connection with how the demand\'s working going forward. But kind of outlined investors what our chore is and how hard we\'re going to be working on that.
+
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+Okay. And then is there, on the property tax issue, how much when you file for the rider? Did you indicate how much property taxes are expected to go up in 2013?
+Terry Bassham
+No, no, we were trying to get several riders and trackers in place. We had saw a bump in property tax back when \'10[ph] went in place. We\'re trying to get riders and trackers on several issues that had been allowed in another instances. We weren\'t asking for things that someone hadn\'t got before, we had gotten this one in Kansas. So at the time, it was based on a desire to get those kind of things in place. We do anticipate an increase in property taxes next year. But those are the kind of things that we\'ll be managing.
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+Okay. And then on demand, do you have like a rough sensitivity that you use? I guess, you kind of gave it with the demand being equivalent to 50 basis points of ROE. But is there like a sensitivity to a 1% change in demand is equivalent to what in terms of earnings or ROE impact?
+James C. Shay
+Yes, 1%, we generally talk about 5% to 10% -- or excuse me, $0.05 to $0.10 in earnings per share. And it\'s interesting, last year, we had a decline of 1%, which had a $0.03 impact because we got growth in the third quarter of last year. This year, we had a decline in the third quarter. And so that same 1% will have about a $0.10 per share impact. So we use $0.05 to $0.10 per share as kind of a proxy.
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+Okay. And then just to finish the loop on that. Going into this year, your plan for weather normal growth was 0.5% or 1%?
+James C. Shay
+It was 0.5%.
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+Okay. And now it\'s about 1% down?
+James C. Shay
+Yes, that\'s correct.
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+Okay. So when you gave the 50 basis point lag, you would\'ve be thinking it was kind of 0.5% growth?
+James C. Shay
+That\'s right. And then some level of growth off the 0.5%.
+Steven I. Fleishman - BofA Merrill Lynch, Research Division
+In 2013 as well?
+James C. Shay
+Yes. Well, but we didn\'t give that specifically as a target. But the industry in general, everyone was expecting or may still be expecting some growth in \'13. But I think everybody\'s in the process of developing the view of \'13.
+Operator
+[Operator Instructions] Your next question comes from Ashar Khan [ph] with Visium.
+Unknown Analyst
+I just wanted to just go over -- I don\'t have my slide in front of me. But if I\'m right, Terry, I just want to go over the  -- if you were earnings on a 10% ROE, am I right, the earnings level were like $1.80, am I right, from a slide that you had provided if there was 0 lag or something?
+Terry Bassham
+You\'re looking at, for 2012, in our previous webcast, regulatory potential, $1.83, which is based on the 10%. And that\'s before a range of lag associated with the regulatory business and then there\'s a $0.14 related to nonregulatory costs that you back off, and I\'m familiar with the slide you\'re referring to.
+Unknown Analyst
+Okay. And so I just want to -- just bear out so I understand this, I don\'t get this wrong and everything. Assume that the number was $1.80 just for rounding purposes, you had mentioned that your goal was to have a 50 basis point financial lag. So that would have meant an earnings power of $1.70, right? Am I right, that\'s my first assumption. Am I apples-to-apples?
+James C. Shay
+For 2012, you recall, has got a share count that is an average of half year for the 17 million of new shares issued. So I don\'t know if you\'re kind of thinking -- are you trying to build a...
+Unknown Analyst
+Yes, I\'m just trying to build...
+James C. Shay
+Maybe let\'s step back and kind of figure out where the question\'s going because I do want to construct a model. But generally, what\'s your question and where would you like to take this?
+
+Unknown Analyst
+Okay. So I\'m just trying to understand okay so there might be more lag from the shares count, so fine. Then, you\'re saying, that say if there a 1% lower demand, how much is regulatory lag there is that you mentioned? Is it like 50 a basis points ROE?
+James C. Shay
+Well, there\'d be 50 basis points of lag embedded in the rates, which could be covered by some level of growth.
+Unknown Analyst
+Okay. So if I assume 0 growth, there\'s another $0.10 gone?
+James C. Shay
+I\'m not interested really in constructing a model on the call.
+Terry Bassham
+Yes, but I\'m just trying to go assumptions wise. If I assume, I\'m not saying you\'re assuming. If I assume there\'s 0, there\'s $0.10 of earnings gone. Is that correct?
+James C. Shay
+There is $0.10 or 50 basis points of lag embedded in our rates.
+Unknown Analyst
+Understood. So you\'re saying, right, if I assume 0 growth, there\'s $0.10 of earnings degradation.
+Terry Bassham
+That\'s in and on itself on that single item, that\'s the calculation.
+Unknown Analyst
+Now, can you just mention, on Wolf Creek you mentioned that you\'re going to be -- there\'s another regulatory lag of 1%. Did I hear that correct or wrong?
+Terry Bassham
+No, we didn\'t say an amount of lag. We said it was additional cost related to our work there. We didn\'t give a specific number.
+Unknown Analyst
+How much are -- can you share with us what those additional costs are?
+Terry Bassham
+No, we\'re still -- at this point, we\'re still working through those numbers in that work. We don\'t have a specific number. We\'ll be obviously talking about those kinds of things when we provide guidance next quarter.
+Unknown Analyst
+Okay. But those are going to be additional numbers which were not anticipated before?
+Terry Bassham
+Well, they were certainly not as we originally anticipated, that\'s correct.
+Unknown Analyst
+Okay. So that\'s going to produce another lag?
+Terry Bassham
+Well, not necessarily. What we tried to describe are the things that we\'re faced with that we\'re working on. We\'re not giving guidance today because we\'re going to be working on ways to offset many of those issues, if not all of them. So what we’re trying to give investors a view of, of the challenges under, but were not suggesting that everything that we\'ve listed is automatically a lag because we\'re going to working to offset those.
+Unknown Analyst
+Okay, fine. But Terry, can you just tell us what is -- what are you working on to offset those? Can you help us that?
+Terry Bassham
+Cost containment. Absolutely. To the extent we had planned in that same plan to spend money related to growth. If we\'re not getting growth, then obviously, we won\'t need to spend money on those areas. We\'re obviously looking at other capital projects and other projects that we would have originally planned to take on because we expected to have the revenue to do that. We\'ll be looking at how to trend those back down. We will be doing all the things that we as the utility would normally do when we have a level of growth different than what we expected, positive or negative, in this instance, it happens to be negative.
+Unknown Analyst
+Okay. But how much O&M, can you just tell me? Because capital does not help earnings to meet it in the near term, it helps you in a long-term basis. How much of O&M is there available to cut, can I ask?
+Terry Bassham
+Yes -- no, we\'re -- again, we\'ll be describing all those things when we provide guidance for next year. We\'re not giving that kind of guidance today and we\'re not through doing our work. We\'ve obviously got rate cases that aren\'t finished. We\'ve got demand, which has shifted a bit on us in this last quarter. We\'re going to watch and see what happens this quarter, come to our final conclusions around next year, along with the rate case outcomes and put together a clear and succinct guidance range with all of the elements of that you\'ll need when we do that. We certainly wouldn\'t want to give pieces of that until the work\'s complete today.
+
+Terry Bassham
+Okay. So it could be -- it is a pretty hard task the way you\'re pointing out, right? I\'m just trying to think through this.
+Terry Bassham
+I do you think you\'d find a utility in our industry in this country today that doesn\'t think we\'re all faced with a tough task. At this point, dealing with low growth issues, capital issues, regulatory issues. But that\'s what we get paid to do. And we\'re going to do a good job of it. And were going to provide solid shareholder returns as we go.
+Unknown Analyst
+Okay, okay, okay. My only point was that you started off your call with the goal of still achieving a 50 basis points. And then you laid out a lot of other stuff, which kind of indicated that goal is impossible to meet. And I\'m just trying to see if that is the case or not.
+Terry Bassham
+We did not say it was impossible. In fact, we said just the opposite. We said it is still possible and that is still our target. We said that we\'ve got some work to do and we think it\'s important to be transparent with shareholders about those kinds of issues. And so that\'s what we wanted to do today. We did not say it was impossible, and we do not believe it\'s impossible to continue to meet our targets.
+Unknown Analyst
+Okay. So we look forward to then the call to see on the possibility.
+Terry Bassham
+Absolutely, absolutely. Thank you.
+Operator
+Now we\'ll turn the call back over to Terry Bassham for closing marks.
+Terry Bassham
+Well, thank you, everybody, for calling, and thank you for your questions. Obviously, great questions related to all the issues that are facing us and facing our industry. And again, we appreciate your time. We, as always, want to be transparent, but we also want to be able to deliver a message that we\'re working hard to continue deliver on our goals as we move forward. I know many of you are going to be at EEI this coming week, so we look forward to seeing you there. Otherwise, have a good day. Thank you very much.
+Operator
+Ladies and gentlemen, thank you for joining today\'s conference. You may now disconnect.

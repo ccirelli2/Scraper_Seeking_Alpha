@@ -1,0 +1,199 @@
+Assured Guaranty Ltd. (NYSE:AGO) Q3 2012 Earnings Call November  9, 2012  7:00 AM ET
+Executives
+
+Robert Tucker – Managing Director, IR and Corporate Communications
+Dominic Frederico – President and CEO
+Rob Bailenson – COO
+Analysts
+
+Mark Palmer – BTIG
+Bill Clark – KBW
+Larry Vitale – Moore Capital
+Brian Meredith – UBS
+Raffi Tokatlian – Bridger Capital
+
+Operator
+Good morning and welcome to the Assured Guaranty’s Third Quarter 2012 Earnings Conference Call. All participants will be in listen-only mode. (Operator Instructions) After today’s presentation, there will be an opportunity to ask questions. (Operator Instructions) Please note this event is being recorded.
+I would now like to turn the conference over to Robert Tucker. Please go ahead.
+Robert Tucker
+Thank you, operator. Good morning and thank you for joining Assured Guaranty for our third quarter 2012 financial results conference call.
+Today’s presentation is made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995 and may contain forward-looking statements about our new business and credit outlooks, market conditions, credit spreads, financial ratings, loss reserves, financial results, future rep and warranty settlement agreements or other items that may affect our future results. These statements are subject to change due to new information or future events. Therefore, you should not place undue reliance on them as we do not undertake any obligation to publicly update or revise them, except as required by law.
+If you’re listening to a replay of this call or if you’re reading the transcript of the call, please note that our statements made today may have been updated since this call. Please refer to the Investor Information section of our website for our recent presentations, SEC filings, most current financial filings or for the risk factors.
+And, turning to the presentation, our speakers today are Dominic Frederico, President and Chief Executive Officer of Assured Guaranty Limited; and Rob Bailenson, our Chief Financial Officer. After the remarks, we’ll open the call to your questions. As a webcast is not enabled for Q&A, please dial into the call if you’d like to ask a question.
+I will now turn the call over to Dominic.
+Dominic Frederico
+Thank you, Robert, and thank you, all, for joining Assured Guaranty for our third quarter 2012 earnings call. During the third quarter, we continued to deal with the challenging business environment by pursuing our core strategies that have allowed us to achieve positive operating earnings every quarter through the financial crisis.
+These include discipline new business origination within the constraints of our rigorous underwriting and pricing standards, the recapture of business previously ceded to reinsurers, the purchase of our uninsured bonds in order to mitigate loss, improve rating agency capital, and acquire assets with attractive yields, the pursuits of recoveries for breaches of reps and warranties and residential mortgage securitizations and agreeing to the termination of selected transactions to reduce rating agency capital charges while retaining our premium income.
+Our operating income in the third quarter was $166 million, up dramatically from the $38 million in the third quarter of 2011 due primarily to higher net earned premiums, lower loss expense, and a lower effective tax rate on operating income.
+As most of you are aware, we’re now in the eight month of Moody’s review of our financial strength rating. Moody’s has stated that it anticipates resolving its review during the first half of this month. After publishing a scorecard in March, showing us solidly in the AA category, we cannot comprehend how Moody’s could consider it downgrade when we have only grown stronger since March through the $38 billion of exposure runoff, $85 million of present value new business production, and a greater certainty about the performance of our insured portfolio as it matures and amortizes.
+
+We believe that Moody’s arguments suggesting a possible downgrade are mainly subjective and unsupported by the facts. We are still in discussions with Moody’s and believe that there would be no justification for a downgrade. I know that many policyholders and shareholders have expressed the same view to Moody’s.
+Turning to third quarter production, Moody’s was ever due to finish its review every day of the third quarter and the market believes that announcement was imminent. This had a negative impact on our business production because many issuers and their advisers did not want to risk rating change between the pricing and the closing of a transaction.
+However, even with the Moody’s uncertainty and historically low interest rates, we continue to offer meaningful value to the market. This was evident in our strong third quarter performance in the secondary market where we have increasingly been asked to ensure substantial portions of bonds that were previously issued without insurance.
+Of our $35 million of total U.S. public finance PVP more than $7 million was gained through the secondary market, which is more secondary business than we did in the entire first half of this year. The quarter’s $500 million of secondary market par written was more than in any quarter since 2008.
+Our third quarter U.S. public finance gross par written totaled $3 billion and our target market of underlying single A transactions we had a very good year so far guaranteeing 31% of the transaction sold and 12% of the par.
+In September, we have made several strategic staff additions to support new business growth in our U.S. municipal group. We’ve hired three seasoned managing directors to lead our national new business efforts, drive our outreach programs to sales, trading, and syndicate desks and manage our western region public finance group in San Francisco. We also recruited another Director, accounted bond insurance underwriter to further strengthen our efforts in the west. These new contributors bring many years of experience in strong industry relationships to Assured Guaranty and we look forward to them helping us build on our leadership position.
+In U.S. structured finance during the third quarter, we guaranteed the senior notes of $225 million securitization of small equipment loans and leases by LEAF Commercial Capital. This transaction obtained a AAA rating based in par on the risk overset we provide as the control party and financial guarantor. The transaction proved the value for our insurance and should help us with additional asset backed business in future.
+In the international market, transaction lead times are very long and production from quarter-to-quarter and even year-to-year is lumpy. We continue to see increasing increase as banks in Europe are retreating further from infrastructure lending activity, which improves our position by making capital market solutions more important. We also continue to seek opportunities in the monoline replacement area and have targeted number of deals for 2013.
+Turning to loss mitigation and capital enhancement, during the third quarter we purchased $88 million of Assured Guaranty rev bonds in five transactions, whose average yield of 7.6% enhances our investment returns.
+Also in the quarter, we agreed to terminate seven transactions totaling $682 million of net par outstanding while still collecting 103% of the expected premium in augmenting our rating agency capital. In the RMBS area early stage delinquencies remained well below their January levels in all categories.
+Closing arguments on our Flagstar trials are scheduled for Monday, and as the first model line case to go to trial over claims tied to the bundling of mortgages that were sold to investors is being watched closely by a broad audience of interested parties. This case has already produced an important ruling by U.S. District Court Judge Rakoff, that a breach of reps and warranties does not have to cause the mortgage to default for us to obtain relief. Other courts have reached similar conclusions.
+
+Additionally, a trial dated May 2013 has been set for our UBS litigation. This case will be heard in Federal Court and this is an aggressive and favorable schedule compared to the normal length of time between the filing of litigation and the setting of a trial date. We also have a case that’s progressing in Credit Suisse in New York State Supreme Court, we’re in a ruling on a motion to dismiss, the judge ruled that we cannot seek certain types of damages, principally recessionary. We will appeal that decision.
+Our cause of action for breach of rep and warranties and breach of repurchase obligations and related damages however remain, which are critical components of the case. In public finance, there have been some interesting developments related to pension funding in California. In September, the state passed pension reform legislation that should help bring pension cost for future public employees more under control. We are pleased to see California take steps toward addressing a clearly unsustainable public pension system.
+On a local level, San Bernardino and Compton communities where we do not have general fund exposure have moved to treat pension obligation similar to other unsecured creditors as part of their strategy to address their fiscal challenges. We have been active in educating the general public about the reality of municipal bankruptcies and the value of our product delivers and such instances.
+Assured Guaranty was featured on two national news programs during the quarter, and we continue to look for opportunities to deliver our message, which is when you buy a bond, there’s no better way to make sure that you receive your timely payments and to make sure that it’s insured by Assured Guaranty. We will also be increasing this emphasis in our advertising or how our bond insurance has protected investors in these very real situations. We believe these efforts will have a positive impact on business production going forward.
+Looking at future opportunities, we recently commissioned a source media survey of municipal market participants. The responses confirmed that there remains demand for bond insurance and that that demand will increase once we have stable ratings and as interest rates rise and credit spreads widen to level us more consistently with historic levels.
+As the Fed appears more determined to keep rates very low until they see much more economic recovery, we are soundly positioned to capitalize on these opportunities based on our financial strength, market position and dedicated resources. We are confident about our ability to serve our markets and build our business based on our proven value proposition. We’ve also confidence that the foreign investors understand our true – true strength and that the value our Guaranty provides. And as always, we are committed to protecting policyholders and building a long-term shareholder value. Now, I’ll turn the call over to Rob.
+Rob Bailenson
+Thanks, Dominic, and good morning to everyone on the call. As Dominic mentioned, we had a significant increase in operating income this quarter. Operating income for the third quarter 2012 was $166 million or $0.85 per share compared with $38 million or $0.21 per share in the third quarter of 2011. The results reflect higher premium earnings, lower loss expense and a lower effective tax rate.
+In the third quarter 2012, refundings and terminations totaled $73 million and were the primary drivers of the increased in net earned premiums. This compares to total refunding of $27 million in the third quarter of 2011, the record low interest rate environment encouraged issuers to refinance or refund their debt obligations. In addition, our proactive efforts to de-lever the ensured portfolio continued as we’ve terminated certain policies resulting in the acceleration of net earned premiums.
+
+Total economic loss development was $64 million, half of which related to an increase in expected losses in Spanish sub-sovereign exposures. In third quarter of 2012, we downgraded several of these exposures. In the U.S. RMBS sector, development was modest in comparison to prior period. In addition, the company established additional loss adjustment expense reserves as we continued our loss mitigation efforts.
+As you know, economic loss development is different than loss expense due to the amortization on unearned premium reserve on transactions with expected losses. In the third quarter of 2012, the loss expense was $100 million, which was significantly lower than third quarter of 2011 loss expense up $254 million. Primary reason for the decrease is the effect of changing risk-free rates used to discount losses.
+In third quarter of 2012, risk-free rates used to discount losses did not change significantly and therefore had minimal impact on loss expense. However, in the third quarter of 2011, the significant decline in discount rates had a negative effect on loss expense of approximately $120 million.
+The effective tax rate on operating income was 23% for the third quarter 2012 and 32% for the third quarter of 2011. The effective tax rate varies from quarter-to-quarter due to the amount of income in different tax jurisdictions.
+Non-taxable jurisdictions generated operating income in third quarter of 2012 compared with operating losses in third quarter 2011. Year-to-date operating effective tax rate was 24%, which is in line with expectations for annualized effective tax rate.
+The other major drivers of operating income are generally consistent with our expectations. As always, I refer you to our press release and financial supplements for explanations and reconciliations of the non-GAAP financial measures that I’ve referenced in my commentary.
+I’ll now turn the call over to our operator to give you the instructions for the Q&A period. Thank you.
+Question-and-Answer Session
+
+Operator
+Thank you. (Operator Instructions) Our first question comes from Mark Palmer with BTIG. Please go ahead.
+Mark Palmer – BTIG
+Good morning.
+Dominic Frederico
+Good morning.
+Mark Palmer – BTIG
+On October 31, Moody’s in their announcement that they would be coming out with a decision on the outcome of the review noted that they had – that it was partly because of Hurricane Sandy and partly because they wanted to give the company an opportunity to provide additional info, given that as Dominic noted, we’re eight months into this review. What additional information are they looking for, was that the company’s third quarter results or is there something else that they were referring to?
+Dominic Frederico
+It was more than third quarter results, Mark. So, how this works is, first and foremost, they typically give us a capital model and then as we go through the capital model and breakdown the exposure by segment in our portfolio, we then try to look at assumptions and results. We recently and I’ll say within the last two weeks, got an overall capital assessment and then as we started to break it down by component risk in the portfolio, obviously that generates a lot of questions. At the same time, there is a lot of verification of data that’s required. Obviously, when you look at a portfolio of our size and the number of transactions that it holds, and not every deal is exactly as the deal would be if you just say look up a queue set because theoretically we can have indemnity agreement that provides greater protection, higher subordination that has to be included.
+So, it’s really a matter of analysis of portfolio, capital charge, verification of data, understanding of assumptions, rerunning those assumptions against our own model to see if we can reconcile results. So, I would say the information was more in the term of feedback of verification, assumption analysis and rechecking of results.
+
+Mark Palmer – BTIG
+Okay, thank you. Also, you mentioned that you’ve got the upcoming trial scheduled with UBS and also the ongoing Credit Suisse action. Was there any change at all in status of communications with those counterparties during the quarter?
+Dominic Frederico
+Nothing, I’m able to discuss, obviously we would expect once any decision is reached especially to the positive we would expect dialogue to pick up substantially. As the trial goes on, obviously there’s been some pretty good rulings that we feel very strongly about, but I think a verdict will be the biggest enzyme or accelerator in terms of getting further discussions. But, we have active dialogue, as you can imagine continuing across a lot of fronts.
+Mark Palmer – BTIG
+Very good. Thank you.
+Dominic Frederico
+You’re welcome.
+Operator
+(Operator Instructions) Our next question comes from Bill Clark with KBW. Please go ahead.
+Bill Clark – KBW
+Good morning, everyone.
+Dominic Frederico
+Good morning, Bill.
+Rob Bailenson
+Good morning.
+Bill Clark – KBW
+Dominic, in your opening comments, you mentioned some deals, where issuers were concerned about closing it before or in front of a rating agency decision. What happened to those transactions? Did they go ahead and issue without insurance? Are they still in the pipeline or something else?
+Dominic Frederico
+I’d say majority of them went ahead and issue without insurance. Obviously, as we’ve talked about in a lot of calls, today, the insurance market is a buyer’s market, not a seller’s market and that’s why it’s encumbered upon us to continue to go out and talk about value, contact each individual component of the market being bankers and issuers.
+And the nice thing about our business is even if you miss out on your opportunity to do the business in the primary market, obviously that opportunity comes back to you in some cases and as we noted in the quarter, significant volume in the secondary market. And remember, the what I’ll call return dynamics are very different in the secondary market than the primary market.
+In the primary market, you’re trying to sell insurance and convince the issuer and the banker that insurance is the way to go. And the secondary markets, somebody is coming out and try to buy your insurance. So, obviously the opportunity and we try to go back and look and say, okay, we’re able to create this kind of a pricing mechanism for secondary. Those did not indicate that the issuer potentially less money on the table in terms of really valued savings when we tried to go back. Once again to communicate that to the banking public.
+But long answer to a short question, yes, I’d say the majority go out and then we see those opportunities hopefully in the secondary market.
+Bill Clark – KBW
+Okay. Thank you very much.
+Dominic Frederico
+You’re welcome
+Operator
+Our next question comes from Larry Vitale of Moore Capital. Please, go ahead.
+Larry Vitale – Moore Capital
+Thanks. Good morning, Dominic.
+Dominic Frederico
+Hey Larry, how are you?
+Larry Vitale – Moore Capital
+I’m good. Did you receive any rep and warranty payments, recovery payments in the quarter, look like they were $95 million, but maybe I didn’t read the supplement right?
+Rob Bailenson
+That’s correct, Larry. We received $95 million.
+Larry Vitale – Moore Capital
+Okay. Can you tell us anything about those?
+Rob Bailenson
+Primarily, they’re related to the loss sharing arrangements that we have with both Bank of America and Deutsche Bank.
+Dominic Frederico
+There were payments outside those two agreements. I think that number is about $10 million.
+Rob Bailenson
+It’s 10.
+Dominic Frederico
+So, the majority of the payments, Larry, come out of the shared loss agreements that we have and there was another roughly 10 that came out of none agreed upon settlements where we still see activity in terms of payments.
+
+Larry Vitale – Moore Capital
+Okay. And then and I just wanted to ask you about your exposure to both Spain and Greece, it looked like your Greek exposure fell off. I’m not sure what happened there. And then if you could give us any color on your Spanish exposure, that would be great. Thanks.
+Dominic Frederico
+Sure. Well, on Greece, as you’re well aware, we fully recognized the loss over the last few past quarters and in the current quarter we physically settled it. So, we can happily say, we have no exposure in Greece going forward, we have no contingent liability. Everything has been paid for, done, and reflected through the financial statements. In terms of this Spain, as we said we have no real – what I call solid exposure, we don’t have any government direct exposure.
+However, we have a couple of deals where the sub-sovereigns or the regions do rely on the central government for some level of payment, principally we have toll road that basically gets paid a shadow toll, there is no tolls collector on the road, but they get paid a shadow toll and ultimately comes through the regional government, but of course the regional governments are typically supported by the central government, and we’ve taken a very conservative view and everyone has an opinion on Spain and I’m sure, Larry, if I ask you what yours is, it’s probably different than a lot of folks. So, we did internally downgraded.
+Once we downgrade something then we had to put it to our loss filtering system. Once we do that, and we got to come out with our scenario analysis and put probability waitings on that and ultimately resulted in us putting in loss reserves for both a convention center at Valencia and this toll road.
+Larry Vitale – Moore Capital
+Okay, all right. Thanks for the color on that.
+Operator
+(Operator Instructions) Our next question comes from Brian Meredith of UBS. Please go ahead.
+Brian Meredith – UBS
+Hey, good morning, Dominic.
+Dominic Frederico
+Hey, Brian.
+Brian Meredith – UBS
+Hey, just a quick one here. So, can you give us a sense of kind of what you think the pipeline looks like for you guys in the event that Moody’s decided to keep you at your rating level. What do you think the potential PVP opportunities are here?
+Dominic Frederico
+It’s a tough question. So we’re really on the far end of the diving board here, but a, As we go around the market there is a lot of news that says the market has already anticipated a downgrade, therefore I would assume if we maintain current underwriting levels, there would be a reasonable uptick in opportunity, more importantly though it’s just the ultimate coming to a decision. I think, the uncertainty is the thing that cost us more opportunities and especially in the international market, where there we’ve had so many really good opportunities scheduled and we’re in very good active discussions and yet there’s just this hesitancy to ultimately commit and then close because of the uncertainties, saying okay, you’ve got to fall, you might ask how far does it fall.
+So, there’s a big school of thought that says the majority priced in uncertainty then resolve this issue once and for all because as I look at our portfolios, I look at the general economic recovery. I would, of course, I will be wrong, but I will go on record saying, as I would not anticipate a another review for potential downgrade ever crossing our door because everything is going in our favor and then you put some rep and warranty settlement out there and this thing becomes an absolute no-brainer from the standpoint of what is the financial strength of this company.
+So, if I’m – I’m going to be right that this is the last time I’m ever going to have to face this in my career then certainties got to add some value to us, certainties got a really then stabilize the markets, says okay. We’re very comfortable with the company. We’ve now resolved this question where it’s more, I won’t say cosmetic, but it’s more kind of a review as oppose to a real reality of the financial strength of the company.
+
+So, I think either way we get a benefit. If we retain, I think the benefit could be sustainability stronger. It’s hard to feel market number because the other thing Brian is you appreciate, we’re still fighting a zero interest rate environment.
+Brian Meredith – UBS
+Yes.
+Dominic Frederico
+And therefore, where spreads are, where interest rates are the typical municipal issuer today is issuing anywhere between, say 40 and 80 basis points below what we would have insured it down to in the heyday of our AAA financial strength. So, you’re able to go out and issue cheaper than you ever have historically even with the provision of bondage insurance back in our best marketing days. But it gets rid of you know, this concern, that says okay. You’re under rating one. Let’s see what the rating one is ultimately results in?
+Brian Meredith – UBS
+Got you. And then second question, I wanted to get a talk on the capital management perspective. Once we get through Moody’s, what are your thoughts I think on capital management and maybe what is this for the available funds you have for capital management?
+Dominic Frederico
+Well, as you know the structure of the company available funds really have to be located in the holding company in Bermuda and the get money to the holding company has its own limitations and restrictions. We look at capital management as we have from the beginning of time, which is first and foremost to maintain the highest ratings that are available to our business and our industry to allow us to transact who we think is still a very good market and the market is showing its resiliency, showing its profitability.
+Here, we are once again reporting a very good quarter for earnings. We have a lot of ways that we can create earnings in the company. And that’s something that we value and we think it’s a real value to the shareholders. So, first, we’ve got to resolved that problem and as you well know, we have a current review still outstanding that is not assessed our capital and therefore we’re waiting to hear that.
+I think, once we get the capital assessment, that gives us a good then first part of the equation says what is the capital necessary to maintain ratings and then we got to look at capital management and capital management says what’s are our expectation of the market and the market opportunity? How much capital do we need to be in that marketplace? Other uses of our capital like buying back our insured bonds. We have to assess that part of the market. So, we have continued to assess market opportunity and like we just went through business plan with our board of directors which they approved
+Then in there, there is about three or four components is to how it looks at capital usage and therefore once you get through that, you then have your view of what the capital position is and obviously our goal is to maintain value for both bondholders and shareholders, and we’ve got a better effect strategies to achieve that.
+Brian Meredith – UBS
+All right. And then I guess just as a follow-up, what is the current liquidity at the holding company and what at the end of the quarter was the dividend capacity out of Assured Guaranty Re?
+Rob Bailenson
+Current liquidity in holding company is about $225 million, and Assured Guaranty Re, as you know also holds in trust for the benefit of its policyholders, primarily AGM and AGC, a significant amount of its assets. So AG Re has unencumbered assets of approximately $190 million to $200 million.
+Brian Meredith – UBS
+Great. Thank you very much.
+Dominic Frederico
+You’re welcome.
+Operator
+And we have a follow-up question from Bill Clark. Please go ahead.
+Bill Clark – KBW
+Yes. Thanks for the follow-up here. You talked about bondholders coming to your door in the secondary market and potentially that leading to kind of a better pricing environment. Could you just talk about that a little bit more, is that as impacted by the low rate situation, low spreads or how do you kind of compare that to where we’ve been in the secondary market in years passed?
+
+Dominic Frederico
+Well. It’s a good question. So the first thing we did and we actually have prepared schedules and both rating agencies have them that the actual premium rate we get today for insured par is higher than what it was and we’ll call the heyday of 2006-2007 period of bond insurance. So, because we’re trapping a lot higher percentage of the spread and obviously in light of the fact that we’re the only guarantor out there, it gives us that opportunity.
+Premium rates are actually higher, typically the secondary market rates are substantially higher than the primary market and that same equation exists today. Because as I said the decision on the secondary market is, I’m not trying to convince you to buy insurance, you’re asking me to sell you insurance, so it’s a very different equation.
+So, we continue to look at rates that’s one of the critical things and say okay, if I put capital to use, I better make sure I’m putting it to use with a reasonable return, expectation or proper value to the product that we’re selling in both cases. Secondary, as I said substantially higher than primary, we can try and get you some exact numbers in terms of the significant increase between secondary market and primary market. But it still maintains its same relation that it did in the past. And what I’ll tell you is we get a higher average rate to par today so we did in the past.
+So, just to give you full information, one of the interesting things where the interest rates are so low today affects ultimate debt service. And remember, our premium rate is against ultimate debt service. But just alone on the low interest rates, the premium we’ve booked when we do a PVP calculation has been significantly impacted. So, even if everything else was the same and we issued the exact same amount of pars we did in the past, you’d still see probably around the 20% decline in reported premium just because of the debt service change.
+Bill Clark – KBW
+Okay. That’s very helpful. Thank you.
+Dominic Frederico
+You’re welcome.
+Operator
+And our next question comes from Raffi Tokatlian with Bridger Capital. Please go ahead.
+Raffi Tokatlian – Bridger Capital
+Good morning, gentlemen.
+Dominic Frederico
+Hi, Raffi.
+Rob Bailenson
+Good morning, Raffi.
+Raffi Tokatlian – Bridger Capital
+How are you? I had a quick question, I believe in the third quarter you guys had discussions with your New York regulator on potentially freeing up collateral reinsurance transactions with AG Re and I wanted to know if there was any kind of update on those discussions?
+Rob Bailenson
+There’s really no update on the discussions, and I’m getting – heard from our General Council, have we had discussions?
+Dominic Frederico
+Yes, Raffi, it’s not collateral per se, right, but as part of New York State Insurance Regulation, you have to post these contingency reserves, right. And to the extent that you see the business then the reinsurer has to post the contingency reserves, which encumbers their capital.
+On a regular basis, if we go back and try to identify transactions that have expired where we’re theoretically still applying, because the contingencies builds up over a period of time, and then decreases over a period of time. And then if we go to the New York department and specifically identify the policy that have expired and ask for the release of the contingency reserve. And that’s an ongoing process, and as we’ve got some other things on the table with New York, as we get those approvals, we’ll let you know.
+Raffi Tokatlian – Bridger Capital
+Okay, thanks.
+Operator
+Showing no further questions. This concludes our question-and-answer session. I would like to turn the conference back over to Robert Tucker for any closing remarks.
+Robert Tucker
+Thank you, operator. I’d like to thank everyone for joining us on today’s call. If you have additional questions, please feel free to give me a call. My number is listed on the press release. Thank you very much.
+
+Operator
+The conference has now concluded. Thank you for attending today’s presentation. You may now disconnect.

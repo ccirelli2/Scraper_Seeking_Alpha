@@ -1,0 +1,272 @@
+Tortoise Capital Resources Corporation (TTO) Business Update Call  October 14, 2008  4:30 PM ET
+Executives
+David Schulte – Chief Executive Officer, President
+Terry Matlack – Chief Financial Officer
+Analysts
+[Gene Walter – Money Concepts]
+Frank Williams – Stifel Nicolaus
+[Roger Shefield – Shefield Investment Management]
+[Kurt Star – Aberdeen Asset Management]
+[Gordon Merchan – Lotus Star Capital]
+John Graham – Stifel Nicolaus
+Selam Akyol – Stifel Nicolaus
+Jim Johnson – Stifel Nicolaus
+[Thomas MacBride – Monetary Strategies]
+[Kurt Fental – CPC Consulting]
+[Tom Barr] – Wachovia Securities
+[Mike Bulgaris – Bulgaris Investments]
+[James Chappell – Height Hedge Asset Management]
+Operator
+Welcome to the Tortoise Capital Advisor update conference call. (Operator Instructions) I would now like to turn the conference over to Pam Kearney, Director of Investor Relations for Tortoise Capital Advisors.
+Pam Kearney
+I\'m joined today by our Managing Directors Dave Schulte, and Terry Matlack who will discuss current U.S. and Midstream Energy Infrastructure Market conditions. Our slide presentation for today is on our webcast which you can link to on our home page at Tortoiseadvisors.com. Also, we\'ll archive today\'s webcast and the replay of the call and you can find that on our website.
+The presentation contains forward-looking statements including all statements regarding intent, belief or current expectations about matters covered herein and all statements which are not statement of fact. Forward-looking statement involve known and unknown risks, uncertainties, contingencies and other factors and many of which are beyond our control and are discussed in our filings. Since other factors can cause results, performance and achievements to differ materially from those discussed you are cautioned not to place undue reliance on the forward-looking statements. We will not update these statements to reflect events or circumstances that occur after the date of the presentation.
+I\'ll now turn the call over to Dave Schulte.
+David Schulte
+We are pleased to be able to discuss with you events that we believe impact the value of your holdings in our investment company. We want to start really by focusing on what we call the left hand side of our balance sheet or the assets in which we invest.
+We believe as illustrated in the first chart that you see on Page 3 of the presentation, a graph that shows historical spreads of NLP yields over 10 year treasuries. On average, these spreads tend to trade at around 2.5%. While we don\'t look at yield spread to treasuries as a relevant long term valuation metric, we do consider the current level of over 9% above that average as a flashing light.
+We believe it\'s important to consider whether this light is flashing red because \"smart money decided to sell the sector\" or whether those sales were forced by larger liquidity problems in the market, in which case the light is flashing green. Our job as analysts in this sector, and we\'ve got 13 people dedicated full time just to evaluating sector, company and industry level risk factors., whether or not these lights are flashing red or yellow or green, and I\'d like to walk with you through the analytics that we review to make those assessments.
+On Page 4, I first want to highlight the fundamental nature of the cash flows that Master Limited Partnerships access. Master Limited Partnerships are part of what has been broadly defined and accepted recently by the CFA Institute as investment characteristics of infrastructure investments. But what all of these sectors have in common is that they keep operating throughout economic cycles and they\'re necessary for the economy to function, such as schools, hospitals, radio and TV broadcast towers, toll roads, airports and sea ports and of course, oil and gas pipelines.
+
+The CFA Institute included these oil and gas pipelines, or energy infrastructure as we call it, with other critical infrastructure asset classes because the investment attributes are similar. Let\'s take a further look at how we perceive energy infrastructure in the context of these other assets.
+It\'s our belief that energy infrastructure is at the heart of all other components of infrastructure because of their dependency on the delivery of natural gas and petroleum products. As the concentric circles illustrate on Page 5 of our graphs, both households, municipalities, essential service providers such as hospitals and schools all provide basic services which require the utilization of power or energy commodities that are transported, delivered and stored by energy infrastructure companies.
+Let\'s take a further look at a specific example of one Master Limited Partnership that\'s providing these critical services. The map on Page 6 has been provided to us courtesy of [Plains] All American to illustrate the significant footprint of its pipeline network in the North American continent. These assets are long lived, hard assets in pipelines. The customers rely on the delivery of those commodities at the end of those pipelines as essential services.
+In essence, there are very high barriers to entry to duplicating a network of this expanse, creating a natural or virtual monopoly for the operator of these assets. Demand of the commodities and therefore the services provided by [Plains] is relatively inelastic and through any economy, up or down. Volume based, low direct commodity price is the nature of the contracts primarily relied upon by companies such as [Plains]. We also believe that due to the large fixed cost component of an infrastructure network of this size, that there\'s very low, individual operating risks.
+All of those infrastructure characteristics provide us with incredibly powerful and desirable investment characteristics. These companies have predictable recurring revenues. Their dividends are stable and historically have grown in connection with the economy and with the population growth. There tends to be PPI based or regulated inflation protection through pricing and regulated and mandated or allowed annual increases.
+These characteristics provide these companies with full investment correlations to stocks and bonds, therefore providing diversification to an investor\'s portfolio. And finally when you consider these low risk business models with the total returns that are offered by LLP\'s, we think there\'s nothing better in this market place.
+I want to take a further look at the risk adjusted nature of the investment returns to try to illustrate our point. On Page 7, we provided a graphic illustration of dividend growth over the last decade, year over year by companies operating in energy infrastructure sector. These number, 4%, 5%, 6% might look like dividend yields if we were talking about utilities or REIT\'s, but instead, these are annual growth rates of dividends year over year for energy infrastructure companies, the green being actual and the yellow being depicted as estimates.
+We illustrate in the events highlighted in the boxes, several things that might be considered to be disruptive risk factors associated with the business operations associated with these companies. For example, the recession of 2000 – 2001, terrorist attacks on U.S. soil, foreign supply disruption, ravaging hurricanes, financial market turmoil, and energy commodity price extreme volatility.
+Despite these representative disruptive events, the resiliency of the business model operated by Master Limited Partnerships and the energy infrastructure sector has not only survived, but has allowed cash flow growth far in excess of what might be available in similarly risked assets such as REIT\'s or utilities.
+
+On Page 8, we illustrate the current status of the coverage ratio of cash flow from these companies over their annual dividends with one times meaning that you had enough cash flow generated from operations to pay the dividend expectation. We, in our search for the red light factors or events, had our analyst\'s stress test these dividend coverage ratios under several prospective scenarios starting from the present levels of range of one to 1.4, an average of about 1.2 current dividend coverage.
+On Page 9 we evaluated that our research says that the industry passes these major stress tests. First, in a recession, we went back and considered volume metric changes and tested our portfolio sensitivity for scenarios far beyond those previous recessions experienced. Base line coverages currently over 1.2 remained over 1.0. 
+The PPI escalator that I previously discussed was available to mitigate the impact of reduced volumes, therefore enhancing dividend stability. Finally, some of the largest companies in our sector have a revenue model based on reservation charge of capacity irrespective of volumes. We think the recession test is passed. 
+What about rising interest rates? Most Master Limited Partnerships have less than 50% of their capitalization represented by floating rate debt. Often times those with bank lines have swapped that floating rate into fixed rates. Having tested the possibility of increasing rates on debt coverage ratios, we again believe that this stress test is passed.
+The companies have contractual terms that limit sensitivity of their revenue streams to crude oil prices and natural gas prices. Those that do have exposure to these prices typically maintain adequate coverage ratios of their dividend so that they can absorb those changes, dramatic changes in energy commodity prices. Again, we believe that having living through traumatic energy price volatility, that test is passed.
+And finally, what many people are concerned about these days is that with capital markets moving into extreme trading ranges, the companies will somehow be unable to access capital markets and therefore will be limited in their ability to grow or potentially sustain their dividends.
+Well first of all, we believe that capital markets access is not necessary to maintain or even modestly grow distributions. These companies only issue equity securities if they believe that the result of that issuance will be to grow their dividend. In other words, they don\'t have to issue equity to maintain their dividend.
+Further, most Master Limited Partnerships that have already announced capital projects can complete those projects with existing availability or expected availability from sponsors or parents. This is the result of our research, would indicated that growth capital formation as a risk factor is again, passed.
+I think our research on these points is further supported by insider activity. While not on the slide, I will refer you to public announcements regarding recent announcements for unit buybacks, by some MLP\'s that have enough excess cash flow that they think their units are cheap at these levels, and they can afford to buy them back in an accredited way to their existing shareholders, that MLP insiders have been buying their stock; $6 million alone in the month of October, and over $130 million in the last six months, that parent companies or sponsors of MLP\'s have purchased a total of $1.6 billion of equity in 2008 to support the growth initiatives of their related Master Limited Partnerships.
+And finally, the creativity of MLP\'s has included the announcement of joint ventures in the amount of nearly $6 billion in order to insure the viability and financeability of expected growth projects.
+Let\'s take a look at evidence from the market place and not just our own research or insider purchases. Page 10 reflects a representative sample of dividend announcements in the past few days. These are quarter over quarter dividend increases from companies as large as Enterprise Products and [Kendor Morgan], together with growth companies such as energy and others that have high growth projects as a part of their overall investment strategy, indicating that reliance on capital markets in these tumultuous times is validated by the scope of the businesses that they conduct.
+
+Eight energy infrastructure MLP\'s have announced increases ranging in size from roughly 1.5% to over 7%, averaging roughly 2%. These are quarter over quarter dividend announcements, not year over year dividend announcements. The chart we provide on Page 10 illustrates the importance of dividends to these companies.
+When a company in the MLP sector makes the decision to raise its dividend, it does so only if the Board and the management team believe that that dividend will be sustainable. That results in what we call a step function in the payment streams available from these companies. These are not volatile such as GAP or generally accepted accounting principal\'s earnings, nor are they volatile with respect to following energy commodity prices. Rather, these are believed to be sustainable and dependable dividend increases. 
+It\'s the investor friendly disciplines embedded in the partnership agreements that govern these companies that demands that cash be distributed to its owners every single quarter. 
+I want to summarize on Page 11 by referencing back to the original chart that shows the current yield spread of Master Limited Partnerships to the 10 year treasury measured over 11% today. We think that the stress tests are passed due to the resilient business model and modest capitalization ratios of Master Limited Partnerships for the maintenance and modest growth of the current dividend.
+Therefore, we believe that the institutional selling was forced and not the result of fundamental sector weakness. Our conclusion is that for MLP\'s, the light is green, and in a period of tight liquidity such as we\'re in, we like investing fresh capital into providers of essential services such as energy infrastructure Master Limited Partnerships.
+I want to conclude with a few words about our own investment companies, on Page 12. The Tortoise Fund families all trade on the New York Stock Exchange and investors obtain daily liquidity there, so that we aren\'t subject to daily fluctuations of inflows and outflows or redemptions as a source of liquidity for our investors. Rather, they obtain it on the New York Stock Exchange.
+We think this makes us an ideal holder of these long term securities on the asset side of our balance sheet. We announced on Monday morning, as of last Friday, through a press release, our net asset value of each our companies which is listed on this page. In the last two days, there have been significant positive movements upwards in the price of MLP Securities and if you take your favorite index and apply that change to our NAV, you can approximate what our NAV might be today. Our stock price closings have approximated NAV in all but one company in our portfolio.
+Importantly, if we measured on a pro forma basis after yesterday\'s close, we could pay distributions in all of our funds because we\'ve satisfied any leverage ratio that we\'re subject to. During this period of market volatility, we intend to provide weekly net asset value updates, and then inform the market if we have not met one of our leverage tests on any applicable valuation date.
+With those words, I\'d like to pause my remarks and open up the call for questions.
+Question-and-Answer Session
+Operator
+(Operator Instructions) Your first question comes from [Gene Walter – Money Concepts].
+[Gene Walter – Money Concepts]
+My question is not so much the stock prices, but the margin levels. How do you manage those margin levels in this volatile market and what kind of capital are you raising? You\'re talking about this institutional sell off. Isn\'t some of that created by the margin that you employ, and will you manage that margin a lot tighter? I was looking at TYN and seeing the margin was down a good ways. Have you redeployed assets? Are you going to hold on for awhile and let some of the volatility wash out? It would seem to me with the current dividend rate, you could almost do away with a lot of the margin and still keep dividends around 10%.
+
+Terry Matlack
+That\'s a very good question. If I were to use a different word, the question would be, would you deleverage the fund? Currently, the percentage of our total leverage to total assets is above our long term target of 33%, again primarily as a result of the decrease in the value of our portfolio investments.
+But as stated in the press release, that can be impacted primarily by increasing asset values which we\'ve experienced the last two days using our cash balances or the sale of portfolio positions to redeem leverage for the issuance of equity. Clearly, we have been taking steps to maintain that dividend level.
+We manage this company to achieve the result of steadily growing dividends. Of course, at any time that we\'re going to pay a dividend, we\'ve got to meet the constraints imposed by the 1940 act at the time of the distribution declaration. And further, we\'ve got to meet our basic coverage test over the leverage agreements. But we will try to keep you informed of that as we go along the way. 
+The other comment I would make is that we will continue to use leverage when we believe it enhances the long term return to our shareholders. At today\'s compelling buys for MLP\'s, we believe leverage continues to provide incremental returns, and while we\'ve taken steps to remedy the short term margin or ratio problems that we may have, we believe that we have achieved a financial structure that can really provide great returns to shareholders because of the recent steps we\'ve taken in refinancing our auction rate securities.
+[Gene Walter – Money Concepts]
+Still, the value of the portfolios are down substantially and margins had to play into that.
+Terry Matlack
+We don\'t utilize margin leverage, and we don\'t utilize the kind of leverage that have a snap to it that if you don\'t meet a certain test, you just have to go pay it. We have a lot of time under our leverage agreements to come into compliance with ratios if necessary, utilizing the three steps that I outlined.
+Other participants in the sector may have some of those issues, and I think Dave talked about that earlier.
+Operator
+Your next question comes from Frank Williams – Stifel Nicolaus.
+Frank Williams – Stifel Nicolaus
+
+My concern is that I think that this is somewhat reminiscent perhaps of a discussion that might have been had with the people at Long Term Capital Management back in \'99 where you\'ve got all these smart people saying why the market shouldn\'t be reacting the way that it is, but nonetheless the market is reacting the way that it is. And the concern is the leverage ratios.
+Maybe I missed something in this presentation but other than you saying that on a long term basis the securities that underlie the Tortoise portfolios are all good bargains, I\'m not really getting what it is that you\'re doing to make sure that you are in compliance with your leverage ratios going forward if the market doesn\'t agree with your opinion.
+Terry Matlack
+I would say that under those three items, if we had increasing asset values that certainly goes to solving the leverage problem. Absent that, we could utilize sales portfolios positions and redeem portions of our leverage to meet the test, or thirdly, we could utilize the issuance of equity. Certainly the easiest of those three to accomplish that are in our control, is item number two, sale of certain portfolio positions and the redemption of leverage.
+What is important to keep in mind however, is that we have a significant amount of time to make that happen. We don\'t have to run out the day after we do the test and immediately liquidate the portfolio to meet the test. We have cure periods as we\'ve outlined in the press release. And in addition to those cure periods, we then have a period of time in which we have to achieve the cash position to liquidate the underlying debt position. So at any given time, we have a long runway that we can meet in order to satisfy the test.
+
+David Schulte
+We think that\'s a significant differentiation between long term capital management and the other potentially institutional investors in this market that were subject to rapid leverage unwind. We do have significant time within which to evaluate our actions, and Long Term Capital Management, despite its name, really didn\'t.
+Frank Williams – Stifel Nicolaus
+What is the shortest period of time that you have to decide on an unwind if you\'re in violation of a leverage ratio?
+Terry Matlack
+We have a cure period and a period to redeem would be 50 days with respect to our auction rate preferred and our auction rate notes, and we have a 30 days cure period plus 45 to 60 days to redeem with respect to our institutional senior notes.
+Operator
+Your next question comes from [Roger Shefield – Shefield Investment Management]
+[Roger Shefield – Shefield Investment Management]
+In looking through some of the underlying holdings that you have, I was trying to get a sense for what proportion of revenues of each of these underlying companies is represented by tariffs that are subject to regulatory approval and therefore not really subject to market fluctuations. Do you have any idea of an average across the portfolio?
+David Schulte
+It\'s over half. We think it\'s in the neighborhood of 60%.
+[Roger Shefield – Shefield Investment Management]
+In Barron\'s over the weekend, there\'s an article about how to energize your portfolio. For some reason your firm wasn\'t mentioned in there, but it did mention two other MLP funds, both exchange traded funds. I pulled those up on Bloomburg and did a comp chart just to see performance and TYG has underperformed these other two funds quite substantially year to date and most significantly in the past month. Can you speak to what would attribute the underperformance? One was Bear Links and the other was MLP and [Strap] Strategic Equity.
+Terry Matlack
+We held Barron\'s in high regard until this weekend. I think that in the most recent week if you have to add that into the performance, you would see that we underperformed, and our stocks I believe, were subject to a lot of questions relating to volatility in the underlying MLP\'s and how that might impact our leverage.
+The questions we were getting necessitated us putting out a press release last week and starting to measure NAV on a more often basis which those other funds do. Those other funds are more index style funds and we are an alpha manager as well. So we seek to add value by making direct investment into companies where we can fund the growth we expect to achieve.
+That would mean that in a normal period, we should be outperforming them and if you look back over any other period in history, except for the last 10 days, you probably would find our outperformance.
+[Roger Shefield – Shefield Investment Management]
+Actually, going into September you were slightly underperforming each to about matching. If I understand what you\'re saying, you\'re saying the fact that you didn\'t publish NAV\'s as frequently as these others has caused some lack of transparency so the market didn\'t understand your portfolio as well? Is that what you\'re saying?
+Terry Matlack
+No. I\'m saying they tend to be index funds so they don\'t move their portfolios around.
+[Roger Shefield – Shefield Investment Management]
+But they publish their NAV\'s more frequently.
+Terry Matlack
+
+You have to tell me the [Bear Links] NAV publication dates.
+[Roger Shefield – Shefield Investment Management]
+I don\'t know. I was just trying to understand how you were responding to the question. I\'ve never even looked at those funds before today. I\'m not familiar with them.
+Terry Matlack
+We have historically published our NAV on a monthly basis as a tax paying entity which I\'m not sure they are. We wind up our books at the end of every month and estimate the tax implications of not only market movements in our securities but our expense levels, leverage costs, swap movements up or down and accrue a tax liability with respect to that. 
+
+And so for the most part, we believe that our investor base has relied on us for dividend visibility and dividend growth and not for NAV volatility. And so in essence, because we are a tax payer, it\'s virtually impossible to replicate our portfolio on an index type of bet. Our portfolio instead has components and our company has components inside of our fund that you would not find in those other indexes.
+Operator
+Your next question comes from [Kurt Star – Aberdeen Asset Management].
+[Kurt Star – Aberdeen Asset Management]
+With the increased volatility and risk in the financial industry, I was just curious what your exposure is to regards to your interest rate swaps and possibly your short term borrowing facility to any particular banking group. If you could just talk about your diversification,
+Terry Matlack
+Let\'s take that company by company. TYG at present, has a line of credit outstanding that is reflected on your balance sheet of $43 million. That is a syndicate of banks that is led by U.S. Bank. Total available under that line is $92.5 million, and it is live rate plus 75 basis points. The senior notes have of the $210 million reflected in the press release, $150 million are fixed rate financing and you can get a detail of the terms and the interest rates on our web site. Quickly, the rate is 6.11% and it\'s fixed.
+The Series A notes, the other $60 million of that portion, auction rate notes that have been extended and the preferred shares in TYG have all been extended and have no live exposure through 2010.
+TYY, all of its senior notes are institutionally priced fixed rate financing. The preferred shares are all subject to the auction rate market on the 28 day or 7 day, and so that\'s really the only exposure, and since those auctions are failing, they are typically going at two times liable.
+In TYN, the senior notes are again all fixed rate institutional placement, and you can see the detail on our web site. And the preferred shares are still in the auction rate market $10 million, and that too is priced at two times liable because those auctions are failing.
+We no longer have any interest rates swap, counter party risks because we\'ve eliminated all of our swaps and so I guess that answers that question.
+[Kurt Star – Aberdeen Asset Management]
+So U.S. Bank is your largest financial institution that you\'re involved with then?
+Terry Matlack
+No, I would not say that. If you take a look at those institutional pieces, there are some rather large holders in that and a couple of them might actually have larger pieces that U.S. Bank.
+[Kurt Star – Aberdeen Asset Management]
+Off the top of your head would you know the number of banks that are in that syndicate?
+Terry Matlack
+There are four in the U.S. Bank syndicate.
+Operator
+Your next question comes from [Gordon Merchan – Lotus Star Capital].
+[Gordon Merchan – Lotus Star Capital]
+I was wondering if you could speak a little bit more to some of the information on NAV with the PTO. That seems to be a little bit more liquid fund.
+Terry Matlack
+PTO is a business development company. And if you\'re familiar with business development companies, they tend to own investments in private businesses. As such they\'re subject to the 1934 act as well at the 1940 act, but customarily in business development companies, there is a quarterly report of a balance sheet from which book value per share or net asset value per share can be calculated.
+In those kinds of companies, there have been a lot of recent accounting pronouncements and risk mitigation practices adopted to ensure third party validation of those private company values. So with PTO, you\'ll find as is common in business development companies a quarterly publication of full financial statements with managements discussion and analysis and balance sheet. 
+
+We do tend to publish though, acquisitions and dispositions of positions in that company unlike in a closed in fund, because those are illiquid securities and relatively large holdings with respect to that particular company. Those are material events. So on our web site, there\'s plenty of information regarding the holdings of that company, press releases about its activity.
+In fact, it holds its own conference calls every quarter, and there should be recording on our web site from last Thursday, in which the President of the company, Ed Russell addressed investors.
+Operator
+Your next question comes from John Graham – Stifel Nicolaus.
+John Graham – Stifel Nicolaus
+I think you were addressing mainly the covenants of the preferred. What would happen if you were to fall outside the constraints of the senior?
+Terry Matlack
+If we fall outside the constraints of the senior, if we cannot achieve a 200% asset coverage ratio, we could not pay the dividends on the preferred. If we cannot cover the 200% and 300% test under the \'40 act we could not pay a dividend on the common.
+John Graham – Stifel Nicolaus
+There\'s not a lot much different on what we\'re worried about now, just the dividends.
+Terry Matlack
+I think right now, we calculated the test based on yesterdays close, and we would not be constrained from paying any dividend to any party as of last nights close. On a pro forma basis, based on the actions we\'ve taken through the last couple of days and assuming that the repayment of some of our senior or preferred indebtedness.
+David Schulte
+If your question was whether that senior indebtedness would somehow have any other implication such as repossession of our securities and immediate liquidation in the market, the answer is no. As Terry said, it\'s not that kind of leverage.
+John Graham – Stifel Nicolaus
+I was concerned that you could be in a position on the preferred where you would go on a margin call. If you go to the senior, that could be worse and you would be forced out the bottom.
+David Schulte
+No. Our senior debt is unsecured. Our preferred obviously is unsecured, and all governed by covenants of which Terry described at length including cure periods. That\'s a common misperception and one that we\'re trying to clarify.
+John Graham – Stifel Nicolaus
+Assuming that you can maintain dividends, since you still own all the underlying positions and their cash flow is high despite the [inaudible] the dividends could not be cut. Is that correct?
+Terry Matlack
+We typically don\'t give guidance as to the amount of dividends going forward, and we announce them in mid November. We don\'t see any reason why we would change that schedule, so you\'ll be hearing from us on that shortly. Also, as Dave indicated, we will be every week indicating what our NAV is and if we have one of the tests that we bust on evaluation date, we will also have that present in our press release. So you\'ll know if that is becoming an issue.
+John Graham – Stifel Nicolaus
+Do you think there\'s a possibility that you might cut the dividend voluntarily if the asset values don\'t pick up just to make sure you don\'t get hit with terms of margin on the preferred.
+Terry Matlack
+What we\'ve done is historically paid out all of the cash flow that we receive. We\'ve got a policy in place of paying out at least 95% of the quarterly dividends that we receive. We\'ve not changed that policy. We\'re still awaiting the announcement of the dividends from the rest of our portfolio so I think it\'s premature to discuss the level of our dividend at this time.
+Operator
+Your next question comes from Selam Akyol – Stifel Nicolaus.
+Selam Akyol – Stifel Nicolaus
+
+Could we run through on the preferred\'s how often they have a test to meet? When did the senior test, once a month or once a week? Am I thinking about that correctly?
+
+Terry Matlack
+The preferred\'s have a test that they have to meet. The basic maintenance test of the rating agencies is a weekly test. The 40 act at coverage ratios in those documents are an end of month test. And of course, you always have to have the 40 act test whenever you\'re going to pay a dividend. So when it comes up in November, and we want to declare a dividend, we will need to pass the test on the senior notes and on the preferred. 
+With respect to the preferred, so there\'s not misunderstanding, if we have a 200% asset coverage ratio under to 40 act, we can pay the preferred dividend. If we want to pay a common dividend we much meet the 300% senior notes asset coverage test and we must meet the 200% preferred asset coverage ratio.
+Selam Akyol – Stifel Nicolaus
+You noted that you had a couple levers, one that you could pull, you have rebounding prices and if you want you could pull the lever to liquidate assets and use it to pay down debt. Am I correct in that?
+Terry Matlack
+That\'s correct.
+Selam Akyol – Stifel Nicolaus
+
+In terms of getting to the statement yesterday after the close, you can satisfy any ratio, given the rebound in prices, should I assume it was a combination of rebound and maybe some portfolio repositioning to get to that statement or would it be just strictly a rebound in prices.
+Terry Matlack
+I would say that it involves some element of pro forma repayment of debt.
+Selam Akyol – Stifel Nicolaus
+Did I also hear you say that you terminated all interest rate swaps?
+Terry Matlack
+Yes.
+Selam Akyol – Stifel Nicolaus
+Given what you see now and the history of the dividends payments coming out of the underlying portfolio, is there any reason to think, given that you\'ve lost some assets maybe from repositioning the portfolio, that the dividend would be cut coming up?
+Terry Matlack
+To reiterate what Dave said, we\'re not prepared to make any estimates of dividend. But what I would indicate is if you have that pay down, you also have a reduction in interest rate costs. For instance, take TYG for instance, it\'s got a bank line of credit. And it\'s pretty simple. We\'ve got some cash balances, and we can take those cash balances and pay down debt. That\'s what I mean by the pro forma statement. I didn\'t want you to be misled.
+Operator
+Your next question comes from Jim Johnson – Stifel Nicolaus.
+Jim Johnson – Stifel Nicolaus
+Do you have any comment you could make on Tortoise Gas and Oil?
+Terry Matlack
+No. Tortoise Gas and Oil has a registration statement on file and we\'re not in a position to make any comments on that.
+Operator
+Your next question comes from [Thomas MacBride – Monetary Strategies].
+[Thomas MacBride – Monetary Strategies]
+I\'m trying to put my arms around why there was with your particular fund, there was such a level of volatility in terms of the price and I guess what I\'m trying to do is, most of my clients have an average cost basis in your fund of about $30 and I don\'t know what it closed at today, $17 thereabouts. What\'s going to have to happen or take place to see an improvement over time in the underlying net asset values to get back to the levels we were within the past couple of months?
+Terry Matlack
+When you see the assets that we own trading at an 11.6% spread to the 10 year treasury, and the average spread to the 10 year treasury being 2.4%, that\'s a 900 basis point, or 9% blow out of spreads that has the inverse of which is price that those dividends are traded at had to go down. And so the simple answer to your question is that when investors resume some level of comfort that our financial markets are not – that these companies which provide essential services are still legitimate ongoing businesses with resilient business models, we believe that that opportunity to revert back to the mean, or back to average will provide a significant lift to our net asset value.
+
+The time at which this has happened has been extremely short and been very difficult to manage through not just for us but for investors generally especially ones who had to liquidate into this market which we did not. So we would like to see investors go back into MLP\'s. We\'ve always said when asked, that if investors could own either MLP\'s or funds, what should they do, and universally we\'ve said if you can own MLP\'s because of your tax circumstances, by all means own them.
+Our funds are best owned by those investors whom for tax or other reasons can\'t own a diversified portfolio of MLP\'s. 
+Operator
+Your next question comes from [Kurt Fental – CPC Consulting]
+[Kurt Fental – CPC Consulting]
+You talked about stress testing bases on a recession. If we look back to the early \'80\'s and we saw between recession and fuel conservation 11% decline in energy usage, did you factor in that level of stress in your recession stress test?
+Terry Matlack
+Yes we did.
+[Kurt Fental – CPC Consulting]
+And what did you do with PPI over that period? I don\'t think PPI would have been increasing over that.
+Terry Matlack
+We have current PPI levels that we get to model on top of historical recessionary volume levels, so that\'s a pro forma analysis. It\'s not an actual historical analysis as it relates to PPI.
+[Kurt Fental – CPC Consulting]
+Do you do any securities lending of the MLP\'s funds?
+Terry Matlack
+Absolutely not.
+Operator
+Your next question comes from [Tom Barr – Wachovia Securities].
+[Tom Barr – Wachovia Securities]
+I want to come back to the subject of leverage because it seems to me the issue for the fund is less the underlying investment but more leverage and the potential dislocation due to that. Have you rethought your target? I know you have an allowable leverage level but given all the events of the last week particularly with a bit of a rebound here, are you rethinking what your target leverage ought to be.
+Terry Matlack
+As you know our long term leverage goal for a long time has been around 33% and in light of the recent market conditions, of course we as a Board and as managers will be examining that position as we continually do. And if we elect to change that target, we will inform you. And I will also assure you that we will be having Board meetings here in the short term.
+At present, we are working diligently to get to that target. And then beyond that, we will continue to assess the advisability of it. Of course we will never use leverage unless we believe at the time we put it in place that it provides incremental return to shareholders. And that\'s our goal.
+Operator
+
+Your next question comes from [Mike Bulgaris – Bulgaris Investments]
+[Mike Bulgaris – Bulgaris Investments]
+Obviously in this market you see compelling opportunities in the sector, but I\'d just like if you could expand some of your thought process when you do have some discussions in terms of that calculus as to a dysfunctional market. Obviously your core holdings are sound, but can you expand at all as to what your calculus might be going forward taking into consideration a dysfunctional market as well as what range you might consider? 15% to 20%? Would that be something reasonable for consideration?
+David Schulte
+The dysfunctional market, I want to actually take some issue with. Recognizing fully that a lot of capital flowed into this sector in a fast way through methodologies that in retrospect put a lot of pressure on stock prices and that there\'s not a lot of institutional sponsorship in the sector aside from the dedicated funds such as Tortoise. We recognize that.
+However, a lot of the capital that came in in that manner, was actually absorbed by Master Limited Partnerships through their capital raising activities which allowed the outsized growth that we\'ve observed in dividends over the last several quarters, and as we expect to continue to benefit from over the next several quarters.
+
+And so the husbanding of that capital that was actually applied to the sector by the Master Limited Partnerships was very beneficial to those of us who are lucky enough to be able to ride through this and hold on to these securities. So recognizing that that capital wasn\'t just one sided, that it was two sided, that it went to the benefit of us that are holding these securities, I think that our leverage levels going forward have to be managed more actively based upon what we might recognize as the volature of capital that might flow right back into the sector and be subject to flowing right back out.
+And so I don\'t think it\'s a simple question to answer given that a lot of that capital was absorbed by MLP\'s far, far in excess of what was expected when we put out leverage on to begin with, and that those MLP\'s delivered what they said they would do.
+As far as our ability to manage leverage in the sector, one of the key tools that we had was taken away from us when the weekly auction market and all of the trouncing we had done to have flexibility in our leverage went away. And in February we had so much leverage related trouncing that in any one week we could have easily redeemed a small piece of leverage in response to a need to de-lever our fund.
+When that market was eliminated we had to replace that with longer term capital which we think is more sustainable, but nonetheless took away one of the tools that we were using to manage the right side of our balance sheet. Now in the long run, as we emerge out of this, Terry already discussed whether we\'ll have a target leverage level that might be lower than what our historical actual leverage has been. 
+That\'s a Board level decision and one that we will very cautious about managing towards in light of our stockholders interest in maintaining dividends. So we\'ve got a balancing act to undertake as we move forward from here.
+Operator
+Your next question comes from [James Chappell – Height Hedge Asset Management]
+[James Chappell – Height Hedge Asset Management]
+Do we have a mismatch on the dates here? These NAV\'s are from which day and the stock prices from which day?
+Terry Matlack
+We do weekly NAV and the stock price is the most recent, I think Monday nights close. And the TTO is quarterly, so that\'s going to be as of August 31.
+[James Chappell – Height Hedge Asset Management]
+I see that, but now this is completely misleading because MLP\'s are 21% on Monday. So your NAV has obviously come up substantially.
+Terry Matlack
+If you look at the first bullet point underneath the NAV, what has always been the case, and if you\'re new to the sector, I appreciate your confusion, but if you look at, roughly changes in an index you can get directional changes in NAV. What you can\'t get is actual NAV because we have a tax liability. So our NAV will never match exactly the change in an index.
+We also don\'t own the index, so what we\'re referring to the indexes for is just to give you some directional change in where our NAV might have gone in between publishing NAV dates.
+[James Chappell – Height Hedge Asset Management]
+This suggests that TYG is trading at NAV. You look at this $15.35, $15.40, and you go, \"Oh, that\'s trading at NAV.\" I wouldn\'t leave those numbers like that because we know that\'s not the case.
+Terry Matlack
+That\'s a great observation and thank you. I think those of you who are listening to the call, please on an intro week basis, look directionally at where the index is. Pick your favorite index. There\'s several out there that are trading and you can relate that to the last NAV that we did publish and get a sense for whether the stock price is over or under NAV.
+Operator
+Your next question is a follow up from [Roger Shefield – Shefield Investment Management].
+
+[Roger Shefield – Shefield Investment Management]
+Earlier you had said that about 60% of revenues across the partnership portfolio were from [retire]. Is there some level of prices for oil below which we would start to see the dividends cut by the partnerships, the underlying partnerships?
+Terry Matlack
+No, we don\'t believe that there\'s a level at which in any price deck that we\'re aware of, or where futures markets are headed, or where based on the nature of the businesses, the margin that\'s maintained for coverage, the hedges that are in place by the companies that do have some price volatility, commodity price sensitivity that there\'s a level at which dividend cuts would have to start being incurred.
+Unfortunately, that was the last question that we could take based on the time we had available. We are standing by so if you have a chance to call our Investor Relations line, please do, and if we can\'t get to you immediately, we\'ll return you call.
+Thank you all for your time this afternoon.

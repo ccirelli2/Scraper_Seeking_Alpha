@@ -1,0 +1,385 @@
+MGIC Investment Corporation (NYSE:MTG) Q3 2012 Earnings Call November  9, 2012 10:00 AM ET
+Executives
+
+Mike Zimmerman – SVP, IR
+Curt Culver – Chairman and CEO
+Mike Lauer – EVP and CFO
+Larry Pierzchalski – EVP, Risk Management
+Analysts
+
+Jasper Burch – Macquarie
+Douglas Harter – Credit Suisse
+Randy Raseman – Marathon
+Craig Perry – Planning Capital
+Shawn Faurot – Deutsche Bank
+David Epsteen – VRT
+John Benda – Susquehanna
+Stewart Ink – Bernard Road
+Dan Vasquez – RBS
+Scott Frost – Merrill Lynch
+
+Operator
+Good day, ladies and gentlemen. Welcome to MGIC Investment Corporation Third Quarter Earnings Call. (Operator Instructions) As a reminder, this program is being recorded. I would now like to introduce your host for today’s program, Mr. Mike Zimmerman, Senior Vice President, Investor Relations. Please go ahead, sir.
+Mike Zimmerman
+Great. Thanks, Jonathan. Good morning. Thank you for joining us this morning and for your interest in MGIC Investment Corporation. Joining me on the call today to discuss the results for the third quarter of 2012 our Chairman and CEO, Curt Culver; Executive Vice President and CFO, Mike Lauer; and Executive Vice President of Risk Management, Larry Pierzchalski.
+I want to remind all participants that our earnings release of this morning, which may be accessed on MGIC’s website, which is located at www.mgic.com under Investor Information includes additional information about the company’s quarterly results that we will refer to during the call and will include certain non-GAAP financial measures. As we indicated in this morning’s press release, we have posted on our website the supplemental information containing characteristics of our primary risk in force and new insurance written, as well as other information we think you will find valuable.
+During the course of this call we may make comments about our expectations of the future. Actual results could differ materially from those contained in these forward-looking statements. Additional information about those factors that could cause actual results to differ materially from those discussed on the call are contained in the Form 10-Q that was filed earlier this morning. If the company makes any forward-looking statements, we are not undertaking an obligation to update those statements in the future in light of subsequent events. Further no interest or party should rely on the fact that such guidance or forward-looking statements are current at any time other than the time of this call or the issuance of the Form 10-Q.
+With that, let me turn the call over to Curt.
+Curt Culver
+Thanks, Mike. Good morning. As reflected by the net loss for the third quarter of $246.9 million or $1.22 a share, the elevated level of new deli quint notices we receive, although trending lower on a year-over-year basis and as a percentage of the performing in-force book of business, as well as the slow improvement in the cure rate continue to pressure our company’s capital position and financial results.
+And while the quality of the new business remains outstanding and our industry continues to grow its share of new business, the lack of a meaningful economic recovery has caused the overall purchase origination market to be depressed, and thus limits our new business writings and the resulting premiums written.
+I know most of you are anxious to hear about our discussions with Freddie Mac, so let me provide an overview of where things stand. As we disclosed in our 10-Q that was filed this morning, MGIC and Freddie Mac have agreed on all terms and language of the definitive settlement agreement with a possible exception of some minor drafting issues. The agreement is subject to approval by the boards of directors of MGIC, Freddie Mac and FHFA. MGIC is to pay Freddie Mac $265.5 million in settlement of any further obligations of MGCI under the policies in dispute. $100 million is to be paid upon effectiveness of the settlement and $167.5 million over the next four years.
+
+However we are unwilling to sign the agreement unless MIC is approved by Freddie Mac and Fannie Mae to write business and jurisdictions where Magic cannot write due to a failure to meet the capital requirements and for a period in which all parties agree. Also any definitive settlement agreements would only be signed concurrently with the satisfaction of the condition in the September Freddie Mac letter that Freddie Mac and the OCI agree Magic having access to mix capital as needed to pay claims.
+If it a definitive settlement agreement is signed we are willing to contribute $100 million to Magic from our holding company. As a result we have not made any loss provision for a settlement and we are unable to predict whether it will go into effect. As a reminder, Fannie Mae’s approval of MIC, which expires at the end of 2013 previously approved MIC to write in all states that have capital requirements in which Magic does not have a waiver. So the bottom line is that Magic Freddie Mac and MIC are eligible insurers for both Fannie Mae and Freddie Mac.
+As of September 30 the combined insurance companies’ preliminary risk to capital ratio was 34.1 to one while Magic on a standalone basis was 31.5 to one and MIC’s preliminary risk to capital ratio was 0.3 to one. The increase in Magic’s risk to capital above the 25:1 threshold was expected by us and by our regulators and is exactly why we established in 2009 our plan to utilized MIC which allows Magic to manage through the risk to capital issues it currently faces.
+We regularly provide updates to both the GSEs and the OCI of our expectations regarding our capital position and as a result this quarter’s results including the risk to capital ratio are not a surprise to them. The GSEs and the OCI understand that our forecast calls for the risk to capital ratio of Magic to continue to rise for some time to come. The exact timing of when it will begin to decline is subject to among other things, the level of new notices and cures, the amount of new insurance written to Magic and the outcome of dispute resolutions.
+It is important to point out however that with the $440 million of capital already in MIC we could write a 100% of new business out of MIC for at least five years at the current quality and volume levels of new insurance written we are writing at if we obtain GSE approval. We are currently writing new mortgage insurance to MIC in seven states. The jurisdictions that MIC writes in are subject to change based upon additional wavers being received or if MGIC no longer complies with risk-capital ratios from states that previously provided wavers.
+So while risk to capital will continue to rise for some period of time, I want to emphasize the fact that we believe there is no liquidity issue at the insurance operations, and we have paid over $10.5 billion in claims since 2007. We believe that even given consideration to adverse outcomes and various legal contingencies.
+We have a significant level of excess claims paying ability at MGIC. That is, the sources of plain paying resources, namely cash and investments plus future premiums from the existing and in-force portfolio comfortably exceed the level of expected claim payments even with reasonably adverse outcomes and various legal contingencies. Furthermore we believe that we have sufficient claim paying resources to meet all obligations to policy holders, even under a stress-loss scenario.
+Now, back to our operations in the quarter, new insurance written in the third quarter was $7 billion, up 80% from the same period last year and up 19% from last quarter and includes approximately $600 million through MIC. More recently in October we were at $2.5 billion of new insurance. The new business written since mid-2008 now accounts for approximately 31% of our risk in force. And as I have discussed on past called, this new business generates a significant amount of capital, which augments our existing claim paying resources as each $20 billion of insurance we write adds approximately $400 million of incremental capital over the estimated life of the book.
+
+Reflecting the changes in HARP that went into effect earlier this year, an additional $3.7 billion of HARP refinance transactions were also completed during the quarter, bringing the total to $7.7 billion for the year and $15 billion since the inception of the program. All in, approximately 9% of the primary insurance in force has benefited from HARP for similar refinance programs and substantially all of them are current, which should be positive to our credit performance as the average payment savings for borrowers is just over $2,000 a year.
+Additionally, approximately 10% of the insurance in forced has been modified through HAMP or other loan modification programs. Our industry continues to regain market share from the FHA, however the pace of that recovery is slower than we would like as a combination of underwriting guideline differences between conventional and government-insured loans, loan level price adjustments charged by the GSEs, and the secondary market gains associated with Ginnie Mae Securities continue to exist in the marketplace. We estimate the private MI’s market share at approximately 10% in the third quarter. Within our industry we believe that MGIC’s market share is in the 19% to 20% range.
+The quality of new business, as evidenced by the credit performance continues to be outstanding. Losses incurred in the third quarter were $490 million, up 6% from the third quarter of 2011, but down 11% from last quarter. The level of incurred losses resulted primarily from the number of new delinquent notices received, which remain at elevated levels compared to historic levels, indicative of the impact of the sluggish economy is having on the 2008 and prior books, and as the data disclosed this morning shows a lack of recovery in the level of the overall cure activity.
+The average reserve per delinquent loan increased modestly during the quarter. The claim rate assumption for new notices remains at approximately one in four going to claim, and as shown in the release earlier today, new notices received in October declined modestly from September while cures improved 7%. After considering the impact of claims paid, recisions and denials, the net result is that the delinquent inventory fell 2% in the month of October ending at 146,282.
+Paid claims declined in the quarter to 587 million, down 8% from last quarter and down 22% from one year ago. The average claim placement declined marginally to $48,000. We expect that the current claim filing patterns that we are experiencing will continue and will result in claim payments trending modestly lower for the balance of 2012 and into 2013.
+As we have anticipated and disclosed in prior quarters, overall recisions and denials continue to slow as a percentage of claims. We have continued to voluntarily suspend recisions related to loans that we believe could be covered by potential resolution of various settlement discussions that are taking place with certain lenders. At September 30, approximately 2,000 recisions remain in our delinquent and unpaid claims inventory due to our decision to suspend such recisions. As a reminder, we have not established an accrual to reflect potential settlements, because we have not determined that a loss is both probable and can be reasonably estimated at this time.
+Cash and investments totaled $5.7 billion at the end of the quarter, including cash and investments at the Holding Company of $425 million. Our thought process regarding the Holding Company’s cash resources considers a number of factors, including the Holding Company’s debt service obligations and the need to contribute additional funds to MGIC. As of September 30, the remaining outstanding balance of the 2015 senior notes was 100 million with approximately three years to maturity. The other senior debt of the holding company matures in May of 2017.
+
+The annual debt service for the senior debt is approximately $23 million per year. And as most of you are aware, we exercise our option to defer the interest payments on the junior to ventures. So we believe that the near and mid-term liquidity at the holding company is not an issue. We realize gains of $5.7 million during the quarter that were embedded in the investment portfolio and have realized the total of $110 million in 2012 through September 30. Additionally in October we realized $79 million of gains and as of the end of October there remains $55 million of unrealized gains.
+So to summarize, while we expect the effects of the sluggish economy to continue to challenge the company’s financial results and capital; we are encouraged by the continued outstanding quality of the new insurance written, the slowly declining trend of new notices and the growing share of business from the FHA. Regarding Washington Meaningful Housing Policy has been delayed by the elections currently we expect the CFPB will issue a rule for QM or qualified mortgage within the next few months and the long awaited QRM definition will quickly follow that.
+Also in October our industry submitted a response to the Basel III proposal demonstrating that private MI is a reliable credit enhancement solution and suggested that the risk to capital ratio be supplanted with a model that would measure the adequacy of a mortgage insurance financial resources to survive a specified stress period and remain adequately capitalized at the end of that stress period.
+Finally, there are a number of bills in various stages regarding the role of the GSEs, although with the election results being what they were I’m not sure there’ll be much interest in pursuing them at this time. Recently we have also been hearing reports that suggest the FHA will soon announce the need for a capital infusion for the first time in its history which could have positive implications for our industry. And with that, operator, let’s take questions.
+Question-and-Answer Session
+
+Operator
+(Operator Instructions) Our first question comes from the line of Jasper Burch from Macquarie. Your question, please.
+Jasper Burch – Macquarie
+Hey, good morning, gentlemen. Starting off with on the potential settlement how does that flow through – if you were to sign it, how would it flow through earnings and stat cap? Would it all hit when the settlement was signed? Or would it hit as it was paid?
+Mike Lauer
+What would happen is that when the document is signed we’ll book the whole 267 and there’d be a payment made also for $100 million on a cash flow basis, then the rest of it would be paid over time, as Curt mentioned.
+Jasper Burch – Macquarie
+Okay. Thank you.
+Mike Lauer
+That would hit GAAP and stat simultaneously, 2 67.
+Jasper Burch – Macquarie
+Okay. And then on the short sale streamlining, with the GSEs, does that have any impact that we should look at? Does it mean the highly seasoned book will roll off faster? Any read through there?
+Mike Zimmerman
+Jeff, this is Mike Zimmerman. There were on the short sale, it’s going to increase. Most of the short sale seem to be occurring on the earlier stage notices than the later stage ones. Right now we’re already probably about one-third of our claims are a result of short sales. So we’ll have to see and keep monitoring that, but most of that’s on the newer delinquencies versus the older ones. But we could see a pickup in the later stage, but we’ll have to wait and see on that. But so far it’s been on the earlier stage ones.
+Jasper Burch – Macquarie
+Okay. That’s helpful. Then I guess just lastly, do you guys provide statistics on how much of your portfolio goes through HARP?
+Mike Lauer
+Yeah. We just did. 9% of the in-force have been in HARP. Are you talking about what has been done? Or what’s eligible?
+
+Jasper Burch – Macquarie
+What has been done? And what...
+Mike Lauer
+9% of the primary insurance in-force at the end of the quarter has been HARP.
+Jasper Burch – Macquarie
+Okay. Great. Thank you guys very much.
+Curt Culver
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Douglas Harter from Credit Suisse. Your question, please?
+Douglas Harter – Credit Suisse
+Thanks. I guess the first question is just to make sure I understand it, the cash that will be paid on the settlement, that comes out of the MI subsidiary, not the parent company?
+Curt Culver
+That’s correct. The writing company, MGIC.
+Douglas Harter – Credit Suisse
+Great. And then on the late-stage cures, it looks like the cure activity there picked up in the current quarter. Is there anything that you’re attributing that to?
+Curt Culver
+No. It really was modest. We had a down quarter the previous quarter, so there was some uptick, but not I wouldn’t say material. In a sense of overall trends, I would say not material.
+Douglas Harter – Credit Suisse
+Great. So you’re over a longer time period if you kind of smoothed out the quarterly volatility you’re seeing sort of consistent trends?
+Mike Lauer
+Yeah. I would say, but as Curt mentioned, unfortunately not as strong as we’d like to see. That’s a function really of the economy and the late-stage bucket still hanging there. It’s still a high percentage and hasn’t changed much over the last eight quarters really on a percentage basis. It’s gone down, but on a percentage basis it’s still about the same as it was for the last eight quarters.
+Douglas Harter – Credit Suisse
+Got it. So to see a real change there you’d probably need to see a material change in the economy?
+Mike Lauer
+Exactly.
+Douglas Harter – Credit Suisse
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from the line of (inaudible) Capital Management. Your question, please?
+Unidentified Analyst
+Hi, guys. Good morning. I have a couple of things, actually. Start with this one, it states in the 10-Q that was filed this morning, “that Wisconsin does not regulate capital by using a risk-to-capital measure, but instead requires a minimum policy holder position or MPP.” So you’ve also stated previously that the OCI wants you to maintain a minimum keep-well level of $1 billion of liquid claims paying assets.
+Now obviously with the Freddie incurred loss coming up coupled with ongoing elevated other incurred losses, risk to capital is going substantially higher in the next two years, and MPP is going substantially lower. So my question is how confident are you that the OCI will continue to look at the keep-well assets of $1 billion even as risk-to-cap starts approaching levels that were reached at PMI? When I model it out, I don’t see keep-well assets getting anywhere close to the minimum, but I think it would help your case substantially in terms of market perception if there was more confidence around that issue.
+Mike Lauer
+Well, I think if you go back to Curt’s comments, this process that we’ve been in with the OCI began four years ago, and he has all of our forecasts. He has outside advisors. They get monthly financials. They get updated third-party analysis on the book at least twice a year. So unfortunately what we kind of predicted might happen has happened, and that is the risk-to-capital has come under pressure, and for that reason we did prepare the MIC strategy and put capital in it.
+So the OCI is comfortable with our forecast. They haven’t changed. The ability to write in MIC is approved by the OCI. He has our forecast. He knows where the risk-to capital is going. His whole focal point is the ability of us to have sufficient claims paying resources to pay over this valley, if you will, and comfortably be within that $1 billion cash number that you talk about.
+
+So I guess the only issue we have obviously is meeting separately with Freddie and Fannie and getting them to understand the same issue and allow us to get waivers to write in MIC, and that’s been our focal point the last two years. The OCI has been in agreement with our plan, has approved our plan, and monitors it monthly, but is comfortable with the forecast and the ability that we have to have sufficient claims-paying resources over this forecasted period and to be able to write business in MIC.
+Unidentified Analyst
+Right. Okay. So it sounds like your customers and counter parties are comfortable looking beyond risk-to-capital, but when you look at the market, both equity and credit markets, clearly aren’t as comfortable with that yet. How does that perception get changed? Is it possible...
+Mike Lauer
+Notwithstanding what we have had some shocks here this last three or four months with the shorter term date we had to meet with Freddie Mac. But not withstanding that I think we’re getting through that. As we outlined today we’ve made agreement on the material terms of the pool issue. We’ll move forward hopefully and get the rest of this resolved and then we’ll be able to continue to write business in MIC and we’ll kind of be back on track.
+I think on a short-term basis we’ve got more than enough liquidity at the holding company to serve as debt and 15 especially and have longer term issues but more than enough time. And I think if you look at the writing company has got sufficient capital resources to pay claims during the period so it’s ability to convince regulators that we can write business. And I think when that probably smoothes out then the market may react a little more comfortably to say well they’re writing business they don’t have immediate debt issues and as long as they can continue to write under this waiver requirement they should be coming out on the other side of it.
+And the good news, as Curt pointed out, we’re writing more good business each quarter. That’s a positive and that continues to prove out our original plan. And that was that we need to get through the period. We have sufficient resources to meet those obligations and we need to continue writing good new business in that new subsidiary.
+Unidentified Analyst
+Right. Yeah, that’s fair. So going back to the comment about the liquidity at the hold co also, I mean it seems terrible if you and the OCI are trying to strike a balance between leaving enough cash at the hold co to address or at least partially address future debt maturities but on the other hand continuing to send cash down to manage capital and liquidity levels. So now that you’re sending down $100 million upon the final agreement with Freddie, where do things stand on future cash down streams? I mean you’ve disclosed that you wouldn’t need to send anymore cash down until you breach the keep well level, which again I don’t have you getting anywhere near, so am I thinking about that correctly with regard to future cash down streams?
+Mike Lauer
+That’s correct. You wouldn’t under our forecast you wouldn’t deem it necessary to put any additional cash downstream under the current forecast. We’ve got sufficient cash resources at the holding company not to breach that $1 billion issue based on our current forecast. And with respect to additional downstreams from the holding company, we wouldn’t deem those necessary because as Curt again pointed out in MIC with $440 million of capital, it has sufficient capital to write business even if we were to write 100% of the business at the current levels, we’d have sufficient capital to write for five years.
+Unidentified Analyst
+Okay. Great. That answers it. And congrats also on getting the deal done with Freddie. I know it took up a lot of your time, and it’s definitely a big deal for you guys. So thanks.
+
+Mike Lauer
+Thank you
+Operator
+Thank you. Our next question comes from the line of Randy Rasemanfrom Marathon. Your question, please?
+Randy Raseman – Marathon
+A couple just, I have three questions. The first one is on the deal with Freddie, so you take the whole 2 67 hit to capital now but you only pay 100 out. Why? That just seems odd to me. You clearly have a lot of cash and liquidity down on the OpCo, why are they giving you 48 months to pay out $167 million? Is it that they are concerned about the OpCo liquidity? And then I have two others after that.
+Curt Culver
+I think if you remember the original pool transaction, there was a time period over which those are going to be paid anyway, so it somewhat matches that. In other words, those pool claim payments wouldn’t have come all in this year or next year. Do you follow? So there was a timing on the pool, and it was something we agreed to negotiate the timing period.
+Randy Raseman – Marathon
+So you just negotiated a 48-month payment schedule?
+Curt Culver
+Right. Exactly.
+Mike Lauer
+It’s nice to have them as a partner for the next four years.
+Randy Raseman – Marathon
+Right. And then just want to clarify, you said you realized $79 million of gains in October? I didn’t catch how many. What’s left in the bank there in unrealized gains that you could realize going forward?
+Mike Lauer
+About $55 million.
+Randy Raseman – Marathon
+Okay. And then the last one that I have is it seems like over the past few quarters at least the reserve increase, right, one of the ways you guys have explained it to me is because the cures as a percentage of beginning delinquent inventory remain at a low level. What percentage on that ratio, when does that shift? When will you stop having to take reserves up by even if it’s just a few $100 per delinquent loans, it’s like a $50 million hit to your capital each quarter.
+Mike Lauer
+Right.
+Randy Raseman – Marathon
+At what level in that ratio do you stop having to do that?
+Mike Lauer
+Well, I think what we’ll have to do is report out to you that quarter. When we start to see those trends significantly improve, and I can’t give you the number, but clearly we have not seen it. As I mentioned earlier, someone else asked the question too, and that is if you look at the percentage of over 12-month inventory, it’s still in the 50-some percent, and it stayed there, 52% over the last eight quarters.
+So it’s not improving significantly enough. And remember, I think this is something we talked about in the last several quarters too that even on a quarterly basis we’re still getting 30% of the notices granted around the seven book, but another 30% are coming from 2004 and older books.
+The 2004 and older books to me are an indicator of the economy. 2007 we understand that difficult period, but 2004 and older really are a function of how slow the economy is recovering, that people are still losing homes that were booked that long ago, and we’d like to see that decline and cure up fast.
+Randy Raseman – Marathon
+Why aren’t you experiencing the benefit of the lift in the housing market that we’re seeing everywhere else? That’s just what doesn’t make sense.
+Mike Lauer
+Well, when you say the lift in the housing market, you’re talking about new mortgages and refinanced mortgages? That lift? Or...
+Randy Raseman – Marathon
+Just in general.
+Mike Lauer
+Higher home prices?
+Randy Raseman – Marathon
+Higher home prices, better data coming out of that market, shouldn’t that mean that your books should start performing better? You’re continuing to say that it’s getting worse.
+Curt Culver
+Well, the home price, you’ve got to remember that a lot of these borrowers were 30% and 40% under water to begin with, so the fact that they’re now improving somewhat doesn’t make a difference on whether they’re going to make their payments or not. And the home price lift you’re seeing or the housing lift you’re seeing, it’s coming up from such lows, that again it’s not making a meaningful dent in the marketplace.
+
+Randy Raseman – Marathon
+Is there anything we can look to where we as outsiders and investors, data point that we should be focused on a certain – what should we be focused on for when it’ll flip over for you guys? What metrics?
+Mike Lauer
+I think, yeah. Go ahead.
+Curt Culver
+Employment is where things are. You’ve got a current book of business that has very stringent underwriting guidelines really since mid-2008. They’re going to do well. But as Mike mentioned, with 30% of our new delinquencies coming from old books of business, that all reflects the fact that people are suffering with employment. So as employment improves the book will improve.
+Randy Raseman – Marathon
+And until you start to see that, until you start to see that 12 month and over bucket materially go down, I know you’re not giving guidance, but just as an outsider, we should continue to see the reserves per delinquent loan pick up, even if it’s just a few $100 per quarter, that trend will continue for the time being until we see unemployment get better and that 12-month and over bucket go down? Is that the right way I should be thinking about it?
+Curt Culver
+Yeah. I would say generally yes. We’d like to see a better trend on cures significantly higher, and especially coming out of some of the older books.
+Mike Lauer
+Keep in mind it is a mix issue. You’ve got 50%-plus of them in that 12-plus. So that percentage needs to come down. So talking about the macro economy issues, but on a metric basis that percentage needs to come down and be shifted, weighted more towards the front end of the delinquency buckets.
+Randy Raseman – Marathon
+Thank you.
+Curt Culver
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Nathanial Adair from Planning Capital. Your question please.
+Craig Perry – Planning Capital
+Hey, actually this is Craig Perry. Sorry, Nathaniel just signed in the call for us. I just had three quick questions. The first is as I was reading your Q it looks like there was a change by the Wisconsin regulator where they’ve begun to allow some of the deferred tax asset in the statutory capital calculation for the end of September. Could you just comment on whether that’s an expectation of future profitability? Or what drove that change?
+The second is you’ve often cited the $20 billion of new insurance in-force would ultimately lead to sort of $400 million of net present value of kind of future premiums net of losses. Over what timeframe or we supposed to kind of think about those cash flows coming in? Is that sort of an average of five years? And then the third is thanks for your disclosure kind of around kind of the duration of delinquencies. Is there any way you could segment out of the delinquencies that are 12 months or older roughly what percentage or sort of north of two years delinquent? Thanks so much.
+Curt Culver
+Mike, you want to go on the...
+Mike Lauer
+Let me first talk about the accounts, the accounting, the stat change that was an admitted practice, approved practice and it gets about $90 million. And yeah, you’re correct. It’s ability of the commissioner looking at forecast and realizing that, that is an asset that could be deemed usable. It is subject to 10% of surplus. We don’t get a real big benefit from that until we start to get positive surplus growth but then that’ll be a significant benefit for us in the future. The last question was Mike’s going to take.
+Mike Zimmerman
+Yeah, we’ll get the delinquency mix question. So 7% of the delinquencies are greater than 48 months old, 11% three to four months old, 13% 24 months to 36. So you’re looking at about 31, about a third of the delinquencies being two years or older in the inventory as of September 30. And then Larry has the calculations as far as the premium flow but I just wanted to point out that is not a MPV calculation. But we’ll let Larry get into the timing of that.
+
+Larry Pierzchalski
+Yeah. So basically on a $20 billion book of business leading to $400 million net profit, that’s over the life. And how that breaks down is roughly about $500 million of earned premium, roughly $100 million of washes over the life netting to that $400 million and as far as timing goes $20 billion book of business over its first year our average premium rate is roughly 60 basis points, so 60 basis points on that $20 billion is $120 million. So a lot of that revenue of $500 million comes in the first few years. So you’re getting a lot of positive cash flows from the year and premium stream early on and very little of the losses. So the $400 million is net lifetime, but a lot of that is over the first two to three years.
+Craig Perry – Planning Capital
+That’s very helpful. I’m sorry, would you – I guess if you just wrote $20 billion of business and let it run off, what would you expect the average duration would be based on your models today? Is it five years or six year?
+Larry Pierzchalski
+Well, at these premium interest rates of 3.5% probably 4.5 to five, yeah.
+Craig Perry – Planning Capital
+Okay. And I’m sorry, lastly under your master servicing agreements, which they may or may not, I apologize I haven’t read them, if you have a loan that’s delinquent for more than two years, do you think you’re likely to ultimately pay out on that claim? Or has that been serviced properly?
+Mike Zimmerman
+Well, talk about servicing negligence. On the claims that we’ve received to date we have not seen significant incidence of servicing negligence. We review every claim, the claims that come in. If there’s a negligence, we will curtail the claims accordingly. But to date we haven’t seen a large incidence of that.
+Craig Perry – Planning Capital
+I’m sorry, I just meant under the terms of the agreement, if it’s sort of two years plus delinquent, typically there’s...
+Larry Pierzchalski
+No. As long as it falls into terms of the agreement, there’s not a time limit per se as to when that foreclosure has to start. There’s been a lot of forbearance, modifications, et cetera, bankruptcy could take up to four or five years. So there’s not an explicit provision that says you must foreclose in two years.
+Craig Perry – Planning Capital
+Great. Did you – are those available on your website? Have I just missed them?
+Larry Pierzchalski
+Our master policy was filed with either last year’s 10-K or 2010’s 10-K. It’s not necessarily right on the website, but it’s filed as an exhibit to one of the recent 10-Ks.
+Craig Perry – Planning Capital
+Terrific. Thanks so much, guys. I appreciate your time.
+Curt Culver
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Shawn Faurot from Deutsche Bank. Your question, please?
+Shawn Faurot – Deutsche Bank
+Hey, guys. Thanks for taking the question. In looking at the GAAP versus stat loss this quarter, was the main driver between the two, was that really just the $90 million that Craig had just asked about on the DTA? Or were you guys...
+Curt Culver
+Yes.
+Shawn Faurot – Deutsche Bank
+Okay. You guys are taking – that’s fine. Obviously be another benefit to that, obviously...
+Curt Culver
+In October, yes.
+Shawn Faurot – Deutsche Bank
+Okay. And then you talked about, I know you guys have been talking about this a lot, when you look at your new delinquencies, obviously they picked up a little bit this quarter, and you talked about the claim rate continuing to stay high. Should we be viewing this quarter as a one-time adjustment as well? Or should we be looking at the kind of implied cure ratio on the older delinquencies staying at this lower level that seems to be coming through?
+Curt Culver
+I think you can never say the trends will stay at this level. Every quarter is another development of three months worth of activity. So I think clearly this year the claim rates have been adjusted upward or negatively. If you go back and look at last year we had a redundancy.
+
+This year we’ve got a negative, and it’s all a function of estimates and how things developed out versus what we had. And we’ve seen developments negatively this year, and most of it has been the drag on the older delinquencies. If that trend continues, and generally speaking in the fourth quarter it does, we never get – we usually get some of the improvements in the first half of the year, especially in the first quarter.
+So we would hope that maybe claim rates might tick down and cure rates might tick up in the first half of next year, but that again as Curt says, a lot of that is dependent on the economy and what’s going to happen. But I wouldn’t expect any improvement in the fourth quarter traditionally.
+Shawn Faurot – Deutsche Bank
+That’s fair. And as far as mods and the efforts you guys have there, do you feel like you’ve, as far as low-hanging fruit, do you feel like you’re getting to the end of the low-hanging fruit? How do you think that that may impact the later stages there?
+Mike Zimmerman
+I think the HAMP numbers, although the new trial starts, the numbers are down from a few years ago when the programs were first announced. The conversation rates on those more recent starts is much higher, cause they’re doing the paperwork upfront rather than after the trial. So they’re still contributing probably 10% to 15% of our overall cure activity is coming from HAMP.
+Shawn Faurot – Deutsche Bank
+Okay. So that’s kind of an interesting way to look at the worst case scenario on those 12 payments or greater, that you think you’ll have those mods coming through?
+Mike Zimmerman
+A good portion of 12-plus delinquent cures are due to HAMP and non-HAMP mods, and those tend to be choppy quarter to quarter, so that’s why the reserves kind of react to some of that choppiness.
+Shawn Faurot – Deutsche Bank
+That’s fair. Okay. Thanks, guys. I appreciate it.
+Curt Culver
+Thanks.
+Operator
+Thank you. Our next question comes from the line of David Epsteen from VRT. Your question, please?
+David Epsteen – VRT
+Hi. Two questions, first, when you said you wouldn’t see the need to downstream additional cash, I know it’s tough to foretell the indefinite future, but what period were you referring to? And what if the OCI revolts some wavers?
+Mike Lauer
+Well, once again everything is based upon where we currently are. I tried to qualify that. I said I didn’t see a need to downstream any capital, because I think based on the forecast that the OCI is seeing and has seen over time, that they are comfortable with the amount of resources we have at MGIC. And he understands that the risk-to-capital is going to increase. He’s looking at resources, claims-paying resources at MGIC, and provided that they continue to run at the forecasted levels that we’ve seen, and the economy doesn’t deteriorate, et cetera, et cetera, that there shouldn’t be a need for any additional capital, because we’re writing at MIC. And as Curt said, that these levels and these conditions we should have more than enough to write at MIC. So that’s the qualifier.
+David Epsteen – VRT
+I think you said that even in a shock scenario you still have excess claims-paying resources, but are you of the view that even if that shock scenario plays out that he wouldn’t demand extra cash? Cause even if he might not need it to pay claims, he might want a greater comfort level?
+Mike Lauer
+Well, again. That’s all speculation. I really can’t get into that. But I mean comfortably I would say that notwithstanding everything we’ve been through here for the last four years, he’s been comfortable with our forecast and the deterioration at some different times and the about of cash. Remember, we did raise capital, so all of that’s been a positive. And as someone pointed out before, we’ve had that luxury of even buying back debt at some times. So he’s comfortable with our forecast, claims-paying resource.
+
+Could that change? Certainly. Some things could change, anything could happen in the future, but based on where we’ve been and what he’s seen over the last five years, the OCI is comfortable with our forecast. That of course is a month-to-month change, obviously, but right now we’re comfortable with where we are, and the OCI is. And we think MIC is in a good position to continue writing business.
+Curt Culver
+Okay. I want to point out too that when the state does their work, they don’t do it just on a base-case scenario. They do apply a shock to typically a Moody’s S3 or S4 scenario. So they’re looking at not just the base case, but at an adverse scenario when they’re making all their assessments on a monthly and quarterly basis.
+David Epsteen – VRT
+Okay. Thank you for that. And then on the issue, and you might have mentioned it earlier, forgive me if you did, regarding Freddie Mac wanting to be sure that the OCI will be willing to allow MICs capital to be available to support MICs policy holder obligations without segregation of those obligations. Where do we stand on that? Where do we stand?
+Mike Lauer
+That’s still being negotiated. That’s another – third party if you will, Freddie Mac, OCI and...
+Curt Culver
+FHFA.
+Mike Lauer
+And FHFA also, yeah.
+David Epsteen – VRT
+Thanks...
+Curt Culver
+They’re in discussions. That’s all we know right now.
+David Epsteen – VRT
+Okay. And you guys certainly characterized a positive tone to reaching resolution. So you think this is something that can be overcome?
+Mike Lauer
+We’re hopeful...
+Curt Culver
+Well, I think it’s in everyone’s best interest to make that overcome. And that’s what we’re counting on, that common sense prevails.
+David Epsteen – VRT
+Thanks very much. Good luck.
+Mike Lauer
+Thank you.
+Operator
+Thank you. Our next question comes from the line of John Benda from Susquehanna. Your question please.
+John Benda – Susquehanna
+Hey, good morning, guys. Just a couple of questions for you. On the reserve figure in the quarter of the new lost and card estimate could you possibly break that down? You mentioned that new reserves were the primary driver of that figure.
+Mike Lauer
+Well, John, we told you that roughly one out of four new notices goes to claim. So that’s – you have 34,432 new notices that came in. If you multiply that around $12,000, $12,500, that’s going to give you $430 million of the 490 we had about $25 million for pool. Yeah, these are rough numbers on those claims are estimates. It all depends on the mix and where they’re coming from et cetera but broad brush that kind of gives you a breakdown of it.
+John Benda – Susquehanna
+Right. And then on the cure rates could you offer an assumption of what you use on a forward-looking basis for your late-stage and mid-stage?
+Mike Lauer
+Just might – again we don’t – we look at the overall notices of inventory that’s come through but the statistic that we put out tells you that on a monthly or a quarterly basis about 4% of late-stage delinquencies cured. That would translate to an annualized rate of around 15% or conversely 85% 90% claim rate...
+John Benda – Susquehanna
+On those...
+Mike Lauer
+The middle ones somewhere in between.
+John Benda – Susquehanna
+Okay. And then on the $400 million of capital generated on that $20 billion in IW scenario with declining persistency rates since for the last three years or so, how certain is that figure? I mean what if persistency rates drop back into the 70s like we saw in 2007 or the 60s like we saw in 2006? I mean is that a function of – I mean interest rates moving up is clearly going to help persistencies stay low. But if they remain low what kind of variance do you see around persistency and that $400 million figure that you offered?
+Mike Lauer
+Well the persistency that we’re talking about is on new writings. And the persistency on that new book is going to be a function of the interest rate on the underlying mortgages which today is about 3.5%, the interest rate environment going forward. So I don’t know about you but 3.5%...
+
+John Benda – Susquehanna
+Is very, very favorable.
+Mike Lauer
+On these mortgages so it’ll last a long time. What we’re seeing the drop off in the persistency on books of business like the 2009 book where the coupon in the 2009 book is roughly around 5, 5.1% in a 3.5 market so we’re seeing it there but once again the $20 billion, that’s what we’re talking about is the 2012 book of business and that’s in a 3.5 coupon.
+Curt Culver
+I would offer also that if persistency starts falling it’s kind of a wonderful economy that the loss it will probably get better than our expectation.
+John Benda – Susquehanna
+All right. Great. Thank you very much.
+Operator
+Thank you. Our next question comes from the line of Stewart Ink from Bernard Road. Your question please?
+Stewart Ink – Bernard Road
+Hi, guys. Thanks for taking the call. I wanted to check on the Countrywide loans, the 33,000 delinquent loans. Are there any reserves against those today?
+Mike Lauer
+Yes. I mean they’re included in our delinquent inventory. Well they’re certainly loaned whether they’re Countrywide or others that we have made adjustments for expected rescissions but for any loan that’s delinquent with some assumption for rescissions there’s reserves established for all of them.
+Stewart Ink – Bernard Road
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from the line of Dan Vasquez from RBS. Your question, please.
+Dan Vasquez – RBS
+Hey, guys. A few questions. First off, if we can just follow up with Dave’s question about the shop scenario. You said that your claim staying resources comfortably exceed all obligations of policy holders. Can you provide updated guidance by how much that is in your new models here?
+Mike Lauer
+Sure, Dan. It’s Mike and you may recall we went through this last quarter but I’d be glad to update that as I view them. The similar methodology that we viewed in the past and it’s really unchanged as of June 30, the excess claims staying resources is approximately $1.9 billion.
+Now in that $1.9 billion or in the resources includes the capital that’s in mix capital that’s in our Australian subsidiaries of about 100 million and the $1.9 billion doesn’t make any provisions for the Freddie Mac settlement or any adverse contingency development that could arise from those disputes with Countrywide or the IRS. And of course I got to tell you this is a forward-looking statement and the results could differ, actual results could differ on a runoff from the statements that I’m telling you about and you got to look to the risk factors that are in the 10-Q to talk about all those risk factors but it’s effectively unchanged from where we were at last quarter.
+Dan Vasquez – RBS
+Great.
+Mike Lauer
+And we’re not taking – we don’t update that on a monthly basis or a quarterly basis. So you can also consider the new business that’s come in the quarter as well.
+Mike Zimmerman
+So once again, those numbers, that 1.9, that’s a run off. So that doesn’t take into account any new business. So a year from now if we wrote the $20 billion we talked about earlier, that should add a net $400 million to that number to help offset potentially some of these contingencies that may be down the road.
+Dan Vasquez – RBS
+I appreciate that. That was part of my question. So kind of moving on, if we could talk about Freddie. Could you just help me understand some of the potential impediments here a little better? So it seems like one of the asks from your part, not one of the three conditions from them, is that you want an extension of the waver probably sometime in excess of next year. Can you elaborate on what you’re looking for here? How much? How long?
+Curt Culver
+Well, you’d like to go as long as you can. The reality is Fannie Mae’s is through 2013, so I think that’s what you’re looking at relative to Freddie Mac. Also it’s an ability to write in MIC where we need to, whereby even though I think we have 34 states that now do not require wavers, but if any of those would change to where we would need to use MIC to write in those states, we’d like that capability, which is what we have with Fannie Mae also. So that’s what we’re looking for, just an ability to write in MIC wherever we need to write in MIC, given the strong claims-paying position that the company is in.
+
+Dan Vasquez – RBS
+Right. And just lastly here, can you elaborate a little on Condition Number 3? I just don’t understand how the mechanism would actually work, where capital would be drawn out of MIC to potentially pay MGIC losses? Can you just elaborate on what they’re looking for? How they would perceive impairments and so forth?
+Curt Culver
+It’s a theoretical exercise. What they’re looking for is to say if there was an event where MGIC was no longer writing business, and that there was excess capital in MIC, what kind of assurance can the OCI give to Freddie and Fannie that that excess capital would be able to be upstreamed to the MGIC the writing company? So it’s effectively looking for some kind of language that would get them comfortable with that excess capital calculation and the ability to dividend up that money, under what kind of conditions?
+Dan Vasquez – RBS
+I’m sorry. That was never clear to me. So just to reiterate here, the condition number three is only applicable under a run-off scenario?
+Mike Lauer
+No, if MGIC cannot pay its claims, 100% of its claims, validate the claims when they’re submitted. That would only come about if MGIC is not writing business and is running out of cash, which we don’t foresee happening.
+Dan Vasquez – RBS
+Okay. I understand now. All right, guys. I appreciate it very much. Thank you.
+Curt Culver
+Yep. Thank you.
+Operator
+Thank you. Our next question comes from the line of Scott Frost from Merrill Lynch. Your question, please.
+Scott Frost – Merrill Lynch
+I just wanted to go over some of the incurreds to make sure I understand what happened. When you have an increase incurreds, it looks like current year incurreds actually went down or what it looks like happened is you have a continued turn of favorable development last year to unfavorable. That’s what you’re talking about when you talk about an uptick in the claims rate in older loans? That’s the first question. The other one, should I think of current year incurreds, does that include borrowers that have gone through a mod and re-defaulted?
+Mike Lauer
+Well, on the last question, you’re – Scott, you’re referring to the disclosure in the 10-Q I assume, correct?
+Scott Frost – Merrill Lynch
+Yeah.
+Mike Lauer
+Okay. I just wanted to make sure. So the current year is any notice that we receive from January 1 forward, so that could include a modification that was current that then re-defaulted. It could also include an adverse development on a notice that we received in January through the end of September. So that’s the current – all that activity is contained in the current year line item there. And then – I’m not sure if you have a pertinent...
+Mike Zimmerman
+Well, I think you’re referring to the Q disclosure, and that is, we break out incurreds and for accounting purposes, for SEC reporting, they say identify incurreds for the current period versus the prior period, and for the nine-month period, the current incurreds were lower versus last year, but for the prior year, they were up.
+So effectively, there was a redundancy for the same period in 2011 for the nine months, but for the 2012 period for nine months, we’ve been incurring incurreds for prior-year books. That’s correct. So that was notices that were on hand at the beginning of the year where we had estimates on how they were going to develop out and in effect, we had to incur greater claims assumptions – claim rates, primarily in rates, not so much on a severity side.
+So there’s been an increase for $287 million through nine months and I think it’s about $90 million for the period or $60 million for the period – about $60 million, yeah, for the third quarter. So that’s the breakout difference.
+Scott Frost – Merrill Lynch
+Okay. So what I’m saying is that the claim that reflects more loans than you expected from older books coming to potential loss. Is that correct?
+
+Mike Zimmerman
+That’s correct. And I would say not so much on severity but rather just in number.
+Scott Frost – Merrill Lynch
+Okay. And why do you think you were off in your estimation?
+Mike Zimmerman
+Well, once again it’s the assumptions. It changes month-to-month, year-to-year. But for the most part it’s a continued duration of this economy as Curt talked about and the lower percentage of these loans curing out than we would have anticipated. And it depends by some markets, too. But for the most part it was across the board. There wasn’t too much changing in markets in this last nine month period.
+Scott Frost – Merrill Lynch
+Okay. All right. Thank you.
+Operator
+Thank you. (Operator Instructions) Our next question is a follow up question from the line of Douglas Harter from Credit Suisse. Your question please?
+Douglas Harter – Credit Suisse
+Thanks. My question has been asked and answered. Thank you.
+Mike Lauer
+All right.
+Curt Culver
+Okay.
+Operator
+Thank you. This does conclude the question-and-answer session. I’d like to turn the program back to management for any further remarks.
+Curt Culver
+Yeah. Thank you for your extensive questions today and your interest in the company and have a wonderful day. Thank you.
+Operator
+Thank you, ladies and gentlemen for your participation in today’s conference.

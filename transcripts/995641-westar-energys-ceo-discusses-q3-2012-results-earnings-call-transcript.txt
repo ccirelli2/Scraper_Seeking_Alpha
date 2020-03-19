@@ -1,0 +1,203 @@
+Westar Energy, Inc. (NYSE:WR) Q3 2012 Earnings Conference Call November  9, 2012 10:00 AM ET
+Executives
+Mark A. Ruelle - President and CEO
+Anthony D. Somma - SVP, CFO and Treasurer
+Bruce Burns - Director, IR
+Analysts
+Michael Lapides - Goldman, Sachs & Co.
+Travis Miller - Morningstar Securities
+Andrew Levi - Avon Capital
+Ashar Khan - Visium Asset Management
+Operator
+Good day ladies and gentlemen, and welcome to the Westar Energy Third Quarter Conference Call. My name is Ann and I’ll be your coordinator for today’s call. At this time, all participants are in listen-only mode. (Operator Instructions) We will be facilitating a question-and-answer session following the presentation. As a reminder, this conference is being recorded for replay purposes.
+I’d now like to turn the presentation over to your host for today’s call Mr. Bruce Burns, Director of Investor Relations. Please proceed, sir.
+Bruce Burns
+Thank you, Anne. Good morning and welcome to our third quarter conference call. Last night, we filed our 10-Q, it’s on our website westarenergy.com along with the earnings release and supplemental materials under the Investor Section. Some of our remarks will be forward looking, so I remind you of uncertainties inherent in our comments or that we may have included in materials that supplement the release.
+Commenting this morning will be Tony Somma, CFO; and Mark Ruelle, CEO. Other members of our senior management team are also available to answer questions. Tony will offer highlights on the quarter, provide an update on major projects and comment on earnings guidance. Mark will share a few observations on our operations, business trends and regulatory activities.
+With that, I\'ll turn the call over to Tony.
+Anthony D. Somma
+Thanks, Bruce. Good morning, everyone. We will keep our remarks brief this morning as we look forward to seeing many of you next week at EEI. Our gross margin increased $31 million or 7%, largely from higher prices as retail sales volumes are down 3% for the quarter due mainly to cooler weather.
+As measured by cooling degree days weather this year was about 9% cooler than last year, which we estimate lowered EPS by about $0.05 a share. In addition, while we still had some record hot days, weather wasn’t as humid as it was last year. Decline in industrial sales was concentrated mostly to just chemicals, biofuels, and aerospace.
+On the expense side, excluding last year’s reversal are the one-time $22 million legal accrual, combined O&M and SG&A was up $16 million or 9%. Principal reasons for the increase include $9 million for SPP transmission expense which has a revenue offset; $4 million for property taxes, which also has a revenue offset; $3.5 million for higher pension and employee benefit cost, pursuant to the April rate order that permitted higher amortization and matching revenues, and last, $3 million of transition expenses associated with our cost saving initiative, out of our year-to-date total of about $4.5 million. Depreciation decreased $7 million, reflecting adoption of lower depreciation rates, also part of the rate order. Last with respect to the P&L, our shares outstanding increased by 9%, which reduced EPS by $0.09 a share.
+Turning to CapEx, there were no surprises. Air quality equipment for Unit 4 at our Lawrence Energy Center is wrapping up ahead of schedule and under budget. We expect to bring the plant back online in a few days. The big air-quality projects at both Jeffrey and La Cygne also remain on schedule and on budget.
+While not in our CapEx budget, the Ironwood and Post Rock wind farms reached commercial operations this year and will provide an additional 370 megawatts of renewable energy under long-term fixed price purchase power agreements.
+Renewable resources, both owned and through purchased power agreements, now represent about 670 megawatts or 9% of our installed generating resources, which is more than sufficient to meet the state RPS. Unlike in many parts of the nation, the incremental cost of renewable energy here is relatively modest. The average of these two new contracts is less than $0.035 for kilowatt hour.
+
+Our Prairie Wind Transmission joint venture has begun construction on a double-circuit 345 KV line with right away clearing and foundation construction running slightly ahead of plan. We expect to complete the line in 2014, as we previously reported, it’s tracking significant favorable to budget.
+On our second quarter call, we said we were undertaking some cost saving initiatives. Today, we’ve identified about $16 million of annualized savings, some of which will continue to take place throughout next year. Mark, will elaborate more on that in a moment.
+In our release last night, we increased this year’s earnings guidance range by a nickel to $1.90 to $2.05 per share from $1.85 to $2 per share. The increase reflects favorable weather and lower interest cost compared to plan. As is always the case, guidance is conditioned on the typical factors, including such things as weather, the economy, COLI proceeds, and so far this year we received about 90% of the COLI estimate built into guidance, and other factors we can’t control, all of which we detail on our supplemental materials.
+With that, let me turn things over to Mark.
+Mark A. Ruelle
+Thanks, Tony and good morning. Tony mentioned our major environmental project at Jeffrey Energy Center remains on schedule and on budget. As a reminder, that project is part of a consent decree with EPA that closed out a New Source Review. It required the installation of at least one SCR among the three units at the station and it also set a reduced site-wide NOx rate. To achieve the site-wide limit, we knew we would have to install one SCR and likely a second one.
+I’m pleased to share today that based on the planned operations of the single SCR and some creative work by our engineers, we can now meet the lower site-wide NOx limit with just the one SCR and some much cheaper equipment. We are delighted with these results as they allow us to meet the environmental mark and yet avoid spending hundreds of millions of dollars, which would otherwise just serve to raise prices for our customers.
+Even as we’ve experienced some softness in sales, like everyone else, we are generally pleased with our business. But because this hasn’t been a quick business cycle, we’re not just waiting around to see how long it might take to see higher growth. Instead, as Tony just mentioned, we implemented a cost control initiative to identify process improvements and ways to streamline our operations.
+We consider these efforts to be ongoing activities of running our business and not just a cost cutting event, but let me put in context the results from our recent accomplishments. The $16 million of annualized savings is about 3% of our combined O&M and SG&A, excluding costs covered through revenue increases such as SPP transmission, property taxes, storm amortizations and the like.
+Controlling costs reflects our appreciation that we need to do what we can to offset added costs borne by our customers stemming from required investments in air quality controls and other mandates. But controlling cost isn’t just about reducing expenses. In many instances, it’s also about managing the rate of increase too. For example, you know we’re seeing added pressures and oversight requirements from regulators that push other costs higher, such as we’re experiencing at Wolf Creek.
+But even beyond the recent trends at Wolf Creek, we’re also looking to the long-term future of that plant. Recall, we already received a license extension which means three more decades of safe operations at the plant. It’s a great asset, but given how much – given the now much longer life and we and our co-owners are now considering whether a fleet operator might be in the best position to assist us in operating the plant.
+So, the co-owners are in the process of soliciting proposals from the best nuclear operators in the business and at the end of the process sometime early to mid next year the owners might hire one of these companies to help us with operations or we might just continue as we’re today.
+
+Though growth is modest our service territory continues to improve. We’ve added about 2,500 customers so far this year, that’s about 1,000 more than last year for the same period, although the total is still well below the trend prior to the financial crisis.
+Unemployment continues to run about 200 basis points better than the nation. Some bright spots for our industrial sector include agriculture, food processing and miscellaneous manufacturing. However, as Tony mentioned, we experienced some softness in a couple of sectors. In biofuels, the drought has hurt business. Chemicals are down the most, but we believe some of this is just temporary and some of it’s tied to the soft construction economy generally. And while demand for private aircraft remained soft, commercial aviation has remained stable with the outlook improving as airlines look to replace the aging commercial fleet. For example, we expect significant work on the Dreamliner will occur in Wichita.
+On the regulatory front, let me review the near-term calendar. Our 2012 filings to update prices for transmission, air quality controls, and energy efficiency programs are complete and in place as planned, as is the implementation of the general rate increase improved last spring.
+Our plans for 2013, call for updating various riders, in addition to an abbreviated rate case to be filed in April to recover our share of the La Cygne air quality project for cost incurred through the middle of next year. We estimate the filing should capture a little more than half of our $615 million portion of the total project. We expect a decision on the abbreviated case to be about this time next year. Beyond the abbreviated filing, we haven’t yet identified when precisely we will file the next general rate case other – to pick up the other half of La Cygne, other than it looks like it will be some time in 2015.
+Before taking questions, I’d like to share a couple of our operational highlights. At our owner operated plants, we’ve reached a milestone for safe operations. 1.6 million man-hour’s without an accident. That translates to 15 months without an accident from a work group of 600 power plant professionals in heavily industrialized environments. This focus on safety has obviously intrinsic value but it also translates to improve focus on operations more generally. Proof of that shows up in the smooth operation at our plants which had a forced outage rate at our base-load coal units of just 4% for the year.
+Of course we’re all aware of the devastation caused by Sandy and then the nor\'easter we’re mindful of those impacted by the storm and those still waiting for housing repairs and electricity, but pleased we could help with the monumental task of restoring power to millions of homes and businesses who were in the dark. It was an easy decision for us to send help not only for humanitarian reasons but because our operations are in good shape which allowed us confidently to release line and support personal and their equipment.
+In no other industry does this kind of mutual assistance occur. Imagine just how expensive electricity would be if each individual utility has to main this level of peak reserves of people and equipment to recover from devastating storms. We’ve heard from a number of you in New York and New Jersey who bumped into our guys. Thank you for encouraging them. That means a lot to our employees especially those getting acquainted to life in the big city.
+We’re now ready for questions from the financial community. Members of the media we invite you to contact Erin LaRow at 785-575-6060, if you have questions. Ann, would you open the lines please.
+Question-and-Answer Session
+Operator
+Gladly. Thank you. (Operator Instructions) And our first question comes from the line of Michael Lapides with Goldman, Sachs. Please proceed.
+
+Michael Lapides - Goldman, Sachs & Co.
+Hey, guys. First of all congrats on a good quarter and a good year-to-date so far.
+Mark A. Ruelle
+Thank you.
+Michael Lapides - Goldman, Sachs & Co.
+Two things. One on the $16 million of annualized savings. Can you talk a little bit about that and how much of it you\'ve realized so far in 2012 or expect to realize meaning is embedded in your 2012 guidance versus how much of it you haven\'t realized and you would expect to realize in future years? 
+Mark A. Ruelle
+I’ll talk, sort of generally how I see it phasing in and then Tony can maybe say specifically what he thinks is in \'12. If you were to look at the ramp-up rate and you sort of put the rate of ramp-up on a bell curve I\'d say it maybe starts in October \'12 and ends in September of \'13 and probably the peak ramp-up is maybe late spring or something, March, I don\'t know. And it\'s fairly linear, it mostly came from people. We’re down 100 people from our plant. 
+Michael Lapides - Goldman, Sachs & Co.
+Got it. So, in other words, you\'ve realized actually very little of those savings through your year-to-date numbers so far. 
+Mark A. Ruelle
+Right. 
+Michael Lapides - Goldman, Sachs & Co.
+So, these would all be incremental to what\'s been in O&M or SG&A so far? 
+Anthony D. Somma
+And Michael, there’s obviously some savings that we realized plus our headcount is slower, but then we also have some transition expenses that are offsetting it. 
+Michael Lapides - Goldman, Sachs & Co.
+Got it. Okay. On the capital side, you touched on the SCR, can you – and I apologize I was hoping on a little bit late. Can you rehash what that meant to your capital spending guidance versus prior disclosures in which years that has the biggest impact?
+Mark A. Ruelle
+Well, it had very little impact because we didn\'t have the second SCR in our projections.
+Michael Lapides - Goldman, Sachs & Co.
+Okay.
+Mark A. Ruelle
+But there was still a fair amount of risk that it might creep into our projections. And we started working on this, John Bridson who runs our plants, he and his team and the environmental team got to work on this, and we debated do we put a second SCR in the forecast or not, and they were starting to feel pretty optimistic, so we didn\'t. But now we have a high level of confidence. We can get by with just a one SCR, and that\'s a couple of hundred million bucks, less than what we had to spend to do it more cheaply.
+Michael Lapides - Goldman, Sachs & Co.
+Got it. Last item, the Wolf Creek; so you\'ve touched on Wolf Creek and the potential for outsourcing. It seems like you\'re just talking about potentially outsourcing the O&M or the day-to-day management on the plant. You\'re not talking about a potential sale of the plant or could it be one or the other?
+Mark A. Ruelle
+This process is to solicit help in operating the plant.
+Michael Lapides - Goldman, Sachs & Co.
+Got it. Okay. I appreciate it guys. Thank you very much 
+Mark A. Ruelle
+Thanks, Michael.
+Operator
+And our next question comes from the line of Travis Miller with Morningstar Securities. Please proceed.
+Travis Miller - Morningstar Securities
+Good morning guys. Thanks.
+Mark A. Ruelle
+Good morning.
+Travis Miller - Morningstar Securities
+Two questions on the Prairie Wind project. Are you guys still comfortable with the capital reduction that you\'d given earlier this year from the $225 million or $180 million as you progress through the project?
+Mark A. Ruelle
+Yeah. We are, and the project is going fairly well. We\'ve had – there is silver linings in everything, right? Drought means pretty good construction conditions.
+Travis Miller - Morningstar Securities
+Okay. And then remind me what the rate increase is. Is it an AFUDC CWIP and when could we see some of the first flow into earnings from the project?
+Anthony D. Somma
+
+Travis, this is Tony. We\'re recording some very small earnings today. It is collecting some revenue based upon the amortization of some cost and based upon the transmission formula rate. It will be very slow over time really until the project is under commercial operations in 2014.
+Travis Miller - Morningstar Securities
+Did you get those annual transmission review rate?
+Anthony D. Somma
+Yes.
+Travis Miller - Morningstar Securities
+Okay, great. Thanks a lot.
+Operator
+(Operator Instructions) And our next question comes from the line of Andy Levi with Avon Capital. Please proceed.
+Andrew Levi - Avon Capital
+Hi, good morning guys.
+Mark A. Ruelle
+Good morning, Andy.
+Andrew Levi - Avon Capital
+I apologize if I got cut off, we have bad cell phone service after the storm. So, just one thing I want to go over, I mean, obviously you gave your drivers for 2013. What exactly are you seeing on sales growth for \'13? And the reason I asked that beyond what\'s in your release is that, GXP just had a call and their service territory, particularly in Missouri which is not yours. It is seeing major declines, and so if you could maybe just talk about how you differ from GXP, your service territories, and again what you’re expecting for 2013?
+Mark A. Ruelle
+Sure, Andy. I guess, probably one of the biggest differences is we\'re a lot more rural and they\'re a lot more urban. So, they are really kind of different economies, but Tony, you want to give some thoughts as to what we\'re looking at?
+Anthony D. Somma
+Yeah. Hey Andy, good morning. As we were putting the plan together for \'13, it\'s not totally baked yet, but it looks like we will experience some modest increase in sales. We\'re not ready to put a finer point on it yet, and that\'s why we said it\'s going to be less than 1%. And as Mark mentioned in his remarks, some areas in the industrial sectors are doing fairly well, and we\'re expecting some increase there as well as some activity on the commercial side as well.
+Andrew Levi - Avon Capital
+So, bottom line, I guess, what they\'re seeing in Missouri, you\'re not seeing in Kansas?
+Anthony D. Somma
+Yeah. I know we’re neighbors, but it\'s really two different economies.
+Mark A. Ruelle
+And if you look back at history, you\'ll see that there is quite a bit of difference. There has been times where they’ve done well and we haven\'t done as well too.
+Andrew Levi - Avon Capital
+Okay. And just also on the O&M where this cost initiative – cost savings initiative you’re doing is great. Just to understand what you’re basically saying through – again you release for your drivers is that the base number. So, X kind of what you’re – kind of talked about in the rate case and certain costs that are associated with that where you are getting recovery of and trackers that we should be thinking for SG&A and for O&M about 1% growth, is that kind of …
+Anthony D. Somma
+Less than 1%, yes for next year.
+Andrew Levi - Avon Capital
+Less than 1%?
+Anthony D. Somma
+Yeah.
+Andrew Levi - Avon Capital
+Okay, great. Thank you very, very much.
+Anthony D. Somma
+You are welcome.
+Operator
+And we have a follow-up question from Michael Lapides with Goldman, Sachs. Please proceed.
+Michael Lapides - Goldman, Sachs & Co.
+Hey, guys, I forget whether you actually disclosed this. I’m not sure you do, and I am going to be a pain and ask again. Can you talk about what weather normalized demand has been both in the quarter and the year?
+Mark A. Ruelle
+Well, I guess, I’ll hand it over to our Chief Financial Officer, Mr. Somma.
+Anthony D. Somma
+Hey, Michael, everybody is looking at me. So, you want versus normal?
+Michael Lapides - Goldman, Sachs & Co.
+Yes.
+Anthony D. Somma
+Okay. So, what we are estimating is versus normal the quarter this year gave us about – the weather gave us about $0.13 to $0.14, year-to-date $0.17 to $0.18. And megawatt hour sales kind of weather normalized are pretty much flat year-over-year.
+
+Michael Lapides - Goldman, Sachs & Co.
+Got it, okay. So, years were flat. Any significant variation across the customer classes?
+Anthony D. Somma
+Revenue might be a little soft, but I prefer to have a full-year of numbers before we reach to any conclusions. As you know, the shorter the time period that with weather normalized you get some bumps in there.
+Mark A. Ruelle
+Sure. As I indicated Michael, the chemicals were up the most for us, and some of that we think is just temporary and then some of it is – we\'ve got some folks that make construction supplies and that\'s probably just going to follow the general trend in the construction economy.
+Michael Lapides - Goldman, Sachs & Co.
+But net summary, weather normal demand flat. Weather contributing $0.13 in the quarter, $0.18 and $0.19 in the year. So, for year-over-year of growth, when I think about growth into \'13 from \'12, besides the O&M management, besides the transmission in the ECRR revenue increases, you\'ve also got a partial year benefit from the rate case.
+Mark A. Ruelle
+Correct.
+Michael Lapides - Goldman, Sachs & Co.
+Anything else?
+Anthony D. Somma
+No, I think you hit on all the drivers.
+Mark A. Ruelle
+(Indiscernible) summer. Yeah.
+Michael Lapides - Goldman, Sachs & Co.
+Okay, got it. Thanks guys. Congrats on the good year.
+Anthony D. Somma
+Thanks.
+Operator
+And our next question comes from the line of Ashar Khan with Visium. Please proceed.
+Ashar Khan - Visium Asset Management
+Hey, one suggestion would be; I hope you try to get your calls off GXP\'s same day. You get branded in the same kind of like thing.
+Mark A. Ruelle
+We manage our business (indiscernible), Ashar.
+Ashar Khan - Visium Asset Management
+So, let me just tell you, one company is going down, they’ve [drain] for five years and you’re improving. So, you having it on the same day kills your thoughts and all that. I would really consider you’re being off-track from GXP.
+Mark A. Ruelle
+Yeah, I would just say that I think our investors are bright enough to understand that each company stands on its own.
+Ashar Khan - Visium Asset Management
+Okay, okay. Just kind of like – could you just explain the sides, I mean, just a little bit on this – sorry, I joined in late. This combined O&M and SG&A trend of about 5%. Can you just explain this, and then you have this combined expense increase of less than 1%? Can you just quantify these assumptions? Can you just go a little bit deeper? I apologize if someone of you answered this before.
+Anthony D. Somma
+No, we really didn’t. Ashar, this is Tony. If you look at how our O&M and SG&A has gone up this year, a lot of it has been as planned simply because of the rate quarter where we asked for more money to trim trees as well as the regulatory construct we have in place for pension expenses where we defer excess pension cost and then we get to amortize those over the next five years, I believe.
+And then, we also have increases for SPP transmission expenses which has a revenue offset. So, in total the aggregate, as Mark was saying or as we said in our earnings drivers, will be about 5% for 2013. If you back out the tree trimming and the pension and the SPP and property taxes which we also have a tracker, it will be less than 1%.
+Mark A. Ruelle
+I think it\'s important for people to realize and this is a long way around the barn. But when we show transmission expenses going up from the SPP, a big portion of that is actually our revenues and our return on our own assets. It\'s just the way that it works.
+When we pay transmission expenses, that is the cost to use our own assets plus the cost to use others assets, and then of course the SPP gives back to us the revenue that reflects the cost of operating our own assets and a return on our assets. So, when you see SPP expenses, you really need to pair it with the transmission revenue that comes through the rider at the same time.
+
+Ashar Khan - Visium Asset Management
+Okay. So what you\'re saying is that – what should hit the bottom line, the earnings in terms of O&M, is less than 1%, am I right? Because there are going to be other trackers or revenue items which are going to take care of all of that? Is that a fair way of looking at it?
+Anthony D. Somma
+Yes, yeah.
+Ashar Khan - Visium Asset Management
+Okay – okay. So, generally you’re expecting then, with the rate case and everything and all that earnings should grow next year versus this year. Is that fair?
+Mark A. Ruelle
+Well we haven’t given guidance yet for next year. We’re giving you some drivers.
+Ashar Khan - Visium Asset Management
+Okay – okay. Thank you.
+Mark A. Ruelle
+You’re welcome.
+Operator
+Ladies and gentlemen, with no further questions in the queue. This concludes today\'s question-and-answer session. I would now like to turn the call back to Mr. Mark Ruelle for closing remarks.
+Mark A. Ruelle
+Thank you, Ann. Thank you for joining us everybody. We look forward to meeting with many of you next week at EEI. If you have follow-up questions now, just contact Bruce Burns our Director of Investor Relations. Bruce\'s number is 785-575-8227. Thanks.
+Operator
+Ladies and gentlemen, we thank you for your participation in today\'s conference. This concludes the presentation, and you may now disconnect. Have a good day.

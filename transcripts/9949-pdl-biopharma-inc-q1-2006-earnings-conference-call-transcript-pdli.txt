@@ -1,0 +1,272 @@
+PDL BioPharma Inc. (NASDAQ:PDLI)Q1 2006 Earnings Conference CallMay 2, 2006, 4:30 p.m. EST Executives March  1, 0000 ET
+Analysts
+Joel Sendek - Lazard Capital Markets
+Brett Holley - CIBC World Markets 
+Heather - Citigroup 
+George Farmer - Wachovia Securities 
+Tom McGahren - Merrill Lynch
+Eric Hoffman - JP Morgan 
+Jason Zhang - Prudential 
+Phil Nadeau - SG Cowen 
+Operator
+Good day and welcome to the PDL BioPharma First Quarter Earnings Release Conference Call. Today\'s call is being recorded. For opening remarks and introductions, I would now like to turn the call over to Mr. Jim Goth. Please go  ahead, sir. 
+Jim Goth
+Good afternoon, and thank you for joining us today. With me are Mark McDade, Chief Executive Officer, Dr. Steven Benner, Chief Medical Officer, and Andrew Guggenhime, Chief Financial Officer. 
+During today\'s call, Mark will provide an overview of first quarter operating highlights, Steve will provide an overview of our clinical development program, and Andrew will discuss our first quarter results and updated financial guidance. 
+Let me remind you that the information we’ll cover today contains forward-looking statements regarding our financial performance, clinical milestones and other matters, and our actual results may differ materially from those expressed or implied in the forward-looking statements. 
+Factors that may cause differences between current expectations and actual results are described in our filings with the Securities and Exchange Commission, copies of which may be obtained at the investors section on our website at www.pdl.com. 
+The forward-looking statements made in this presentation should be considered accurate only as of the date of this presentation. Although we may elect to update forward-looking statements from time to time in the future, we specifically disclaim any duty or obligation to do so, even as new information becomes available or other events occur in the future. 
+Our discussion today will include the presentation of non-GAAP finance measures of our performance in addition to our GAAP financial information. We believe that these non-GAAP financial measures provide added insight into our performance by focusing on our ongoing core operations. We use these non-GAAP financial measures for our own measurement purposes. 
+Please consider these non-GAAP financial measures in addition to, not as a substitute for, our GAAP financial measures. For reconciliation between our non-GAAP financial measures and our most directly comparable GAAP financial measures, please consult the press release we issued this afternoon, a copy of which may be obtained at the investors section of our website at www.pdl.com. 
+I will now turn the call over to Mark McDade, Chief Executive Officer. 
+Mark McDade
+Thanks, Jim, and thanks to all of you for joining today\'s call. 
+In the first quarter of 2006, we continued to build upon the significant commercial and pipeline progress made in 2005. We increased sales of Cardene and Busulfex as current NDC data for these products show gross sales were up year-over-year by nearly 39% and 13% respectively. Our royalty revenue, thanks to our partner’s efforts, grew to roughly $44 million, a 33% increase versus the same quarter in 2005, and more than the entire year in 2002. 
+At the same time, we\'re making steady progress with our three leading clinical stage drug programs as we push ahead with Terlipressin, Nuvion and Ularitide in our efforts to ensure registration programs for all three are underway by the end of this year. 
+On Friday of this week in New York City, we are hosting our first ever business update, focused on our three marketed products and future commercial opportunities. So we\'ll keep our product comments brief on this call, but we\'re pleased with the ongoing growth for Cardene and Busulfex, while we\'ve also been stemming the volume and shared decreases for Retavase with focused emergency department promotional efforts. 
+
+Based on our recent performance and our outlook for the balance of the year, we reaffirm product sales guidance from February, 2006 in the range of $175 million to $185 million for the full year. 
+On the pipeline front, we\'re making noteworthy progress. As a result of successful talks with the European regulatory authorities to define Ularitide\'s registration trial requirement, we believe we\'re on track to meet our stated aim of initiating treatment of patients in a large EU registration study in acute decompensated heart failure before the end of this year. 
+Our anticipated resource requirements are now dramatically larger than we previously estimated, based on the fact that a much larger number of patients and two trials, rather than one, will be required for regulatory submission to the EMEA. 
+Based on the end points we\'ll be pursuing, the two studies combined will be more than three times larger than we had estimated at the beginning of this calendar year. Clearly this increase will have a considerable impact on our overall operating expenses, and is the major cause of our revised earnings guidance as described in our press release and further on this call. We are disappointed to revise our guidance, but we view this as a highly positive outcome of our discussions under scientific advice to date. 
+For Nuvion, we continue to believe we\'re on track for potential phase 3 initiation of our Phase 2/3 study by year\'s end, but have taken on additional efforts to increase enrolment as well as initiate development of this agent for use in severe Crohn\'s disease, again impacting overall operating expense and earnings guidance for the full year. 
+For Terlipressin, we announced during the quarter that our partner, Orphan Therapeutics, has completed Phase 3 enrolment, and we continued our launch preparation efforts as we eagerly await the efficacy results from this study, anticipated by the end of the third quarter this year. 
+Consequently, we are on track with three programs on clearly defined registrational paths. Steve will shortly address our development highlights for the quarter, as well as reinforce anticipated key timelines and milestones for the remainder of this year. 
+I’d like to emphasize just  how robust our activities are in later stage clinical development, with three programs in or moving into registration phase this year, and three programs in phase 2, including initial open label data from the M200 program. Coupled with the Nuvion Crohn\'s disease later expected later this month at DDW, Terlipressin top-line pivotal data in late Q3, and both Nuvion and Ularitide phase 3 studies expected to be underway in the fourth quarter, we\'ve never had as much simultaneous and large, late-stage development activity, or progress, as we have currently at PDL. 
+Two of these programs, Ularitide and Nuvion, are the sole responsibility of PDL worldwide. So we\'re making the ongoing investments necessary to ensure optimal progress against our stated clinical and commercial objectives. 
+While we are confident that these significantly increased investments best position PDL for success over the long-term, we do recognize that for the first time in several years, we are acknowledging that one of our key aims -- in this case, an increase in non-GAAP earnings over last year -- may not be achieved, but we do expect to maintain our earnings positive trajectory. 
+I want to assure you that we\'re not sitting by complacently. We\'ve already initiated specific actions at the senior team level, focused not on cost cutting but on revenue generation through various types of partnerships and collaborations, and we believe at least one of those initiatives could favorably impact our earnings this year. 
+First, in part due to the significant interest in Ularitide, we\'re stepping up our partnering efforts to ensure we provide this program the optimal level of resources that it deserves on a global scale. We\'ve always indicated plans to partner Ularitide in some fashion to ensure that the compound’s broad potential in various patient settings is fully realized. 
+
+The Phase 2 results and compelling profile of this candidate have already garnered significant interest from potential partners. We\'re eager to look more closely at various options, now that we\'ve obtained the endorsement of the EMEA behind a clearly defined registration path in the EU. 
+It goes without saying that we won\'t be speculating on specific parameters at this stage, but hopefully you see, based on our track record, that we\'ll design a collaboration for Ularitide that is right for PDL, and right to get this [important] new therapy to the broadest number of patients that need it. 
+The second area of focus is on leveraging our antibody expertise and biologics manufacturing capabilities. We\'ve been repeatedly approached to consider joint arrangements around certain of our other antibody-based programs and capabilities, including manufacturing, and we are considering at least one additional partnership that could result in a new revenue or expense reimbursement either late this year or in 2007. Ideally, such an opportunity may also lead to a program which our commercial organization could co-promote in a similar or slightly later time period. 
+As background on our manufacturing progress, we continue to track to a mid-year validation of our new manufacturing facility in Brooklyn Park, Minnesota, which will culminate in a significant milestone -- completing the facility on time and on budget. 
+Shortly after, we will begin moving both Nuvion and Daclizumab into the new site, enabling commercial site and scale production of those antibodies, so as to keep manufacturing off the critical path timelines for those programs. We\'ll also utilize the new facility for the generation of early clinical material, enabling our new predicted run rate of one new IND per year. 
+These plans for our near-term capacity will allow us to decommission and divest our separate, small-scale facility in Plymouth, Minnesota, where to date, all PDL clinical materials have been produced. 
+Even in light of our plans for full consolidation for the new facility and divesting the current small-scale plant, we believe we could utilize still-existing capacity until full commercialization of our own antibody based products in a strategic fashion by forging one, or possibly two, antibody partnerships. 
+None of these efforts, in our view, will distract us from our near or long-term aims, which should indicate to you that we\'re fervently working to build shareholder value while balancing growth of our financial and operating performance simultaneously with growth of our sizable later stage clinical portfolio. 
+The team continues to grow at PDL as we\'re now joined today by our new CFO, Andrew Guggenhime, who started the first week in April. We have also recently announced a new board member, Brad Goodwin, who brings a solid industry and financial background to PDL\'s board. Essential skills as we continue to grow. 
+Coupled with internal growth focused in the areas of development and regulatory affairs, our aims continue to be oriented to successful achievement of 2006 goals, while at the same time building in our ability to deliver on our longer-term vision of 2010. 
+Thanking our team of outside advisors and employees, as well as you for your ongoing commitment and enthusiasm, I would like to now turn the call over to Steve Benner, our Chief Medical Officer. 
+Dr. Steve Benner
+Thanks, Mark. I’d like to focus first on the update of the three products we believe are closest to market; Terlipressin, Nuvion and Ularitide, and then briefly discuss our partnered products Daclizumab, Volociximab, or M200, and HuZAF. 
+Terlipressin, a vasoactive peptide, has both orphan drug and fast-track designation as a potential therapy for Type 1 hepatorenal syndrome. An ongoing Phase 3 clinical trial is being conducted by our partner, Orphan Therapeutics. 
+
+Terlipressin is an approved drug in Europe for the treatment of esophageal variceal, another complication of advanced liver disease. Type 1 hepatorenal syndrome is associated with a very high mortality rate, and currently there are no approved medical therapies. 
+As we reported during the first quarter, the trial has completed enrolment with a total of 112 patients, and we expect to report the study results by the fourth quarter of 2006. If the study results are positive, we anticipate that the MDA could be filed early in the first quarter of 2007, hopefully leading to a mid-2007 approval. 
+We expect to issue top line results from the study in Q3 and, timing dependent, hope to present them at a major liver disease meeting, the American Association for the Study of Liver Disease, also known as AASLD, which takes place in Boston in late October. 
+Nuvion, or Visilizumab, our humanized anti-CD3 antibody, is in development for the treatment of IV steroid refractory ulcerative colitis. In the first quarter, we initiated the enrolment in the first pivotal trial, the Phase 2/3 study, and we believe we are tracking, pending a positive DSMB later this year, to initiate a second pivotal Phase 3 study by the end of this calendar year. 
+I’ll remind you that the DSMB analysis of the first study is triggered by the enrolment of 60 patients, and while we will not be made aware of the specific DSMB’s findings, we do intend to announce advancement into the next phase, as well as the launch of the second Phase 3 study, when we learn their outcome of their recommendation. 
+As part of the comprehensive development program, a second study of Nuvion and IV steroid refractory ulcerative colitis has also opened. This study is going to allow us to gain additional experience with lower doses of Nuvion, and will ultimately contribute to the pool of patients eligible for retreatment with Nuvion. 
+We anticipate that the majority of the sites currently participating in this trial will also participate in the second pivotal trial when it’s opened later this year. We continue to plan a study in pediatric ulcerative colitis and steroid-dependent ulcerative colitis patients. The timing for these studies is initiation following the start of the second pivotal trial. 
+Two open label pilot studies of Nuvion in severe Crohn\'s Disease are ongoing. At the upcoming DDW conference in Los Angeles, there will be an oral presentation of the initial findings of the one of the Crohn\'s Disease pilot studies on Wednesday, May 24th. 
+As we indicated earlier this year, we have seen activity with Nuvion in this setting, including patients previously exposed or unresponsive to [Daclizumab]. We are currently creating a development plan to guide further studies of Nuvion and Crohn\'s Disease, and we’ll plan on discussing this in greater detail at our fall R&D update in New York. 
+We believe that the use of Nuvion as a treatment for Crohn\'s Disease may be an opportunity for an additional Nuvion indication, following the initial registration of Nuvion for IV steroid refractory ulcerative colitis. 
+Our updated expense guidance reflects our additional cost estimates for the initiation of these Crohn\'s Disease efforts later this year, as well as the ongoing development costs for Nuvion in U.C. 
+As Mark summarized, we\'ve also made significant recent progress in the development of Ularitide, a natriuretic peptide derived from the pro-hormone of A and T, which has shown promise in a large Phase 2 trial last year.
+In Europe, you’ll recall that we\'ve been pursuing the scientific advice procedure, which enables companies to obtain advanced input from the EMEA regarding pivotal trial design before progressing into a pivotal program. We\'ve now received written advice from the EMEA regarding our development program. 
+
+Our discussions with the EMEA in this regard have been extremely encouraging, reaffirming our view that the next appropriate step in Europe is Phase 3 pivotal trials. 
+Based on these discussions, we intend to conduct two pivotal trials to support the registration of Ularitide in the EU. We expect the first pivotal trial to begin enrolment in the fourth quarter, fulfilling our stated goal of having three programs in pivotal trials this year. 
+We expect this initial study to be a trial of approximately 3,000 patients, hospitalized with acute decompensated heart failure. This trial will be over three times larger than the initial estimate, based on the study end point and the need to establish a robust safety database as requested by the agency. 
+The study will compare infusions of Ularitide at 15 nanograms per kilogram per minute to placebo, as an addition to standard therapy. The Ularitide dose was chosen based on the findings of the earlier Sirius I and Sirius II trials. 
+The study will likely use a co-primary endpoint of Dismya and patient global investment. The study will also include secondary endpoints to assess patient improvement and pharmacal economics. 
+In previous trials, treatment with Ularitide was not associated with any deterioration of renal function or negative impact on mortality. We expect the planned pivotal trial program to confirm these findings. 
+The second pivotal trial will get underway by mid 2007. This is a much smaller, 300-patient study that will assess the human dynamic effects of Ularitide in a similar patient population. It is likely that both pivotal trials will have accrual from sites throughout Europe, North America and Australia. 
+At our R&D Day meeting this fall, we’ll provide more information on the specific details of the pivotal trials program for Ularitide. 
+In the U.S., the most likely step is a small study of approximately 50 to 60 heart failure patients to address the effect of higher Ularitide doses. If this approach is followed, then we hope to be in a position to review these findings with the FDA and discuss our U.S. registration strategy in 2007. 
+We have an open IND, and are in the process of finalizing the study design for the U.S. trial, based on the comments previously received from the FDA. We are excited to be on the verge of finalizing our registration plan for Ularitide in the EU, and to be moving this potentially important treatment option into pivotal studies.
+As Mark already mentioned, the large scale of this program will have an impact on our R&D spending in 2006, and Andrew will discuss this aspect shortly. We\'re committed to moving this program forward and are taking steps to initiate the first pivotal trial this year. 
+We are also of the view that the steps we are taking in Europe could have a favorable impact on our U.S. timelines as well, given the increased size and scope of the newly planned EU registration studies. 
+For Daclizumab, our IL-2 receptor antibody, both single dose and multiple dose studies of subcutaneously administered, PDL-manufactured Daclizumab in healthy volunteers have completed dosing. We\'re in the process of collecting data from these trials. These studies are a necessary component of switching to the PDL-manufactured antibody that is formulated for subcutaneous administration. 
+In collaboration with our partner, Roche, the next step in the development of Daclizumab in asthma is a Phase II-B dose range finding study in patients with chronic persistent asthma. We hope to begin this study in collaboration with Roche in the second half of 2006. 
+You will recall that we also have an ongoing study of Daclizumab in patients with relapsing-remitting multiple sclerosis. This trial, initiated by PDL, is now part of our collaboration with Biogen Idec. The initial, randomized, placebo-controlled study evaluates Daclizumab as an add-on to beta interferon in patients with active relapsing forms of MS, using the Roche manufactured antibody. 
+
+We\'re please to report that in March we completed enrollment of this study with 230 patients randomized, exceeding our recent projections. We hope that this trial confirms the activity in a blinded study, in a similar patient population as studied at the NIH in open label trials. We anticipate that the initial results of this study will be available in the first half of 2007.
+Through our collaboration with Biogen Idec, a second monotherapy trial is expected to be initiated in the third quarter of this year, using PDL-manufactured antibody as a monotherapy in relapsing-remitting MS patients. This development plan will allow us to have data from two randomized trials in MS, and is not expected to significantly prolong our timeline for Phase 3 studies in MS. 
+The monotherapy trial is planned as a randomized, placebo-controlled study, evaluating three Daclizumab dosing regimens. This study will have an MRI end-point and is expected to enroll 264 patients. We\'re pleased to have the expertise of Biogen Idec in MS, to help us strengthen the development of Daclizumab in this disease setting. 
+Daclizumab is additionally partnered with Roche for development as a maintenance agent for solid organ transplant. Our future plans for the new transplant maintenance efforts will be discussed in greater detail later this year as we and our partner, Roche, fully refine and agree on our next steps.
+Volociximab, also known as M200, is an anti-angiogenesic antibody, that binds to the Alpha 5 Beta 1 integrin, and is under development as a treatment for solid tumors. We\'re developing Volociximab, in collaboration with our partner Biogen Idec. The initial open label Phase 2 results, will be presented in three posters during the upcoming ASCO meeting in June. 
+As we\'ve indicated, these trials are small open-labeled studies, including approximately 80 patients. Results of such early trials are not typically definitive, and could be encouraged by signs of tolerability and any potential activity suggested by the findings. In the event that these initial results prove positive, we\'d anticipate moving forward with additional trials this year.
+Our other antibody partnered with Biogen Idec is HuZAF, which is currently in a small Phase 2 study in rheumatoid arthritis. 
+So far in 2006, I believe we\'ve made significant progress against our stated aims. Beginning perhaps most importantly with early completion of enrollment in the Terlipressin pivotal study and a sense of clarity on our registration path in Europe for Ularitide. Based on this progress, we continue to expect to achieve our goal of having three programs in pivotal trials and potentially one of them completed by the fourth quarter of 2006.
+We also expect to initiate the first human treatment using our newest, still undisclosed, humanized antibody in the fourth quarter of this year as a potential therapy for multiple myeloma. This will mark entry into the clinic of our second, highly novel, anticancer antibody. I will now turn the call to Andrew Guggenhime to discuss our financials. 
+Andrew Guggenhime
+Great. Thanks, Steve, and good afternoon, everyone. Since this is my first PDL earnings call, let me simply say that it is great to be here. Some of you that I\'ve had the opportunity to visit with by phone have asked what attracted me to PDL. The answers are probably somewhat obvious, but the very significant attractions are a strong commercial base, a diverse revenue stream, a company with a favorable earnings trajectory, and the opportunities to work with an outstanding management team that has accomplished a great deal in transforming this company in a relatively short period of time. 
+I thank you for joining the call today and I look forward to meeting many of you in person in the days and weeks ahead to learn more about your perspective and your thoughts on the Company.
+
+I will begin today, by reviewing financial highlights for the first quarter and then update our 2006 guidance. Total revenues increased to $90.5 million in the first quarter of 2006, from $38.8 million in the first quarter of 2005. This increase of almost $52 million was primarily driven by the addition of product sales as we marked our first year with commercial sales operations. 
+On that note, PDL recognized net product sales of $36.8 million in the first quarter of 2006. As you know, our three marketed products are Cardene IV for the short-term treatment of hypertension when oral therapy is not feasible or desirable; Retavase, used to dissolve coronary blood clots and improve blood flow in heart attack patients; and IV Busulfex, a conditioning agent used in connection with blood and marrow transplants and chronic myelogenous leukemia. 
+Of total net product sales in the first quarter, sales of these three products comprised $35.7 million, or 97% of our product sales, while sales of the off-patent, branded products, comprised the remaining $1.1 million. The off-patent, branded products, were divested during the quarter and will not materially contribute to revenues going forward.
+We are encouraged by these results, which we believe closely track with end-user demand. The combination of our continued progress in lowering wholesaler inventories and access to better data regarding activity in the channels has improved our visibility into end-user demands. 
+Cardene continues to be placed on more hospital protocols each day, as our recently expanded sales force reaches more customers. 
+With Retavase we have seen positive market trends that we\'ll review at Friday\'s update including a sustained increase in our share of voice, in a market that has slowly declined during the past year.
+With regard to our royalties, we continue to enjoy significant growth, thanks to the efforts of our partners. For the first quarter, royalty revenue totaled $44.0 million, up 33% from the $33.2 million in the first quarter of last year. Of particular note were the increases related to underlying sales growth of Herceptin and Avastin antibody products generated by our partner, Genentech.
+Our final revenue component is license and other revenues which for the first quarter totaled $9.7 million, up from $4.7 million in the same period in 2005, due primarily to the new Biogen Idec collaboration that was entered into in August of last year. 
+Revenue from the Biogen Idec collaboration comprised approximately three quarters of our total license and other revenues during the quarter. As we have discussed before, there are two important elements of this revenue category. The first, is payment for reimbursement of expenses which are recognized as revenue; and the second is up-front fees and milestones under our collaboration, which are amortized over time.
+Now let\'s turn to expenses. Our cost of product sales was $23.0 million in the first quarter, compared to $1.1 million in the first quarter of 2005. Excluding non-cash amortization of product costs associated with the purchases of ESP Pharma and Retavase, non-GAAP cost of product sales was $12.4 million in the first quarter of 2006 compared to $77,000 in Q1 of last year. 
+Based on non-GAAP cost of product sales, our gross margin for this most recent quarter was approximately 66%. Our margins during this first quarter were negatively impacted by the structure of our out-bound royalty agreements related to our marketed products, and as I will discuss in a moment, we expect our margins to improve over the balance of the year.
+SG&A expenses increased to $32.8 million, compared to $7.7 million in the first quarter of 2005. Non-GAAP SG&A expenses, which exclude depreciation and stock-based compensation costs, as well as in this first quarter a $4.1 million charge related to the sale of our off-patent products, totaled $24.6 million, up from $7.5 million in the prior year. This increase was primarily attributable to the addition of a sales and marketing team in connection with our acquisition of ESP Pharma, the expansion of our sales team subsequent to the acquisition, and an overall increase in marketing and promotional efforts.
+
+Research and development expenses increased to $61.2 million in the first quarter of 2006, compared with $35.3 million in the same three months of 2005. On a non-GAAP basis, R&D expenses increased from $31.3 million in Q1 2005 to $51.0 million this year. The growth in research and development expenses reflects our continued increase in clinical trial activities, in particular for the recently initiated Phase 2/3 study of Nuvion and IV steroid refractory UC, Daclizumab and Ularitide; for clinical affairs activities related to our marketed products; and for scale-up and preclinical activities related to the new myeloma antibody.
+Total cost and expenses were $117.3 million in the first quarter of 2006, compared with $123.5 million in the first quarter of 2005. First quarter 2005 results included a non-cash charge of $79.4 million for acquired in-process research and development related to the ESP Pharma acquisition. Excluding this charge and other non-cash expenses related to amortization, depreciation, and stock-based compensation, as well as acquisition-related charges, non-GAAP costs and expenses in the first quarter of 2006 were $88.0 million, up from $38.9 million in the same quarter last year.
+Our non-GAAP net income for the first quarter of 2006 was $2.5 million or $0.02 per basic and diluted share, compared with approximately breakeven results in the 2005 first quarter on the same basis. 
+Our GAAP net loss for the first quarter of this and last year, was $26.2 million and $83.9 million respectively or on a per share basis, $0.23 and $0.87 respectively. 
+I would like to add a note of explanation in regard to the number of shares used in the computation GAAP and non-GAAP net income per diluted share. For the first quarter of 2006, the GAAP calculation is based on 112.5 million shares and the non-GAAP calculations on 118.3 million diluted shares. 
+The difference is related to the inclusion in the non-GAAP diluted shares number of stock options and restricted stock under the Treasury Stock Method as well as shares in escrow. These shares are excluded from the GAAP diluted shares number, because they are anti-dilutive. 
+I would also point out that the shares underlying our convertible notes, totaling approximately 23 million, are not included in either calculation, because under the if converted method, it would be anti-dilutive.
+I would like to now turn to our updated financial guidance for 2006. As both Mark and Steve have discussed, the scope of our clinical trials, particularly for Ularitide, and the result in impact on our 2006 expenses, is considerably larger than we had estimated earlier this year. While we are making other, less significant changes to our outlook for the year, the most noteworthy change is the increase in projected research and develop expenses. 
+Starting at the top line for full year 2006, PDL expects total revenues of $400 million to $430 million, a slight reduction of $5 million off our original guidance. For product sales we are reaffirming our original guidance of $175 million to $185 million we now expect to come in at the lower end of this range due primarily to softness in Retavase sales. 
+For royalties, we also are affirming our original guidance of $170 million to $180 million, and we expect to come in at the upper end of this range.
+With regard to product sales, it is important to note why we remain confident in our ability to achieve our full year estimates. First, our sales team continues to become more productive. Approximately 45 of our 105 sales professionals were hired in May 2005 or later, and we believe that it takes at least a full year for them to achieve peak productivity. So, our newer team members are still ramping up the curve.
+Second, we\'ve just launched new promotional campaigns for both Retavase and Cardene, important in both of these promotion-sensitive markets. 
+
+Third, our insight into prescribing patterns and market dynamics for each of the products reinforces our current guidance. 
+We believe that the collective impact of these factors, will enable us to achieve the continued growth over the balance of the year for product sales that we are projecting.
+For our final revenue component, license and other revenue, we are slightly reducing our guidance for the year to $55 million to $65 million, to reflect the reduction in anticipated expense Biogen Idec and Roche. This change is related to the timing of when we expect to incur expenses and generate the resultant reimbursement revenue, as well as the reallocation of program responsibilities, collectively resulting in lower estimated revenues this year than initially expected.
+On a non-GAAP basis, excluding amortization charges, PDL anticipates total cost of product sales of approximately $42 million for 2006, up slightly from our original estimate, due to an anticipated reduction in our gross margin percentage for the year to approximately 77%. This margin percentage decline is due among other things, to higher than anticipated product returns and discounts. 
+We expect our margins to expand over the balance of the year, not because we expect drastic improvements in our operations, but simply due to the nature of our outbound royalty agreements. The royalty rate that we pay in connection with sales of our marketed products declines as sales increase and, the clock resets at the beginning of each fiscal year. 
+In the case of Cardene, the step down in the rate is significant. As a result, we expect our Q1 gross margin percentage of 66%, to be the lowest in any quarter this year, and we expect significant margin enhancement in the second and third quarters of this year that set our average margin for the year, estimated approximately 77%.
+Moving on to our operating expenses, for the year we are now expecting research and development expenses on a non-GAAP basis, of between $257 million  and $267 million, a significant increase over our prior guidance directly as a result of higher expenses than originally estimated for clinical development of our planned pivotal programs for Ularitide and to a lesser degree Nuvion, as previously discussed. 
+We expect non-GAAP selling, general and administrative expenses of $93 million to $98 million within our prior guidance although with a tighter range. For the full year 2006, PDL anticipates non-GAAP net income of $8 million to $23 million, and this translates to $0.07 to $0.19 per share assuming a diluted weighted average share count for non-GAAP results of approximately 121 million shares.
+This share estimate is higher than the one we previously issued and includes the estimated impact of stock options and restricted stock, both using the Treasury S Method, as well as shares in escrow. It does not include the shares underlying the convertible notes because the inclusion of such shares will be anti-diluted. 
+Excluded from these non-GAAP numbers for reconciliation purposes are the following estimated expenses for 2006: stock-based compensation, which we cannot estimate with certainty at this time but which we anticipate will be between $30 million and $35 million; depreciation of property and equipment of $30 million to $35 million; amortization of intangibles of $44 million, charges incurred in Q1 related to the sale of PDL\'s off-patent products to ESP Pharma operations of $4.1 million and $400,000 respectively; and finally, interest income and other net interest expense and income taxes. The net impact of which we expect to be approximately neutral to slightly negative in 2006.
+On a GAAP basis, because we expect to be in a loss position for the year, the impact of all common stock equivalents would be anti-dilutive. Therefore our estimated weighted average shares outstanding on a GAAP basis, is approximately 114 million shares.
+
+Before I turn the call back over to Jim for Q&A, I do want to re-emphasize how pleased I am to be here to be here at PDL. Today marks my 30th day here at the Company and I\'ve been particularly struck during this time by the quality of the people here and their passion for and commitment to PDL\'s compelling vision. 
+I look forward to working with this team on a number of initiatives that we will be focusing on going forward including financial reporting, strategic planning and budgeting, capital structure review, and strategic opportunities, among many others. 
+As I indicated during my opening remarks, I plan on spending time with many of you on this call, to get your perspective and thoughts on the Company. Your feedback is important, and I look forward to meeting you in the coming weeks and months. And with that , I\'ll turn the call back over it Jim. 
+Jim Goth
+Thanks very much, Mark, Steve and Andrew. That conclude us our prepared remarks. Before we begin our Q&A session, I would just quickly remind everyone that tomorrow we will be presenting at the Deutsche Bank Securities health care conference in Boston. 
+Of special interest, coming up later this week on Friday we will be holding our first business update for the financial community to review the commercial strategies for our marketed products including Cardene IV, Retavase and IV Busulfex, as well as to discuss the opportunities we see for our more advanced pipeline products. If you\'d like additional information on this event, please contact our Investor Relations department. 
+Operator, at this time, please begin the Q&A.
+Question-and-Answer Period
+Operator
+Sir, our first question comes from Mr. Joel Sendek of Lazard Capital Markets. Please proceed with your question.
+Joel Sendek - Lazard Capital Markets
+Thanks. I had a question on the royalty income. I am wondering if the Genentech product sales from the fourth quarter reached a threshold for a lower royalty rate in your reported first quarter.
+ Andrew Guggenhime
+ Joel, this is Andrew. Nice to talk with you again. Yes, they did.
+Joel Sendek - Lazard Capital Markets
+ Okay. And are you disclosing that or are we left to guess that?
+Mark McDade
+ We\'re not disclosing the amount of the reduction, Joel.
+Joel Sendek - Lazard Capital Markets
+ Okay. That\'s all. Thank you very much.
+Operator
+ Thank you, sir. Our next question comes from Mr. Brett Holley of CIBC. 
+Brett Holley - CIBC
+ I had a question on the increase in the Ularitide program in Europe. Is this just based on caution around [Natricor] or is this a change in the regulatory environment that you hadn\'t anticipated before? Can we get additional color on that?
+Mark McDade
+Sure in our discussions with the EMEA, they felt that while the guidelines allow for the possibility of registration with a single trial, that given inconsistency in results for previous heart failure therapies that two trials were highly recommended. So that\'s the reason going from one to two trials. The larger size of the safety database overall is predominantly to increase the estimate of safety especially around providing an estimate of mortality.
+Brett Holley - CIBC
+ Okay. And then the primary end point of the second trial which is the smaller of the two trials will be similar to the first trial or is it going to be different?
+Mark McDade
+ It will be different because it will include an assessment of pulmonary capillary wedge pressure since that will be a hemo dynamic trial in which all patients will have a catheter placed.
+Brett Holley - CIBC
+ The last question is the extensibility of the EU results to the U.S. and your anticipation. A 3,000 patient trial seems like an awful robust trial. Is that not a trial the U.S. regulators would consider for licensure?
+Mark McDade
+ As I suggested, I believe those trial results will both be very helpful for the U.S. dossier. We won\'t be in a position to have that discussion with the FDA, however, until 2007 following the results of our initial IND trial. We do believe the size and nature of these trials that we\'ll be conducting to secure registration in Europe will greatly strengthen the U.S. dossier as well.
+
+Brett Holley - CIBC
+Thanks a lot.
+Operator
+ Thank you, Mr. Holley. Our next question comes from Elise Wang of Citigroup.
+Heather - Citigroup
+ This is actually Heather for Elise. Just wondering if you can comment on the inventory impact and demand trends for the three ESP products, and whether you can actually split out the sales for each this quarter?
+ Andrew Guggenhime
+ In terms of splitting out the sales, that\'s not something we\'re going to be doing. We will be talking on Friday in much greater details on each of our three marketed products. In terms of the overall trends, I think as we eluded to earlier, certainly with respect to Cardene, very positive and for Retavase it is stemming the trends over the past six months, so we are encouraged and as we indicated earlier, reaffirming our product sales guidance for the balance of the year. Although due primarily to some softness in Retavase expecting to come in at the lower end of that range.
+Heather - Citigroup
+If I may, one more question on the reason for the change in the share count versus last quarter if you would.
+ Andrew Guggenhime
+The current share count we provided on both the GAAP and non-GAAP basis reflects the current estimate, obviously starting with basic shares and then for our non-GAAP numbers reflecting the impact of our restricted shares and options as well as the shares in escrow. Those reflect our current estimates for the balance of the year.
+Heather - Citigroup
+ That\'s helpful. Thank you.
+Operator
+ Thank you, ma\'am. Our next question comes from Mr. George Farmer of Wachovia Securities. 
+George Farmer - Wachovia Securities
+ Hi. Thanks for taking my questions. I have a couple things. Regarding your revised expense guidance for 2006; with the Ularitide trials not starting until the fourth quarter, how do you account for that increase so soon in the year? Maybe you can give us guidance on what you see going forward beyond \'06 as far as R&D expenses?
+ Andrew Guggenhime
+ I will take the first part and turn it over to Steve. With respect to how we incur our costs, the bulk of this year will be focused on expenses with the CRO to set up the sites. In term of the patient costs, we do expect those to be minimal this year with the impact of those really being felt next year. The primary driver as we talked about earlier, the increase in expense guidance is around Ularitide, and it is really for payments of the CRO, and we incur those expenses based on the services they provide this year.
+George Farmer - Wachovia Securities
+Mark, if you could comment a little bit more on the ESP pharma revenue, significantly lighter than it was the past two quarters. Is that really all attributable to a new sale force or something else going on? Maybe reiterate again what gives you confidence that you can hit your number this year in.
+ Andrew Guggenhime
+George, why don\'t I take that and Mark can add if he has anything on this topic. Based on our experience, the team\'s experience in selling these products Q1 is typically the lightest quarter. As I alluded to in the prepared remarks, really three factors, the aggregate of which gives us the confidence we can achieve the full year numbers. 
+First, about 40% of our sales team has been with us since May of 2005, and those folks continue to ramp up the curve and get more productive, and we continue to see increasing levels of productivity by them. 
+Secondly, we just launched promotional campaigns for Retavase and Cardene and are seeing the positive impact of those. Then, just our underlying experience in the dynamics of the market again give us the confidence that we\'ll hit our range, as I said earlier, at the lower end.
+Mark McDade
+George, additional comments from me, I think historically as Andrew just said, we have seen trends that suggest first quarter is weaker that the remaining quarters. We\'re not surprised. 
+
+Second, I think we are quite pleased with the productivity overall of all the additional reps that we\'ve got, and so I think on Friday you will get a bit more detail at our business update on what exactly we\'re doing vis-à-vis each of the programs and how they\'re trending versus prior NDC data. So we will, for the first time break those out by product and disclose the quarter by quarter trends at least over the past year, if not a little longer.
+George Farmer - Wachovia Securities
+One more question if I may, just to elaborate on Joel\'s point earlier, this change in the royalty rate. Can we assume that\'s going to be the same going forward for the rest of the year?
+ Andrew Guggenhime
+ Let me clarify. Joel\'s question was with respect to our in-bound royalty revenue, and with respect to that arrangement, that\'s based on the calendar year. I am not sure if your question was to be outbound royalty payments with respect to our marketed products?
+George Farmer - Wachovia Securities
+No, the in-bound royalty payments, with respect to the products that are marketed by Genentech and MedImmune.
+Mark McDade
+ Remember, for the Genentech products, because this does not apply to MedImmune or any other programs, that everything resets at the beginning of the calendar year. So any payments, since we were paid for fourth quarter activity in the first quarter then the clock is effectively reset in our second quarter because that\'s the quarter --
+George Farmer - Wachovia Securities
+That lags.
+Mark McDade
+ Right.
+George Farmer - Wachovia Securities
+ Thank you.
+Operator
+Thank you, sir. Our next question comes from Mr. Tom McGahren  of Merrill Lynch.
+Tom McGahren  - Merrill Lynch
+ Thanks. Just one more question on the product revenue. I remember last quarter in the fourth quarter there was an interruption in shipment of Retavase and I was wondering if you ran into that problem again this quarter.
+ Andrew Guggenhime
+ No, we did not.
+Tom McGahren  - Merrill Lynch
+ Okay. So it was just inventory draw down?
+ Andrew Guggenhime
+ Yes.
+Tom McGahren  - Merrill Lynch
+ Thanks a lot.
+Operator
+Thank you, sir. Our next question comes from Mr. Eric Hoffman of JP Morgan. 
+Eric Hoffman - JP Morgan
+Thanks for taking my question. Two questions. One, could you provide any more detail on the timeline for how fast you think you can enroll the Ularitide pivotal program? Where along that process might you license it potentially? 
+The second question is, can you provide any more color on the relative impact on the increased R&D spend of Ularitide versus Nuvion versus other charges?
+ Andrew Guggenhime
+ I will start with that. On the time line, we really can\'t comment further at this point. We\'re in the process of discussing the EMEA recommendations internally and with our experts and we should be able to give you a much fuller picture at our fall R&D day with regards to the timing for that trial overall. I will ask Mark to address the question relate to the partnering strategy.
+Mark McDade
+ On that front, Eric, we are initiating already a partnering discussion because as I mentioned on the call, we\'ve been approached by quite a number of companies. I think at any point in time it is a possibility that we could partner the program. Whether that\'s regional or more global remains to be seen based on the opportunities. 
+In terms of the question vis-à-vis timeline, overall we still think we\'re tracking for where we previously identified as late \'09 filing in Europe for Ularitide.
+ Andrew Guggenhime
+ Eric, I will take the tail end of that question which was the relative impact on R&D expenses of Nuvion, Ularitide. Those are the two drivers of the increase in our R&D expense guidance and the Ularitide impact represented about 75% of the total expense increase and Nuvion the balance.
+
+Eric Hoffman - JP Morgan
+ Great. Very helpful. Thanks. 
+Operator Our next question comes from Jason Zhang of Prudential Equity Group. 
+Jason Zhang - Prudential Equity Group
+My question is related to Ularitide. Mark, I may have missed it. Are you reaffirming your timeline for a possible NDA filing in Europe in 2009 or is that going to change?
+ Andrew Guggenhime
+ We don\'t give guidance, per sae, but we have talked about a target filing in the second half of 2009 for Ularitide.
+Jason Zhang - Prudential Equity Group
+ Okay. Also I know you have the worldwide rights to Ularitide from Cardiopath. If you do form another partnership if you do get up front payment, do you have to pay Cardiopath or is it really now your product and you have the freedom of licensing?
+Mark McDade
+We haven\'t disclosed a lot of specifics. I can tell you there is not a pass through of those type of payments. We are however obligated to milestones and royalties under the existing Cardiopath agreement.
+Jason Zhang - Prudential Equity Group
+ Okay.
+Operator
+Thank you Mr. Zach. Our neck question is from Phil Nadeau of SG Cowen.
+Phil Nadeau - SG Cowen
+Good afternoon. Thanks for taking my question. Just one question. In the past you said that you think 20% growth is possible for the ESP pharma products for the next few years. Do you still believe that\'s possible or are you reiterating that guidance today?
+Mark McDade
+ We still believe that\'s possible. I will be presenting tomorrow at Deutsche Bank for example, and in fact it is slightly higher than that. We continue to guide to a belief that 25% can be achieved from \'05 to \'08 on both ESP pharma and Retavase acquired products as well as on our royalty stream. We\'ll be elaborating a bit more specifically, updating some of the sales projections on Friday for the three programs.
+Phil Nadeau - SG Cowen
+Okay. And not to steel your thunder for Friday, but on Retavase it does seem like sales there at least sprint IMS have been kind of lagging for the past couple years. Just briefly, what do you think you can do to reinvigorate that franchise?
+Mark McDade
+ What we\'re doing already as Andrew noted is a pretty significant new promotional campaign including all new materials which we didn\'t have before and including very focused sales efforts on those outlying hospitals; not on the city center hospitals, but those outliers that are smaller numbers of beds but higher users of Lidex principally because of the distance from cath labs. The more focused sales effort coupled with new promotional material, we think, is going to start taking impact. As you will see Friday, the trends are encouraging.
+Just as an aside we don\'t really typically rely on IMS because they\'re not as accurate in the hospital setting. We generally use and refer to NDC data which can give you a better indication of demand.
+Phil Nadeau - SG Cowen
+Thank you.
+Operator
+ Thank you very much. There appears to be in further questions at this time, sir.
+Jim Goth
+ Operator, thank you very much. We thank everyone for participating and we\'ll see you soon. Have a great day.
+Operator
+This concludes the PDL BioPharma first quarter 2006 earnings conference call. Thank you, everyone for joining. You may now disconnect.

@@ -1,0 +1,247 @@
+Sequenom, Inc. (NASDAQ:SQNM) Q3 2012 Earnings Conference Call November  8, 2012  5:00 PM ET
+Executives
+Harry Hixson -- Chairman and CEO
+Paul Maier -- CFO
+Ron Lindsay -- Director and EVP
+Bill Welch -- SVP, Diagnostics
+Dirk van den Boom -- SVP, Research &Development
+Marcy Graham -- Senior Director, IR and Corporate Communications.
+Analysts
+Jon Wood -- Jefferies
+Brian Weinstein -- William Blair
+Bryan Brokmeier -- Maxim Group
+Eric Chang -- Oppenheimer
+Vamil Divan -- Credit Suisse
+Zarak Khurshid -- Wedbush
+Operator
+Good afternoon, and welcome to the Sequenom, Incorporated Third Quarter 2012 Earnings Conference Call. All participants will be in listen-only-mode. (Operator Instructions). After today\'s presentation, there will be an opportunity to ask questions. (Operator Instructions). Please note this event is being recorded.
+I would now like to turn the conference over to Marcy Graham, Senior Director, Investor Relations and Corporate Communications at Sequenom. Please go ahead.
+Marcy Graham
+Thank you, Andrew. Welcome to the Sequenom conference call to discuss operating results for the third quarter of 2012. Joining me today are Dr. Harry Hixson, Chairman and CEO and Paul Maier, CFO; Dr. Ron Lindsay, Director and Executive Vice President of Research and Development; Bill Welch, Senior Vice President of Diagnostics and Dr. Dirk van den Boom, Senior Vice President of Research and Development will join us later for the Q&A portion of the call.
+This call is also being broadcast live over the web and will be available for replay through November 23rd on the Investor Section of our website at www.sequenom.com.
+Before we begin, please note that this call will include a discussion of Sequenom and Sequenom CMM\'s current plans and intentions regarding operations and commercialization, including diagnostic test projections, goals, diagnostics test enhancements, operational enhancements and other matters, as well as expectations regarding Sequenom\'s future financial performance and reporting, statements that are not historical facts, but are forward-looking statements.
+Forward-looking statements are not guarantees of performance, they involve known and unknown risks, uncertainties and assumptions that may cause actual results, levels of activity, performance or achievements to differ materially from those expressed or implied by any forward-looking statement.
+For information about the risks and uncertainties that Sequenom faces, please refer to the risk factors section set forth in our recent filings with the Securities and Exchange Commission. Sequenom assumes no obligation and expressly disclaims any duty to update any forward-looking statements to reflect events or circumstances after today\'s call, or to reflect the occurrence of unanticipated events.
+With that, I would now like to turn the call over to Harry Hixson. Harry?
+Harry Hixson
+Thank you, Marcy. Good afternoon and thank you for joining us on today\'s call to discuss Sequenom\'s results for the third quarter of 2012. I\'m pleased to report that the adoption rate of the Sequenom Center for Molecular Medicine or Sequenom CMM, MaterniT21 PLUS laboratory developed test, LDT, has continued to exceed our expectations and previously updated internal goals.
+We\'re happy to share with you today a number of related accomplishments as we continue to deliver on our stated goals for 2012 and look to sustain our momentum through to the upcoming year end.
+Including our portfolio LDTs, Sequenom CMM accessioned approximately 26,000 total test samples in the third quarter of 2012. We recently marked the one-year anniversary of the commercial availability of the MaterniT21 PLUS LDT with approximately 37,000 test samples for this LDT accessioned since the testing service was launched in October of 2011.
+
+Of these, nearly 18,000 MaterniT21 PLUS samples were accessioned in the third quarter alone. At the close of the quarter, the annualized 52-week run rate of MaterniT21 PLUS samples accessioned equated to more than 90,000 test samples, an average of approximately 1,700 samples accessioned weekly. Based on the positive feedback, Sequenom CMM continues to receive from the physician and patient communities, we expect this trend to continue during the fourth quarter and into 2013.
+Our total revenue growth continued to be strong, improving 68% in the third quarter over the same quarter last year led primarily by growth in revenues from our diagnostic services segment. This increase is largely due to the adoption of the Sequenom CMM MaterniT21 PLUS LDT as well as continued demand in testing services of the Sequenom CMM cystic fibrosis LDT and its age-related macular degeneration LDT.
+Our genetic analysis business remains a major contributor to total revenues, even as the business profile and product mix continues to evolve. We did see softness in overall generic analysis revenue on a year-over-year basis, which declined 9% but showed an increase of 2% as compared to the second quarter of 2012.
+Although we have seen some slowing in sales in Europe and Asia, the market in the US is showing some improvement. We expect the market in the US to improve as a result of our expanding menu of research-use only reagent panel content, as these panels gained acceptance in translational and clinical research applications.
+We have recently observed significant recognition and acceptance of noninvasive prenatal testing that utilizes cell-free fetal DNA technology by important independent technology assessment committees.
+The Blue Cross and Blue Shield Association Medical Advisory Panel recently announced completion of their technology assessment, concluding that nucleic acid sequencing-based testing of maternal plasma for fetal Trisomy 21 with confirmatory testing of positive results in both high-risk women and average-risk women being screened for fetal Trisomy 21 meets the Blue Cross and Blue Shield Association Technology Evaluation Center or TEC criteria.
+The BSCF technology assessment is utilized by a variety of national payors and other technology review boards to make decisions on coverage and policy assessments. In October, the California Technology Assessment Forum or CTAF completed an independent evaluation of the cell-free fetal DNA technology used in the Sequenom Center for Molecular Medicine MaterniT21 PLUS LDT.
+The CTAF recommended that the use of cell-free fetal DNA as a prenatal advanced screening test for fetal aneuploidy for Trisomy 21 and Trisomy 18 in high risk women meets all five of the CTAF criteria for safety and efficacy and improvement in health outcomes. Blue Shield of California Foundation spearheads the CTAF, which was established to assess new and emerging medical technology.
+We continue to build relationships within the payor and network communities and confirm that today more than 46 million lives now have access to coverage for Sequenom CMM MaterniT21 PLUS test and our other test. We continue to pursue our efforts to achieve in-network status with national, regional and in local payors and health systems.
+We also announced a number of important international distribution agreements during the third quarter this year to expand access to the MaterniT21 PLUS testing service outside the United States. Current completed agreements now included Japan, Hong Kong, the Czech Republic, Slovakia, Netherlands and Israel. LifeCodexx, our technology licensee in Germany, Austria and Switzerland launched their CE mark testing service in August.
+In response to sustained growth and commercial interest for the MaterniT21 PLUS testing service, Sequenom CMM has increased its testing capacity during the third quarter from 100,000 to more than 200,000 test samples per year. We have continued with the build out and validation of Sequenom CMM\'s North Carolina facility which should add significant testing service capacity by mid 2013.
+
+Implementation of the recently validated 12-plex sequencing process has more than doubled in MaterniT21 PLUS test capacity per instrument, the use of upgraded bioinformatics and automated library preparation processes to further improve efficiencies.
+Test utility has also been enhanced by reporting on the presence or absence of male Y chromosome material in the test report. To ensure maintenance is the high position of the MaterniT21 PLUS test, all improvements have been rigorously validated in accordance with the College of American Pathologists or CAP and the Clinical Laboratory Improvement Act or CLIA guidelines.
+Sequenom CMM has also rapidly expanded access to the testing services for eligible patients from the initial 20 metropolitan areas at launch to all 50 states, with significantly augmented sales force presence of approximately 75 representatives up from 20 at launch in the fall of 2011. This includes the addition of 25 new sales representative hired in the third quarter of 2012. This contribution will be seen in the fourth quarter and into 2013.
+As of the end of the third quarter, the testing service had reached more than 10% with the high-risk US market of approximately 750,000 women. Approximately 30% of the maternal fetal medicine specialists in the United States have used the MaterniT21 PLUS test.
+Finally, we continue to vigorously defend and pursue our intellectual property rights that pertain to our proprietary noninvasive pre-natal testing technologies. In early November, the US Patent Office issued a Notice of Allowance for a US patent covering novel methods for the use of massively parallel sequencing to detect fetal aneuploidies, such as Trisomy 21, 18 and 13.
+Sequenom holds an exclusive license to the rights of this invention, which was made by doctors Dennis Lo, Rossa Chiu and Alan Chan, all of the Chinese University of Hong Kong. The Notice of Allowance was issued in connection with US patent application number 12/178,181.
+In July we filed an appeal with the federal court of appeals with respect to our preliminary injunction decision of the district court and our litigation with Ariosa regarding our exclusive rights (inaudible) patent that covers the utility of circulating cell-free fetal DNA as an analyte for fetal trisomy detection. This appeal was a reflection of our continued belief and the strength of our patent and position.
+I will now turn the call over to Paul, who\'ll discuss the details of our financial performance in the third quarter of 2012. Paul?
+Paul Maier
+Thank you, Harry. Our results in the third quarter of 2012 reflect the continued achievement of our operational goals, specifically those associated with the expansion of Sequenom CMM\'s testing services and the rapid adoption of its MaterniT21 PLUS LDT.
+For the third quarter of 2012, total revenues were $22.9 million, an increase of 25% from revenue of $18.3 million in the second quarter of 2012 and a 68% increase as compared to $13.6 million reported for the third quarter of 2011.
+This quarter, MaterniT21 PLUS LDT made the largest contribution to Sequenom\'s diagnostics services revenue which increased to $12.5 million for the third quarter, up from $2.2 million for the same period in 2011. An increase attributable to continuing growth in testing services volumes.
+Revenues from our genetic analysis business decreased 9% on a year-over-year basis resulting from reduced system sales and softening consumables sales during the third quarter of 2012 with a 71% gross margin for the segment.
+As to be expected in the year initially following a new product launch, overall gross margin was reduced in the third quarter of 2012 to 26% of revenue as compared to gross margin of 60% for the third quarter of 2011. A difference primarily attributable to higher total laboratory costs as test volumes increase, a result of the growing market adoption of the Sequenom CMM MaterniT21 PLUS LDT.
+
+As a result of the increased test volumes, overhead absorption and process improvements, unit costs for the MaterniT21 PLUS LDT have continued to decrease in line with Sequenom CMM\'s goals.
+As we have mentioned previously, diagnostic services revenue is primarily recognized when cash is received, while costs are recognized in the current period upon completion of the services.
+In addition to the impact of delayed recognition of revenues, the total cost associated with increasing test volumes also contributed to decreased gross margins as the Company has not yet recognized revenue related to the increased number of tests performed, which have been billed but not yet collected.
+We are receiving payments from a variety of insurers, both under contract and out-of-network and reimbursement is in line with the expected percentage of list price.
+Gross margin is expected to continue to fluctuate quarterly due to changes in sales volumes and the timing of cash receipts and until the Company converts to accrual accounting for diagnostic services revenue, which is expected to occur after sufficient reimbursement history has been established.
+Total operating expenses for the third quarter of 2012 were $35.7 million, as compared to total expenses of $26.4 million for the third quarter of 2011. This change reflects a 49% increase in selling and marketing expense resulting primarily from higher labor costs associated with increased headcount to support operations and the continued expansion of the diagnostic services infrastructure, including our sales force expansion during the third quarter.
+Research and development expenses for the third quarter of 2012 increased by $0.6 million as compared to the third quarter of 2011. This change was primarily related to facilities and the supplies partially offset by lower clinical study costs.
+General and administrative expenses increased in the third quarter of 2012 to $10.1 million as compared to $5.5 million in the same period one year ago. The increase was due primarily to increased legal costs of $3.2 million associated with patent litigation, and higher labor costs of $1.1 million associated with increased headcount to support operations.
+Total stock-based compensation expense was $3.1 million for the third quarter of 2012, flat as compared to the third quarter of 2011.
+Net loss for the third quarter of 2012 grew was $30.2 million, or $0.26 per share as compared to the net loss of $18.4 million or $0.19 per share for the same period in 2011, resulting from an increase in costs associated primarily with the growth in testing volume of the MaterniT21 PLUS LDT.
+Turning to year-to-date results, total revenue for the first nine months of 2012 was $56 million, an increase of 39% from revenue of $40.4 million for the first nine months of 2011. Revenues in the first nine months of 2012 from the Sequenom CMM diagnostics services operating segment grew to $25.4 million, while revenues from the genetic analysis operating segment were $30.6 million for the first nine months of 2012.
+Gross margin for the first nine months of 2012 was 31% of revenue as compared to gross margin of 63% for the first nine months of 2011. Total operating expenses for the first nine months of 2012 were $100.6 million, as compared to total expenses of $77.8 million for the first nine months of 2011.
+Sales and marketing expenses increased 52% from the year-ago period, a change reflecting increased selling and marketing expenses resulting primarily from higher labor costs associated with increased headcount to support operations and continued expansion of the diagnostic services infrastructure including the sales force expansion.
+Research and development expenses decreased 2% compared with the first nine months of 2011, primarily due to a reduction in research-related licensing and collaboration costs.
+
+General and administrative expenses increased in the first nine months of 2012 to $27.4 million, primarily due to an increase in legal costs associated with ongoing patent litigation as compared to the same period one year ago and an increase in the infrastructure to support the increased diagnostic testing volume.
+Total stock-based compensation expense was $9.2 million for the first nine months of 2012, flat as compared to the same period of 2011.
+The net loss for the first nine months of 2012 was $84.3 million or $0.74 per share as compared to a net loss of $52 million or $0.52 a share for the same period in 2011, reflecting an increase in costs associated primarily with the growth in sales volume of the MaterniT21 PLUS test.
+As of September 30, 2012, total cash, cash equivalents and marketable securities were $193.4 million. In the third quarter of 2012, the Company completed a private offering of $130 million convertible unsecured senior notes with the intent to use the net proceeds to fund continued commercialization of the MaterniT21 PLUS test as well as for other general corporate purposes which may include research and development expenses, capital expenditures, working capital and general and administrative expenses.
+Net cash used in operating activities was $63.7 million for the first nine months of 2012, while purchases of capital equipment and leasehold improvement for the same period totaled $14.2 million, funded partially through utilization of the Company\'s credit facility. As of September 30, 2012, the Company had borrowed $20.0 million under the credit facility.
+I\'ll now turn the call back over to Harry for his closing remarks.
+Harry Hixson
+Thanks, Paul. As we approach the end of this year, we\'re proud of the remarkable progress that we\'ve made thus far in 2012 and believe that we are well positioned for a successful 2013. I look forward to the opportunity to discuss the results of the full year with you.
+With that summary of our business and financial results, we\'d now like to open the call up to questions. Operator, please open the line.
+Question-and-Answer Session
+Operator
+(Operator Instructions). The first question comes from Jon Wood of Jefferies. Please go ahead.
+Jon Wood -- Jefferies
+Hey, thanks a lot. Goof afternoon.
+Harry Hixson
+Good afternoon.
+Jon Wood -- Jefferies
+Hey. So Harry, are you guys are in negotiations with payors, do you typically find that there\'s a discussion about the competitive landscape or in other words, are you negotiating on your own merits or is there typically – is the payor typically looking to contract with more than just you in that process?
+Harry Hixson
+I think we\'re negotiating only on our own merits, but I\'ll let Welch speak to that a little bit more.
+Bill Welch
+Yeah, Jon, thanks, great question. When we talked with payors at an out-of-network laboratory, we\'re engaging with them based on the units that we\'re contributing to them and the benefits of continuing to use our technology for their population. So it\'s rare that you talk about other technologies. Frankly, every technology can be different. Ours is why doctors are ordering the tests. So those are the conversations. They\'re progressing well and I think the things that you\'ve heard during the call are partly the reasons that we\'re in those topics.
+Jon Wood -- Jefferies
+Understood. Thanks. And so Paul, are you recognizing accrual accounting under any of these in-network contracts at this point?
+Paul Maier
+No, we are not. With respect to the T21 revenue, what you see is essentially cash received for the US lives that are under contract which we did update the market, as you know that\'s in our press release today, the 46 million. We are continuing to use cash accounting and at some point when we have the larger payor contracts in place and then we have a significant, enough history of showing the repetitive payment patterns, that\'s the point when we can switch to accrual accounting. So it may not be all in one swoop, it may be on some limited basis but we – I think it\'s safe to assume that we would expect to have major contracts in place before we get to that point.
+
+In the meantime, you will continue to see the cost incurred upfront, so you see an anomaly in our gross margin because there is the payment lag even on the new contracts that are in place. There will be a payment lag as long as our test volumes keep growing and the cost are incurred frontend and the revenue lags that. So I know in trying to build your models, this is probably a bit of challenge for you, but in the future once we have a larger contract base on your coverage and we can switch to accrual accounting, I think you\'ll see some of this choppiness.
+Jon Wood -- Jefferies
+Understood, thanks. Last one from me. Do you have enough data or history yet to give us a sense of how long the out-of-network payments are – the average out-of-network payment is taking from kind of execution of the service until you actually get something reasonable from a reimbursement perspective?
+Harry Hixson
+Well, we have aggregate trends but it\'s – we\'re not at the point when we will discuss sort of what the payment cycle is on average because there\'s quite a variation. I mean in some cases, we get paid very quickly from payors out-of-network and in others we have to go through several payment cycles. So there\'s no a universal answer to that and it shifts the nature of reimbursement I think at this stage of our evolution.
+Jon Wood -- Jefferies
+Understood. Thanks a lot.
+Operator
+The next question comes from Brian Weinstein of William Blair. Please go ahead.
+Brian Weinstein -- William Blair
+Hi, good afternoon. Can you guys hear me okay?
+Harry Hixson
+Sure. Hi, Brian. How are you?
+Brian Weinstein -- William Blair
+Good. Thanks for asking. My question is around when you\'re getting claims now in in-network, are there big variations among the different in-network policies that you have or are they all pretty much in a tight range around what you guys have talked about as a percentage of the rest?
+Harry Hixson
+Well, I\'ll let Bill Welch answer that.
+Bill Welch
+Yeah, we have – with very plan on these regional, local and the health systems, there is frameworks but we work in the frameworks that we\'ve identified, like the (inaudible) and that\'s what we\'re contracting with. So I think it\'s meeting what we have laid out. And certainly both volume and tech assessments and clinical acceptance otherwise continues to make those conversations fruitful.
+Brian Weinstein -- William Blair
+Okay. Maybe a question about the actual or stuff that\'s going on in the field, when you\'re growing head to head and I think I\'ve asked you guys this before, but when you guys are going head to head with your competitors, when you\'re losing those battles, what\'s the thing that\'s causing you to lose, what\'s the thing that causing you to win and what\'s most important to the doctors that you\'re talking to, what are those deciding factors for those physicians that are coming on board?
+Bill Welch
+Brian, I know we\'ve talked about this before. At this stage of the game, I really don\'t think it\'s a competition discussion so much as about where we fit in growing this. But I would say I don\'t think we\'re losing, I can\'t think of one that we\'ve lost. I think there\'s ones that some of our competitions had based on their clinical studies and the doctors they did studies with and otherwise, those are usually are major institutions that work through it. A number of those have come our direction after they\'ve gone up for adoption. So I think our data stands by itself and the utilization, it feels like we\'re making great traction there.
+Brian Weinstein -- William Blair
+Okay. And last question for me is on the – when you\'re talking about the Blue Cross, Blue Shield TEC assessment committee or CTAF recommendation, how long does it usually take then for somebody to actually come on with formal reimbursements, specifically in I guess the Blue Cross, Blue Shield TEC assessment committee. Do you have any kind of parameters on that?
+
+Harry Hixson
+I wish it was more cookie cutter to give you some comfort there, but I would just say that the CTAF and Blue Cross, Blue Shield technology assessments are considered the highest level technology assessments in the country. There are very thoughtful, medically based and as you read them, you could get a sense of what goes on through those. So those technology assessments are often utilized by local, regional, national payors because it\'s hard to do those kinds of work in the evaluation.
+In terms of how quick that would go to Blue Cross, Blue Shield, obviously it\'s positive indications of where the Blue should be functioning and it\'s probably even the positive indication by a way of other payors to be functioning. And so the next step for us in having these conversations is our coverage and adoption utilization. That\'s what we\'re doing. I can\'t give you a definite month, quarter otherwise, but we\'re making the progress that you might imagine.
+Bill Welch
+The last piece that we\'re looking for is guidelines from the professional societies, American College of Obstetrics and Gynecology and the Society for Fetal and Maternal Medicine, but we hope to see those guidelines before the end of the year.
+Brian Weinstein -- William Blair
+All right, great. Thank you. I\'ll jump back in queue.
+Operator
+The next question comes from Bryan Brokmeier of Maxim Group. Please go ahead.
+Bryan Brokmeier -- Maxim Group
+Hi, thanks for taking the questions. So those 46 million covered lives, the new 20 million that you had done, those are all small regional contracts, right? You still haven\'t won any major national contracts yet?
+Harry Hixson
+Those agreements are not at the national top level of the top six or so plan. These are regional, local and health systems.
+Bryan Brokmeier -- Maxim Group
+Okay. But you continue to target two national contracts by the end of the year?
+Harry Hixson
+Yes.
+Bryan Brokmeier -- Maxim Group
+Okay. And just a little bit on Brian\'s – earlier on Brian\'s last question, have you seen any benefits from the discussions that you\'ve already – that you\'re having from payors from the CTAF recommendation?
+Bill Welch
+Yeah, those as you might imagine just came out in the last month or so. We go through cycles for discussions but those are very beneficial. Those are beneficial, doctors use in appeals and then also as Harry talked about, guidelines. So all signs point north.
+Bryan Brokmeier -- Maxim Group
+Okay, thanks. And then just could you also talk a little bit more as – can you give any color in terms of how the discussions with the national payors are progressing? Any additional detail about how they\'re further today than they maybe were at your second quarter call?
+Paul Maier
+I\'d like not to get into various dialogues, but if you can imagine the Blue Cross, Blue Shield when their tech assessment committee comes out with something and positive, it puts them in a very awkward situation for them not to move forward. So we\'re probably more – these have moved more into systems type dialogues and these tech assessments also with other payors in terms of system coverage decisions. But I\'d like not to get into specifics.
+Bryan Brokmeier -- Maxim Group
+Okay, great. Thanks a lot.
+The next question comes from Bill Quirk of Piper Jaffray. Please go ahead.
+Dave Clair -- Piper Jaffray
+Hi. Good afternoon, everybody. It\'s Dave Clair in for Bill Quirk. Thanks for taking my questions. First one from me just given the 90,000 run rate that you have going on here and the capacity expansion, are you willing to give any kind of color on 2013 how you should be thinking about T21 test levels? Got to ask.
+Harry Hixson
+It\'s good to ask and we\'re right in the midst of our financial planning for 2013 and I\'ve been asking the same questions to Bill and the sales force.
+
+Dave Clair -- Piper Jaffray
+Okay.
+Harry Hixson
+Just fundamentally we expect to see continue ramping growth and adoption.
+Dave Clair -- Piper Jaffray
+Okay. And maybe another question on the recent endorsements that you\'ve received, have you signed up any additional payors as a result of the Blue Cross, Blue Shield Tech Assessment?
+Paul Maier
+You mean in the ones we\'ve just announced, the 46 million lives?
+Dave Clair -- Piper Jaffray
+Well, within that. I mean was that kind of a deciding factor for anyone that decided to reimburse?
+Paul Maier
+When we put this out, these discussions, these contracts go real-time. So those are dates that we – those are the cut-off at that point in time, so the Blue Cross, Blue Shield just came out within a week or so ago. So CTAF was probably before that. I think that most of the ones we\'ve got have been positive based on our current situation. I assume it\'s going to get even better with the technology assessments.
+Dave Clair -- Piper Jaffray
+Okay. And last one from me, how should we be thinking about the sales force going forward here? You continue to build it pretty aggressively. Should we think about that pacing to continue?
+Harry Hixson
+I think before certainly going in 2013, we have really rapidly expanded the sales force organization over the last 12 months. We\'ve had basically two territory realignments and such and our plan is to sort of let those settle in and let people work their existing territories. We might add some sales reps in our AMD sales force and ophthalmology sales force. But I think we\'ll leave the prenatal sales force as it is for a while.
+Dave Clair -- Piper Jaffray
+Okay, thank you.
+Harry Hixson
+Just to add to that a little bit is that we have very high coverage already, so we really don\'t see a pressing need for it at this time.
+Dave Clair -- Piper Jaffray
+Great. Thanks.
+Operator
+The next question comes from David Ferreiro of Oppenheimer. Please go ahead.
+Eric Chang -- Oppenheimer
+Hi, this is Eric Chang subbing in for Dave. Thanks for taking my question. Can you give us an update or an updated platform the competitive landscape for the MaterniT21? What are you seeing right now in the marketplace?
+Paul Maier
+Well, when we launched we had no competitors and we came in we had one competitor. Then I guess three months later, we had another competitor. There\'s all this anxiety as you might imagine when the new competitors come out and then as you go forward, you find out what it truly is, [data] and things like that and how the product really responds. I think this is less about competition but we have such strong clinical data. We go and have thoughtful discussions and in those discussions, again I can\'t think of times where it\'s – it has been compelling. So I do think that the space is a rich space and as you might imagine, people want to get it, but it seems to not have slowed down our growth to-date.
+Harry Hixson
+Well, I think that our turnaround time, our very low no call rate, our very high level of service to the physicians in addition to the very best clinical performance data which we continue to see at that level and actually somewhat improved over the clinical performance is very tough to compete against us. And so we continue to see very rapid growth there.
+Eric Chang -- Oppenheimer
+Great. Thanks.
+Operator
+Is there a follow-up?
+Eric Chang -- Oppenheimer
+No, I\'m good. Thank you.
+Operator
+Thank you. The next question comes from Vamil Divan of Credit Suisse. Please go ahead.
+Vamil Divan -- Credit Suisse
+Yeah, thanks for taking the questions. Just a couple that I have. One related to these recent assessments by the Blue Cross, Blue Shield association and also CTAF, just the difference in terms of CTAF focusing to do in high risk whereas Blue Cross, Blue Shield also including average risk, just any comment you have there and maybe more generally how is that discussion relative to high risk? Is it dense average risk coming into play as you have some of these discussions with payors right now?
+
+Paul Maier
+When we approach payors, we\'ve been very clear in all of our marketing materials and how we – testing patient samples for high risk. And we think that works well with [contracts] and payors in terms of the intended use of the technology. In terms of the CTAF kind of nuances versus Blue Cross, Blue Shield nuance tech assessments, the Blue Cross, Blue Shield is very recent. It\'s public but the detail behind that is still circling for public distribution, so I\'ve not actually read the full treatise, which is probably going to be a 20 page or so on that to understand the difference between the high risk and the general. And there\'s probably some nuances there. My guess they probably end up somewhere similar to CTAF, but that will be open to discussion once we see how that works its way through, overall positive for us.
+Harry Hixson
+In particular, it\'s a problem for some of the competition who basically from the beginning of both of the competitors in the marketplace now have offered their test to all comers and we have had good information that they don\'t even collect whether it\'s a high risk or a low risk patient. So if this goes the way we think it\'s going to go and that is that these recommendations and evaluations are going to focus only on high risk, we think that\'s clearly to our benefit and our competitors are going to have to refocus or reformulate their approach to the marketplace. I don\'t the – with these recommendations being for a high risk only, I don\'t think the payors are going to interested in reimbursing for the low risk segment. So that\'s going to be another particular problem for the competition. We, of course, take samples for high risk patients.
+Vamil Divan -- Credit Suisse
+Okay, all right. And then just one last question, you mentioned about 30% of the maternal fetal medicine specialists have now ordered the test. Are you getting -- now that you\'ve been on the market for about a year, are you getting any more general OBs yet or is it still too early there to subtract for your price?
+Bill Welch
+Good question. Yeah, I think this is the natural evolution of where we\'re going and I think I look forward to guidelines from the various provider groups that give us an even more comfort to go to broader OB/GYNs outside MFMs. But I would say we\'ve been fairly focused on the specialists, which is reflected in this. I think that\'s where the technology resides in terms of understanding it and moving it forward. A number of OB/GYNs are ordering the test. We think that\'s synergistic with the MFMs and we\'re staying on queue in terms of – this is for high risk type pregnancies. I\'d imagined with working with guidelines, we would follow those guidelines to providers that make sense.
+Vamil Divan -- Credit Suisse
+Okay, all right. Thanks a lot.
+Harry Hixson
+Sure.
+Operator
+The next question comes from Zarak Khurshid of Wedbush. Please go ahead.
+Zarak Khurshid -- Wedbush
+Good afternoon. Hi, Harry. Hi, Paul. Hi, Bill, Marcy everybody. So it seems like maybe there\'s an acceleration in testing in the last month or so. Can you maybe talk about just the cadence of volumes exiting the second quarter and then throughout the third quarter?
+Harry Hixson
+Well, I think you\'re right in saying – I think we\'re seeing some acceleration. The day-to-day and the week-to-week sample of session rate bounces around a little bit, but if you look at the curve over a long period of time, you definitely can see and it appears to me to be accelerating. Of course, every time there\'s a holiday of any kind we see little blips and then that makes it a little bit more difficult to interpret it. I would say in the last two weeks, we\'ve seen an unexpected acceleration in our testing volume and we\'re very pleased with that and we\'re – it could be just the impact of the 25 sales reps who we added in the third quarter and it could be other factors, but we\'re working very closely to try and determine all the causes for that pickup in volume.
+
+Bill Welch
+Yeah, I would just add. I don\'t think we\'re anywhere near in the saturation points and also – there can be differences and the growth is clearly there. It\'s probably not going to always be linear, it will be bumpy, but as you look at it, as Harry talking about, it continues to grow.
+Zarak Khurshid -- Wedbush
+That\'s helpful. Thank you. On the reimbursement front, can you maybe talk about Medicaid and kind of what fraction of the volume is coming from that particular area? And then what are the challenges in getting paid for Medicaid?
+Bill Welch
+So we\'re in -- the lab is licensed, I believe in most Medicaid states, I think there might be a few that can\'t be worked through based on policies. We\'re working through to get in that, so it\'s like – for New York Medicaid, until we get our New York license for that test. When we\'re doing the Medicaid testing, we\'re seeing with a high risk which is you remember the payor mix with a high risk is about 20% to 30% of those patients, generally because age is one of the key criteria. So 20%, 30% might be Medicaid and we\'re seeing generally speaking that\'s what our payor mix looks like on the (inaudible). So we\'re following the label and it looks like it\'s all working through. We are getting paid by some Medicaids but we haven\'t – since we\'re getting paid by some, we\'re working through contract and others and it\'s going as expected. It\'s a little slower on the Medicaid side, but we\'re in those kinds of conversations. So overall, I don\'t think it\'s really a big surprise frankly.
+Zarak Khurshid -- Wedbush
+Understood. Thank you for that. And lastly more specifically on the timing of payments, if we were to think about your top gear customers, can you just give us a flavor for are you in the test and then do you get paid in – is the month kind of the best case scenario or is it two weeks, any sort of help on that front would be helpful?
+Harry Hixson
+Even though we\'re a year from launch, there still aren\'t clear patterns that we would feel comfortable talking about. It does vary by payor, it does vary by in-network and out-of-network. So there are a lot of variables in the equation. There is a lag and I think now that we\'re a year after our launch, we\'re seeing a better overall response rate and I think even since we closed the third quarter, we\'re pleased with the improvement in cash receipts and we\'ll continue to report on a quarterly basis. But I don\'t think we\'re yet comfortable in getting into any of the granularities that perhaps you would like to hear. I will say though and I\'ve said this before, the behavior of the payors is about what we expected when we launched the product and put our teams together. And where we\'re getting reimbursed, we are quite pleased with the amount of reimbursement. And so the trends are all meeting what we were expecting when we came into this marketplace.
+Zarak Khurshid -- Wedbush
+Paul, just a question, if we were under contract with big payors, what sort of payment term would you expect, what kind of range?
+Paul Maier
+I think typically once you\'re under contract with the bigger payors, you would expect in the 60 to 75-day range. And there\'s some that even pay faster than that. So we do expect once those major contracts are in place, it will change the dynamic rather dramatically in terms of the timing. And right now with some payors, we\'re still going through the early stages of them having volume. So we\'re having to appeal and have additional dialogues.
+Harry Hixson
+The appeal process is going well. It\'s somewhat painful, so that\'s why you work to generate volume, generate the discussion with the payors and the medical and have those appeals processed. The payors don\'t like to have a lot of appeals, essentially throwing friction into the engine there, that\'s something they don\'t like and since they – all these doctors are writing orders, there must be something going on, and certainly the technology assessments improve. And there was essentially cycles, they usually go on 90-day cycles and so we\'re still – even with some that are out there from a early first quarter and you can still have discussions to move those along, so it\'s not like those are going away. So this is – some are early, some are middle and some are late and each one has its own story for adjudication of payment.
+
+Zarak Khurshid -- Wedbush
+Understood, that\'s helpful. And if I could slip one more in, could you just clarify this appeal cycle? Is it after 90 days then you appeal or is it after kind of the 60-day window? How does the mechanics actually work for the appeal?
+Harry Hixson
+Essential you would – once you get the sample in, you bill the payor. It goes to their own cycle for payment and each payor might be different. If you\'re in a contract, it would go a different route. If you\'re at a network, it would go a different route and rule of thumb could be 60 days or so to come back and then you understand what that is and in that case, if it\'s what you want the amount or otherwise you could say that\'s good. If it\'s less (inaudible), you would go back and have more conversations. And so between 30, 60 or 90 days will be the first cycle type process.
+Zarak Khurshid -- Wedbush
+Great. Thank you.
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Marcy Graham for any closing remarks.
+Marcy Graham
+Thanks for joining us today on the call and for your continued interest in Sequenom. If you have any further questions about our results or if you\'d like additional information, please feel free to contact me in our Investor Relations department at 858-202-9028.
+Operator
+The conference has now concluded. Thank you for attending today\'s presentation. You may now disconnect.

@@ -1,0 +1,85 @@
+Teekay LNG Partners L.P. (NYSE:TGP) Q3 2012 Earnings Call November  9, 2012 11:00 AM ET
+Executives
+
+Peter Evensen – Chief Executive Officer and Chief Financial Officer
+
+Analysts
+
+Michael Webber – Wells Fargo
+
+
+Operator
+Good day, ladies and gentlemen and welcome to Teekay LNG Partners Third Quarter 2012 Earnings Results Conference Call. During this call, all participants will be in a listen-only mode. Afterwards, you will be invited to participate in a question-and-answer session. (Operator Instructions) As a reminder, this call is being recorded.
+Now, for opening remarks and introduction, I would like to turn the call over to Mr. Peter Evensen, Teekay LNG Partners’ Chief Executive Officer. Please go ahead Mr. Evensen.
+Unidentified Company Representative
+Before Mr. Evensen begins, I would like to direct all participants to our website at www.teekaylng.com, where you will find a copy of the third quarter of 2012 earnings presentation. Mr. Evensen will review this presentation during today’s conference call.
+Please allow me to remind you that our discussion today contains forward-looking statements. Actual results may differ materially from results projected by those forward-looking statements. Additional information concerning factors that could cause actual results to materially differ from those in the forward-looking statements is contained in the third quarter of 2012 earnings release and earnings presentation available on our website.
+I will now turn the call over to Mr. Evensen to begin.
+Peter Evensen
+Thank you, Ryan. Good morning everyone and thank you for joining us on our third quarter of 2012 investor conference call. I’m joined today by Teekay Corporation’s Chief Financial Officer, Vince Lok; Chief Strategy Officer, Kenneth Hvid, and MLP Controller David Wong. If you turn to slide number 3 of the presentation, I will review some recent highlight. The partnership generated distributable cash flow of $57.8 million in the third quarter of 2012, up 32% from the same quarter last year when we generated $43.7 million. The year-over-year increase highlights the growth of our fleet that has been experienced over the past year, including the recent deliveries of our new building gas carriers and our accretive acquisition in February 2012 of the 52% interest in the six mass LNG carriers.
+And that last point, I’m pleased to report that the technical management of those six LNG carriers has been fully integrated into Teekay in September. For the third quarter, we declared and today paid the cash distribution of $0.675 per unit, which is consistent with the last quarter. In September, we successfully raised a $182 million of net proceeds and follow-on equity offering, which is targeted for future investment.
+Over the past several months, we’ve seen a significant increase in the number of LNG project tenders in the marketplace. We’re actively bidding on several on the water and new building LNG projects, as well as floating storage and regas projects or FSRU. And with available liquidity of $559 million, which includes proceeds from the September equity offering, the partnership is well positioned for investment in one or more of these quality growth opportunities.
+Turning to slide number 4, we want to take a look at recent developments in the LNG shipping market. LNG shipping spot rates are currently around a $110,000 per day, a decline from a high of over a $140,000 per day earlier in the year, but still well above the long-term average. The recent decline in rates is partly due to seasonally lower demand for LNG, but it’s also due to lower LNG supply as a result of production outages and plant maintenance. In addition, the arbitrage in LNG prices between the Atlantic and Pacific has narrowed, with Asian prices falling to around $13 per million Btu from $18 million Btu earlier in the year. With European prices currently around $10, the reduced arbitrage does not support the large movement of spot cargoes from the Atlantic to the Pacific.
+
+On the fleet supply side, there has been a noticeable slowdown in new vessel orders during 2012. A total of 19 LNG carriers have been ordered since the start of the year, down from 53 orders in 2011. The LNG carrier order book currently stands 77 vessels, which appears sufficient to meet demand requirements over the next three years and could even lead to an oversupply of vessels if new projects are slow to come on line, which is common with liquefaction projects.
+However, from 2015 onwards, we believe that the demand for LNG shipping will ramp up significantly once new LNG liquefaction projects in Australia and North America start production. We estimate that up to a 100 additional LNG vessels over and above the current order book could be required in order to satisfy the demand that will come post 2015.
+With the time to delivery for a new ship of around three years, some of these vessels will need to be ordered in the coming months if they are to be ready in time to serve new LNG project. In fact, as I noted at the start of the call, we are already starting to see an increase in tendering activities for some of these new plants coming online, and we expect more LNG shipping tenders to emerge in 2013.
+Tuning to slide number 5, I will review our consolidated operating results for the quarter, comparing an adjusted Q3 income statement against an adjusted Q2 income statement, which excludes the items listed in Appendix A of our earnings release, and reallocates realized gains and losses from derivatives to their respective income statement line item.
+Net voyage revenues increased by $1.8 million primarily due to an increase in revenue generating days in Q3 as a result of one additional calendar day in the third quarter and the scheduled drydocking of one of our LNG carries during the second quarter and its corresponding off-hire days.
+For the fourth quarter of 2012, there are 12 off-hire days expected on one of our conventional tankers due to a scheduled drydocking. Vessel operating expenses increased by $1.9 million as a result of higher crew manning costs due to the timing of crew joining and departing our vessels and the timing of purchase and use these spares.
+Deprecation and amortization and general and administrative expenses remained relatively constant with Q2 as expected. Equity income increased by $2.4 million, primarily due to a full quarter at the increased charter rate on the methane spirit and in additional calendar day in the quarter. Net interest expense increased by $1.1 million primarily due to a full quarter of interest expense related to the Norwegian Kroner bond issued in Q2.
+Other expenses increased by $0.7 million due to a change in deferred income taxes relative to the prior quarter. Non-controlling interest remained relatively consistent with Q2. I won’t walk through all of slide number six, which was included in our recent earnings release, however, I would like to point out that our third quarter coverage ratio of 1.09 times was quite strong despite the fact we issued equity in September and had not yet invested those proceeds.
+If we were to exclude the distributions from the September equity offering, our coverage ratio would have been 1.17 times in the third quarter. The fact that we’ve been able to substantially growth our fleet and maintain the strong coverage ratio, speaks to the cash flow stability of our large fixed rate contract portfolio.
+Operator, I’m now available to take questions.
+Question-and-Answer Session
+Operator
+Thank you. (Operator Instructions) And our first question comes from Michael Webber of Wells Fargo. Please go ahead.
+Michael Webber – Wells Fargo
+Hi, good morning guys. How are you?
+Peter Evensen
+Good, thanks.
+Michael Webber – Wells Fargo
+Long time (inaudible) [7, 1:17]. Peter, just wanted to dwell into some of the projects you guys are bidding on, you mentioned you’re active on carriers and FSRUs. I’m just curious if you can give a little bit of a breakdown in terms of how many carrier projects versus FSRUs and maybe a little color there?
+
+Peter Evensen
+Sure. Actually most of the projects we’re bidding on are point-to-point LNG, and they really come into form. One is that they’re dedicated to an existing project that’s coming online post 2015. And the other is from traders who want to try to secure tonnage.
+Michael Webber – Wells Fargo
+Yeah.
+
+Peter Evensen
+Because they see that there will be a little bit larger spot market going forward in more trading. So it really breaks into those two. And then we actually don’t bid on all the FSRU projects, we only bid those that we think suit us and just maybe get ahead of you. We haven’t been successful on the FSRU, so we only have one in our fleet right now. And I think we just been a little bit conservative about that, because the FSRU market is moving much more towards new build and we are seeing that people at a [recent] conventional or a standard type of FSRU. The size is getting a little bigger and so we’re trying to wait and do it on a build-to-suit basis.
+Michael Webber – Wells Fargo
+Gotcha, that’s helpful. I guess to if you guys just focus on the point to point, because it seems like whether you guys are busiest? Hey, you mentioned new build post 2015, kind of meeting criteria there, would be pricing small spec new build order at TGP, something you guys would consider and a process kind of aiding some of these tendering process or is that something that still falls out by the guidelines that what you guys be willing to do?
+Peter Evensen
+So as we said last quarter that’s something we are actively looking at. The shipyards are seen and the type of vessel is starting to standardize around then Atlantic Max, which is a 170,000 173,000, which is the biggest that can get through the Panama Canal post 2014. And when you think about it from a trader’s point of view, the ability to have a bigger cubic vessel with the more fuel friendly engine, I think if we order, it will put its best ahead of the line, compared to the existing ships that are out there. There is about 77 ships out there right now and 32 do not have contracts.
+Michael Webber – Wells Fargo
+Gotcha. I mean along those lines, how many kind of spec new build would you be comfortable with holding at TGP?
+Peter Evensen
+Well, we are a pretty conservative group.
+Michael Webber – Wells Fargo
+Yeah.
+Peter Evensen
+So what we would do is probably order to with options for more and the thing that we do that I think little different is that we go out and we can’t list the customers as we have a big customer base and find out exactly what kind of shifts they need and that gives us the confident that we’re not really ordering effectively that we have projects that we know, our customers would wants to use those vessels for us.
+Michael Webber – Wells Fargo
+Great. Just one more and I’ll turn it over. Beyond the on-the-water stuff, I mean obviously, we take a pretty big deal that kind of moved a yield for TGP, in terms of what you guys are saying on-the-water right now or business fleet, one-off vessels or they’re larger kind of on block fleets that are putting around maybe not side of the Maersk with something would be a little bigger that it could provide some near-term increase for TGP?
+Peter Evensen
+Well, as I said in the prepared remarks, we are looking at acquisitions of existing fleet.
+Michael Webber – Wells Fargo
+Yeah.
+Peter Evensen
+And so we’re confident we’ll be able to use the money we raised in September and that would not be for new buildings that would be for on-the-water acquisitions.
+Michael Webber – Wells Fargo
+Okay. And by fleet, I’m assuming that it’s multiple assets that are putting around okay?
+Peter Evensen
+That’s right.
+Michael Webber – Wells Fargo
+Great, all right. Thank you for the time guys. I appreciate it.
+Peter Evensen
+Thank you.
+Operator
+
+Thank you. (Operator Instructions) We have no further questions at this time, please continue.
+Peter Evensen
+Okay. Thank you very much and we look forward to reporting back to you next quarter. Thank you.
+Operator
+Thank you. Ladies and gentlemen, this does concludes your conference call for today. We thank you for your participation. You may now disconnect your lines and have a great day.

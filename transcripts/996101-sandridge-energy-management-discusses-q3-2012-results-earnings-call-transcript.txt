@@ -1,0 +1,455 @@
+SandRidge Energy (NYSE:SD) Q3 2012 Earnings Call November  9, 2012  9:00 AM ET
+Executives
+James D. Bennett - Chief Financial Officer and Executive Vice President
+Tom L. Ward - Chairman and Chief Executive Officer
+Matthew K. Grubb - President and Chief Operating Officer
+Analysts
+Neal Dingmann - SunTrust Robinson Humphrey, Inc., Research Division
+Charles A. Meade - Johnson Rice & Company, L.L.C., Research Division
+David W. Kistler - Simmons & Company International, Research Division
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Brian Lively - Tudor, Pickering, Holt & Co. Securities, Inc., Research Division
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+Brian Singer - Goldman Sachs Group Inc., Research Division
+James Spicer - Wells Fargo Securities, LLC, Research Division
+David Snow
+Duane Grubert - Susquehanna Financial Group, LLLP, Research Division
+H. Monroe Helm - Barrow, Hanley, Mewhinney & Strauss, Inc.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Robert Carlson
+Operator
+Good day, ladies and gentlemen, and welcome to the Third Quarter 2012 SandRidge Energy Earnings Conference Call. My name is Jeff, and I\'ll be your coordinator for today. [Operator Instructions] As a reminder, this conference is being recorded for replay purposes. I would now like to turn the conference over to your host for today, Mr. James Bennett, Chief Financial Officer, and you have the floor, sir.
+James D. Bennett
+Thank you, Jeff. Welcome, everyone, and thank you for joining us on our third quarter 2012 earnings call. This is James Bennett, Chief Financial Officer. And with me today are Tom Ward, Chairman and Chief Executive Officer; Matt Grubb, President and Chief Operating Officer; and Kevin White, Senior Vice President of Business Development.
+Keep in mind that today\'s call will contain forward-looking statements and assumptions, which are subject to risks and uncertainties, and actual results may differ materially from those projected in these forward-looking statements. Additionally, we\'ll make reference to adjusted net income, adjusted EBITDA and other non-GAAP financial measures. A reconciliation of any non-GAAP measures we discuss can be found in our earnings release and on our website.
+Please note that this call is intended to discuss SandRidge Energy and not our public royalty trusts. Also, earlier this morning, we filed our third quarter 10-Q.
+Now let me turn the call over to Tom Ward.
+Tom L. Ward
+Thank you, James. You\'ve now seen our announcement of our intent to sell our Permian assets outside of the Permian Royalty Trust. We intend to use the potential proceeds to strengthen our balance sheet, help us become cash flow positive, improve our leverage ratio and have long-term, profitable, double-digit production growth by focusing on developing our large Mississippian acreage position. We\'ve been focused on this for some time, and this decision is not a reaction to the public letter we received yesterday from an important shareholder. As we said in our statement yesterday, the board and management of this company value your opinions, and we think we\'ve been very open to constructive dialogue. While our perspectives on various points made in the letter differ in many instances, we do agree that we have valuable assets and our performance for shareholders is a focus and a priority.
+With respect to the initiative on our Permian assets, the proceeds from the sale of these assets will be used to pay down debt and fund development of our Mississippian play. The transaction will also contribute to narrowing our CapEx to cash flow gap, provide consistent growth in the Mississippian and fully fund our CapEx through 2014. The assets we are offering for sale produce approximately 25,000 barrels of oil equivalent per day, of which about 80% is liquids. We built our Permian assets over the last 4 years by acquiring and drilling a very specific area of conventional assets on the Central Basin Platform in between the Midland and Delaware Basins.
+
+This focused approach has allowed us to build one of the best conventional oil assets in the U.S. We started drilling in the Permian in 2007, but increased our activity after determining to make a move to oil in 2008. Our Permian assets were producing just 4,000 barrels of oil equivalent per day in early 2009, so we made 2 major acquisitions in 2009 and 2010, plus moved in up to 13 rigs and drilled nearly 750 wells per year to grow our production up to over 30,000 barrels of oil equivalent today.
+Our total net investment, including the value held by SandRidge at PER, is just over $1 billion. We know this is a rare offering of operated, concentrated free cash flow and conventional assets. Our 2013 guidance does not reflect the sale of the assets. Upon a sale, however, we will update that guidance. Either way, we will lower our CapEx in the Permian, and we expect corporate CapEx to be at $1.75 billion next year.
+Looking our Mississippian play, it continues to grow as we\'ve now proven commercial horizontal production over more than 200 miles from Noble County, Oklahoma to Finney County, Kansas, with repeatable, low-risk attractive returns. SandRidge has drilled nearly half of the more than 1,100 industry wells to date as the Mississippian continues to expand across Northern Oklahoma and Western Kansas. However, no other operator has the infrastructure capability we have established to continue to add scale to the play across hundreds of thousands of acres.
+Now this infrastructure is in place, we can also focus on drilling more wells with ESPs, which bring forward returns by moving more fluid than traditional gas lift wells. This -- the additional cost of an ESP installation is approximately $200,000. But the payback is quick because we can increase fluid volumes substantially.
+We\'ve also been discussing for the last year the testing of wells on tighter spacing pattern than 3 wells per section. We\'ve now drilled more than 70 pairs of wells and have enough history of production to see that 4 wells per section is the appropriate development density. Therefore, at 4 wells per section and more than 1.8 million net acres, we\'ve increased our resource location count to more than 11,000 wells. Developing on 4 wells per section also allows us to fully take advantage for our existing infrastructure systems and maximize efficiency. This increase in locations more than offsets the value of locations we anticipate selling in the Permian.
+As we continue to grow the Mississippian well count across a larger area, we also are seeing an increase in our natural gas production. And this increase has been offset by a lower amount of oil than we anticipated at the beginning of last year. However, we continue to be driven by high rates of return, and the Mississippian oil production, along with the associated natural gas, continues to provide one of the best places to drill in the U.S. We do not need to drill the core of a core area, but can focus on one of the largest stratigraphic traps in North America that lies across Northern Oklahoma and Western Kansas. This is a massive area that has so far shown the same statistical potential across the entire area and covers hundreds of miles and thousands of locations.
+Our Kansas activity continues to expand. We\'ve now drilled 91 wells in Kansas and continue to have similar results as in Oklahoma. We currently have 9 of our 31 rigs working in Kansas and plan to drill 191 wells there in 2013.
+We\'ve also continued to expand to the northwest, and did bring on 3 more wells in the furthest northwest area of our Kansas drilling that were notable during the third quarter. These 3 wells came online at an average of 377 barrels of oil equivalent per day and were 91% oil and were drilled in Gray and Ford Counties.
+
+As I mentioned, one of the keys to our success has been the development of our disposable infrastructure and electrical systems. We now operate 107 saltwater disposal wells where we produce over 550,000 barrels of gross water per day and are disposing approximately 99% of our water into a disposal system. We are currently up to 5 producers to every disposal and plan to increase that number to 7 producers to a disposal in 2013.
+We also plan to drill more wells into our existing system as we add the additional fourth lateral across each section. Lastly, our electrical system allows us to save up to $90,000 per well in monthly operating expense and allows us to use ESPs, which require electricity, to increase our returns.
+In summary, we\'ve not changed our strategy of drilling for oil in high-return areas. The Miss is driven by oil production, but also benefits by the rising natural gas volumes that we\'re currently seeing. Our long-term goals continue to be the same as we seek to eliminate our cash-flow-to-CapEx gap, while growing an asset that has scale and very high returns. The planned sale of our Permian assets will reduce debt and have the company fully funded through 2014.
+I\'ll now turn the call over to Matt to discuss the operations of the third quarter.
+Matthew K. Grubb
+Thanks, Tom, and good morning to all. Led by the Mississippian drilling program, we had another solid quarter of production of 4.9 million barrels of oil and 27.2 Bcf of natural gas, for a total 9.5 million barrels of oil equivalent. This represents a quarter-over-quarter production growth of 8% in oil, 24% in natural gas and 15% overall growth in barrels of oil equivalent.
+Based on our production performance through Q3, we\'re revising our 2012 production guidance up by 5% on natural gas to 93 Bcfs and down about 2% of oil to 17.8 million barrels of oil. The overall impact is an upward production guidance revision for 2012 of 300,000 barrels equivalent to 33.3 million barrels equivalent from the previous guidance of 33 million barrels of oil equivalent.
+You will notice that the revised 2012 production guidance represents slightly lower oil production in Q4 than in Q3. We averaged 53,700 barrels a day of oil in Q3, and we are estimating about 53,000 barrels per day in Q4. This primarily has to do with the movement of rig count and the number of well completions in the Permian Basin during the year. That is, we ran 13 to 14 rigs in the first 7 months and then ramped down to 11 rigs in August and September, and it will be at 10 rigs for Q4 in the Permian Basin.
+So we completed 174 wells in Q1 in the Permian Basin, 225 wells in Q2, 205 wells in Q3 and we will probably complete around 150 wells in Q4. All of this led to peak production in the Permian Basin in Q3 of about 30,700 barrels per day. We anticipate Permian Q4 production to be about 30,000 barrels per day due to the ramp down in activity, and that\'s the difference in the Q4 and Q3 oil production.
+In the Mississippian, we drilled 68 wells in Q1, 91 wells in Q2, 112 wells in Q3 and are projecting 117 wells in Q4. As you can see, the drilling rate has leveled from Q3 to Q4. That is due to only 1 rig increase quarter-over-quarter from 30 rigs to 31 rigs from Q3 to Q4. This, coupled with higher oil decline rate than we\'ve previously estimated, has us modeling Q4 oil production increasing only slightly in the Mississippian. I will elaborate more on the Mississippian oil performance when I talk about the 2013 oil production.
+In regard to 2012 CapEx, we should end the year about $2.15 billion. That is about 2% higher than our previous guidance of $2.1 billion. This is a result of drilling 10 more horizontal wells than we previously anticipated and accounts for about -- and that accounts for about $20 million of the increase. The remaining is spending in oilfield services, midstream and other infrastructure spending.
+
+As for 2013, we are estimating an increase in production of approximately 18% to 39.2 million barrels of oil equivalent. That is 19.5 million barrels of oil and 118.2 Bcf of natural gas. Substantially all the oil production increase next year will come from increased drilling in the Mississippian play.
+I do want to make clear, however, that the 2013 production guidance assumes a full year of production in the Permian Basin without giving effect to any potential sale transaction, but also assumes no capital spending in the Permian Basin outside the Permian Royalty Trust. We expect this CapEx reduction to reduce production from the Permian assets by about 1.2 million barrels in 2013, which is reflected in our guidance numbers and account for about 5% of the oil production. In the event that we do consummate a sales transaction of the Permian sales -- of the Permian assets, we will issue new production guidance at that time.
+As for the Mississippian, while the gas performance has been on target, we are seeing a steeper oil decline than we previously anticipated and have made revision to our model accordingly for 2013. We won\'t have -- we will not have a third-party consultant type curve until year end, but based on our observations of performance now from over 400 wells and with more history, we are modeling 155,000 barrels of oil and 1.6 Bcf per well. This assumes a 30-day oil IP rate of 160 barrels of oil per day, an initial decline in the neighborhood of 50% versus our previous model of 63%, and a b factor in the 1.7 to 1.8 range versus the previous b factor of 1.5.
+So this steeper oil decline, coupled with spending cuts in the Permian Basin, leads us to flat oil production year-over-year. That is, we estimate about 6.8 million barrels of oil from the Miss in 2013 as compared to 4.4 million barrels of oil this year. While this is a healthy 55% growth in Mississippian oil, it is largely offset by the Permian oil production due to CapEx reduction. With this said, in regard to the Mississippian performance, we are at about a 50% rate of return on our drilling.
+So as we increase our 2013 production guidance overall by 18% to 39.2 million barrels of oil equivalent, we are at the same time reducing 2013 capital spending by 19% to $1.5 billion. The 2013 capital plan is as follows: E&P spending is $1.45 billion. About $1.16 billion or 80% of that spending will be dedicated to drilling -- to the drilling of 580 horizontal Mississippian wells, 70 saltwater disposable wells and about 220 wells in the Permian Royalty Trust and about a dozen wells in the Gulf of Mexico. The remaining $290 million is for water gathering infrastructure and facilities, workovers and non-op drilling activity, and capitalized G&A. Leasehold and seismic is expected to be about $100 million; midstream and other, which includes electrical infrastructure, is about $170 million; and oilfield services at $30 million.
+Lastly, we continue to perform -- we continue to outperform on LOE and continue to be at the low end of our guidance range at $14.47 per Boe in the third quarter. But more importantly, we were able to reduce LOE in the Mississippian operations to below $10 per Boe, through improved efficiencies in our water handling efforts and our electrical systems. The key elements contributing to LOE reduction in the Miss play relates to saltwater disposal and electrical infrastructure, and we are beginning to see the benefits of our capital commitment in both of those areas. At the end of this year, we should have around 109 saltwater disposal wells in operation.
+For some time now, we have talked about a development ratio of 10 producers to 1 disposal well as being optimal. Our ratio at year-end 2011 was 3.4 producers to 1 disposal well. However, as we continue to drill -- I\'m sorry, our ratio at 2011 was 3.4 producers to 1 disposal wells. However, as we continue to drill producing wells in the play, this ratio has steadily increased. At year-end 2012, we will be able -- we will be at about 5:1 producers to injectors, and then go into 7:1 in 2013.
+
+So we are moving in the right direction as we execute on our development plan. All this leads to lower LOE as we increase our efficiency in this area and minimize the amount of water that must be trucked to disposal wells or disposed by third parties. We are currently trucking about 1% of all our produced water from our operated wells and 100% of this water is being disposed in company-operated disposal wells.
+The other area of LOE management in the Miss is through building and operating our own electrical infrastructure systems. To date, we have installed about 47 megawatts of electrical power in the play and have 120 wells currently on electrical submersible pumps in operation. This leaves us capacity for about another 36 ESPs at the end -- at current through the end of this year, and we are building out additional electrical infrastructure in 2013 to handle another 200 electrical submersible pumps. We recognize that ESPs are critical to our operation. And by servicing our own electrical needs, we have been able to minimize the installation of higher cost generators and using the higher cost of diesel fuel, and at the same time, increase our ability to install ESPs as we need them and maximize run time.
+Our commitment, expertise and resources dedicated to saltwater disposal and electrical infrastructures give us a competitive edge and uniquely positions us to develop this large play in the most efficient manner.
+I will now turn the call over to James.
+James D. Bennett
+Thanks, Matt. Before I get to the results of the quarter, let me follow up on Tom\'s discussion of the potential sale of our Permian basin assets and reflect on where we\'ve come the last 2 years. In the third quarter of 2010, our LTM adjusted EBITDA was about $690 million. Net debt to LTM EBITDA was over 4x. Liquidity was $400 million. And looking ahead, our 2011 gap between CapEx and cash flow was $1.4 billion.
+We required half a dozen monetizations, including royalty trust asset sales, JVs, et cetera, in order to close this 2011 funding gap. And 2012 painted a similar picture. Also, the Mississippian was in its infancy, with us owning 400,000 acres, running 5 rigs and producing just over 1,600 barrels of oil equivalent per day in the quarter.
+If I contrast all that to where we are today, our Mississippian production has grown eighteenfold to over 30,000 barrels of oil equivalent per day. Net acreage is 1.85 million and we have 32 rigs running in the play. LTM adjusted EBITDA is $1.1 billion. Net debt to EBITDA is down to 3.2x. Current liquidity is $1.3 billion. And importantly, 2012 and 2013 CapEx programs are fully funded. So I think we\'ve come a long way in the last 24 months. We\'re in a good spot right now. And the Permian has played a major role in getting us here.
+Today, as we look forward to and plan for beyond 2013, we believe it\'s a favorable time to look at monetizing our Permian assets. Mature, cash-flowing, conventional oil assets such as these are earning attractive valuations in the market. By monetizing our Permian assets and using the proceeds to reduce debt and improve liquidity, we can focus our capital on the higher growth and much larger scale Mississippian and have a business plan that is fully funded through 2014.
+Keep in mind, it\'s not incumbent upon us to sell these assets, so we wouldn\'t transact here if bids were insufficient. Also, because I know the question will come up, we aren\'t prepared to give an estimated value or range of proceeds, except to say that there are plenty of Permian transaction comps available that you can review.
+In terms of timing, we\'ve been working on this idea for several weeks and in consultation with our board, we have hired advisers and started the evaluation process.
+Regardless of the ultimate outcome of a sales process, we have, with our 2013 guidance, reduced our CapEx in the Permian Basin and lowered our total CapEx by $400 million. This reduces our funding gap while maintaining a high double-digit growth in production, both of which we have stated as our objectives.
+
+Now turning to the third quarter results. This was a strong quarter, with continued production growth for our Mississippian play and cost reductions in our primary operating regions. Production for the quarter averaged 103,000 barrels of oil equivalent per day, a 14% increase in sequential quarterly production and a 53% increase over the comparable 2011 period. The Mississippian continues to be the driver of this production growth, averaging just over 30,000 barrels of oil equivalent per day for the quarter, a 20% sequential increase.
+Adjusted EBITDA was $297 million, up from $270 million in the second quarter. Adjusted net income was $30 million or $0.05 per diluted share and operating cash flow was $280 million or $0.50 per diluted share. Remember that operating cash flow is before $50 million in distributions to our trust unitholders.
+On per-unit expense measures, LOE continues to trend down as we are focusing our operating efficiencies and cost savings initiatives in our primary areas of operation. In our earnings release, we\'ve started to breakout separately LOE for the Permian and Mid-Continent. In that disclosure, you can see the quarterly improvement in these costs. As a result, we are lowering our full year 2012 and 2013 LOE guidance by $0.50 per Boe. I\'ve discussed this in prior calls, but it\'s worth repeating that in the fourth quarter, we will accrue the CO2 under-delivery costs on the Century Plant. This expense will approximate $9 million in the fourth quarter and is reflected in our full year LOE guidance.
+G&A of just under $5 per BOE is also trending down, as our growth in production is creating operating leverage.
+Capital expenditures for the quarter totaled $560 million, with 90% of our spending dedicated to the development of our Mississippian and Permian Basin assets. Our leasehold expenditures were down over 60% since the second quarter, reflecting our intent to slow leasehold purchases. And as Matt discussed, for the full year, we are slightly increasing our CapEx guidance to $2.15 billion.
+In August, we took advantage of the strength in the bond market to issue $1.1 billion of senior notes, with the use of proceeds to refinance $350 million notes due 2014 and the balance to further enhance our liquidity into 2013. At quarter end, our total debt was $4.3 billion, net debt was $3.6 billion and the leverage ratio on our credit facility was 3.2x.
+Our liquidity remains excellent at approximately $1.3 billion, consisting of current cash balance of $535 million and a fully undrawn revolving credit facility, which was reaffirmed last month at $775 million. With this liquidity, combined with cash flow from operations, our $1.75-billion 2013 capital plan is fully funded. And any proceeds from a Permian sale will further enhance our liquidity and leverage and fund our capital programs through 2014.
+We provided 2013 guidance in our earnings release and are projecting CapEx of $1.75 billion and total production of 39.2 million barrels of oil equivalent, 18% growth over 2012. Our guidance assumes we cut CapEx on our Permian asset starting in January, but does not assume a sale or monetization of these assets. If a transaction occurs, we\'ll provide updated guidance at that time, but in either case, we plan to maintain a CapEx level of $1.75 billion.
+The earnings release also contains our updated hedge position through 2015. Our hedge book continued to show strength in the third quarter, adding over $7 per barrel to our realized prices. For the remainder of 2012, we have approximately 85% of our expected oil production hedged at over $100 per barrel. And from 2013 to 2015, we have over 42 million barrels of oil hedged with swaps and collars.
+That concludes management\'s prepared remarks. Jeff, would you please open up the line for questions?
+
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from the line of Neal Dingmann with SunTrust.
+Neal Dingmann - SunTrust Robinson Humphrey, Inc., Research Division
+Say, Tom, could you go over, on the horizontal Miss right now, just with the most recent well count, if you look at the type curve, give us kind of what your most recent 30-day rate? And then remind us at today\'s gas and oil prices, what\'s your calculated IRR on both the Perm versus the horizontal Miss at today\'s levels?
+Tom L. Ward
+Sure. The rates of return are comparable in both the plays. The Mississippian has just more scale, and is -- we\'re able to consistently grow that. Our issue is -- with trying to have 2 fantastic plays is to feed them both in order to have -- to grow -- the Permian had already reached a point that it was more difficult to grow than the Mississippian. So even though the rates of return are comparable, the Mississippian was an area that we can grow much more dramatically than the Permian.
+Neal Dingmann - SunTrust Robinson Humphrey, Inc., Research Division
+Okay. And then Matt talked about -- a lot about reducing some of these costs in the horizontal Miss on infrastructure and such. Is there a certain size that at a certain point you would consider an MLP or some sort of strategic -- or monetization, I guess I should say, at that time? Is there a certain size you\'d like hit before considering that?
+James D. Bennett
+This is James. We think at some point, we could monetize that asset. We are building a valuable gathering asset in the field. It\'s just gathering water as opposed to hydrocarbons. It\'s not something we\'re looking to do right now, but it is something at some point that we will think about monetizing.
+Tom L. Ward
+We\'re not very interested in a mezzanine financing type of a situation. But if -- we also don\'t care to necessarily be in the saltwater disposal business, so if somebody had an inclination to buy into the saltwater disposal business, which is a very good business, having us drilled so many wells, then we would look at that.
+Neal Dingmann - SunTrust Robinson Humphrey, Inc., Research Division
+Okay. And last one, if I could, Tom, back to -- staying on with the Miss. Just wondering ,when you look at this now, as far as just I guess number one, well cost that you\'re seeing on the play -- I guess, let\'s put it this way, if you could just look at the differences between the Kansas overall economics and the Oklahoma economics on the earlier wells, if you could just maybe give us a little color there.
+Tom L. Ward
+Sure, they\'re similar. We\'re seeing similar costs today. Keep in mind that we\'re early and drilling in some of the areas in Kansas. And you do better as you drill more wells in concentrated areas. But the costs are similar. We\'re modeling 3.25 million per well, and that does include -- includes the installation of ESPs. So it is -- but in both Kansas and Oklahoma, the rates of return and the well costs are similar. And I think just to follow up on that, the best, the unique part of this play that I\'m trying to at least visit about is that it\'s very, very large with similar results all the way across it. So that\'s -- it\'s -- I think it\'s a unique play in that regard.
+Operator
+Our next question comes from the line of Charles Meade with Johnson Rice.
+Charles A. Meade - Johnson Rice & Company, L.L.C., Research Division
+One quick question, and then maybe a bigger question. Matt, this may be best for you. Have you guys quantified what cumulative production you lost in the Gulf of Mexico for Isaac? And can you share that with us?
+Matthew K. Grubb
+Yes, sure. That Isaac storm lasted, I can\'t remember, a couple of weeks, maybe 3 weeks, actually by the time you start ramping down production, evacuating platforms, getting everybody back out, ramping it back up. But overall, during that time period, we lost right at around 200,000 barrels of oil equivalent, about half of it being oil.
+
+Charles A. Meade - Johnson Rice & Company, L.L.C., Research Division
+Got it, okay. So that would work out to -- what would that be, like 2,500 barrels a day, something like that?
+Matthew K. Grubb
+Yes, probably. Well, 200,000 barrels, call it 3 weeks there.
+Charles A. Meade - Johnson Rice & Company, L.L.C., Research Division
+Got it. Oh, okay, got you. And then the second question, Tom, I recognize that you guys have a lot more -- well, you guys have all the data or you guys have half of the whole industry data on the Mississippian. So you have a lot more you can look at, and I guess, draw comfort from than we will have here. But from -- I think from my perspective and a lot of people -- you\'re looking at this from the outside and you see the -- you see 25% of the per well EUR oil go -- kind of disappear in the Mississippian, it kind of makes you sit up in your chair and you kind of wonder, is this the right time to be increasing concentration in the Mississippian play, when the play kind of just shifted on you? And so can you kind of tell your thought process there, or maybe kind of give some detail on why you have a -- what your comfort level is?
+Tom L. Ward
+Sure. And we\'re looking at a well now that has about 40% projected oil in it instead of 45%. But the key is the rate of return, whether we\'re producing oil, water or anything else is that we focus on the rate of return. And even at depressed gas prices, we can see 50% rates of return. And I don\'t know any other place where you can consistently drill 1,100 wells that have been drilled or our 500 wells and have these types of rates of return over such a large area. And so in my opinion, it\'s a very low-risk area that has very high rates of return, whether it\'s producing oil or natural gas.
+Charles A. Meade - Johnson Rice & Company, L.L.C., Research Division
+Got it. And let\'s see, just one more follow-up for me on those Kansas wells, up in Gray and Ford. And I know that you\'ve said that over the -- you think it\'s -- the place is going to be consistent over a large area. But if you go back to your Analyst Day at the beginning of the year, there was some encouragement that I think you guys shared with us then that perhaps the oil recoveries would be higher up in Kansas based on the vertical oil recoveries. And it seems at least that, that\'s what you\'re seeing in Gray and Ford. Is that still a possibility, do you think?
+Tom L. Ward
+Well, we\'ll see higher concentrations of oil in different areas in each county. You can pick 3 wells in Alfalfa County or Grant County in Oklahoma and say that you found higher rates of oil. But we can also pick wells that have almost all gas. We can do the same thing in Ford County. We haven\'t seen that yet in Gray, but I\'m assuming you\'ll be able to in all these counties. So I think the best way to look at the play is to the consistency. It is driven by oil prices and oil recovery, whether it\'s 155,000 barrels or 200,000 barrels. And they -- in different counties, we could always pick particular wells that have more or less oil in them. So I again would fall back that it\'s a very large play that can be statistically drilled and high rates of return at shallow depths. So as much as anything, the key to the play is keeping our costs down. So I\'ve always said that if we believe that we\'ll be able to extract the oil and gas in plays using conventional drilling methods, but we can then have higher rates of return by cutting our costs, and we still believe there are ways to cut costs.
+Operator
+Our next question comes from the line of David Kistler with Simmons & Company.
+David W. Kistler - Simmons & Company International, Research Division
+Real quickly, as you talk about your development in the Miss for \'13 and the reduction in terms of -- or the increase in disposal well ratio to the actual producing wells, it would lead me to believe you\'re going to be drilling much closer to activity that you\'ve already done. How does that impact the ability to hold that acreage by production?
+
+Tom L. Ward
+I don\'t necessarily look at the overall acreage position and worry about holding every acre by production. So I look at it as the best place to drill a well is where you should drill a well. And especially, if you build out an infrastructure system, the acreage is, especially in small areas, is very hard to put back together by anyone who doesn\'t have the infrastructure system in place. So it might be that we don\'t hold every acre, but that also won\'t be the concentration of the company, to focus on holding every acre across the entire play. It will be to focus on drilling the highest rates of return wells. Whenever we locate a well that makes a high rate of return, we\'ll offset it, even if it\'s in the second or third or fourth lateral inside that section.
+David W. Kistler - Simmons & Company International, Research Division
+Okay, that\'s helpful. Does that mean, however, I mean, as you talk about the Permian transaction potentially, that you\'re taking off the potential of doing a JV in the extension area of the Miss or divesting some of those assets, again, kind of balancing it with maybe not being able to hold everything by production?
+Tom L. Ward
+No, it just gives you more flexibility. That -- if we choose to do a JV, it will probably be in Kansas. And if we do that JV, we might -- we just have more flexibility to drill more wells or keep our well count the same and just have a better balance sheet.
+David W. Kistler - Simmons & Company International, Research Division
+Okay. And is that process still ongoing? I know you were looking at it previously.
+Tom L. Ward
+Well, it\'s not ongoing. It has not started. But it\'s something that we will be looking at during 2013 and forward.
+David W. Kistler - Simmons & Company International, Research Division
+Okay, that\'s helpful. And then with respect to the Permian, as you divest those assets or should you complete a divestiture of those assets, what kind of obligation will you still have to drill associated with the trust? Or is there a possibility that, that obligation moves with the assets that you sell?
+Tom L. Ward
+No, we keep the obligation to drill the Permian Royalty Trust. And I think we\'re on target now to finish that in the next 2 years.
+David W. Kistler - Simmons & Company International, Research Division
+Okay. Any color on the cost that you\'d need or the dollars you\'d need to spend to cover that?
+Matthew K. Grubb
+Yes, we have -- we\'re going to drill about 220 wells, 225 wells, and we have a little bit of facilities there and gathering pipes and things like that, but we\'re probably looking at about a -- of our $1.75 billion budget in \'13, think about it as being about $140 million for the trust.
+Operator
+Our next question comes from the line of Joe Allman with JPMorgan.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Tom, I\'m not sure if you see the stock price, but the stock is down about 18%, 19% right now. And I guess, in light of the letter that you received yesterday, I\'d like -- I know that you\'re focused on improving the stock price and enhancing shareholder value. But any specifics on changes you\'re contemplating?
+Tom L. Ward
+Not other than we\'ve shared.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay, okay, okay, helpful. All right. And then just trying to understand the sale of the Permian better. Do you see actually improving debt metrics with the sale of the Permian? And do you see over the next couple of years your funding gap actually going away, such that cash flow from operations is higher than CapEx?
+Tom L. Ward
+Yes. So with the funding -- or the sale of the Permian that would allow you to lower your credit metrics and also to look out in the future and be able to narrow the gap between cash flow and CapEx and ultimately to have it go away.
+
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay. So could you put some numbers around it, just based on your guidance and based on whatever NYMEX futures or whatever price deck, like where do the debt metrics go? Like net debt to EBITDA goes from, say, where at year-end \'12 to -- where will it be at year-end \'13, year-end \'14 if in fact you do the Permian sale?
+James D. Bennett
+Yes. Joe, we\'re not -- we really don\'t want to give out the estimated kind of range of proceeds for the transaction, but let me try to answer it this way. We have about $1.1 billion of bonds that\'s callable in the first half of next year. So we would use proceeds to potentially call or maybe tender for those bonds. Whatever is remaining, we would keep as cash on the balance sheet to fund any \'13 and fund all the way into \'14. So assume whatever size proceeds you want. That really gets you funded through all of 2014 and keeps your leverage in a similar or slightly lower place than it is today, if that helps.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay. So leverage is in a similar place. So that transaction would not improve leverage.
+James D. Bennett
+No, it\'s a similar place, but you have $1 billion more of cash on your balance sheet. So on a net basis, you\'re much lower than you are today, net debt.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+But when you do the net debt calculation, you\'re including cash on the balance sheet. So will the leverage metrics actually improve between, say, year-end \'12 and year-end \'13 and year-end \'14?
+James D. Bennett
+Yes.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay. So you see net debt to EBITDA going down.
+James D. Bennett
+Yes.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay. Because clearly, the denominator, EBITDA goes down because you\'re losing that cash flow from the Permian. But and then -- sorry.
+James D. Bennett
+It\'s all right. But you\'re selling an asset. If you\'re levered 3x right now, you\'re selling something for more than 3x EBITDA, so it is de-levering.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay, got it. And then -- okay, I know you set out goals for the company, and so the goals are improving the debt metrics, increasing EBITDA, having CapEx within cash flow and then increasing production to a certain level. So what would -- given that you\'re going to sell the Permian, what would be the new company goals at this point?
+James D. Bennett
+I think we\'ve maintained the same goals. I don\'t think right now we\'re ready to say exactly what that time frame is. I think there\'s been changes in commodity prices, and we need to get the -- this Permian process underway. I think our goal is still the same, double-digit growth in production. You\'ve heard us say several times on this call, of narrowing that gap between CapEx and cash flow. We cut CapEx next year, which is a big step that way. Again, these proceeds from the sale would fully fund us through \'14. So we think that all of this is consistent with what we\'ve been saying, Joe.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay, got it. So that CapEx, cash flow -- so based on your model, when does cash flow from operations go higher than CapEx in your model?
+James D. Bennett
+Well, we\'re not giving out multiyear guidance. We\'ve really just given out \'13 guidance right now.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay, got it, got it. Is valuation an issue in the sale of the Permian? In other words, you don\'t feel like you\'re getting enough value for it in the stock, and so you can realize value by selling it. Is that a consideration or no?
+Tom L. Ward
+Well, valuation is a consideration on how much we would sell the Permian for. It\'s a valuation of that asset.
+
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay. I got it, sure. And then just separate topic. In terms of the Miss extension, how many wells have you drilled in the extension area? And how many -- I\'m sorry, how many have you drilled? How many do you have 30 days on? And then what do those results look like? I know it may not be a statistically significant sampling, but what do the results look like compared to the core results?
+Matthew K. Grubb
+Yes, they look good, Joe. I think we\'ve -- on the sheet [ph], I think we\'ve drilled about 18 wells. We have about dozen wells on production. And if you look at kind of Ford County, you\'re over 300 barrels equivalent there, and Gray County, you\'re about 200 barrels equivalent there, mostly oil. So I think the play is working well. And the extension -- we just don\'t have a big statistical database that we want to take and extrapolate that out and do anything with it yet, and that\'s why we haven\'t really talked a whole lot about it. But next year, we\'re going to drill probably another 60 to 70 wells in extension Miss, and kind of 100 in -- about 200 wells, 190, 200 wells total in Kansas. So we\'ll have a lot more to talk about here in the near future. But right now, I just don\'t want to take that data and just do a whole lot with it.
+Tom L. Ward
+I know that we\'re the ones that coined the phrase the extension Miss. But as you drill across Kansas, there\'s really nothing that\'s statistically different as you move around from Comanche up to Ford and on up into Finney and Gray. So I think as we look at a potential JV partner, for example, we\'ll be talking more about Kansas and Oklahoma. And even though those -- even in those 2 states, it\'s very similar, so it\'s just an easier place to break than trying to take specific counties within Kansas.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Sure, no, that is easier. But in terms of the extensional area, how much of that -- I think you have about 950,000 net acres. How much of that have you delineated successfully at this point?
+Tom L. Ward
+Well, we\'ve -- I don\'t know the exact amount of acres. I know that we\'ve moved an additional 80 miles north. So we haven\'t done anything more in the quarter as far as moving further to the northwest. But from Comanche to Finney, that was an additional 80 miles. And we still have 3 rigs that are working in Finney, Ford and Gray.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay, got you. Okay. And then asset sales besides the Permian, you\'re talking about a potential JV. But what are you planning to sell pretty certainly besides the Permian? I mean, I know the Permian is not certain, but what are the ones you\'re most likely to sell?
+Tom L. Ward
+We don\'t have anything else on -- planned right now to sell outside of the Permian.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+And what\'s the likelihood of a JV, another JV? Small or...
+Tom L. Ward
+Oh, it\'s again tied to the Permian sale, but I don\'t know -- I\'ll say, in the past we\'ve been successful.
+Joseph D. Allman - JP Morgan Chase & Co, Research Division
+Okay, got it. And then just lastly, any -- Tom, I know -- any words of comfort for shareholders just given that the stock\'s down big and it hasn\'t performed really well recently?
+Tom L. Ward
+No. I mean, the company has continued over the last 5 quarters to grow and prosper, and we have -- our belief is this is the best -- one of the best plays in the U.S. And so I think as we continue to quarter-after-quarter meet and beat the guidance that we project, that there\'ll be confidence back in what we\'re doing.
+Operator
+Our next question comes from the line of Brian Lively with Tudor, Pickering, Holt.
+Brian Lively - Tudor, Pickering, Holt & Co. Securities, Inc., Research Division
+
+Could you guys give what the EBITDA impact is for the 24,500 barrels a day of production in the Permian?
+James D. Bennett
+No. We\'re -- right now, we\'re just disclosing the daily production and, as you saw in the press release, the split between gas, oil and NGLs. We\'re really not giving out any PV reserves or EBITDA of the asset right now.
+Brian Lively - Tudor, Pickering, Holt & Co. Securities, Inc., Research Division
+Okay. I guess, really where I\'m going with it, the question is, I imagine you guys have a number of options in terms of helping the liquidity, and just -- I\'m just kind of curious on what other opportunities you guys looked at versus doing the Permian sale, given that these are pretty high-margin barrels.
+Tom L. Ward
+Sure. The other option is you just keep the Permian and continue to -- and cut back CapEx and drill in the Mississippian and grow in just the Mississippian, but have the production in the Permian. That\'s the way we\'ve modeled the company. So that is our other option, depending on what the sale price comes in, in the Permian.
+Brian Lively - Tudor, Pickering, Holt & Co. Securities, Inc., Research Division
+Tom, I\'m just confused on, why is the existing plan not the best option?
+Tom L. Ward
+Well, because we think the Permian assets will bring a premium and -- in the market and -- because of other sales that have happened in the Permian. And if it does, then it\'d be a better asset in someone else\'s hands that has maybe a lower cost of capital or has the ability to focus just on the Permian, where we have 2 very large assets to try to grow.
+Brian Lively - Tudor, Pickering, Holt & Co. Securities, Inc., Research Division
+Yes, that\'s understandable. But it just seems like it\'s probably some of the higher-margin barrels you have within the organization.
+Tom L. Ward
+Well, I don\'t think you\'re taking into context how much we might receive from it. So there\'s nothing that makes us sell the Permian.
+Brian Lively - Tudor, Pickering, Holt & Co. Securities, Inc., Research Division
+Okay. And then with a sale though, would you expect an adjustment to the borrowing base at all?
+James D. Bennett
+This is James. Right now, our borrowing base is $775 million. We\'ve looked at the numbers. And even with a sale, we\'d have 2x -- over 2x coverage kind of on a bank case of that size. So we think we can leave it about where it is now.
+Brian Lively - Tudor, Pickering, Holt & Co. Securities, Inc., Research Division
+Okay. And just kind of one last question, sorry to kind of belabor the point. But just thinking about the Permian in terms of it being a strategic option, I mean, do you guys believe that you can sell it at a higher valuation than where the corp is currently trading at from a multiple standpoint?
+Tom L. Ward
+We\'ll see. I think it\'s -- the assets are very good, and they were built -- never -- it was built around to build our company on that. At the time we put together the Permian, we didn\'t foresee the Mississippian being quite as big or quite as good as it is currently. So I think it\'s an extraordinary package of assets that will bring a premium in the market.
+Operator
+Our next question comes from the line of Craig Shere with Tuohy Brothers.
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+On Joe\'s question about reaching full CapEx funding, I think the original plan, if memory serves me, was to reach free cash flow breakeven by end of \'14 or into early \'15. Are you backing off that now?
+James D. Bennett
+I think we\'ve seen, Craig, a couple of things happen since we came out with that plan. I believe it was July of last year. Oil is off from $105 then to where it is now. That has a pretty big impact on that. So those are still our objectives and goals and we\'re working hard at it. But I don\'t think at this point we can say it\'s going to happen at year-end 2014 or early \'15 like we had projected in the past.
+
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+Okay. And elaborating on Brian\'s questions about the Permian sale, can you speak to the logic of the planned Permian CBP sale including 7,000 drillable well sites at this time? I mean, putting into perspective, do you anticipate garnering a better price today than perhaps at the time of the Dynamic acquisition? And if so, why?
+Tom L. Ward
+Do we anticipate getting a better price today than when, Craig, I\'m sorry?
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+I mean, so the -- I don\'t know, maybe it\'s Monday morning quarterbacking. But the question is, is there any reason to think that you can get more value out of that today than when you acquired the Dynamic Gulf of Mexico acquisition to help get that free cash flow to fund the Mississippian?
+Tom L. Ward
+Oh, I see. I just think that the Dynamic acquisition is much different than the Permian. You have assets in the Gulf of Mexico that are trading at a steep discount, and you have assets in the Permian Basin that are trading at a premium. And we\'ll see what that is -- what they will bring. But I don\'t believe there\'s been a package like this in the last decade. It has conventional, cash-flowing, excellent assets that have been put up for sale that produce 30,000 barrels a day. We\'ll soon know the answer to your question.
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+Okay. There have been other industry peers, one of which, Tom, you\'ve worked at, that have been in a bind and sold Permian assets at a market perception well below their fundamental value. So I take from your statement that you would not do that.
+Tom L. Ward
+Yes. Just don\'t make the assumption we\'re in a bind because we\'re not. So I don\'t know about other industry partners. But for us -- and also this set of properties does not take a tremendous amount of capital to make it grow, where this is not a set of properties that has a -- that you have to go invest a tremendous amount of money in drilling future unconventional wells to make the package grow and prosper. You already have a company in itself that could do that.
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+Okay. And the questioning on the Miss, because the increasing gas concentrations have been more negative, let me ask a positive one. I think on the second quarter call, the guidance was ending the year at 33 rigs and drilling 380 wells. But now it\'s 1 less rig and 10 more wells. So are we seeing some increasing efficiencies there?
+Matthew K. Grubb
+Yes, yes, this is Matt. We are seeing some efficiencies. We\'re building our curves faster with some new tools. We\'re moving rigs a little quicker, the way we\'re picking locations a little bit closer in, all those things add to a day here and there. And so at the end of the day, we\'re at -- we\'re drilling more wells with the same number of rigs. So yes, we initially -- earlier we projected we will exit the year at 33. Now we\'d exit at 32. So it\'s 1 rig less, but the same -- better efficiencies on drilling actually.
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+And do you see that trend ongoing in the next year? Or can you project that?
+Matthew K. Grubb
+Yes, I think so. I think we\'ll continue to improve that trend as we continue to look at it. We mentioned about going to 4 wells per section. And so how much of that we get into next year will impact that trend. So that the closer you move in these rigs, obviously the less time it takes and the more wells you can get drilled.
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+Sure. On the next call, it would be great if we got a little more color about moving to 4 wells per section, and HBP issues and JVs. But I understand you got a lot on your plate. One...
+
+Matthew K. Grubb
+Well, let me go ahead and address some of that right now. I don\'t think we have to wait until the next call. We have drilled about 35 pairs of -- I\'m sorry, 75 pairs of wells, 150 wells that are spaced effectively on 4 wells per section, okay? Now they could cross-sectionalize, but the distance between the wells will effectively give you 4 wells per section, and we\'re not seeing any detrimental to performance. And so we believe that 4 wells per section is a development pattern we can proceed on. As far as the acreage expiration extension, now keep in mind that most our acreage was leased in 2009, 2010, mostly in 2010, \'11, \'12. So a lot -- most of that acreage has -- are 3-year primary terms with 2-year extensions. So it\'s a while before they expire, and we lease it at a very good price. So the cost to extend them is not that much if we don\'t hold them by drilling.
+Craig Shere - Tuohy Brothers Investment Research, Inc.
+Okay. And last question, kind of follow up on Charles\' line about the oil levels in the extension Miss. I understand it\'s not statistically significant, but the legacy Miss is turning gassier. You\'re talking about ending proprietary CapEx in the Permian, if not selling the Permian, so the company is going to move gassier as it is. If you find with more drilling that the wells further north into the extension Miss are indeed oilier, and maintaining volumes so that IRRs are at least as good, would we expect just to maintain a balance for you to start concentrating more on the extension Miss in terms of drilling?
+Tom L. Ward
+We put rigs where the highest rates of return could be had and whether it\'s making oil or gas. So in each of the areas that we talk about that -- where we\'re drilling wells, we tend to already have an infrastructure in place, and we\'ll add more rigs around those areas, and that\'s why wells tend to get better. The more we drill in areas, the wells tend to get better.
+Operator
+Our next question comes from the line of Brian Singer with Goldman Sachs.
+Brian Singer - Goldman Sachs Group Inc., Research Division
+Can you talk to the oil trajectory in the fourth quarter versus the third quarter outside of the Permian? I think your comments talk to the Permian production falling by about 0.7 quarter-on-quarter, total company falling by 0.7, which seems to indicate that oil production is flat x Permian. And so how should we dovetail the kind of lack of oil growth in the fourth quarter into thinking about 2013 and whether we should expect oil growth in 2013?
+Matthew K. Grubb
+Yes, yes. I mentioned it in fair detail in the spiel. But just to kind of elaborate on it a little bit, a lot of the oil production going into Q4 has to do with our rig movement, okay? If you think about the rig ramp-up and the growth we\'ve had in the Mississippian, okay, in Q1 in the Mississippian, we were averaging about 21 rigs for the first quarter. And in Q2, it was 25 rigs. We had a movement of 4 rigs there quarter-over-quarter. And again, in Q3, we averaged 29 rigs, so that\'s another 4-rig increase. But from Q3 to Q4, we\'re only adding 1 rig effectively in the Mississippian play. So that naturally levels out the production growth in the Miss over that period of time. And at the same time, in the Permian, we were running kind of about 200 wells per quarter from Q1 through Q3. But with the ramp-down since about July in the Permian of rigs, we\'re only looking at about 150 wells in Q4. So the Permian peaked out its production at just nearly 31,000 barrels equivalent a day in Q3. And so that Permian is going to be down probably on average for the quarter about 700 barrels a day, and so that\'s what\'s driving the Q4 guidance.
+Brian Singer - Goldman Sachs Group Inc., Research Division
+Yes, I think the Permian point was definitely very clear and was more than the Mississippian. Is the implication of what you just said then that you have to have a rising rig count to have a rising oil production in the Mississippian? Or can a flat rate to kind of keep -- get -- push oil production higher?
+
+Matthew K. Grubb
+Well, when you think about it, we\'ve gone -- if you look into \'13, we\'re going to go from 31 rigs to 41 rigs probably by sometime in the summer of \'13. We\'re going to keep that flat through the year, after we reach that count of 41 rigs. And so we\'re going to increase, effectively, about 9 rigs from where we are today. But then our Miss oil is going to probably grow 55%, 60% from -- at the end of \'13 from where it is now or year-over-year, however you want to look at it. So it is tremendous growth in the Mississippian. It\'s just the transition that we\'re in from \'12 to \'13, what hurts us on the oil is that we\'re cutting CapEx in the Permian. And so when you think about the Permian Basin for 2012, we drill -- we\'ll drill about 740 wells in the Permian Basin and, say, 220 wells next year, okay? So you\'re going to drill about 500 wells less and you got a pretty fast decline on the new wells. Now the Permian base production is very flat. It\'s going to be in the low-teens-type decline. But because it\'s so influenced right now by the 750 wells that we put online this year, that\'s what we\'re fighting in the Miss. So going into \'14, you wouldn\'t have that issue, and then you\'ll see oil start ramping up again.
+Brian Singer - Goldman Sachs Group Inc., Research Division
+Okay, great. And then on the tighter spacing, can you talk about -- can you talk, add a bit more color on the areal extent of the 70 well pairs you tested? And then was there 0 communication? Or was there some communication, but manageable communication?
+Matthew K. Grubb
+Yes, I will tell you, these are 4,000-, 4,500-foot lateral, and you might see some communication on some of the frac stages. But when the wells come online, we haven\'t seen any detrimental -- detriment in production. In fact, I think we had a slide out that\'s actually showing our 30-day IPs going up through the year. And so that\'s -- it\'s telling us that it\'s not affecting well performance. And I think other companies have been at least 4 wells per section. And now we\'re just now getting to that conclusion.
+Brian Singer - Goldman Sachs Group Inc., Research Division
+And what\'s the areal extent that you\'ve tested that at?
+Matthew K. Grubb
+It\'s over probably an area of 3 counties.
+Brian Singer - Goldman Sachs Group Inc., Research Division
+Okay. And last quick question. I think you\'ve been pretty clear, but just to make sure, when you do or if you do sell the Permian assets, next year\'s production guidance will get revised down, but your CapEx would not be. It would stay $1.75 billion. Is that...
+James D. Bennett
+That\'s correct.
+Tom L. Ward
+Yes, either way.
+Operator
+Our next question comes from the line of James Spicer with Wells Fargo.
+James Spicer - Wells Fargo Securities, LLC, Research Division
+Just a couple of follow-ups on the Permian. So first off, from a bigger picture perspective, is it the company\'s desire to be a concentrated, single-basin company? Or do you see value to having a more diversified portfolio that -- and as such, you would look to build out in other core areas?
+Tom L. Ward
+It\'s our desire to have -- to drill wells and produce wells that have the highest rates of return. The -- in the Mississippian, I feel more comfortable, even though it\'s called a single-basin area. It covers such a large area that you really have many different teams that work in -- across Kansas and Oklahoma. And in times past, it would not have been thought of as a single area, but several different areas. So it is diverse enough across such a large area that I feel comfortable being what you would call a single-basin play.
+James Spicer - Wells Fargo Securities, LLC, Research Division
+Okay. And secondly, I think you may have answered this to some extent, but I\'m not sure I completely understood. Proceeds from the transaction, some go to CapEx and some go to debt reduction. Can you just maybe talk a little bit more about the debt-reduction component, what the -- what do you anticipate the split being, between how much would go to each of those 2 areas, and what your objectives are in terms of debt reduction?
+
+James D. Bennett
+Sure, James. I said earlier, we\'ve got about $1.1 billion of bonds that are callable in the first half of 2013. So depending on the timing of any sale, we could look to tender or call those as a means of absolute debt reduction. I think the difference between that $1.1 billion and the ultimate proceeds, we could potentially tender for some other bonds or we could leave the cash on the balance sheet and fund well into \'14. So what this does is it reduces the absolute debt level. It provides us the liquidity to fund all the way through \'14, while during that whole period, your leverage is less. So you\'ve got more financial flexibility and less leverage.
+Operator
+Our next question comes from the line of David Snow with Energy Equities, Inc.
+David Snow
+Yes, I\'m wondering if you could give us an idea of what your rate of return is -- in the Gulf is compared to the other 2 plays, taking into account that you bought it at a discount price. And how does that fit into your highest rate of return?
+Matthew K. Grubb
+You\'re talking about rate of return on drilling?
+David Snow
+Well, the total project.
+Tom L. Ward
+Yes. Or recompletions.
+Matthew K. Grubb
+Yes. I mean, Gulf of Mexico drillings can give you tremendous rates of return. It\'s a risk-reward situation in the Gulf. So we -- if we hit a well in the Gulf, you\'re looking at hundreds of percent of rate of return on drilling. However, what we model in the Gulf is that we can spend about $200 million a year and keep production flat at 25,000 barrels equivalent per day. And so that\'s through a combination of drilling and recompletions. And all those things give you tremendous rates of return when you hit them. But drilling down there is probably going to be kind of 25% to 35% type probably of success. And recompletions, most of recompletions have very high success rate. Most of those are up-hole recompletions, going in and opening up sleeves and that kind of stuff. So I can\'t pinpoint for you a rate of return unless we look at risk or un-risk, et cetera. But I can tell you that there\'s extremely high rates of return, but it\'s higher risk than anything we do in the Mississippian or the Permian.
+David Snow
+Would it be fair to ask a question on a risk basis? You were referring to very low risk in the Mississippian. It would seem that on a risk basis, you might have been better off just staying in the single basin.
+Matthew K. Grubb
+On a -- I\'m sorry, the question...
+David Snow
+On a risk, rate of return basis, it would seem to me that you would have been better off staying just in the Mississippi Lime and not the Gulf of Mexico.
+Tom L. Ward
+Oh, not to have bought the Gulf of Mexico? Yes, the Gulf of Mexico was used as a financing to be able to move forward and put us in the position we\'re in today. So it was one of the last financings we needed in order to get to the point that we could lower our leverage by a full turn. And then we added $1.1 billion of additional bonds and still had a debt to EBITDA of under 3x, to net debt. So it was -- it still provides us cash flow, but was used as financing at the time.
+Matthew K. Grubb
+Yes, I think we recognize that also and really only about 10%, 11% of our capital is going to the Gulf of Mexico. It\'s not a place that we\'re looking to grow the company or allocate more capital. We\'re going to keep the capital at a pretty low level.
+Operator
+Our next question comes from the line of Duane Grubert with Susquehanna Capital.
+Duane Grubert - Susquehanna Financial Group, LLLP, Research Division
+All right. In the past, when you had aspired to going to a 45-rig activity level, the efficiencies that you\'ve had in the meantime, I\'ve heard you talk more about number of wells per year rather than rig count. So my question is, you recently expressed wanting to get to 650 wells a year of drilling pace. Is that the right pace for logistical reasons? Or with your improved liquidity, if you sell the Permian, might we see it go back to the 45 rigs or even higher for reasons of improved efficiency?
+
+Tom L. Ward
+I think, Duane, we\'re comfortable with just stopping at 650 wells per year as we look at now, as we\'re sitting here today, that we don\'t think we have to increase from that, and that we have a company of the right size to be able to handle 650 wells drilled in the Mississippian. Now that won\'t happen until 2014, not in 2013. We only project to drill about 570 wells in the Mississippian. And you\'re right that we do look at number of wells and how much we spend versus how many rigs that we\'re having.
+Duane Grubert - Susquehanna Financial Group, LLLP, Research Division
+And then on the shift from 3 wells to 4, I know people are doing the math today and figuring there\'s less oil per well. And I\'m sitting here going, \"Well, there\'s a lot of oil per square mile.\" Some other operators are also drilling Woodford wells out there below the Mississippian on the same type of acreage. Is that something you guys are experimenting with yet or have an opinion on?
+Tom L. Ward
+We have not experimented with the Woodford yet. We do know that other companies have and have produced oil from the Woodford. We still are very satisfied with our Mississippian results and believe that we understand what those are. And maybe I just don\'t know enough information yet on the Woodford results to be able to move forward with that yet, but there are wells that are being tested.
+Operator
+Our next question comes from the line of Monroe Helm with Barrow, Hanley.
+H. Monroe Helm - Barrow, Hanley, Mewhinney & Strauss, Inc.
+My questions have been answered.
+Operator
+Our next question comes from the line of Jeff Robertson with Barclays.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+Matt, when you were talking about guidance for 2013, I think you said that you were -- with the capital program, you were trying to offset about 1.2 million Boe of Permian production. Is that correct?
+Matthew K. Grubb
+Yes. It wasn\'t really an effort to do that. It just happens that the math works out that way. By not spending capital in the Permian like we have been, we expect to lose or have less production from that -- from the Permian, about 1.2 million barrels of oil. It just happens with our rig ramp-up in the Miss, with the way we\'re modeling it now, we\'re going to kind of make up that level that we would have lost in the Permian. And that\'s why the 2013 production of oil looks kind of flat. It has to do with just cutting CapEx in the Permian going into \'13.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+In terms of the Miss, is it right to think about it in the sense that drilling 580 horizontal producers in 2013 will grow production there or will offset 1.2 million, which is about 3,300 Boe a day and offset natural decline?
+Matthew K. Grubb
+Yes. I think that\'s probably the -- I think it\'s probably okay to think about it that way. I\'m just kind of thinking about the numbers. So we\'re going to produce this year in the Mississippian probably about 4.4 million barrels of oil. And next year in the Miss, we\'re going to probably produce kind of 6.8 million barrels, somewhere in the neighborhood of close to 7 million. So you can see the increase there, and that\'s from the rig ramp-up.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+And when you think about that, Matt, from your 4.4 million, what would be the natural decline? In other words, if you drill 580 wells -- and obviously, there may be a difference in terms of numbers you complete and bring on, but I\'m just try to understand how much production that adds to offset natural decline plus growth.
+Matthew K. Grubb
+Yes. I would probably have to go and take that after the call because it depends on -- it\'s a hyperbolic decline. So it has an initial rate of oil about 80%. Gas is less. Gas is about 63%. And then it depends on where you are in your time in that production base that we have today of about 400 -- call it, 480 wells. And it continuously bends over time. So I don\'t have that number right in front of me, but it\'s something we can certainly answer for you.
+
+Jeffrey W. Robertson - Barclays Capital, Research Division
+So then as you build forward and you get that wedge of production that\'s kind of bent over, then do you have to drill -- do you have to run as active of a drilling program to grow production there?
+Matthew K. Grubb
+Starting -- are you talking about post 2013?
+Jeffrey W. Robertson - Barclays Capital, Research Division
+Let\'s say, yes, post \'13, right. Because in other words, does the intensity ease up, up there as you build a more stable wedge or a slower declining wedge of production?
+Matthew K. Grubb
+Oh, sure, yes. As we add more Mississippian wells, okay -- like today, let\'s say, we exit \'13, we\'re going to have around, call it, 1,000 producing wells, and they continuously bend -- start bending over, so that production base will continue to get flatter over time. Terminal decline on these wells, which is out there, is about 5%. So at some point here, you start bending over enough that you can keep double-digit growth in the entire company, spending kind of similar capital we\'re proposing for \'13. And so that\'s the whole idea, is to continue to build this production and keep capital fairly flat and still have double-digit growth, and that\'s how you continue to close your gap.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+Okay. And then on the decline -- or on the new type well or the new EURs you all are talking about, Tom, did you mention or did you all mention a rate of return kind of at, say, 90 and 350 that, that the new profile would get you?
+Tom L. Ward
+Yes, I mentioned around 50%.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+And is that better or lower than the Permian at the same type of price tag?
+Tom L. Ward
+Comparable.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+Okay. And then lastly, just on the Permian, Tom, are you wanting a complete exit of the Permian? Or would you consider some other monetization strategies, a trust or MLP-type vehicle?
+Tom L. Ward
+No. I think we would either sell our Permian assets or keep them and operate them.
+Jeffrey W. Robertson - Barclays Capital, Research Division
+Okay. And then if you kept them, would you add back capital to 2013?
+Tom L. Ward
+No, we would keep our drilling pace as scheduled at $1.75 billion for CapEx.
+Operator
+Our next question comes from the line of Richard Tullis with Capital One Southcoast.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+It seems like a lot of the issues have been covered already, but just jumping over to the Gulf of Mexico. Matt, are you going to be able to keep your production there flat next year with the current planned spending for 2013?
+Matthew K. Grubb
+Yes. Yes, I think so. We\'re pretty comfortable with that guidance in \'13 of spending $200 million. And it will be an allocation between drilling and recompletions. But we\'re able to do that this year, and I think we can repeat that next year.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+What will the oil-gas mix look like there next year?
+Matthew K. Grubb
+Well, in the DOR assets that we bought, it\'s going to be very similar to what it is this year. It\'s going to be probably in that kind of 45% range.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Okay. It looks like the number of new wells planned for the second half of this year has declined from prior outlook. Is that the case? Has anything changed with your thinking on new well opportunity?
+Matthew K. Grubb
+You\'re talking about in the Gulf of Mexico?
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Gulf of Mexico.
+Matthew K. Grubb
+Yes. No, what happened there is this year, in our drilling plan, we were planning on running 3 rigs, starting in the middle of Q2. And 1 of the rigs had a -- was problematic, had mechanical problems that was kind of ongoing, and we decided ultimately to go ahead and release that rig. So that\'s about 3 wells out of program. And then we had to -- and then, of course, we had Isaac, which delayed another couple wells there with the 2 rigs we have. So it wasn\'t intentional to ramp down the drilling. But due to those issues, it just happened that we\'re not going to drill as many wells this year.
+
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Okay. And then jumping over to the Permian, what\'s the current blended EUR you guys are using for the Permian?
+Tom L. Ward
+It\'s 53 Boe.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+53, okay.
+Tom L. Ward
+Per well.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+And it\'s still 80-something percent oil?
+Matthew K. Grubb
+Yes, total liquids, yes, mostly oil. You\'re looking about 80% roughly of oil and NGL. And so -- but the NGL component is very small.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Okay. In the Miss, what are the saltwater disposal wells and associated infrastructure costing you now?
+Matthew K. Grubb
+As far as on a per-well basis?
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Yes. I guess you could look at it that way.
+Matthew K. Grubb
+Yes. Well, it depends on how much line that we lay, really. The drilling of the well is kind of $1.5 million to $2 million. But depending on we drill on what angle, depending on hole size, that kind of stuff. Of course, the bigger the hole, the more capacity you have, and then the gathering line associated with it. So you probably -- $1.5 million to $2 million to drill, then another, say call it, 10% or so in associated gathering pipe.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Okay. And then $3.25-million well cost that was referenced earlier for the Miss on next year, does that include an allocation for the saltwater disposal?
+Tom L. Ward
+No. We\'re modeling the $3.25 million for just the cost and then allocation still of $200,000 over the life of the program for the disposal well. We\'re still hopeful and believe that we\'ll be able to move that drilling cost down to $3 million per well, and maybe even in 2013. But we\'re modeling $3.25 million without disposal well.
+Richard M. Tullis - Capital One Southcoast, Inc., Research Division
+Okay. And then finally, with a potential sale of the Permian, what would the oil-gas mix look like, 2013, including NGLs and the oil component?
+Matthew K. Grubb
+Yes. Well, we\'d just kind of take the Permian out today. It\'s not going to move very much. But you\'re probably looking at going from kind of 51%, 52%, to about 40%.
+Operator
+Our next question comes from the line of Robert Carlson with Janney Montgomery.
+Robert Carlson
+Just wondering, what percentage of your stock do you own from? And if you include yourself plus directors, what percentage would that be?
+Tom L. Ward
+What\'s the -- did you catch the question?
+James D. Bennett
+Yes. What percent of stock do you have, plus directors?
+Tom L. Ward
+Percent of stock? Oh, I don\'t know. No, I think the -- as a percentage...
+Unknown Executive
+10%.
+Tom L. Ward
+10% with directors? Sorry. Not exactly sure, but I think you could look it up pretty quickly.
+Robert Carlson
+You don\'t know?
+Tom L. Ward
+I think it\'s around 10% with directors.
+Operator
+All right. Ladies and gentlemen, this will conclude the time we have for questions. I\'d now like to turn the call over to Mr. Tom Ward for closing remarks.
+Tom L. Ward
+Thank you for your time today. Thanks for all the questions. We continue to be encouraged about our results in the Mississippian. We look forward to growing that asset, and we\'re in the best financial position we\'ve been since the inception of the company. So I look forward to visiting with you further, and thanks for your continued interest in SandRidge.
+Operator
+Ladies and gentlemen, that concludes today\'s conference. Thank you for your participation. You may now disconnect. Have a wonderful day.

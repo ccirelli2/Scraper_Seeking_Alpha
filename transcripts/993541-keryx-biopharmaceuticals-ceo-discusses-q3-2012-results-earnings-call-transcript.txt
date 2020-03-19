@@ -1,0 +1,285 @@
+Keryx Biopharmaceuticals (NASDAQ:KERX) Q3 2012 Earnings Call   November  8, 2012  8:30 AM ET
+
+Executives
+
+James F. Oliviero – Chief Financial Officer
+Ron Bentsur – Chief Executive Officer
+
+Analysts
+
+Boris Peaker – Oppenheimer Securities
+Matthew L. Kaplan – Ladenburg Thalmann Securities
+Stephen D. Willey – Stifel, Nicolaus & Company, Inc.
+Michael King – Dawson James Securities, Inc.
+Jason N. Butler – JMP Securities LLC
+
+
+Operator
+
+Greetings, and welcome to the Keryx Biopharmaceuticals’ Investor Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. (Operator Instructions) As a reminder, this conference is being recorded. (Operator Instructions)
+It is now my pleasure to introduce your host, James Oliviero, Chief Financial Officer for Keryx Biopharmaceuticals. Thank you. Please begin?
+James F. Oliviero
+
+Thank you. Good morning, and welcome to our conference call regarding Keryx Biopharmaceuticals’ third quarter 2012 financial results. I’m James Oliviero, Chief Financial Officer at Keryx, and I welcome you to our conference call today. Following our Safe Harbor statement, I’ll provide a brief overview of our financial results, and then turn the call over to Ron Bentsur, Company’s Chief Executive Officer, who will provide the business update on the Company.
+Before we begin, I would like to remind everyone that various remarks that we make about our future expectations, plans and prospects constitute forward-looking statements for purposes of the Safe Harbor provisions under the Private Securities Litigation Reform Act of 1995. Keryx cautions that these forward-looking statements are subject to risks and uncertainties that may cause our actual results to differ materially from those indicated.
+Factors that may affect Keryx Biopharmaceuticals’ operations include various risk factors and uncertainties that can be found in our SEC filings. This conference call is being recorded for audio rebroadcast on Keryx’s website, keryx.com, where it will be available for the next 15 days. All participants on this call will be in listen-only mode.
+Now I’d like to briefly discuss the financial results for the third quarter ended September 30, 2012 as well as the Company’s overall financial condition. Our results were released yesterday evening and can be viewed on the Investor Information section of our website at keryx.com.
+At September 30, 2012, the Company had cash, cash equivalents, interest receivable and investment securities of $20.2 million, as compared to $39.5 million at December 31, 2011. The net loss for the quarter ended September 30, 2012 was $5.5 million or $0.08 per share compared to a net loss of $10.2 million or $0.15 per share for the comparable quarter in 2011 representing a decrease in net loss of $4.7 million.
+Other research and development expenses for the third quarter ended September 30, 2012, decreased by $4.9 million, as compared to the third quarter of 2011, primarily related to the termination of the Perifosine Phase III clinical development program in May 2012.
+The net loss for the third quarter ended September 30, 2012 included $0.5 million of non-cash compensation expense related to equity incentive grants. The net loss for the nine months ended September 30, 2012 was $16.1 million, or $0.22 per share, compared to a net loss of $19.7 million, or $0.30 per share, for the comparable period in 2011, representing a decrease in net loss of $3.6 million.
+Other research and development expenses for the nine months ended September 30, 2012, decreased by $4.9 million, as compared to the comparable period in 2011, primarily related to the termination of the Perifosine Phase III clinical development program in May 2012.
+The net loss for the nine months ended September 30, 2012, included a non-cash extraordinary gain of $2.6 million related to a write-off of the contingent equity rights liability following the termination of the license agreement for Perifosine in May 2012 and $1.6 million of non-cash compensation expense related to equity incentive grants. 
+
+The net loss for the nine months ended September 30, 2011, included license revenue of $5.0 million related to a milestone payment from the Company’s Japanese partner for Zerenex, JT/Torii for their commencement in April of 2011, of a Phase III clinical program in Japan.
+In terms of our financial guidance for the remainder of 2012, we expect the cash burn rate to remain well controlled at approximately $4 million to $5 million per quarter going forward.
+In terms of the burn rate, though the Zerenex Phase III clinical program is nearly complete, we have been gearing up towards our expected NDA filings in the first quarter of 2013 and have also recently commenced the Phase II pre-dialysis CKD study.
+We believe that our financial position remains strong and that our cash and anticipated milestone from this Japanese partner in the first quarter of 2013 will be sufficient to take us well beyond the potential NDA filings for Zerenex and hyperphosphatemia for end-stage renal disease patients on dialysis in all three key geographical territories, the U.S., Europe and Japan.
+I’ll now turn the call over to Ron.
+Ron Bentsur
+
+Thanks James and good morning everybody. The last few months have been very busy at Keryx, we’re now very focused on completing our Phase III long-term study of Zerenex as a treatment for hyperphosphatemia and end-stage renal disease patients on dialysis, and at the same time on the related pending U.S. and European regulatory filings, and of course also on our recently initiated Phase II study of Zerenex for the management of phosphate and iron deficiency in anemic non-dialysis dependent chronic kidney disease patients. I will talk in more detail about this study later on.
+I’ll begin with a review of our long-term Phase III study, and expected timing. I’m happy to report that as scheduled, the last patient is now out of the study. The process leading up to database walk has begun, following which we will announce top line data.
+While Hurricane Sandy and occurring storm in the Northeast are costing us some time, and also costing time to our vendors and clinical sites, we still believe that we’re on track to report top line data by year end.
+For those of you not up to date on the Zerenex clinical program, the Phase III program for Zerenex and end-stage renal disease patients on dialysis is being conducted pursuant to a special protocol assessment or SPA and is comprised of two studies. A short-term Phase III study which was successfully completed in late 2010, and a long-term Phase III 58-week safety and efficacy study with top line data expected by year end 2012. In this long term Phase III study, 441 end-stage renal disease patients on dialysis were enrolled and randomized 2:1 to receive Zerenex or an active control. 
+Patients are allowed to receive Renvela and/or PhosLo in the active control group, and this would provide for head-to-head comparisons of Zerenex versus the standard of care today in terms of efficacy, pill burden, safety, and also of course in terms of iron parameters.
+It’s worth mentioning that there were several data safety monitoring committee meetings conducted during the long term Phase III study all with unremarkable findings. While this is not a guarantee for a clean bill of health from the SPA, it is very reassuring.
+Moreover, with the two short term Phase III studies here and in Japan having already been successfully completed, we are further encouraged about the probability for a successful outcome in the long-term Phase III study.
+As I’ve done in the past, I’ll once again highlight briefly the key points of what we believe is the base case for Zerenex’s market potential in dialysis in the U.S. and ex-U.S. The market for phosphate binders is approaching $1.5 billion globally and growing. The overall growth stems from the increase in worldwide dialysis populations and with particularly rapid patient growth expected to come from the emerging markets as their medical infrastructures become more modernized and accessible.
+
+According to Fresenius figures recently presented, the number of dialysis patients worldwide is expected to double within the next decade from approximately $2 million today to a little over $4 million within the next decade.
+As many of you know, there are three main classes of phosphate binders currently on the market. Calcium-based that is predominantly PhosLo; polymer-based that is Renagel/Renvela, the market leader and lanthanum-based Phosrenol.
+This is a market characterized by much patient attrition and rotation due to the safety compliance and convenience issues associated with the existing phosphate binders. Therefore, a drug such as Zerenex which we believe will have a favorable safety convenience compliance profile should obtain meaningful usage by becoming part of that rotation.
+In this context, it is important to discuss Phosrenol, which is believed to be the third-line phosphate binder in the U.S. and Europe; however it has two perceived negatives, one it is a chewable, which is the less preferred route of administration in this market. Two, perhaps more importantly it bears the risk of lanthanum accumulation. Yet Phosrenol still sells over 325 million annually worldwide.
+Looking to the future, we believe that Zerenex could overtime capture much of the third-line market share from a drug such as Phosrenol based simply on the merits of not having a safety overhang, and not being a chewable.
+Moreover in thinking about the base case, it is conceivable that Zerenex’s potential for a lower pill burn profile compared to Renagel/Renvela the market leader in what appears to be a very acceptable tolerability profile could allow for incremental market share by way of chipping away some market share from Renagel/Renvela as well.
+All that said, we do believe that Zerenex has the potential to become the phosphate binder of choice in dialysis, well beyond the base case of capturing patient attrition and rotation, and this is based on the potential for what we call the iron story.
+If we see that Zerenex in iron-based phosphate binder does in fact demonstrate increases in iron storage parameters such as ferritin and TSAT, and in turn demonstrates an even modest IV-iron and/or ESA sparing capability, we believe that it could commend very significant market share, and possibly even market leadership.
+I can’t emphasize enough how important it is and will continue to be going forward for the dialysis providers to look for ways to cut costs under the bundle, and therefore Zerenex is able to provide them with ways of potentially doing so, there is very little doubt in our minds that Zerenex will be utilized extensively.
+Basically, we believe that once dialysis providers have saturated the cost reductions via the reduced EPO use which if it hasn’t happened already will happen soon, they will aggressively seek out additional ways to lower costs.
+Zerenex could reach them at the right time since it is in fact the only phosphate binder that has the potential to generate cross benefits in another dialysis category that being anemia management. This is certainly an exciting potential scenario for the drug.
+I’ll now shift my discussion to our Phase II study of Zerenex in the pre-dialysis setting, and why we view this to be another rational therapeutic application for Zerenex. I’m sure many of you have seen our press release from last week announcing that we have initiated a Phase II study in anemic non-dialysis dependent stages 3 to 5 chronic kidney disease patients or for short pre-dialysis patients.
+This Phase II study tests Zerenex not just as phosphate binder, but also as an oral iron supplement in this patient population. We believe this represents a significant untapped market opportunity for Zerenex. Elevated levels of serum phosphorus become very prevalent in stages 3 to 5 pre-dialysis patients.
+
+Several studies have shown that higher serum phosphorus concentrations are associated with increased mortality and morbidity in chronic kidney disease pre-dialysis. However, no phosphate binder is currently approved by the FDA for pre-dialysis chronic kidney disease.
+Iron deficiency anemia, another affliction experienced by CKD patients develops early in the course of CKD and worsens with disease progression. It is extremely prevalent in pre-dialysis CKD stages 3 to 5, and is associated with fatigue, lethargy, decreased quality of life and is also believed to be associated with cardiovascular complications, hospitalizations and increased mortality.
+It is estimated that over 1.5 million adults with pre-dialysis CKD in the U.S. stages 3 to 5 also have iron deficiency anemia. To combat this anemia, iron replacement therapy is essential to increase iron stores such as ferratin and TSAT levels and raise hemoglobin levels.
+On the face of it, one would think that the treatment of iron deficiency anemia in pre-dialysis should be similar to that of end-stage renal disease patients on dialysis. However, in reality the use of ESAs and IV-iron in the pre-dialysis setting is very limited for two main reasons, one, there are safety concerns associated with DSAs and the CKD setting with an FDA warning label to boot, and very importantly two, due to logistical constraints in the pre-dialysis treatment setting, which are primarily doctor’s offices IV-iron and ESAs are not readily accessible to most patients. Essentially, the overwhelming majority of the pre-dialysis centers refrain from providing IV services due to the liability and logistical hassle involved.
+Moreover, oral iron supplements that are currently available have inadequate efficacy and tolerability issues. Consequently, many key opinion leaders believe that iron deficiency anemia in pre-dialysis represents a substantial underserved medical need, and that would Zerenex’s potential to also address iron deficiency, it could become an important agent in the pre-dialysis setting.
+Keep in mind that there are no oral iron supplements approved by the FDA, and given the fact that the use of ESAs and IV-iron is also very limited in this setting, an approved oral iron supplement with proven efficacy could be ideal for this indication.
+For these reasons, we believe that the pre-dialysis CKD setting is a potential rational application for Zerenex as it could be the only phosphate binder to also have a two-pronged approach to managing this indication. One is, binding the phosphate in order to lower serum phosphorus, the other by virtue of its ferric composition in the high concentration of ferric iron in every caplet to potentially address the iron deficiency these patients suffer from.
+So moving specifically to our recently initiated Phase II study, it is a multi-center randomized double-blind, placebo-controlled safety and efficacy clinical trial designed to compare the ability of Zerenex to manage serum phosphorus and iron deficiency versus placebo in anemic patients with stages 3 to 5 pre-dialysis chronic kidney disease. Patients will be randomized 1:1 to receive either Zerenex or placebo for a 12-week treatment period.
+The primary end points of this study are to demonstrate changes in ferritin TSAT and serum phosphorus levels and secondary end points include changes in hemoglobin, urinary phosphorus and FGF-23.
+The study plans to randomize approximately 150 patients from approximately 15 sites in the U.S. Patient enrollment is expected to take up to six months with study completion expected in mid-2013.
+We believe that the data from this study will provide us with hopefully important and convincing information with which to lay a path forward towards a regulatory trial in pre-dialysis chronic kidney disease in the U.S.
+
+Importantly, the study will be financially very manageable with an expected discretionary spend of approximately $3 million for the study. So to recap the expected timelines for Zerenex, we look forward to announcing top line data from our long term Phase III end stage renal disease dialysis study in hyperphosphatemia before year end.
+We also expect to file the U.S. NDA and the European MAA for dialysis in hyperphosphatemia by the end of the first quarter of 2013. With regard to the development of ferric citrate in Japan, our Japanese partner JT/Torii is completing their Phase III studies in dialysis, and pre-dialysis and anticipates filing their NDA in Japan also before the end of the first quarter of 2013.
+We are very excited by the prospect of Zerenex in the Japanese market, and we look forward to all these milestones. Importantly, as previously discussed the NDA filing in Japan expected by the end of the first quarter will trigger a high single-digit million dollar milestone to the Company.
+Hopefully, this gives you a sense as to why we are so excited about the Zerenex opportunity, and how we’ve been diligently pursuing the value proposition which we believe Zerenex represents.
+Importantly, we’re operating with a well-controlled burn rate, and we believe our current cash in particular with the expected milestone payment from JT/Torii upon their filing of an NDA in Japan will be sufficient to take us well beyond the key clinical and regulatory milestones.
+With that I end the formal part of the presentation, and let’s turn it over to Q&A. Thank you.
+Question-and-Answer Session
+
+Operator
+
+Thank you. (Operator Instructions) Our first question comes from Matt Kaplan with Ladenburg Thalmann. Please state your question.
+Ron Bentsur
+
+Matt?
+Operator
+Matt Kaplan, your line is open.
+James F. Oliviero
+
+Let’s move on to the next one.
+Ron Bentsur
+
+Next question.
+Operator
+ 
+Our next question comes from Boris Peaker with Oppenheimer. Please state your question?
+Boris Peaker – Oppenheimer Securities
+Good morning, can you hear me?
+James F. Oliviero
+
+Good morning.
+Boris Peaker – Oppenheimer Securities
+So my question is specifically related to the pre-dialysis setting, I was just wondering if you have discussed potential functional end points in that setting with the FDA?
+Ron Bentsur
+
+We have not discussed the end points with the FDA, yet. We do know however that the IV-iron formulations have been approved in pre-dialysis based on the hemoglobin end points. So we do know that hitting hemoglobin for example should be sufficient for approval in iron deficiency anemia.
+However, we have not discussed our particular plan with the FDA yet, I think once we have the data, we’ll be in a much more hopefully convincing position to have these types of discussions with them.
+Boris Peaker – Oppenheimer Securities
+
+And for your partner in Japan, JT/Torii, what is the end point that they’re using for pre-dialysis?
+
+Ron Bentsur
+
+In pre-dialysis in Japan, they’re actually looking at serum phosphorus. However, as secondary they have ferritin, TSAT, hemoglobin all those end points as secondary end points. But the primary end point is phosphate.
+Boris Peaker – Oppenheimer Securities
+
+Got it. That seems like it would be a low risk end point. And I guess my last question on this subject is; what is the commercial experience in phosphate binders in Europe in the pre-dialysis setting?
+Ron Bentsur
+
+So, in Europe in pre-dialysis phosphate binders are approved based on phosphate alone unlike the U.S. and similar to Japan. So the two drugs that are approved in Europe are Renvela and Phosrenol for pre-dialysis.
+They don’t provide a breakdown of the sales in dialysis versus pre-dialysis in Europe, so it’s very hard to quantify those numbers or percentages, but we believe that approximately, roughly 25% of their European sales come from pre-dialysis. Keep in mind that the EMA in Europe has given us formal guidance with respect to what is going to be necessary to get Zerenex approved in pre-dialysis in Europe as a phosphate binder, and it’s a study that is very similar to what Renvela and Phosrenol have to do, and that is a study that we expect to begin sometime in 2013.
+
+Boris Peaker – Oppenheimer Securities
+
+And what was the end point for that study?
+Ron Bentsur
+
+The end points of that study if we decide to go just with the phosphate component, it would just be serum phosphorus.
+Boris Peaker – Oppenheimer Securities
+
+Okay, I [take]. And my last question, as you would decide to pursue this pre-dialysis indication in the U.S., do you plan to seek an SPA as well, which is the kind of a new path in this space?
+Ron Bentsur
+
+Possibly. Keep in mind that, by that time we should have the dialysis approval already, so we don’t know. I mean the answer is we don’t know, we haven’t had the dialog with the FDA. It’s hard for me at this point in time to tell you whether it would be worth a while to try to get an SPA or not.
+Boris Peaker – Oppenheimer Securities
+
+Okay. Well, thank you very much for taking my question.
+Ron Bentsur
+
+Thank you.
+Operator
+
+Our next question comes from Matt Kaplan with Ladenburg Thalmann. Please state your question.
+Matthew L. Kaplan – Ladenburg Thalmann Securities
+
+Hi, guys. Can you hear me this time?
+Ron Bentsur
+
+Good morning. Yes.
+Matthew L. Kaplan – Ladenburg Thalmann Securities
+
+Good morning. Thank you. A couple of questions, first talk a little bit about the data flow that we expect, I guess in the next month or two specifically. Can you give us a little bit more sense of timing, not just your Phase III obviously, but also a data that you expect from your partner JT/Torii in their Phase III trial as well?
+Ron Bentsur
+
+Yes. So with respect to our top line announcements that we expect out by year end, as I mentioned, and what we expect to disclose are essentially serum phosphorus key safety comparisons, and of course key iron parameter comparisons as well. With respect to what our partner JT/Torii is doing, so they’re wrapping up essentially three Phase III studies, the first one is their long-term dialysis study, which is very similar to what we’re doing here in terms of our long-term Phase III.
+The second one is a long-term peritoneal dialysis study, which is essentially home dialysis. In Japan, you have to do a separate peritoneal study to get a label in peritoneal. It’s only about 10% of the market, so it’s not a huge, it’s not going to have the huge market effect, but they have to do a separate study. In the U.S., you don’t have to do a separate study for peritoneal, so they are doing that as well. And also, they are finishing up the CKD study in Japan.
+And we believe that announcements from JT could come related to any of these studies, really, at any given point in time now, because if you kind of back into the timelines, so we know that they want to file their NDA in the first quarter of 2013, which means that these studies are essentially winding down and announcements could potentially come at any time.
+Matthew L. Kaplan – Ladenburg Thalmann Securities
+Can you give us a little bit more detail on the CKD study; and in particular, in terms of what they are looking for in that study?
+Ron Bentsur
+So, what they are doing in the CKD study in Japan is, it’s about around 90 patients, I believe a 2:1 randomization Zerenex versus placebo, and they are looking, it’s a one-year study, they are looking at serum phosphorus control, but all the key iron parameters are secondary endpoints. And the design of the study is that, it’s a 12-week head-to-head versus placebo, and then the placebo patients get switched over for their one-year follow-ups.
+So essentially, you’re going to have one-year information on 90 patients. And they believe that, that is sufficient to get a label in CKD in Japan.
+Matthew L. Kaplan – Ladenburg Thalmann Securities
+Very good.
+Ron Bentsur
+
+So this will be part of their NDA.
+Matthew L. Kaplan – Ladenburg Thalmann Securities
+
+All right, great. A question associated with your cash position, I guess you ended the quarter with $20 million in cash. I know you’re expecting some milestone payments from JT/Torii what’s your sense in terms of your cash burn rate right now?
+
+Ron Bentsur
+So as James alluded, we believe that our burn rate going forward is going to be about between $4 million to $5 million per quarter, and it should stay fairly consistent over the next few quarters. and certainly with the anticipated milestone, which we believe are going to receive right now, I think we’re looking at a fairly high probability. there’s certainly no urgency to do anything right now. we want to see how things play out in terms of the data, in terms of the NDA filings, there’s absolutely no rush to raise capital right now. we feel that we’ve got more than sufficient cash to get us through all those key clinical and regulatory milestones.
+Matthew L. Kaplan – Ladenburg Thalmann Securities
+
+Great, thanks for taking the question.
+Ron Bentsur
+Thank you.
+Operator
+Our next question comes from Stephen Willey with Stifel Nicolaus. Please state your question.
+Stephen D. Willey – Stifel, Nicolaus & Company, Inc.
+Yeah. Hi, guys. thanks for taking the questions.
+Ron Bentsur
+How are you?
+Stephen D. Willey – Stifel, Nicolaus & Company, Inc.
+Just a quick question along the iron storage parameters in the ongoing Phase III, so I guess, in the instance that we don’t see statistical significance on the iron storage parameter front, is there some kind of clinically meaningful threshold that you guys have established internally that would kind of make you feel more comfortable in terms of getting investment into the ongoing pre-dialysis studies?
+Ron Bentsur
+Yeah. I think, again, it’s hard to pick a number, pick a percentage change that would be clinically meaningful. I think what we would do, if we don’t hit statistical significance with which I think would be a rather surprising in my view any way, but if we don’t I think we will share the information with thought leaders, and basically discuss with them the clinical meaningfulness of whatever it is that we see.
+So it’s very hard for me to give you a number 10%, 5%, 12% or anything along those lines, I think that you’d have to look at in totality, and then kind of the grand context of the data that they are looking at, and tell us what they think the likelihood of success is in CKD or how important those kinds of deltas could be with respect to the CKD setting.
+Stephen D. Willey – Stifel, Nicolaus & Company, Inc.
+
+Okay, and then just a follow-up I think to previous question, along the pre-CKD setting, just based on all the kind of back and forth that you’ve seen with the FDA here, with other phosphate binders over the last few years, do you think that, I guess will they require some kind of outcome study in order to get a phosphate binder across the finish line in this setting, and I guess in the absence of an outcome study, do you feel like the anemia angle could kind of be your way into a label here?
+Ron Bentsur
+
+So it’s actually an excellent question, we know that no phosphate binders are approved in the U.S. just as phosphate binders. So phosphate may be perceived as important by the FDA, but certainly not enough to warn a label, whether or not the FDA is going to require outcome studies for phosphate binders, I don’t know.
+But I think if we succeed in terms of the iron parameters and hemoglobin and things of that nature, like you mentioned, I think we definitely could have an anemia path here, so I think we’re the only drug that has the potential to basically go, march down one path and possibly another path, if necessary.
+ideally, we’d like to do both. The reason we’d like to do both is, because that could really present competitors from, I think would present competitors with a serious obstacle to overcome, because very few drugs could have an effect on essentially two different categories, one being phosphate, the other being anemia.
+So that’s why we’re particularly intrigued in trying to hit both end points. But if we have to go down the anemia path, and we have the attributes to do it. We will certainly do so.
+
+Stephen D. Willey – Stifel, Nicolaus & Company, Inc.
+
+Thanks guys. I appreciate the color.
+Ron Bentsur
+Thank you.
+Operator
+Our next question comes from Mike King with Dawson James Securities. Please state your question.
+Michael King – Dawson James Securities, Inc.
+Hi, guys. Thanks for taking the question. I guess again, just to explore it up, pre-dialysis question a little bit further. Ron, can you just define what the anemia path would be? I assume that means just a simple correction in hemoglobin. But could you tell us a little bit about what you think that would look like?
+Ron Bentsur
+Sure, so we know, and it’s available publicly, so anyone can see it. The IVR formulations receive their approval by showing a change in hemoglobin. So we know that’s available as an anemia agent. But we may not have to go that far. 
+so, what do I mean by that? If we show phosphate control, and we show changes in the iron deficiency parameters, ferritin and TSAT, that may be sufficient, again it’s premature for me to say that definitively, because we haven’t had the dialog with the FDA, but we may not have to go that far, but we know that the hemoglobin end point is available. And if we hit that, then obviously, we are in pretty good shape.
+Michael King – Dawson James Securities, Inc.
+
+Okay, and I assume that you benchmark there is Feraheme?
+Ron Bentsur
+
+I mean, to some extent you can look at the Feraheme studies, and I think you will get an idea of the kinds of changes that were acceptable with the FDA.
+Michael King – Dawson James Securities, Inc.
+
+Okay, great thanks.
+Ron Bentsur
+
+Thank you.
+Operator
+Our next question comes from Jason Butler with JMP Securities. Please state your question. 
+Jason N. Butler – JMP Securities LLC
+
+Hi, thanks for taking the question. I guess just another follow on the pre-dialysis trial. For the secondary end points, can you talk about whether you expect to be able to show statistically significant differences there, or it’s just demonstrating positive trends going to be sufficient to find the path forward?
+Ron Bentsur
+
+We have powered the study to show statistically significant differences in the primary, which are obviously phosphate, Ferritin and TSAT. We will certainly hope to achieve statistical significance with the key secondary. However we have not applied specific power assumption to those secondary endpoints.
+The reason we are able to apply power assumptions to the primary end points is because we have sufficient information to come up with reasonable assumptions for those end points. We just don’t have enough information on hemoglobin or FGF-23 or urinary phosphorus or things of that nature, but one thing I’ll say is that, if we have iron accumulation which we do, we do believe that we have of course, and if we have an effect on Ferritin and TSAT, which we believe that we’re going to have, that should translate into a hemoglobin advantage, but specifically your question, we have not done any power calculations based on or assumptions based on the secondary end points. 
+Jason N. Butler – JMP Securities LLC
+
+Okay, great. And then just flipping back to the dialysis setting, you talked the use of Fosrenol being still quite meaningful in that setting. When you conducted market research, can you give us an idea of what the reasoning behind using Fosrenol right now is, given that there’s pretty obvious safety concerns there? Essentially why is it still from your discussion for physicians having a market share?
+Ron Bentsur
+
+I think the answer to that question is primarily related to the non-compliance associated with Renagel/Renvela or the frustration that exists with many of the patients who are on Renagel/Renvela. Keep in mind that the pill burden is about ten to twelve pills per day on average.
+And that’s just the average as you can imagine there are many patients taking much more than that. So therefore, you’re going to get a natural churn based on that alone. So I think Fosrenol is benefitting from just that musical chairs game that is being played, and the patient rotation that happens when you’ve got frontline therapy which is calcium that creates hypercalcemia, and then the second line main stay is Renagel/Renvela, which presents itself with a very high pill burden in many of the patients. So many of theses patients rotate out. So it’s simply a function in our opinion of attrition and rotation.
+
+Jason N. Butler – JMP Securities LLC
+Okay, great. Thanks for taking the question.
+Ron Bentsur
+Thank you.
+Operator
+Thank you. We have time for one more question. Our last question comes from (inaudible). Please go ahead.
+Unidentified Analyst
+Hey Brain, how are doing?
+Unidentified Company Representative
+Good morning, how are you?
+Unidentified Analyst
+Good morning. I actually have three quick questions. One is if you could describe what discussions if any you’ve had with the FDA regarding the protocol, that you’ve setup for your Phase II in CKD. The second is given that if you are able to show both phosphate control, and in anemia impact, and there is nothing else out in the marketplace that, that is there any sense of unmet clinical need here that could speed the review process here.
+and then the third is, if you would just remind us about the other JT/Torii milestone payments, particularly on approval of the drug, and what the ongoing royalty payments are if any, and I guess the $70 odd million additional payments that are payable over time? Thank you.
+Ron Bentsur
+Sure. So with respect to FDA discussions regarding CKD, we have not had those discussions yet. We feel that it’s much more prudent on our part that generate data and then go to the FDA. 
+So that’s the answer to the first question. The second question you asked was the unmet medical need in CKD. And again, that still is dependent on the discussions – the future discussions that we’re planning to have with the FDA. What I can tell you is, that there is a dire need for an oral iron supplement that actually works with proven efficacy in this area.
+The oral iron supplements that are currently used are the ones that you basically buy down at the GMC, that the doctors prescribe don’t, just don’t do the job. They’re not very efficacious. They have tolerability issues. And given the fact as I mentioned before, that IVs are barely used simply because of the logistical and accessibility issues that are involved in the CKD setting, there truly is a need for an oral iron supplement, and when you think about it logically, it could be an ideal solution in this type of a setting.
+Unidentified Analyst 
+And these are two birds with one stone aspect entrant to that or is that…
+
+Ron Bentsur
+
+I think with that, if we can control phosphate; on top of that, I think that would significantly motivate doctors to use the drug, because phosphate is the major issue in CKD. The fact that there is no FDA label is obviously a problem that doctors face, because they can’t prescribe anything unless they do it off label. I think that’s an added benefit that they, doctors and patients could truly benefit from.
+Moving on to your deal, your question about the deal of JT/Torii, I’ll actually hand it over to James who knows the numbers much better than I do. Go ahead, James.
+James F. Oliviero
+Great. So there are $72 million left of potential milestones associated with that deal what we’ve disclosed publicly is that it’s the high single-digit million dollar milestone upon their NDA filing in Japan. A low double-digit million dollar milestone upon the PMDA approval in Japan, and the rest of the milestones are all sales based. And for royalty, it begins at a low double-digit for set of net sales escalating into the mid-teens based on sales levels.
+Unidentified Analyst 
+In the PMDA approval, did they follow roughly the same schedule as the FPA?
+James F. Oliviero
+Yeah. From when I hear it’s about a 12-month review. So as the FDA is approximately 10 months, they’re more like 12.
+Unidentified Analyst 
+Okay, great. Thank you very much.
+James F. Oliviero
+Thank you.
+Ron Bentsur
+So that concludes the Q&A part of the call. And I’ll just make some closing comments, so with the pending completion of our Phase III long-term study of Zerenex as a treatment for hyperphosphatemia and end-stage renal disease patients on dialysis, we look forward to reporting top line data from this study by year-end. And the anticipated NDA filing for this indication in the first quarter of 2013.
+
+Additionally, we’re very excited to have recently initiated our Phase II study exploring Zerenex in the chronic kidney disease, pre-dialysis setting which we believe represents a substantial potential opportunity for Zerenex.
+Lastly, we feel comfortable that we have sufficient cash to take us well beyond the key anticipated clinical and regulatory milestones. With that, I want to thank you very much for you time and your support, and we look forward to further interaction. Thank you. Have a good day.
+Operator
+
+This concludes today’s conference. You may disconnect your line at this time. Thank you for your participation.

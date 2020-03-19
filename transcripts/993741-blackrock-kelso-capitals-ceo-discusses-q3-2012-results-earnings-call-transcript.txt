@@ -1,0 +1,178 @@
+BlackRock Kelso Capital Corporation (NASDAQ:BKCC) Q3 2012 Earnings Call November  8, 2012  4:30 PM ET
+Executives
+James R. Maher – Chairman and Chief Executive Officer
+Laurence D. Paredes – General Counsel
+Michael B. Lazar – Chief Operating Officer
+Corinne Pankovcin – Chief Financial Officer and Treasurer
+Analysts
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+Operator
+
+Good afternoon. My name is Marlie and I will be your conference facilitator today. At this time, I would like to welcome everyone to the BlackRock Kelso Capital Corporation Investor Teleconference.
+Our hosts for today’s call will be Chairman and Chief Executive Officer, James R. Maher; Chief Operating Officer, Michael B. Lazar; Chief Financial Officer, Corinne Pankovcin; and Secretary of the Company and General Counsel of the Advisor, Laurence D. Paredes. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question-and-answer session. (Operator Instructions)
+Thank you. Mr. Maher, you may now begin your conference.
+James R. Maher
+
+Welcome to our third quarter conference call. Before we begin, Larry will review some general conference call information.
+Laurence D. Paredes
+
+Thank you, Jim. Before we begin our remarks today, I would like to point out that certain comments made during the course of this conference call and within corresponding documents contain forward-looking statements subject to risks and uncertainties. Many of these forward-looking statements can be identified by the use of words such as anticipates, believes, expects, intends, will, should, may and similar expressions.
+We call to your attention the fact that BlackRock Kelso Capital Corporation’s actual results may differ from these statements. As you know, BlackRock Kelso Capital Corporation has filed with the SEC reports, which lists some of the factors which may cause BlackRock Kelso Capital Corporation’s results to differ materially from these statements. BlackRock Kelso Capital Corporation assumes no duty to, and does not undertake to, update any forward-looking statements.
+Additionally, certain information discussed and presented may have been derived from third-party sources and has not been independently verified. Accordingly, BlackRock Kelso Capital Corporation makes no representation or warranty with respect to such information.
+Please note that we have posted to our website an investor presentation that complements this call. Shortly, Jim and Mike will highlight some of the information contained in the presentation. At this time, we would like to invite participants to access the presentation by going to our website at www.blackrockkelso.com, and clicking the November 2012 Investor Presentation link in the Presentations section of the Investor Relations page.
+With that, I would now like to turn the call back over to Jim.
+James R. Maher
+
+Thanks, Larry. Good afternoon and thank you all for joining our call today. We mentioned in our second quarter conference call that we expected a relatively strong third quarter for our net investment income. We also said that we expected the third quarter to be an uncharacteristically slow one for new investments for BlackRock Kelso Capital. Our expectations were met. In the third quarter, the U.S. capital markets were driven by strong market technical factors, which have been fueled by unprecedented monetary policy and the Fed’s official statements forecasting continued easing and low rates for years to come.
+This environment of sustained near zero interest rates fuel strong demand for higher yielding assets and for broad based risk assets more generally. The increased appetite among investors for these higher yielding risk assets drove liquidity into leveraged credit markets. Inflows in the high yield bond funds, syndicated loan funds and separate accounts have been robust. The emergence of newly formed CLO vehicles has been adding demand to the syndicated credit markets after setting month-over-month capital raising records. All these factors create excess demand for leveraged loans.
+
+On the supply side of the equation, the general economic environment remains volatile. M&A and private equity activity remain somewhat muted for new transactions in the middle market. As a result, supply of capital exceeded demand for traditional loans. The third quarter was dominated by issuer-friendly opportunistic loan repricings, upsizings and dividend recapitalizations with higher leveraged levels and weaker credit protection.
+New issue terms in liquid markets have become weaker as leverage levels have increased and spreads have tightened. While the middle market remains somewhat more insulated from these fund flows and offers better relative values than the liquid leveraged loan markets. Leverage levels have moved higher and credit spreads have tightened in the middle market as well.
+Given the current market conditions and our focus on capital preservation, we chose to be very selective during the quarter resisting transactions where deal structures were weak, leverage was too high, and returns were not adequate to compensate for risk. In the third quarter, we made new investments aggregating $16.8 million. On a net basis, the aggregate portfolio size was reduced by $65.5 million.
+On September 30, our total investments at their current fair market value were $1.094 billion and our leverage stood at 0.55 times at quarter end. Weighted average yields were down fractionally in the third quarter on a cost basis while our portfolio company performance remained strong with only one company investment on non-accrual.
+We continue to have sufficient debt capacity to grow our portfolio. Net debt at September 30, was equal to $382 million relative to the $1.1 billion of fair market value of our assets. At quarter end, we had more than $165 million available under our existing revolving credit facility and $316 million of statutory availability under the BDC leverage rules. Using our available debt capacity, we are able to increase net investment income without raising any additional equity capital.
+We remain focused on dividend coverage. For the quarter, we had net investment income of $0.32 per share and $0.30 per share adjusted for pro forma incentive fees. These results are in line with our expectations. On November 7, our board of directors declared a dividend of $0.26 per share payable on January 3, 2013 to stockholders of record on December 20, 2012.
+Year-to-date, we have produced adjusted net investment income of $0.80 per share relative to dividends of $0.78 per share. Based upon our portfolio performance and our adjusted net investment income run rate, we remain very confident that we will be able to continue to earn our dividend.
+Mike will now discuss our portfolio activity and market condition in more detail.
+Michael B. Lazar
+
+Thank you, Jim. Good afternoon and thanks to all for joining our call today. I’m pleased to be able to talk about some of our financial results and to discuss how market conditions are affecting our portfolio strategy.
+As previously mentioned, in advance of this conference call, we posted our quarterly investor presentation to our website and the financial section of that presentation starts on page eight. With respect to the details, total investment income was $40.7 million for the third quarter compared with $35.5 million for the quarter ended June 30. The increase in total investment income is largely attributable to a significant increase in fee income for the third quarter.
+We’ve incorporated three presentations of net investment income per share, which appear in our 10-Q and in the earnings release that we filed this morning. As we manage our business and consider the earnings that we generate to support our dividend, we find that our presentation of adjusted net investment income per share is the most useful number.
+
+This presentation adjusts NII per share to remove any effects of hypothetical incentive fees that are required by GAAP, but are not actually due and payable or earned. Further, we adjust NII per share to deduct any income-based incentive fee that would be accrued during the quarter if the calculation were performed on the results for the quarter. This allows us to examine the quarterly results as if our incentive fees has been accrued ratably throughout the year rather than heavily weighted to the fourth quarter as required under GAAP.
+Adjusted to remove the effects of capital structuring fees, consent fees, prepayment fees in each quarter, our investment income for the third quarter was $31.7 million flat with $31.7 million for the second quarter.
+Fee income in the third quarter equaled $9 million and included fees related to follow-on investments, prepayment fees, other prepayment fees and some amendment fees. A large portion of this quarter’s fee income related to the anticipated prepayment of our investment in the subordinated debt of motel. Fees earned in the second quarter of 2012 equaled $3.8 million. Excluding all of our fee income, third quarter pre-incentive fee net investment income was $0.24 per share consistent with the amounts earned in the prior quarter.
+Our current portfolio provides us with a stable base of net investment income per share regardless of new investment activity and associated fee income. Fee income also tends to be relatively consistent for our business as we earn fees not only for pre-payments, but for new transactions, amendments and capital structuring as well.
+Total expenses for the third quarter were $16.8 million versus $13.1 million in the prior quarter. Of these totals, for the quarter ended September 30, $3 million of hypothetical capital gains based incentive management fees were recorded versus none in the second quarter. Base management fees were $6 million for the third quarter compared to $5.5 million for the quarter ended in June. On a pro forma basis, incentive management fees for the third quarter were $5 million versus $3.8 million for the prior quarter as adjusted.
+Now, during the third quarter, we did make some additional investments in existing portfolio companies, including $11.7 million in par amount for our investment of second-out senior term loan in preferred stock of Progress Financial and we made an additional investment of $4 million in the WBS Group first lien term loan. The weighted average yields of the debt and income producing equity securities in our portfolio on a cost basis were 12.2% compared to 12.4% at the end of the prior quarter. During this period, our weighted average yield at fair value was 12.5 %.
+Non-accruals remain low. Currently, 0.1% of our total debt portfolio at fair market value corresponds to 0.8% of our total debt portfolio at cost sold under non-accrual. The weighted average rating of our portfolio of companies at quarter end was 1.17, which is stable with the prior quarter.
+With that, I’d like to turn the call over to Corinne to review some of the GAAP financial information from the third quarter.
+Corinne Pankovcin
+
+Thanks, Mike, and hello everyone. I will now take a few moments to review some of the details of our third quarter 2012 financial information. In comparing the third quarter of 2012 with the second quarter of 2012, our total investment income increased approximately $5.3 million to $40.7 million or $0.55 per share. The increase in investment income for the three months ended September 30 is due to an increase in fee income and a relatively stable amount of interest and dividend income. Fee income earned during the third quarter was $9 million.
+The percentage of our portfolio comprised of senior loans and notes has remained somewhat stable at 75% today compared with 73% at the end of 2011. Of this 75% senior debt total, 30% of senior notes and loans were secured by a first lien, 49% secured by a second lien, and 21% was senior secured notes. At the end of the quarter, the balance of our portfolio was 13% invested in unsecured or subordinated debt securities, and 12% in equity investments, and less than 1% in cash and cash equivalents.
+
+At September 30, 2012, we were in compliance with regulatory coverage requirements with asset coverage ratio of 282% and were in compliance with all financial covenants under our debt agreement. We did not purchase any shares of our common stock during the three months ended September 30.
+During the third quarter, BlackRock Kelso Capital had a net realized and unrealized loss on our portfolio investments of approximately $9.6 million. On a per share basis, net asset value was $9.55 at September 30, 2012, down slightly from $9.61 per share at June 30, 2012. The decrease was primarily due to the GAAP accounting effect of our hypothetical capital gains incentive recorded during the quarter.
+With that, I would like to turn the call back over to Jim.
+James R. Maher
+
+Thank you, Corinne. We remain pleased with our performance this year. As we look forward to year-end and into next year, we remain optimistic about our current position. Importantly, our adjusted net investment income per share continues to support our dividend comfortably. As always, we remain focused on continued prudent portfolio growth while focusing on preservation of capital. As the broader debt market strengthen, we remain disciplined in seeking outsized returns without taking any inappropriate risks.
+On behalf of Mike, Corinne, Larry and myself, I’d like to take this opportunity to thank our investment team for all of their efforts and to thank you for your time and attention today.
+Operator, will you now please open the call for questions?
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) Your first question is from Jonathan Bock with Wells Fargo Securities.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+And my questions. Jim, I believe you mentioned it in 3Q, you turned down quite a bit of deals in light of maybe weaker risk adjusted returns, however, the leverage didn’t fit or the spread didn’t fit. Given that the market actually a lot tighter this quarter and – could we expect maybe the same result on the gross origination line as you guys continue to remain conservative?
+James R. Maher
+
+Yeah, I think I wouldn’t – it’s very hard to predict. We’re working on a number of things that we were working on in the last quarter that didn’t come to pass. They may or may not come to pass in the fourth quarter. So I certainly wouldn’t expect the fourth quarter to be robust in terms of originations.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+And apologize if I missed it, maybe an angle on what originations have been made quarter-to-date?
+Michael B. Lazar
+
+Quarter-to-date, we didn’t – you didn’t miss it. We didn’t say it. But I would characterize it as close to the originations in the third quarter.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+Okay. Okay. Now also with prepayment activity, I mean obviously we saw that last quarter, as you mentioned, that it was expected. Mike, maybe a sense of repayment activity as sponsors do take advantage of this lower spread environment and maybe what that means for a lot of your portfolio investments and perhaps some additional repayments coming back at you in the fourth and first quarter to come?
+Michael B. Lazar
+
+Sure. With respect to repayments, I think you’ve seen it in the liquid loan market. The trend that you’ve described did start in the third quarter and continues into this quarter. Some of our stronger borrowers are finding opportunities as their EBITDA increases and as the markets improve to take advantage of the more liquid credit markets for opportunistic refinancings, sometimes including the refinancing of our debt, like we saw in two instances in particular in the third quarter.
+With respect to the fourth quarter, there have been a few repayments. We do expect a few more. Some of those repayments are refinancings of companies rather than change of control transactions and we may or may not choose to participate in the redo of some of those transactions, where the companies are doing well. But, yes, there has been some repayment so far, similar, I would say, to where we were at this period during the third quarter for repayments. Some of those are early. They’re really prepayments more than repayments. And so, some of those do come with fees and prepayment penalties and we would expect a few more before the quarter is up.
+
+Operator
+
+Your next question is from Troy Ward with Stifel Nicholas.
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+
+First of all, I just really want to applaud you on the fact that (inaudible) you’re not afraid to just not do originations when you don’t think there when they’re totally advantageous for the shareholders. I think that says a lot because this business is – should be lumpy and it has been with you guys. Could you remind us – just give us some color on the current portfolio, maybe describe some of what you’re seeing in the EBITDA trends in the underlying portfolio, is that currently on your balance sheet?
+Michael B. Lazar
+
+Sure, Troy. Company performance continues to be stable to improving, generally speaking, as you look across the whole portfolio. A substantial number of our larger portfolio of investments have increased EBITDA over the last several quarters, paid down some debt, and so our leverage on many of those companies has improved. There has been a spotty overall economic environment as Jim described earlier in his remarks on the call, and that has affected one or two of our portfolio companies in particular. So overall, as you can see by our ratings, performance tends to be stable. That’s – when you peel it back somewhat, there’s been some pretty good improvements in some businesses and there is a little bit of weakening in some others as we think about moving through the fourth quarter where we are today.
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+
+Okay. Great.
+Michael B. Lazar
+
+I guess, Troy, I would – it’s difficult to generalize because each one of these businesses as you know in the middle market tends to be quite niche and quite on to itself, but as a generalization of progress with the portfolio overall is really quite good.
+James R. Maher
+
+If you look at for example the NAV per share, which Corinne mentioned in her remarks, it’s pretty flat but for the effect of that GAAP accrual for the hypothetical incentive fees. So that’s not perfect indicator, but certainly a good directional indicator of the stability at the moment in the portfolio.
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+
+Great. And then just to reiterate, you mentioned two of your add-ons was Progress Financial and WBS. Could you repeat what’s the dollar amount of each one of those?
+James R. Maher
+
+Sure. Progress was $11.7 million of the par amount and WBS was $4 million. The WBS add-on was of additional first lien notes and Progress was of our it’s sort of a structured facility, but it’s our second out senior loan that we have there as well as a small investment in the preferred stock. The majority of that $11.7 million was in the loan.
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+
+So in the WBS, was that a – the $4 million was that extended to the company or was that something bought in the secondary market?
+James R. Maher
+
+That was something that we acquired from existing lenders.
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+
+Okay, great. And then just one last thing, as you guys think about additional equity, first of all, remind me, do you guys have the ability that the shareholder approval to issue below book value?
+Michael B. Lazar
+
+Yes, and as we point out, I think, in every conference call, we do. We have or had for a whole long time, but we never have utilized it.
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+
+Right. Okay, that’s great. And then how do you view balance sheet growth as it in general with respect to the market, kind of what would you need to see to feel like it would be worthwhile to expand your balance here?
+Michael B. Lazar
+
+Well, I think at the end of last quarter, we were at 0.64. In terms of leverage this quarter, we’re I think about 0.55. I don’t think unless it was some really unusual circumstance, if we saw something very large that you’ll see us issuing common equity until we have got ourselves somewhat north of 0.75. And I hate to be that precise, but that’s sort of how I think about it.
+
+Troy L. Ward – Stifel, Nicolaus & Co., Inc.
+
+Great. Thanks guys.
+Michael B. Lazar
+
+And that 0.75, an sustainable 0.75.
+Operator
+
+(Operator Instructions) We do have a follow-up question from Jonathan Bock with Wells Fargo Securities.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+Up here. One question on bankruptcy management solutions and I apologize if you’d answered that question earlier. Could you give us some color on the write-down there? I believe you have both debt and equity and that was a sizable move as we kind of break out the portfolio. So any color on that investment would be quite helpful?
+Michael B. Lazar
+
+Sure, Jonathan. I think, forgive me, I’m going to have to try it a little bit lightly on the subject because it’s a transaction that we’re sort of actively engaged in some activity with at the moment. But fundamentally, almost the entirety of the change in net appreciation is attributable when you cut through everything else to bankruptcy management. And most of that is in the second lien security as opposed to in the equity. You’ll see there is very little movement in the first lien securities and the equity was already – is a very small dollar amount. So, most of that move is in the second lien.
+And part of that has to do with some positioning that we’re doing as we continue to take an active role in the business, which is in the midst of a bit of a turnaround. And as we take an active role, we take that active role through some of the more senior securities, in the mix that we are participating in. And we are hopeful and expect over the long run that this is the best strategy that which we’re doing right now to get the most dollar value out of all of the securities that we own as opposed to any one particular security. So there is some sort of value movement among the capital pile there and we would expect that that will continue to be a little bit more volatile over the next couple of periods relative to most of our ordinary debt investments.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+Okay, great. And then I guess the follow-up to that would be, so if that $24 million that you own, I guess in second lien or it might be first lien, I apologize Mike. But what is that as the percentage of the debt tranche, right. So as you actively manage restructuring, are you in a blocker position or is this more of your participating with the number of lenders and working out a solution as opposed to driving the entirety of the process yourself?
+Michael B. Lazar
+
+It’s a fair question. It’s a good question. And unfortunately it’s a very nuanced and subtle kind of an answer, because there is a group of different participants in this process. However, there is a pretty – we have a very important role in determining and pushing for what the ultimate outcome will be.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+That’s fair enough. Guys, thank you so much.
+Michael B. Lazar
+
+And I’m sorry for being vague, but it could take a much longer time to explain in detail what’s going on.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+No, that’s not a problem. Thank you.
+James R. Maher
+
+I think the only other thing I’d add to what Mike said is, we’ve been very actively involved with this company for a fairly long period of time in terms of its strategic policy and the overall management of the company.
+Jonathan Gerald Bock – Wells Fargo Advisors LLC
+
+All right. Great. Thank you.
+Operator
+
+There are no further questions at this time.
+James R. Maher
+
+Well, thank you all for participating today. And as I’d like to say, we are available if you have any further questions. Feel free to give us a call. Thank you.
+Operator
+
+Thank you everyone for joining today’s conference call. You may now disconnect.

@@ -1,0 +1,293 @@
+Cleveland BioLabs, Inc. (NASDAQ:CBLI) Q3 2012 Earnings Call November  8, 2012 10:00 AM ET
+Executives
+
+Rachel Levine – Director, IR and Communications
+Yakov Kogan – CEO
+Neil Lyons – CFO
+Andrei Gudkov – Chief Scientific Officer
+Ann Hards – EVP, Regulatory Affairs and Quality Assurance
+Ed Martin – Martin Blanck & Associates
+Analysts
+
+Boris Peaker – Oppenheimer
+Mara Goldstein – Cantor Fitzgerald
+Matthew Kaplan – Ladenburg Thalmann
+Walter Schenker – MAZ Partners
+Robert Brous – Wunderlich Securities
+Marty Meyerson – MH Meyerson & Company
+
+Operator
+Greetings, and welcome to the Cleveland BioLabs Third Quarter 2012 Earnings call. At this time, all participants are in a listen-only mode. A brief question and answer session will follow the formal presentation. (Operator Instructions) As a reminder, this conference is being recorded.
+It is now my pleasure to introduce your host, Ms. Rachel Levine, Director of Investor Relations and Communications for Cleveland BioLabs. Thank you, Ms. Levine. You may begin.
+Rachel Levine
+Thank you, and good morning, everyone. Welcome to Cleveland BioLabs’ Third Quarter 2012 Earnings Conference call. Joining us today are Dr. Yakov Kogan, Chief Executive Officer; Dr. Andrei Gudkov, Chief Scientific Officer; Neil Lyons, Chief Financial Officer; Dr. Michael Kurman, Chief Medical Officer; Dr. Ann Hards, Executive Vice President of Regulatory Affairs and Quality Assurance and Retired Rear Admiral, Dr. Ed Martin of Martin Blanck & Associates.
+Before we begin, I would like to remind all listeners that throughout this call, we may make statements that constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Investors are cautioned that any such forward-looking statements are not guarantees of future performance or the successful execution of the company’s strategic plan and involve risks and uncertainties.
+Additionally, I want to emphasize that some of the information discussed on this call particularly our financial and cash outlook and forward-looking development plans is based on information as of today November 08, 2012 and that actual results may differ materially from the expectations and assumptions discussed today as a result of various factors including the risks outlined in our company’s filings with the Securities and Exchange Commission including our most recently filed Form 10-Q and 10-K.
+The information provided on this conference call should be considered (inaudible). CBLI does now assume any obligation to update information contained in this conference call. Finally, I’d also like to note that any financials discussed are based on unaudited results.
+Dr. Kogan will open this morning’s call with a review of our strategy and hand the call to Mr. Lyons to discuss our recent financing, quarterly results and cash outlook. Dr. Gudkov will then provide an overview of progress with our development programs, and hand the call back to Dr. Kogan for closing remarks and questions.
+At this time, I’d like to turn the call over to Dr. Yakov Kogan, CEO. Please go ahead Yakov.
+Yakov Kogan
+Thank you, Rachel, and thank you to everyone for joining us for our Third Quarter 2012 Investor Conference call. I would like to start by saying what we continued to be focused on making positive progress towards the achievement of fundamental milestones, required to ultimate approval of our drug candidates for biodefense and medical applications.
+We believe what this fundamental focus will lead to shorter fountain [ph] by government agencies and potential business development opportunities. Because of our subsidiary structure, we can move several promising drug candidates forward at the same time and our partners and the subsidiaries provide the financial resources to do so. And with CBLI corporate level, they are focused on Entolimod, previously known as CBLB502 for development as a radiation countermeasure and as a targeted cancer therapy.
+
+We are also focused on development of CBLB612, a hematopoietic stem cell inducer and mobilizer. Our core infrastructure often go through research, clinical and sincere expertise supports all of our programs. Our top priority is to achieve commercialization of Entolimod for defense use as a radiation countermeasure. We have recently shared enormous progress on this front through achievement of several FDA agreements.
+We received of additional funding and redirection of funding under our contracts is two divisions, our Department of Defense, DTRA and CBMS and the submission of a proposal to BARDA, under the current broad agency announcement. Included in this plan is pursuit of endorsements used authorization package and working towards the procurement order for Entolimod. Second, advance in clinical development of Entolimod. We continued to make progress with our Phase 1 advanced cancer trial.
+Our next clinical objective is to capitalize on our growing body of knowledge regarding TLR5-positive tumors and mechanism of action of our drug to design and implement additional clinical protocols. These trials will be focused primarily on efficacy outcomes and may be run in parallel with each other, and the ongoing study in advanced cancer patients.
+Now where we have the funds to do so, we intend to progress with all possible speed. We have a lot of work to do to get the studies going but we are look – as you look forward to sharing updates as we progress. So advance in CBLB612 towards the Phase 1 clinical trial to evaluate safety and potential efficacy. CBLB612’s potency as a stimulator of hematopoietic stem cell proliferation and mobilization has been documented in multiple pre-clinical studies in mice and human primates.
+Our goal is to establish 612 potential as a complement to the current standard of care. Advance in clinical development of drugs, we recently initiated a Phase 1 to monotherapy study that’s an oral formulation of 137. We are also well on our way to achieving our target of filing of an IND with the FDA for study for intravenous administration over compound.
+Lastly, we continued to pursue potential partnerships with biopharmaceuticals and our strategic collaborators, for one or more than of our pipeline candidates. This remains an important element of our strategy. Andrei will provide more details on all of our developmental programs and then he’d review later in the call.
+At this point, I will turn the call over to Neil to review the impacts of the recent financing on our financial outlook and our financial results for the quarter.
+Neil Lyons
+Thank you Yakov. All figures quoted in my talk this morning are approximate in value. Our unaudited financial statements for the quarter will be filed with the SEC tomorrow.
+As you know, recently completed a $15 million equity raise which allows us financial flexibility to number one, execute our clinical programs as Yakov reviewed and number two, keep our Entolimod head team intact to executive pivotal activities, recently funded by DTRA and CBMS probably waiting for BARDA to sign the remaining development activities for radiation countermeasure program and number three, negotiate from a position of financial strength for potential business partners.
+In Q3, we created a wholly-owned subsidiary known as BioLabs 612 and to be recipient of a $4 million plus grants from the Russian Ministry of Trade. These funds will be received over time but only a minor amount received in Q3. Our Incuron subsidiary also received approximately $3.9 million under its grant from Skolkovo in Q3, first of which was recognized as deferred revenue on the company’s balance sheet at September 30, 2012. That sequence to September 30 we received approximately $2.3 million in funding from DTRA and the CMBS to further develop Entolimod as a radiation countermeasure.
+
+We submitted a proposal to BARDA for the funding necessary to finish development of Entolimod as a radiation countermeasure which we anticipate will be in place by April, although there could be no guarantee that will be the case. And finally, we have several proposals pending with the Russian federation similar in type perhaps not amount to the two grants awarded in the past year that totaled approximately $10 million.
+Of course it can be no assurance that these proposals will be still an award either. At September 30, 2012 on a consolidated basis we had $19.1 million in cash, cash equivalents and short-term investments. Incorporating the $13.8 million in net proceeds from our equity offering, those combined resources approximated $32.9 million. CBLI standalone without Incuron and Panacela had approximately $4.1 million in cash and cash equivalent at September 30, 2012, again incorporating approximately $13.8 million in net proceeds from our equity offerings which go entirely to CBLI. CBLI’s standalone had approximately $17.9 million of financial resources available.
+We estimate that CBLI’s standalone cash at last into the second half of 2014 that adds on an average burn and I’ll emphasize average burn of approximate $800,000 per month over the forecast period. Pre-BARDA awards, our monthly burn is estimated to be approximately $1.1 million to $1.2 million. Post-award approximately $600,000 to $700,000. It has about an $800 million burn over that period of time on average.
+For review of our operating results, revenues for the quarter decreased approximately $0.2 million from approximately $3.8 million for the same period in 2011. This was primarily due to closure of state sponsored research agreement or the full recognition of that agreement and reduction and funding received from the federal government during that period of time.
+R&D expenses decreased to approximately $4.8 million from approximately $6.5 million for the same period in 2011. This decrease primarily reflected a reduction of approximately $3.2 million and expenses related to Entolimod development provided defense applications that was partially offset by increases in development costs for Panacela compounds and Curaxins.
+G&A expenses decreased to approximately $3.2 million the quarter from $4.2 million in 2011. This decrease was primarily attributable to a reduction in a non-cash charge of $1.2 million recognized last year due to a change in estimates for patent costs. Net loss attributable to our common shareholders was approximately $10.9 million, or $0.30 per share as compared to net income attributable to our common shareholders of $2.7 million, or $0.08 per share for the third quarter of 2011, a variance of $8.2 million, this increase in addition to these items described above was primarily attributable to the periodic fair valuation the company’s warrants liability risk generated non-cash expense of approximately $4.4 million for the three months ended September 30, 2012 as compared to non-cash income of approximately $4 million for the three months ended September 30, 2011.
+For the nine months period ended September 30, 2012 revenues decreased to approximately $1.4 million from approximately $6.8 million gain due other decreases in research sponsored by DoD, BARDA and a New York State sponsored research agreement. R&D expenses for the nine months decreased to approximately $6.9 million from approximately $7.4 million for the same period in 2011. This decrease primarily reflected a reduction expenses related to development of Entolimod as a radiation countermeasure.
+It was partially offset by an increase in R&D related to Panacela compounds and Curaxins. G&A for the nine months increased to $9 million from $8.1 million. This increase was primarily attributable to increases in G&A costs associated with subsidiaries and were not active in the same period of 2011 and increases in business development expenses. Net loss attributable to common stockholders for the nine months was approximately $23.3 million or $0.60 per share as compared to net income attributable to common stockholders of approximately $3.2 million or $0.10 per share for the same period in 2011. This increase in addition to the items about what is primarily attributable to the periodic fair valuation of the company’s warrant liability which generated non-cash expense of only $0.2 million for the nine months ended September 30, 2012 as compared to non-cash income of approximately $21 million for the nine months ended September 30, 2011.
+
+At this time, I’d like to hand the call over to Andrei, to provide you with more details on progress with our pipeline candidates. Andrei?
+Andrei Gudkov
+Thank you Neil. I will start with a brief recap of some important developments for our Entolimod radiation countermeasures program. We are pleased to report several major advancements with the FDA in the past two months. We have received a series of communications from the FDA that we believe have provided us with significant guidance on the remaining steps necessary to file a BLA for the syndication.
+We have achieved agreement of certain critical aspects of the design of our proposed pivotal animal efficacy studies. The agency has accepted as part of the pivotal program, the good laboratory practice now with human primates study were announced in June. We have also received from the FDA clarification on the structure of the remaining human studies. We’re advised to generate additional biomarker information for dose conversion as an initial study focus and then perceive with generating safety data using the projected efficacious dose defined by the initial dose conversion study.
+We will continue discussions with agency regarding several technical assets of our proposed clinical protocols. As you see we have achieved sufficient feedback and advice from the FDA with both the animal and the human programs to go forward with the submission of our proposal for continued development funding to BARDA. The new proposal we submitted is also intended to address the points noted by BARDA in connection with our previous CBLB502 proposal.
+These advances also enabled us to secure additional access to funds from the DoD namely DTRA and CBMS. That enabled us to start immediately some of the essential animal work. Specifically, we received $770,000 increase under our existing contracts with DTRA and CBMS where we focused approximately $1.5 million of existing contracts funding to support clinical path studies in non-human primates.
+Most important among all of these events however was recent confirmation of the FDA’s [ph] commitment to moving their Entolimod program forward.
+As sighted in the end of Phase 2 meeting minutes, we believe that at the end of the day all government agencies are aligned in their desire for FDA approved countermeasures and this is the single most important goal in order to achieve sales. Over the next two years, we’ll be 100% focused on performing the remaining studies agreed upon with the FDA and on submitting an BLA filing for approval.
+At this point let’s turn to the plan for development of Entolimod for oncology applications. As Yakov mentioned earlier, Roswell Park is currently near completion of the third cohort in our ongoing advanced cancer trail. Up to now we did not have any serious adverse events reported in this trial. While this trial is expected to keep recruiting for a while, our plan is to leverage our agreement with the FDA to design and begin some additional trials, this may help expedite primarily efficacy data generation.
+These future trials will be designed based on our enhanced knowledge regarding expression of TLR5, the receptor through which Entolimod acts in most various tumors and tissue types. We have established a fair understanding of TLR5 expression in various tissues around the body including liver, lung and bladder. In addition, we have been working with development or the campaigning diagnostic Entolimod which has enabled us to define TLR5 status in hundreds of tumors samples we have received from Roswell Park surgeons.
+Since Yakov already discussed our strategy for bringing CBLB612 into the clinic, I’ll currently retention to updates with a Curaxins compounds being developed by Incuron. We are pleased to share the first patients have been dosing the trial overall formulation of CBLC137 in subjects with advanced solid tumors that there are resistant to standard of care treatment.
+
+The trial is being conducted at five leading oncologist centers in the Russian federation. The primary objective of the study is to determine the maximum tolerated dose and dose limiting toxicities in patients receiving Curaxin 137. Secondary objectives of the study include describing the pharmacokinetics and tumor response to the drug.
+And this study includes a dose escalation arm of up to 36 patients divided into six cores and dose confirmation arm with an additional nine or 12 patients to be enrolled at the selected therapeutic dose. The Incuron team continues to move forward with the IV formulation of 137 and is in track to complete the remaining pre-clinical steps necessary to file an IND with the FDA in early 2013.
+CBLC137 is a primarily target of interest for potential partners and we’re investigating ways to expedite generation of clinical data. We have been accumulating very promising clinical data on various combination therapies and are optimizing a trial strategy in order to maximize its efficacy.
+Incuron’s ongoing Phase 1 single-dose ascending trial of CBLC102 in refractory advanced cancer patients with liver metastases is recruiting the sixth and is likely the final dose ascending cohort, which is expected to be full by an efficacy arm. Depending on reports of dose limiting toxicities, we currently anticipate that this trial will complete dosing in 2013.
+While it wouldn’t be appropriate to comment on interim data from this trial as it is still in its dose ascending phase. I want to say that we did apply for and received Orphan Drug designation for CBLC102 from the FDA for treatment of hepatocellular carcinoma.
+Turning to our Panacela subsidiary. They are progressing through pre-clinical work on their five pipeline candidates in Russia and filling for several state funded grants to further support its development efforts with non-dilutive funding. Of note that targeted grants are similar to the two we already won related to our Curaxin and 612 programs.
+With that, I will pass the call back to Yakov for a few concluding remarks. Yakov?
+Yakov Kogan
+Thank you, Andrei. Before we take your questions, let me leave you with some following thoughts. We are fully committed to maximizing the long-term value of (inaudible). We see the Entolimod radiation countermeasure program as our first line of revenues and the best opportunity to drive near term value.
+We have made enormous head ways to FDA and are doing our best to translate the success into the government fountain and supports with any needs to get to a BLA and ultimate procurement. We believe we’d receive an FDA approval and commercializing Entolimod as a radiation countermeasure would give us significant business with attractive potential returns.
+This being said, it’s largely recognized, with the global oncology opportunity towards even the most attractive potential global defense revenue stream. It’s our belief what we have sufficient compelling first-in-class assets among our existing pipeline. Therefore we are carefully advancing our oncology assets and relating our every opportunity along the way.
+We are very cognizant of our duty to deliver and that are needed to achieving the success. Over the next 12 months we will be focused on achieving the following major milestones. Number one, securing the BARDA development contract for Entolimod as a radiation countermeasure, and perform all final program requirements for BLA filing for Entolimod as a radiation countermeasure.
+Achieving preliminary clinical efficacy data for Entolimod as a targeted cancer immunotherapy, moving CBLB612 into the clinics. Opening trials as intravenous formulation of CBL0137 in United States and completing ongoing clinical studies for 137 (inaudible). As always we thank all of you for your ongoing support and look forward to sharing our progress in the coming months.
+
+We will now open the call to questions. Operator, please begin the Q&A.
+Question-and-Answer Session
+
+Operator
+Thank you. Ladies and gentlemen we will be now be conducting a question and answer session. (Operator Instructions) Our first question is from Boris Peaker of Oppenheimer. Please go ahead.
+Boris Peaker – Oppenheimer
+Good morning. Can you hear me?
+Yakov Kogan
+Yes.
+Boris Peaker – Oppenheimer
+Yes, my first question is regarding the animal rule and as you know on Friday of last week, the FDA panel recommended raxibacumab for Anthrax. And I understand that it’s a different indication that what you guys are working on. But I am just curious what can we learn from that discussion on the animal rule and in terms of the things that the committee probed that would be applicable to your development?
+Yakov Kogan
+Boris, its excellent question. Our CBLI representatives attended this committee meeting and I would like to ask Ann Hards to cover some of the observations we had.
+Ann Hards
+So yes, we attended the meeting last Friday and noted of course that the company had performed an additional study that FDA had requested. Obviously they had preliminary agreements with the FDA on what that study would entail because the study did not meet a classical statistically significant requirements, yet, both FDA and their advisory committee agreed that the study was sufficient even though it did not meet 0.05.
+So I think that whole approval process just confirms what we are currently doing which is we are doing our best to have upfront agreements with FDA about the design and conduct of our program prior to actually performing it and that is your best assurance that when you get to the end, you are going to have a program that is going to be considered sufficient for approval.
+Boris Peaker – Oppenheimer
+And what is the status on your discussions with the FDA about the final protocol design?
+Ann Hards
+Well we have their – we already have their complete agreement on the non-human primate program. We have their recommendations on a mouse program which we are just about ready to go back with what we have put together based on those recommendations in order to get their final agreement. And then we have a few – we’re in a more – well what I want to say, we’re in process on the clinical trials where we’re kind of in the middle between those two things.
+We already had a proposal which they came back with some additional recommendations which we are now tweaking. So we’d still need a final agreement on that as well though.
+Boris Peaker – Oppenheimer
+And would you need a buying from a border [ph] on that final agreement before commencing a study so whenever you do finalize it with the FDA this partner need to sign off or do they automatically just kind of agree with what the FDA has suggested and just go with that?
+Yakov Kogan
+So I’ll go and I believe this is agency goal part as well as to have a FDA approved medical countermeasure, medical radiation countermeasure. So our major focus as well as guidance which we got from BARDA is to agree this MDA on the detailed path forward which we believe significantly achieved and this is I believe in interest of both the company and agency.
+Boris Peaker – Oppenheimer
+And in terms of timelines, do you have a sense of when you may be able to announce final agreement on study design with the FDA?
+Ann Hards
+I believe we will have final agreement on the mouse program within about 60 days after we submitted. There are still some additional work being done internally, I do not at this point have an exact date of our plan to submit. And the clinical program, we are requesting an additional meeting to talk to them about – that design is already more agreed because there is a design, it’s more agreed than the mouse but we still have to go back and talk about a couple of details, and again I would say 60 days after we get that meeting scheduled and it is not currently scheduled.
+
+Boris Peaker – Oppenheimer
+Got it. Okay, well thank you for taking my questions.
+Yakov Kogan
+Thank you, Boris.
+Operator
+Thank you. The next question is from Mara Goldstein of Cantor Fitzgerald. Please go ahead.
+Mara Goldstein – Cantor Fitzgerald
+Well thanks, I just had a – I guess a question or clarification on the commentary on BARDA, you said you had hoped to hear I suppose by April but is BARDA respond to any press you make by any specific date and also just on that cash burn rate now, is the cash burn rate, when is that based on BARDA funding coming into the equation?
+Neil Lyons
+BARDA has indicated on their website I believe a 180 day review period for contract proposals six months. We filed our proposal in mid-October, we’re assuming mid April to full timeframe to be what we hope is conservative. We’re in talks with BARDA to see if that the accelerated or not but that is not in our forecast based on a contract award in April.
+Mara Goldstein – Cantor Fitzgerald
+Okay.
+Operator
+Thank you. Our next question, Mr. Matthew Kaplan of Ladenburg Thalmann. Please go ahead.
+Matthew Kaplan – Ladenburg Thalmann
+Hi good morning guys.
+Yakov Kogan
+Good morning.
+Matthew Kaplan – Ladenburg Thalmann
+Just a couple of follow-up to Boris’ question with respect to, what is necessary – what’s your visibility to what’s necessary right now obviously you don’t have exact agreement with the FDA but what’s your – what do you think is necessary from both the pre-clinical and clinical point of you? Has your thinking changed on that at all?
+Ann Hards
+I believe to answer your last question the answer is no, it has not changed. The non-human primate program that is agreed with FDA includes the studies that has already been completed with the results announced which was at LD70 as far as radiation goes. Then we have an additional study to perform that will include both LD30 and LD50 radiation doses in the same study. In addition, we have a non-radiated, non-human primate studies that is required in part of the dose conversion process.
+From the mouse perspective and as I said this is not agreed, but from the mouse perspective we are proposing to FDA program similar to the non-human primates, although only looking at LD70 for radiation at this time since we believe that with the LD30/50 study in the non-human primates that should be sufficient for showing that the drug works at multiple radiation doses and therefore we should only need to do one radiation dose in the mouse and then also a non-radiated mouse study again looking at dose conversions.
+And then as we previously discussed we of course also have to look at dose conversion and safety and non-radiated humans. So we believe that the program…
+Matthew Kaplan – Ladenburg Thalmann
+Essentially what you are saying is two trials in humans, one dose conversion and then one looking at the dose that you expect to be efficacious from point of view?
+Ann Hards
+Correct.
+Matthew Kaplan – Ladenburg Thalmann
+Okay. And then just quickly from a non – from a pre-clinical point of view you still have the LB30 and LB50 non-human primate and then the mouse, you need to sketch out the mouse more…
+Ann Hards
+Yes.
+Matthew Kaplan – Ladenburg Thalmann
+Detail study that you pointed to me?
+Ann Hards
+Yes, we believe that the mouse program can be have one study less than the non-human primate because of the support that the two models provide to each other but that is not confirmed.
+Matthew Kaplan – Ladenburg Thalmann
+Okay. And then with respect the cohort of work that you knew – what’s the timeline once you reach agreements – with FDA final agreement to get this fellows to work on?
+Yakov Kogan
+So the timeline of performance study will depend partially on the BARDA funding. We currently have funding from two different departments, department of defense, DTRA and CBMS to perform some of the studies and just outlines. We are looking – they are seeking additional finding from BARDA to complete the remaining studies.
+
+Matthew Kaplan – Ladenburg Thalmann
+One question on the BARDA process?
+Yakov Kogan
+Yes.
+Matthew Kaplan – Ladenburg Thalmann
+You submitted a proposal in October to BARDA, requesting funding for animal studies, correct?
+Yakov Kogan
+And human.
+Matthew Kaplan – Ladenburg Thalmann
+And human studies. So what’s the process to amend that request if you have to change your proposal after your meeting with the FDA in terms of if you find you have to do something differently in the mouse or human studies, how does that work with the BARDA funding?
+Yakov Kogan
+I will answer your question based on our previous experiences with BARDA. As many people on the call may know that Cleveland BioLabs had successfully completed 2.5 year contracts with BARDA previously. So my response is based on the past experiences with agency.
+Matthew Kaplan – Ladenburg Thalmann
+Fair enough.
+Yakov Kogan
+So in the past upon review of a proposal, BARDA comes – there is a list of as well as several our agents, it comes back with the list of technical and financial questions to your proposal which you respond and based on your response you have a option to submit a final proposal, the last proposal which interpret comments BARDA made to you.
+So what we did in the past and that’s what we intend to do while you have a comments from FDA at the same timeframe, you’ll interpret them in a final proposal which will be submitted to BARDA for consideration. So and this was through full part and I believe it’s likely to be the case in these situations.
+Matthew Kaplan – Ladenburg Thalmann
+Great. Thank you for answering all my questions.
+Operator
+Thank you. The next question is from Walter Schenker of MAZ Partners. Please go ahead.
+Walter Schenker – MAZ Partners
+Sure. Two questions but they’re on the same issue. One has to do – they both had to with 502 for ARS, one is to do with the cash burn and one is to do with the BARDA and the BARDA question will be addressed ahead, but I am correct Neil that your pre-BARDA and post-BARDA cash burns are about $0.5 million per month different?
+Neil Lyons
+Correct Walter, the…
+Walter Schenker – MAZ Partners
+And that does not include additional studies which you are not doing. That’s just a cost of keeping one of the people in place awaiting the funding to go forward?
+Neil Lyons
+No, that does include the additional studies in oncology, that monthly burn includes everything.
+Walter Schenker – MAZ Partners
+No, I understand but the fact that it goes from a $1.1 million to $600,000 post-BARDA. BARDA isn’t funding the oncology trials, correct?
+Neil Lyons
+Correct. So the difference is because our personnel become chargeable to the BARDA contract directly as well as the indirect costs that are associated with them. So that’s causing the decrease in the monthly burn, BARDA starts paying for that directly.
+Walter Schenker – MAZ Partners
+And relative to that number, if in fact since it wouldn’t be – it’s happened before we have an adverse result with BARDA that number can be cut materially or we just eat them forever until we find some way to fund it, Yakov.
+Yakov Kogan
+So Walter the company is working on the 20 [ph]. We do not want to discuss the details of this plan but we do have a backup scenario.
+Walter Schenker – MAZ Partners
+Which is not the next sale of common stock?
+Yakov Kogan
+The 20 is not – decency looking opportunities.
+Walter Schenker – MAZ Partners
+Meaning away from equity raising money?
+Yakov Kogan
+Correct.
+Walter Schenker – MAZ Partners
+Okay. Ed, could you give us some better color, you are now locked down with BARDA because you have a proposal and you can’t speak to them, there was a lot of interaction between the company and the BARDA I gather prior to actually submitting the proposal. The proposal in fact is for more than just the immediate studies but some after studies, after you submit the BLA. Can you just give us some sense as to what levels of BARDA you talked to going into this, the fact that they accepted a proposal from more than just a basic initial studies. And sort of how you would – I realized you can’t say a lot, but how you sort of looked at given the history here of that interaction?
+
+Ed Martin
+Can you hear me?
+Walter Schenker – MAZ Partners
+I can hear you may be no one else can.
+Ed Martin
+Okay, good. Essentially to the first part of your question, we spent 90 minutes briefing to director of BARDA and his senior staff and then we spent 90 additional minutes at the division and technical level with a dozen plus technical and division level people. So our status through the summer was completely briefed at all levels of BARDA. In addition to that, there were follow-up meetings with both the director and key divisional people who have the responsibility for it.
+So the Cleveland Bio effort fully educate, engage the senior leadership from the top down has been accomplished. And as you pointed out, effective the day we submitted the proposal I mean we can’t even have social meetings with the people there. So we have not had any communication since the submission of the proposal. Number two in regards to the character of the relationship which as you well know was heavily impacted by the original concerns raised by the new division and FDA which have largely been ameliorated that would have been an insurmountable barrier for BARDA.
+Obviously that those questions had been fully resolved, and indeed I think it’s clear to say that BARDA currently requires a high level acute radiation syndrome antidote in their armamentarium. And right now, there is only one drug well on its way to BLA. There are three or four more drugs in the very preliminary Phase 1 and Phase 2 animal studies but none or anywhere is developed nor have as much data, nor have the kind of active full engagement in regards to a BLA that Cleveland Bio does.
+So the answer to your question is in those discussions and senior briefings and then subsequent discussions with the leadership, essentially what BARDA is interested in doing is finding a high dose acute radiation syndrome antidote. Right now we’re the furthest head, so essentially their counsel to us is and in fact their requirement, their expectation was we need to know everything that you have to do to get full licensure.
+And that was an explicit question, explicit expectation. So in our submission, we were responsive to that request. So essentially we laid out all the things that needed to be done prior to the submission to the BLA and subsequent to the BLA approval were other questions that might come up. Does that answer your question?
+Walter Schenker – MAZ Partners
+It largely does. One last point, given the fact you could interact at multiple levels with them prior to submitting your proposal and they accepted your proposal, had there been major differences, would they still accepted the proposal?
+Ed Martin
+No.
+Walter Schenker – MAZ Partners
+Okay, so effectively they understood what was in the proposal and they did not – it doesn’t guarantee anything, they did not have exception to what you were submitting otherwise they would have said don’t submit this proposal, you haven’t met what we want to see?
+Ed Martin
+No, I would actually go further. There were very specific discussions and even expectations that BARDA had, so that we had a very, very good idea exactly what they expected. They had a good idea of what we were going to propose and indeed they added a couple of things to that list that we subsequently included.
+Walter Schenker – MAZ Partners
+Okay, good. Thanks Ed.
+Operator
+Thank you. Our next question is from Robert Brous of Wunderlich Securities. Please go ahead.
+Robert Brous – Wunderlich Securities
+Hi, thanks for taking my question. Ann, with regards to the clinical dose conversion trials, do you see having a file or meet with the FDA on the results of the dose conversion trials prior to proceeding with the larger clinical trials?
+Ann Hards
+The dose conversion trial is the clinical trial, but we do see having to meet with them prior to that, yes as I’ve said, we are still working on details of that.
+
+Robert Brous – Wunderlich Securities
+I got the sense that there were two separate files for – well one there is the non-radiated mouse that you would have a small trial to give preliminary results on dose conversion prior to proceeding with the larger trial. Is that incorrect?
+Ann Hards
+Can you repeat so because you mentioned something about the mouse trial which – okay...
+Robert Brous – Wunderlich Securities
+As there should be the mouse and the human, I mean the non-human primate rather.
+Andrei Gudkov
+Robert, let me try to rephrase your question. So we have two arm in the clinical trial as FDA suggests that one, dose escalation trial which would be used in conjunction in animal studies for dose conversion and then the dose which presumably would these have to be finish human would be established and would be kept for safety. So Robert question, do we need to have a meeting in between two arms of clinical studies?
+Robert Brous – Wunderlich Securities
+That’s the question, yes.
+Ann Hards
+So okay, most likely – yes, very probably yes. Because in fact the safety trial will clearly be dependent on the results of the dose or the safety arm will be clearly dependent on the results of the dose conversion arm. It is possible if the dose conversion points to is at a level where we already have sufficient human data from the earlier two studies. It’s possible we wouldn’t even have to do that arm, but it’s also – so the answer – the short answer is yes, we have to have the results of the first and discus it before it’s clear what we have to do about the second part.
+Yakov Kogan
+And actually I want to fall off this answer and I am going to build my response on Boris’ question about recent advisory committee meeting where Human Genome Sciences had last Friday. So we believe what would have report we should deals is the divisions during the last 15 months and upcoming meetings which we could hold – would build a stronger case would be late submission because we want the judiciary to be involved in every element of the design and execution of the studies, be familiar with the data. And we believe what that report would help us to make changes of success would be very higher.
+Robert Brous – Wunderlich Securities
+Thank you and one more question for you, Yakov. Does the proposal of BARDA include a procurement option?
+Yakov Kogan
+No.
+Robert Brous – Wunderlich Securities
+Okay, thank you. Thank you for taking my questions.
+Yakov Kogan
+So just to follow-up. In case of proposal under broad agency announcement which you can review on BARDA website and this doesn’t include procurements.
+Operator
+Thank you. Our next question is from Marty Meyerson of MH Meyerson & Company. Please go ahead.
+Marty Meyerson – MH Meyerson & Company
+Hi good morning gentlemen. Most of my questions have been answered, they were very, very good questions, I just have one short question for Dr. Kogan, and one for Dr. Gudkov. Yakov, for the balance of the finance becomes available, how long do you think it will take for the rest of the human safety and animal studies to be completed?
+Yakov Kogan
+I can see what you are talking about 502 Biodefense application?
+Marty Meyerson – MH Meyerson & Company
+Yes, in total.
+Yakov Kogan
+We are looking for 24 months timeframe.
+Marty Meyerson – MH Meyerson & Company
+Okay.
+Yakov Kogan
+From October 2012, yes.
+Marty Meyerson – MH Meyerson & Company
+Okay, thank you Yakov and then my next question is for Dr. Gudkov, good morning Andrei.
+Ann Hards
+Good morning.
+Marty Meyerson – MH Meyerson & Company
+My question is since the regarding your liver studies had gone well which you are handling, the last cohort you mentioned is about completed when that’s all done have you selected the next cancer type that you will be testing from the previously announced list and will that second group of cohort move faster in the first group?
+
+Andrei Gudkov
+Thank you for the question. First of all it would be pretty mature for me to give a definitely answer to your first question however I want to say that since we have completed this companion diagnostic assay development and we like today we analyzed toll-like receptor 5 status of more than 120 human tumors of different kinds covering 29 different tumor types.
+We know now a lot about which tumor is doing and which do not express TLR5. And the decision about extending this trial to the efficacy arms will depend on this result. So again it would be pretty mature for me to draw the specific types. However as I said we do have several candidate cancers with high likelihood that they may be kind of targets for the trial but within the next few weeks or months who will come into the proposals and we’ll start taking actions in this direction. As far as the second question is concerned about the speed, we do not need to wait until this trial is completed in order to extend into the efficacy arms, actually depending on the results of pharmacodynamics risk close to the drug in current cohorts which would were tested, we are reaching the point where we see that it was sufficient pharmacodynamics implications or drugs activity which means that we are not too far from the situation when we can seriously consider of extending a total efficacy arms into specific types of cancer. As far as this particular trial going, we expect that there are several reasons why we can expect more expedited way to proceed with that. We are going – we are discussing with Phase 1 team who is running the trial at several specific modifications to the protocol which may take – when they take in effect or it may allow us to do more efficient recruitment.
+Marty Meyerson – MH Meyerson & Company
+I see, well thank you very much Andrei. And that concludes my questions.
+Andrei Gudkov
+Thank you, Marty.
+Operator
+Thank you. Our next question is from Mara Goldstein of Cantor Fitzgerald. Please go ahead.
+Mara Goldstein – Cantor Fitzgerald
+Great, thanks for taking my follow-up. My question actually relates to the commentary around new biomarker information on 502, and I am wondering if you can give us a little bit more color on that. I know in the past you’ve spoken to three independent biomarkers having helped predict a similar human dose but what exactly is FDA looking for?
+Andrei Gudkov
+Well you are talking about the biomarkers which have been used for dose conversion, right?
+Mara Goldstein – Cantor Fitzgerald
+Yes, please.
+Andrei Gudkov
+Well we have recently published paper in Journal of Experimental Therapeutics in which this information is described in far more detail than I can cover now. However just to give you the brief answer, the biomarkers which we have chosen include G-CSF, interleukin-6 and the degree of reservation of neutrophil counts 24 hours post injection of the drug. For each biomarker, we have a strong indications of their direct involvement in the efficacy of the drug in the mechanisms of actions. So the active mediators rather than just witnesses of drug activity and therefore they are satisfying (inaudible) requirement for the definite – what that can be taken as a biomarker.
+Mara Goldstein – Cantor Fitzgerald
+Okay.
+Operator
+Thank you. We have no further question in queue at this time. I would like to turn the floor back over to management for any closing remarks.
+Yakov Kogan
+Thank you for – so I’d like to thank everyone for joining us today and we hope to speak to you soon.
+Operator
+Thank you. Ladies and gentlemen, a replay will be available for three months following today’s conference, the dial-in information for the replay is 1-877-660-6853 and for international parties 201-612-7415. The conference ID number for the replay is 402548. Once again the conference ID number for the replay is 402548. And this concludes today’s teleconference. You may disconnect your lines at this time. Thank you for your participation and have a wonderful day.

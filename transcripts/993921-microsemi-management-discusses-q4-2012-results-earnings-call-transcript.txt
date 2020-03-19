@@ -1,0 +1,199 @@
+Microsemi (NASDAQ:MSCC) Q4 2012 Earnings Call November  8, 2012  4:45 PM ET
+Executives
+Terri Donnelly
+John W. Hohener - Chief Financial Officer, Chief Accounting Officer, Executive Vice President, Secretary and Treasurer
+James J. Peterson - Chief Executive Officer, President, Director and Chairman of Executive Committee
+Steven G. Litchfield - Chief Strategy Officer and Executive Vice President
+Analysts
+Jonathan Steven Smigie - Raymond James & Associates, Inc., Research Division
+Tore Svanberg - Stifel, Nicolaus & Co., Inc., Research Division
+Christopher Rolland - FBR Capital Markets & Co., Research Division
+Richard E. Schafer - Oppenheimer & Co. Inc., Research Division
+Quinn Bolton - Needham & Company, LLC, Research Division
+Dale Pfau - Cantor Fitzgerald & Co., Research Division
+Richard Sewell - Stephens Inc., Research Division
+Michael C. Lucarelli - Evercore Partners Inc., Research Division
+Mark Delaney - Goldman Sachs Group Inc., Research Division
+Andrew Huang - Sterne Agee & Leach Inc., Research Division
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to Microsemi\'s Fourth Quarter and Fiscal 2012 Earnings Call. [Operator Instructions] After the speakers\' remarks, there will be a question-and-answer session. [Operator Instructions] I would now like to turn today\'s conference over to Ms. Terri Donnelly. Please go ahead.
+Terri Donnelly
+Good afternoon and welcome to Microsemi\'s fourth fiscal quarter and year end 2012 earnings conference call. I am Terri Donnelly, coordinator of this call. In a few moments, we will hear from and have an opportunity to ask questions of Jim Peterson, our President and Chief Executive Officer; John Hohener, our Executive Vice President and Chief Financial Officer; and of Steve Litchfield, our Executive Vice President and Chief Strategy Officer. A recording of this conference call will be available on the Microsemi website under the Investors section. Our website is located at www.microsemi.com.
+Microsemi issues guidance in the form of a limited business outlook on our expectations for the next quarter. This business outlook reflects our expectations as of November 8, 2012, and is continually subject to reassessment due to changing market conditions and other factors, therefore, must be considered only as management\'s present opinion. Actual results may be materially different. However, management undertakes no obligation to update these or any forward-looking statements, whether as a result of new information, future events or otherwise. If an update to our business outlook is provided, the information will be in the form of a news release. We wish to caution you that all of our statements, except the company\'s past financial results, are just our current opinions, predictions and expectations. Actual future events or results may differ materially. For a review of Risk Factors, please refer to Microsemi\'s report on Form 10-K for the fiscal year ended October 2, 2011, which was filed with the SEC on November 23, 2011, and our latest Form 10-Q, which was filed with the SEC on August 6, 2012.
+With that said, I\'m going to turn the call over to John to discuss our financial results, and then Jim will address our end markets and overall business strategy. Here\'s John Hohener.
+John W. Hohener
+Thank you, Terri. Net sales for the quarter ended September 30, 2012, were a record $263.1 million, up 1.5% sequentially from $259.2 million, and up 15.7% from the $227.3 million reported a year ago. Revenue for the fiscal year 2012 was a record $1,012,500,000, an increase of 21.1% over FY 2011.  Microsemi expects that net sales in the first quarter of fiscal year 2013 will decline 2% to 6% sequentially. Our revenue decline this quarter, although less than our peers, is due to macro weakness, mitigated by relatively stable aerospace and defense end markets.
+
+Our non-GAAP gross margin was 57.2%, a sequential increase of 100 basis points versus our guidance of 30 to 70 basis points at the beginning of the quarter. Our GAAP gross margin was also 57.2%, a sequential increase of 140 basis points. Our gross margin improvement was driven by growing sales of newer higher-margin products and the realization of operational cost reductions as we drove improvements ahead of schedule. We expect our non-GAAP gross margin to improve between 40 and 80 basis points next quarter, driven by continued improvement in manufacturing efficiencies and product mix.
+This quarter, non-GAAP selling, general and administrative expenses were $43.2 million or 16.4% of sales, compared to $41 million or 15.8% of sales in the prior quarter. This was slightly higher than expected due to a handful of items, including sales additions, IT infrastructure upgrades, IP-related legal expense and real estate consolidations. Next quarter, we will hold SG&A flat in dollars as we continue to support a significant number of new product introductions that will drive organic revenue growth in coming quarters.
+Research and development costs were $42.8 million or 16.3% of sales compared to $44 million or 17% of sales in the prior quarter, a favorable decrease of $1.2 million or 70 basis points. During the quarter, we had lower expense related to mask and design tools compared to earlier periods. But as we continue to invest in new product development, we expect R&D to increase between $1 million and $2 million next quarter.
+Our non-GAAP operating income was $64.5 million or 24.5% of sales, compared to $60.7 million or 23.4% of sales in the third quarter, and $59.7 million or 26.3% reported last year. We recorded $8.5 million in non-GAAP interest and other expense compared to $8.8 million last quarter, reflecting the previously announced paydown of our term debt of $30 million.  As we mentioned at our Analyst Day, we intend to pay down $100 million of our debt in our current fiscal year. To that point, subsequent to the quarter end, we paid down an incremental $25 million of our term debt. This paydown will allow us to see a decrease in interest and other expense of approximately $200,000 next quarter.
+Non-GAAP net income was $51.8 million or $0.58 per diluted share, compared to $48.3 million or $0.55 per diluted share last quarter, and $45.6 million or $0.53 per diluted share reported a year ago. The company expects first quarter non-GAAP earnings per diluted share of between $0.50 and $0.54.
+Our non-GAAP effective tax rate for the quarter was 7.5%. Our tax rate was up slightly as we had more income in the U.S. than in prior quarters. We expect our tax rate will be approximately 7% next quarter.
+For the fourth quarter, we reported GAAP operating income of $26.6 million compared to $21.3 million last quarter and $28.8 million reported a year ago. We recorded GAAP net income of $11.6 million compared to $8.1 million last quarter and net income of $43.4 million reported a year ago.
+Our GAAP results also include noncash expenses of $27.4 million in amortization, $9.7 million in stock-based compensation or 3.7% of sales, and $900,000 in other expenses. We estimate the first quarter stock-based compensation expense will be between $9.5 million and $10 million.
+Capital spending was $9.3 million compared to $13.1 million in the prior quarter. Next quarter, we expect capital spending to be between $6 million and $9 million. Depreciation and amortization expense was $34.6 million compared to $33.2 million in the prior quarter.
+Accounts receivable was $153.2 million compared to $153.7 million at the end of the third quarter. Inventories were $159.1 million compared to $155.5 million in the third quarter. Inventory was up slightly in support of production transfers within the company. DSO remained at 53 days compared to last quarter, while days of inventory increased 3 days to 128.
+
+We ended the quarter with a cash balance of $204.3 million, and our GAAP operating cash flow was $55.2 million. As I mentioned earlier, subsequent to the end of the quarter, we prepaid $25 million in principal on our term loan.
+Our best estimate of the end market percentage breakout of net sales for the fourth quarter was approximately: communications, 31%; defense and security, 28%; aerospace, 21%; and industrial, 20%. We recorded a book-to-bill ratio greater than 1:1, driven by bookings strength for long cycle time products.
+With that, I\'m going to turn the call over to Jim Peterson.
+James J. Peterson
+Okay. Thank you, John. Let\'s start off with communications, our largest end market, which accounted for 31% of our total business in the September quarter. Revenues in this end market grew 1.5% sequentially to $80.4 million, up 86% year-over-year. In the quarter, we showed steady contribution across most all product lines, with our RF and power conversion products showing the strongest sequential trends. As we discussed in the prior quarter, our power management products continue to penetrate the marketplace, benefiting from Microsemi\'s total solution approach to the market. After record results in the June quarter, revenues continued to grow in the September quarter.
+RF products also grew nicely quarter-over-quarter. As you may expect from last week\'s product announcement and reference design activity with Broadcom, we continue to see a solid year for our RF group. We expect a strong year in 2013 and beyond as we more broadly benefit from the ramp of the next Wi-Fi standard 802.11ac/5G.
+Our industry-leading timing and sync products delivered another solid quarter in September despite a down market, with revenues roughly flat following the June quarter strong results. On our Analyst Day in September, we focused and expected 3-year compound annual growth rate of 25% for our timing and sync products. Last night\'s announcement from AT&T, that it would increase its CapEx and intensify efforts to expand 4G LTE coverage to 99% of its subscriber base over the next few years, leaves us confident we can achieve these results.
+Defense and security grew approximately 1% sequentially to $73.3 million and accounted for 28% of total revenues. Over the last 3-quarter period since last December, Microsemi defense and security end markets now have grown 6%. As we focus on electronic content, cyber security and our road map and its increasing value to our customers, I look forward to continued growth in this end market.
+Aerospace revenues totaled $54.7 million in Q4, down from $55.6 million in the prior quarter. However, the positive bookings, growing backlog and increased content, we continue to forecast solid performance from Microsemi in the aerospace markets.
+Industrial continues to deliver. In this end market, Q4 revenues came in at $54.6 million, up 5.3% sequentially from $51.9 million and accounting for 20% of total revenues. Microsemi benefited from its earlier-than-expected ramp on our ultra-low power radios and ICD applications at Medtronic, as well as upside strength from our semiconductor test equipment customers. We continue to see strong pipeline of industrial opportunities in the medical, industrial automation and other markets.
+As we look back on fiscal 2012, I\'m pleased with Microsemi\'s many accomplishments. We surpassed $1 billion in annual sales. We greatly improved our operational efficiencies and cash flow. And we positioned ourselves for long-term growth in key markets, while still enjoying the benefits of our unique end market diversity. By continuing to focus on higher growth opportunities, increased dollar content in each of our end markets, we expect to outperform our peers in the semiconductor market.
+
+At this time, we\'d like to thank our shareholders, our customers and our employees for their support in making 2012 a record year for Microsemi.
+With that, I\'d like to thank you for your interest and support, and we\'ll take questions from our analysts. [Operator Instructions] Susan, please.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from the line of Steve Smigie with Raymond James.
+Jonathan Steven Smigie - Raymond James & Associates, Inc., Research Division
+With regard to the guidance, it\'s down a little bit, still better than a lot of comps. But can you talk a little bit about which end markets are likely to be stronger and which ones are likely to be softer in the coming quarter?
+James J. Peterson
+Yes. That\'s a good question. Thank you. Communications and industrial, I think like everyone else, they\'re going to face these -- some macro conditions that are out there. But I think that\'s going to be mitigated, strangely enough, by our aerospace and certainly our defense markets, Steve.
+Jonathan Steven Smigie - Raymond James & Associates, Inc., Research Division
+Okay, great. And as we look out to Q1, is it your sense -- given you have longer backlog than most folks out there, do you sense that Q1, you can sort of start to grow again sequentially?
+James J. Peterson
+Yes, we don\'t -- yes, let me try to get where you\'re going. I think the fact is, we just stick with the guide, we guide 1 quarter. But I think we\'re going to have an up year in revenue and in earnings.
+Operator
+Your next question comes from Tore Svanberg with Stifel, Nicolaus.
+Tore Svanberg - Stifel, Nicolaus & Co., Inc., Research Division
+First question, Jim, can you just talk a little bit about what your customers are telling you? We\'ve heard some people talk about the demand is there, but there\'s just hesitance and nobody really wants to do anything here before the end of the year. So just based on the conversations that you\'ve had with customers, what do you think is going on?
+James J. Peterson
+Yes, I think you hit it right in the head. Welcome to the party, right? We\'ve been watching this fiscal cliff and sequestration for the last 5 or 6 quarters. And I think now everybody\'s going, \"Oh my gosh.\" There might be a cliff coming and maybe a thing called sequestration.\" I think there\'s hesitancy. I think that\'s even going to be compounded a bit more by the fact that I\'m not sure which customers are going to be accepting product the last 2 weeks of December. I think a lot of companies are saying, \"Hey, I think what we\'re going to do is we\'ll just -- instead of 1 week, we\'ll take 2 weeks off.\" I think that\'s going to be an issue too, Tore. But with all that baked in, right, at Microsemi, across our product lines, we see -- we\'re calling it a down 2% to 6%, and we\'re strengthening gross margins. And that\'s because we\'ve been fixing things. We\'ve been working towards what happens when we get closer to this cliff. So I think our new products, certainly our efficiencies, our share gains, we\'ll fare better than the rest. But if you\'re wondering if there is uncertainty and the like out there, there\'s plenty of it.
+Tore Svanberg - Stifel, Nicolaus & Co., Inc., Research Division
+Very good. And my follow-up question is for John. John, the cash flow continues to be very impressive. And next quarter, your CapEx is going to come down about $6 million to $9 million. Is that sort of the level that we should model CapEx to be going forward, sort of on a run rate basis?
+John W. Hohener
+Yes. As we talked about -- the previous 2 quarters, we had some facility consolidation we were doing, so our CapEx was up a little bit. But the level that we guided to, $6 million to $9 million, is a number you can use for a few quarters out.
+
+Operator
+Your next question comes from the line of Craig Berger with FBR.
+Christopher Rolland - FBR Capital Markets & Co., Research Division
+This is Chris Rolland in for Craig. So I think I\'ve actually talked to you guys about this before. In terms of R&D spending, you guys were probably about 9% a few years ago. I guess next quarter, you\'re going to be up at about 17%. I know your business model has changed a lot here over the past few years, but where are we going here? What does that sort of look like in \'13? And what\'s sort of a long-term model for you guys?
+John W. Hohener
+Sure. At the end of calendar year \'13, we\'ve talked about getting to a 60% gross margin, 30% op margin. When we\'re in that area, if you will, we\'re going to be about 16% R&D, 14% SG&A. That\'s our goal at that point in time.
+Christopher Rolland - FBR Capital Markets & Co., Research Division
+Okay. And let\'s say we do go off the fiscal cliff and defense just has a really tough year. What sort of levers are you guys going to pull there? Where are you sort of going to redeploy some investment capital? Do you double up in certain areas? How do you sort of compensate for that?
+James J. Peterson
+Good question. Just as a reminder, I\'m calling it \"up in absolute dollars\" next quarter in this space. But we\'ve already repositioned. We redeployed. We have a lot of growing content. Realize, the electronic content is actually growing 4% on or about the United States and 7% internationally. When you say defense, you better also say the word cyber security, security is embedded in there. But Microsemi, especially with the addition of Actel, we have tremendous growing content in our SoC. Certainly, in the C41S solutions on drones. Drones, I assure you, are growing nicely. Plus, we\'ve been doing a lot of total sales solution to our end customers. So our dollar value to the customers and across the board is going up, to keep his nose above water. I don\'t intend to do anything different that I\'ve done in the last 5 quarters, certainly nothing different than last quarter, and I think we have strength in these markets.
+Operator
+Your next question comes from the line of Rick Schafer with Oppenheimer.
+Richard E. Schafer - Oppenheimer & Co. Inc., Research Division
+I got a couple questions. One, just on book-to-bill. It was positive in the quarter. I know you\'re guiding down 2% to 6%. I know you\'ve kind of touched on some of this stuff. But does it just boil down to you guys trying to be conservative given the lack of visibly you have? Particularly, it sounds like late in the quarter, late in December, it sounds like you\'re -- is that what you\'re trying to bake in here or...
+James J. Peterson
+You know what, I want to bake in reality and a bit of conservatism. But when you look at the booking shape, hey, check this out, a funny thing kind of happened, our longer cycle time products and longer lead time products, which are pretty much [ph] the same in defense and in some part in the aerospace, right, play to a positive book-to-bill, which could demonstrate some strengthening in Q2 and beyond. But I think we\'re giving a realistic, yes, we\'re trying to do a realistic approach. Hey, Schafe, another thing I want to tell you, I should have mentioned on the last question when you were on the phone, Adam came up with a slogan for defense kind of, \"Fewer bullets, more bps.\"
+Richard E. Schafer - Oppenheimer & Co. Inc., Research Division
+But back on the book-to-bill stuff, it doesn\'t reflect any -- are you guys seeing any increase in cancellations or pushouts or anything weird in your order patterns?
+James J. Peterson
+Well, you know what, no, not really. Not really. And to it again, with the positive book-to-bill, with the down 2% to 6% in the first quarter and strengthen, which is normally the stickier products, I actually feel a bit more confident in the stickiness of it.
+
+Richard E. Schafer - Oppenheimer & Co. Inc., Research Division
+Okay. And then my follow-up is just on the defense business. I know you talked about it being up in absolute dollars, despite all this worry about the sequestration and the fiscal cliff or whatever.
+James J. Peterson
+Oh, I think you should worry about fiscal cliff and sequestration across the board, but I think we\'ve got it covered.
+Richard E. Schafer - Oppenheimer & Co. Inc., Research Division
+So that leads to my question though. So I mean, is there actually -- do you feel like there\'s pent-up demand ahead of all this to where you could have a set up in the calendar first half of next year, if things work out, where you actually have almost a catch-up phase with your defense biz? Better growth than normal, in other words?
+James J. Peterson
+You know what, Hey, check it out, right. This year, right, we called in off of the December quarter, we said it would grow 8% to 12%. It might come in pretty close to that 8%. Let\'s call it 7%, just so I\'ll be safe. That was pretty good last year, and I think, yes, I think people might end up being pleasantly surprised, right? I mean, there\'s a lot of grown-ups that got to pull chairs to a table here in the next 8 to 12 weeks, right, to really answer that question. But I\'m comfortable with my backlog. I\'m comfortable with my programs. I\'m comfortable with my investments. I and Microsemi are comfortable that this particular space, we will not get crushed at all.
+Operator
+Your next question comes from the line of it Quinn Bolton with Needham & Company.
+Quinn Bolton - Needham & Company, LLC, Research Division
+Hey, Jim, understanding there\'s a macro reset here in the December quarter, back at Analyst Day, in mid-September, you guys sure talked about a organic growth rate for the business as something in the, say, 10% to 12% range. It kind of looks like if we apply the reset in December and then grow at typical Microsemi 2% to 3% per quarter, on a fiscal year basis, you\'re probably only growing 2% or 3% year-over-year. One, is that the way we should be thinking about it? Or once we get past this reset in December, do you think that the organic growth that you talked about kicks you in to a higher sequential growth rate off the trough? And I\'m not sure if that\'s December or March, given the economic uncertainty. But do you get to a higher than 2% to 3% kind of normal growth rate once we\'re past this period of weakness?
+James J. Peterson
+Yes, check it out. You\'re talking to a guy who grew up with a father that would them him flat out, \"Jimmy, if you\'re going to make $12 in a year, you better make the first dollar in January.\" And I really don\'t like CEOs who say, \"Hey it\'s going to get much stronger at the end of the year.\" But check it out, I think it\'s going to get much stronger at the end of the year. So I\'m calling a strengthening to our normal Microsemi growth in the latter quarters. But it\'s certainly an up, on or about 2, what we said at the Analyst Day in revenue, and we might actually surprise people in EPS to the upside.
+Quinn Bolton - Needham & Company, LLC, Research Division
+Okay. And then just a second question kind of following on Rick\'s question about defense. You sort of said, last year off of that December base, you\'d grow 8% to 12% and you think you might do 7% to 8%. Do you care to take a shot where you think the defense business is this year? Because it sounds like you\'ve already sort of anticipated the effects of sequestration. So I\'m kind of wondering, what\'s your outlook this year? And then if sequestration doesn\'t happen, is there upside to that target?
+James J. Peterson
+Yes, I\'ll call it modest revenue growth in the defense security area. But certainly better dollar content and focusing directly on manufacturing efficiencies. So I think it will be up and up strengthening in that particular space for Microsemi. And again, it\'s 28% of our business, so we\'re real focused on it.
+
+Operator
+Your next question comes from the line of Dale Pfau with Cantor Fitzgerald.
+Dale Pfau - Cantor Fitzgerald & Co., Research Division
+I\'m sure you\'re aware AT&T said they\'re going spend a lot of money in this coming year just trying to get up to speed. And there\'s some thought that maybe this creates another arms race in sort of the carrier spending market out there. Number one, how does that affect you? Number two, have you had any preliminary conversations with some of your partners in that area? Then if you could talk about how that might be upside for you in the year.
+James J. Peterson
+Yes. I got Steve Litch kind of smiling at me a little bit. So I got Steve Litchfield here, why don\'t you throw him the question, Litch?
+Steven G. Litchfield
+Yes, well, I mean, Dale, we tried to highlight this at our recent Analyst Day. I mean, the timing and synchronization area and our overall commitment to communications is something that we\'re very excited about. And so when we see the likes of AT&T talking about this 4G LTE deployment, I mean, we get very excited. We think despite the slowdown in the second half of this year, which I think everyone\'s a little disappointed by, I think we\'re actually confident that we probably gained share over the last 6 or 7 months as far as sockets go. And I think as this starts to roll out, I think we\'re very well positioned in the products that we have today. And then even with our roadmaps and leveraging off of some of the partners that we have, some of the technologies that we have and really leveraging that in the next 2 to 3 years even.
+James J. Peterson
+Yes, we kind of touched it in the prepared statements that, at the Analyst Day, we called it 25% in our timing and synchro year-over-year for the next 3 years. And I think the arms race, a good word [ph] . But I think that solidified the fact that we will indeed grow this thing 25% year-over-year. That\'s a positive news for not only us but others.
+Dale Pfau - Cantor Fitzgerald & Co., Research Division
+Do you have any other exposure to those products other than your timing and synchro?
+Steven G. Litchfield
+So I think we\'ve got a lot of products on that roadmap right now, leveraging some of our RF technologies in general, but even some of our power management capabilities as well, to really take advantage and grow the content. And a lot of what we talked about at the offsite from a cellular infrastructure, gateways, I mean, there\'s a lot of areas where we can take advantage of this rollout.
+James J. Peterson
+It\'s more of this cross-selling with the organic growth and the growth through acquisitions is going to play out nicely.
+Operator
+Your next question comes from Richard Sewell with Stephens.
+Richard Sewell - Stephens Inc., Research Division
+Stepping in for Harsh, good job growing the gross margins this quarter. Looking out, kind of given the calm exposure and kind of everything that\'s going on in the macro, how do you -- like what levers do you have to pull to go forward for your target margin?
+James J. Peterson
+We continue to do what we\'re doing, manufacturing efficiencies, strengthening our product roadmap and our product mix and we\'re there and above. Revenue down 2% to 6%, gross margins up, pretty much tells a little bit of the tale. But we continue to do what we\'ve been doing the last couple of quarters.
+John W. Hohener
+Yes, and just to reemphasize, we improved our gross margins this quarter 100 basis points. We are guiding up 40 to 80 basis points. And that\'s even on a revenue that we\'re taking down slightly. So we feel quite confident that we are pulling those levers.
+Richard Sewell - Stephens Inc., Research Division
+Great, guys. And then at what point, if the macro continues, at what point do you start cutting OpEx?
+
+James J. Peterson
+I think you should always focus on OpEx. My team knows it. And I\'d keep my OpEx. I\'ve already sent the e-mail to my guys. Focus on OpEx is probably the most important thing the CEO should do, and of course, the CFO with him. So OpEx should always be scrutinized and modified.
+Operator
+Your next question comes from the line of Patrick Wang with Evercore Partners.
+Michael C. Lucarelli - Evercore Partners Inc., Research Division
+It\'s Mike for Patrick. On the book-to-bill, should we assume that book-to-bill is less than 1 for the other markets outside of defense and aerospace?
+James J. Peterson
+Yes, yes. The way it kind of lays out slightly to a -- I never liked the word negative book-to-bill, but it was under 1:1. And offset by the defense and the longer -- we have some long cycle time product, which is all lead time product, which actually is satellite and defense. So it\'s kind of cycle driven to a strong book-to-bill or we\'ll say a positive book-to-bill.
+Michael C. Lucarelli - Evercore Partners Inc., Research Division
+Makes sense. It seems you guys are a little more positive about EPS and margins this year than you are about revenue growth right now. Is there any change to the timing of your goal of the 60%, 30% by fourth quarter of 2013?
+James J. Peterson
+Oh, gosh, no. Oh, gosh. My guys always look me in the eye and say, \"How are we going to get to 60%, 30%?\" I\'d say, \"You know how to get there.\" So we\'re going to stick with the goal and make that happen. When we get there, we\'re going to look at it, see where revenue growth is in the plan, the macro things are in the plan, where we are with our product roadmaps and our cycles, and I\'ll readdress it right now. We\'re marching forward to get to 60%, 30%.
+Michael C. Lucarelli - Evercore Partners Inc., Research Division
+Are you more confident in the revenue growth at 12% to 15% or the margin target for this period...
+James J. Peterson
+You know what, check it out, I\'ll bet you on the 50, 50.
+Michael C. Lucarelli - Evercore Partners Inc., Research Division
+Fair enough. And then just one last quick question. What\'s the turns requirement for the quarter?
+John W. Hohener
+I\'m sorry, I didn\'t hear it.
+James J. Peterson
+Turns requirement? About 35% for the numbers I can see from the beginning of the quarter. I don\'t have like -- I should have one from today. But you wouldn\'t go wrong with 35%, which is kind of a normalized range for Microsemi.
+Operator
+Your next question comes from the line of Mark Delaney with Goldman Sachs.
+Mark Delaney - Goldman Sachs Group Inc., Research Division
+I was hoping if, first, you could a little bit more about inventory levels, both at your distributors and your OEM partners, and based on your shipment expectations for December, where you think inventory levels will be at your customers.
+James J. Peterson
+You know, I\'ll bet you communication and industrial, it\'s a little heavier than it was last quarter at this time, and we\'ll work it out. But what you\'ve got to think, that might even be offseted, offset a little bit by what\'s going on in my aerospace market. So a little higher in the 2 of course.
+Mark Delaney - Goldman Sachs Group Inc., Research Division
+Okay. Following up on the gross margin commentary. You guys, at the Analyst Day, had laid out a couple of drivers on the facility closures. I think Northern California was one of them, and then maybe doing some more offshoring. Could you just update us on how far along you are in executing on those specific areas?
+James J. Peterson
+John?
+John W. Hohener
+Yes, yes. Certainly, as it relates to -- we\'ve done one major consolidation in Northern California. There\'s another one in the works that will probably be completed by the March timeframe. And then we also outlined some activities associated with some Philippines transfer that we had talked about, and we\'re also looking in the March to June timeframe on that.
+
+Mark Delaney - Goldman Sachs Group Inc., Research Division
+That\'s very helpful. And this is my last question. How are utilization rates at your internal wafer fabs tracking?
+James J. Peterson
+Our lion\'s share of our product now is, like everybody else, outside foundry. But the ones for the defense and the military, they\'re running about 75%, 80%. But we keep that in balance.
+Operator
+And your final question comes from the line of Andrew Huang with Sterne Agee.
+Andrew Huang - Sterne Agee & Leach Inc., Research Division
+Okay. Just a question on, you\'re guiding revenue down 2% to 6%, and yet you have the gross margins going up. So does that kind of imply that the comm business is slightly below the corporate average in terms of gross margin? Or how should we think about that?
+James J. Peterson
+Yes, and I thought about that, and the answer is no. We\'re just -- I\'m just going to like go with the 2 big bullets on manufacturing efficiency and a damn good product mix.
+Andrew Huang - Sterne Agee & Leach Inc., Research Division
+Okay, great. And then in terms of the security side of the business, I know people are really focused on defense. But can you give us maybe a little update on what\'s going on with security?
+James J. Peterson
+Yes, you know what, I\'m going to turn to the guy that runs that for me, Litch?
+Steven G. Litchfield
+Yes, I mean, so we did highlight this. I mean, there\'s a lot of areas. I mean, security falls within the defense budget today. But we do see a lot of the technology is being leveraged into some other more commercial spaces, such as a Smart Grid application for example. But it is -- it continues to go well, we continue to get good traction. There\'s a lot of technologies that we\'re leveraging together into our customer base. There\'s a lot of interest in the product. And we\'re getting design wins today. And I mean, our customers in this environment are really starting to come to us in a lot of these cases, and so we\'re very excited about the potential this has over the next few years.
+Andrew Huang - Sterne Agee & Leach Inc., Research Division
+Okay. And then one last housekeeping question if you don\'t mind. Should we have the other income expense come down in the December quarter since you kind of paid off that term loan?
+John W. Hohener
+Yes. As I mentioned, Andrew, in the prepared remarks, take it down $200,000.
+James J. Peterson
+Okay. It seems like that\'s the end of it. I want to thank everybody for joining us today and just tell you as usual, have a great day.
+Operator
+Thank you for participating in today\'s conference. You may now disconnect.

@@ -1,0 +1,177 @@
+Kulicke & Soffa Industries, Inc. (NASDAQ:KLIC) F4Q12 Earnings Call November  8, 2012  8:00 AM ET
+Executives
+Joseph Elgindy - Investor Relations
+Bruno Guilmart - President and Chief Executive Officer
+Jonathan Chou - SVP and Chief Financial Officer
+Analysts
+Krish Sankar - Bank of America Merrill Lynch
+Tom Diffely - DA Davidson
+David Duley - Steelhead
+Clint Coghill - Coghill Capital Management
+Operator
+Greetings and welcome to the Kulicke & Soffa Fourth Fiscal Quarter 2012 Results Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. (Operator Instructions) As a reminder, this conference is being recorded.
+It is now my pleasure to introduce your host, Joseph Elgindy, Director of Investor Relations and Strategic Planning for Kulicke & Soffa. Thank you. Mr. Elgindy, You may begin.
+Joseph Elgindy
+Thanks, Ron. Good morning, everyone, and welcome to Kulicke & Soffa’s fiscal 2012 fourth quarter and full year conference call. Joining us on the call today are Bruno Guilmart, President and CEO; and Jonathan Chou, Senior Vice President and CFO. Both are available for Q&A after the prepared comments. For those of you who have not received a copy of today’s results, the release is available on the Investor Relations section of our website at kns.com.
+In addition to historical statements, today’s remarks will contain statements relating to future events and our future results. These statements are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Our actual results and financial conditions may differ materially from what is indicated in those forward-looking statements. For a complete discussion of the risks associated with Kulicke & Soffa that could affect our future results and financial conditions, please refer to our SEC filings, particularly the 10-K for the year ended October 1, 2011 and our other recent SEC filings.
+I would now like to turn the call over to Mr. Bruno Guilmart. Please go ahead, Bruno.
+Bruno Guilmart
+Thank you, Joe, and thank you all for joining our call today. The fourth quarter ended a very strong fiscal year for K&S with results at the high-end of our revenue guidance. We are succeeding in a challenging market due to our multi-segment leadership, flexible manufacturing strategy, R&D strength, free cash flow generation and our improving debt free balance sheet.
+Our success is clearly evident in our full year results as we achieved record net income of $160.6 million on slightly lower revenue than the prior fiscal year. For the September quarter, revenue came in at $269.2 million. This represents a 5.3% increase over the prior June quarter which came in stronger than expected. Overall, our strong revenue and gross margin results combined with the benefits of our operational cost control, resulted in operating profit of $70.3 million and an operating margin of 26.1%.
+Our focus remains on working with customers to maximize our leadership position in copper. We believe as we said for the past year that the copper position is sustainable, and the copper demand is expected to continue for several years. We have a dominant position in copper based on our technology and process expertise and our superior offering. Strong demand for our ball bonder business continues through the September quarter. 79% of wire bonders sold were to our outside customers. Our anticipated demand for copper capable wire bonders continued to remain robust.
+In the September quarter, approximately 84.5% of our wire bonders were sold as copper capable. With the average copper package roughly 15% to 25% less expensive than its gold-based counterpart, transitioning to copper remains one of the most compelling, cost-savings options for our customers today. As added color on the extent of our copper products penetration across our customer base, over 70% of our 140 active ball bonder customers had purchased a copper capable solutions over the last two years. This encompasses over 100 unique customers, went in excess of the top two in 10% customers.
+
+We continue to work with LED customers, particularly in the surface mount and high bright portions of the market, where our products are technically best suited and where we can better competitively differentiate. In the fourth quarter, less than 5% of our ball bonders were configured for the LED market. This is an interesting segment for us with the potential to become a significant contributor to our results over time. We are approaching the LED market conservatively and working to use our existing technology and IP portfolio to gather solutions for this segment. There is some crossover with our traditional customer base but the majority of customers in this segment represent new relationships for us.
+Turning to wedge bonders. Our equipment sales improved by 21% in the September quarter compared to the June quarter. These improvements were driven by higher demand from our industrial and auto customers while sales to the power semiconductor segment remained relatively flat. We anticipate wedge bonders volume will gradually increase over the current quarters as existing capacity is being digested. In summary, we are pleased with our business performance in the September quarter and for our full fiscal year 2012.
+We continue to drive revenue, margin and our production improvements and remain focused on expanding our technology offering and market leadership position. Operating success has allowed us to materially improve our balance sheet and give us the flexibility to support ongoing (inaudible).
+I will now turn the call over to Jonathan Chou for a more detailed financial review of the September quarter. Jonathan?
+Jonathan Chou
+Thank you, Bruno. My remarks today will only refer to GAAP results. On today\'s call I will compare the September quarter to the June quarter. I will also provide some full fiscal year 2012 financial highlights.
+Net revenue for the quarter was $269.2 million, up $13.6 million from the June quarter. The net revenue change was driven by higher equipment volume. As Bruno highlighted earlier, we achieved quarter-on-quarter growth coming from a strong June quarter. Revenue for the fiscal year of 2012 came in at $791 million, which was 4.7% lower than fiscal year 2011.
+The important takeaway, which Bruno also highlighted earlier, is that we generated a record net income of $160.6 million. This was up 25.8% over the prior year or up about $33 million. From an EPS perspective, we achieved $2.13 in fiscal year 2012 versus $1.73 in fiscal year 2011. This significant improvement in operating performance comes from three key areas.
+Strong and continued performance in the current markets we serve. Ongoing corporate-wide cost operational effectiveness, and continuing capital structure improvement. Moving back to the fourth quarter, gross margin came in at 45.7% with gross profits at $123 million. This was lower than the 47.9% in the June quarter, which was partially contributed by higher mix of (inaudible).
+Operating expenses were $52.7 million, up by $6.5 million from the June quarter. Operating expenses in the December quarter are anticipated to fall between $43 million and $46 million. Income from operations was $70.3 million and our tax position came in at $3.2 million. We are pleased to lower our long-term effective tax rate targets to 10% as we continue to simplify our tax structure. We ended the quarter with a total cash and investment position of $440 million, equivalent to $5.80 per diluted share. Our book value as of September 29, 2012 was $8.53 per diluted share.
+We continue to examine internal and external growth opportunities in an effort to diversify our revenue stream and broaden our product portfolio. Working capital, defined as accounts receivable plus inventory less accounts payable, increased by $17.7 million to $190.7 million. From a DSO perspective, our days sales outstanding remained flat at 63 days. Our days sales of inventory decreased from 44 days to 36 days. Our accounts payable days decreased by 12 days to 35 days.
+
+This concludes the financial review portion of our call. I will now turn the discussion back over to Bruno for the December quarter business outlook.
+Bruno Guilmart
+Thank you, Jonathan. In terms of our guidance for the typically stronger fiscal first quarter, we expect revenue to be approximately $95 million to $115 million. We are well positioned as we enter Q1 even with a lower demand implied in our outlook, given the structural changes we have already made. During the current December quarter, we have again initiated our corporate-wide cost containment program. This program was previously rolled out in our first quarter fiscal 2012 as a more sustainable way to reduce discretionary operating expenses in an effort to maximize profitability in lower demand quarters.
+We are proud of the structural changes made at K&S over the past several quarters. We had taken these actions while achieving record profitability. This reflects the discipline of our management team and the long-term view we have as we work to leverage our leadership position in order to expand our company and the shareholder value.
+This concludes our prepared remarks. Operator, we will now be happy to take any questions.
+Question-and-Answer Session
+Operator
+(Operator Instructions) Our first question is from the line of Krish Sankar of Bank of America. Please proceed with your question.
+Krish Sankar - Bank of America Merrill Lynch
+I had a few of them. Bruno, when I look at your December guidance, is there any way to figure out how much of it is seasonal versus cyclical from the slowdown going on in semi?
+Bruno Guilmart
+I think it’s a combination of both. As you know we have always had a -- our Q1 which is the Q4 calendar, is always a lower quarter for us, given that all the capacity at our customer has to be installed pretty much within the standard timeframe in order to be able to manufacture all the electronic goods for the holiday season. And as you know 80% of the semiconductor industry today is driven by the consumers. So if you combine these plus a slowdown, a cautiousness in the industry, that basically resulted probably in a slightly lower quarter, than we had in the past, in the past three quarters.
+Krish Sankar - Bank of America Merrill Lynch
+Okay. And then if you go by the technology and say we are going to start seeing some kind of pickup in March. Is fair to assume that typically from your business standpoint, you would actually really start seeing any demand flow through for wire bonders after the Chinese New Year or do you think it will start picking up right in the beginning of January?
+Bruno Guilmart
+It’s usually the same question you ask every year, Krish. Typically, after, right about Chinese New Year or there around is when we start to get good visibility on what the business is going to look like at least for our second quarter and some indication on the following quarter. That’s the way. So that does -- you know in our business, bid business could pickup real quickly and we are prepared to fulfill that demand, should that business come in second quarter right after Chinese New Year.
+Krish Sankar - Bank of America Merrill Lynch
+And then two more questions. One for Jonathan. What is your breakeven right now?
+Jonathan Chou
+Our breakeven has been about $95 million in terms of the top line revenue for us to breakeven. And obviously we have some flexibility in terms of managing our cost structure. So it’s about at this point.
+Krish Sankar - Bank of America Merrill Lynch
+And then obviously you guys have done a good job with the cash and it has been growing pretty nicely. So kind of curious to know what your capital allocation priorities are when we start looking into calendar 2013?
+Bruno Guilmart
+I think our capital allocation priorities have not really changed. We are focusing on advanced packaging technology. I think I have mentioned that in the previous call. We want to -- within our space, expand our product portfolio. We have always had a strategy of being the number one in the market we server and that also has not changed. And we think that there is opportunities for us in these 2.5D, 3D wafer level packaging. We have actually already started an organic effort and there is a lot of things around that in the next, I would say four, five years, most of the growth is going to come from that space that we define as mid-end, which is in-between the foundries and the OSAT. And we are obviously focusing on our space which is precision engineering assembly type equipment.
+
+So therefore we want to keep the flexibility of the cash we have on our balance sheet to look at non-organic growth opportunities. However, we keep discussing on a regular basis with our board our option to use the cash such as potential share buyback. I think in our case, dividends do not really make great sense because of the volatility of the business but we explore options to make the best use of our cash. Maybe, Jonathan, you want to add on that?
+Jonathan Chou
+Yeah. That’s all part of our planning process. But I just wanted to give you a little bit more color Krish. Our CapEx historically has been $7 million or so a year. But this current year, FY2013, we do have some capital allocation for say our (inaudible) building with our landlord. And that’s been about $30 million for the new (inaudible) building here in Singapore, as we continue to actually consolidate our manufacturing footprint here.
+Krish Sankar - Bank of America Merrill Lynch
+And is this CapEx just a onetime thing that goes away after fiscal ’13 or?
+Jonathan Chou
+That’s correct.
+Operator
+Thank you. Our next question is from the line of Tom Diffely with DA Davidson. Please proceed with your question.
+Tom Diffely - DA Davidson
+First, Bruno, I wondered if you could just give us a feel for what the business looked like today versus a year ago. Does it feels like normal seasonality, or there is like something else is going on versus what you saw maybe a year ago and also two years ago?
+Bruno Guilmart
+You know every year is a little bit different from the previous year. As you saw a year ago, our third quarter was our peak quarter and we started to see a decline in the business in the fourth quarter. This year actually it didn’t happen. We actually grew quarter-on-quarter from Q4 over Q2, which is I would say not unusual but when you look at what\'s going on in the industry, you know we feel pretty good about our first quarter and the penetration, and that we keep improving, increasing our customers.
+So for Q1, the drop is probably a little bit, I would say steeper than we have seen last year, from the previous year we saw that. But it is not I would say a cause for alarm and the main reason for that is because we are spending a lot of efforts in restructuring the company so that we can lower our breakeven point to about [$95 million]. So even you know I think it’s a consequence of -- there is some uncertainty in the business, in the industry. Typically it’s a low quarter for us because of the seasonality. But overall we are actually well positioned to manage to stay above water in our first quarter of fiscal ’13.
+Tom Diffely - DA Davidson
+Okay. Was there anything different in the quarter, the fourth quarter, as far as the split between IDMs and OSATs? Do you have that....?
+Bruno Guilmart
+Yeah, I would give you the breakdown. We were roughly 79% with OSAT. So I think it was probably you know when we have a strong quarter, always the OSAT in terms of percentage is quite high. So it was just, no, I would say no major drastic changes versus the previous quarter. Pretty much the same mix as we have seen in the past.
+Tom Diffely - DA Davidson
+Okay. And you talked about how there is still -- it’s look like there are several more years of the gold to copper transition that’s going to happen. Some of those come from the big OSAT customers as well. I am curious though, when you look out over the next couple of years, do you think the business shift moves from a little bit from the OSATs who have been ramping up, more to the IDMs that are a still little behind the copper transition.
+Bruno Guilmart
+Yeah, the thing is the IDMs -- I mean, I agree the IDM are behind the curve in terms of transitioning to copper. They have actually transitioned to copper on the smaller [pin] packages which doesn’t necessarily offer the best cost advantages because you have very little gold content in them. But what\'s happening again, as you can see there are very few IDMs increasing capacity except for the large (inaudible) whether it’s front-end or back-end. And they tend to rely more and more on the OSAT to do their assembly and test or a large portion of their assembly and test.
+
+So on the OSAT, especially when you talk about the two big guys, are very quick now from a copper perspective to take that business and are not afraid to invest more to increase the capacity in that space. So I do not anticipate a really strong growth coming directly from the IDM just because they tend to access more as they did in the past.
+Tom Diffely - DA Davidson
+Okay. So if we are speaking about deals such, some of the big guys are going close to 50% copper, we shouldn’t worry because this increased capacity absorbs some of the increased outflow from IDMs then?
+Bruno Guilmart
+Yeah, you can say that, yes.
+Tom Diffely - DA Davidson
+And finally, you talked the LED business being 5% today, there is a nice potential there. Where could that possibly go with the next couple of years?
+Bruno Guilmart
+I mean this is a big question mark. It all really depends on when the LED lightening for, I would say general purpose consumer is benefitted. And for that you need right the situation or the right price point. So you know there is a lot of different view on when this is going to pickup. It could be a year or two from now or maybe later. But that for us is the market we are really watching closely. Automotive is also another market but there is not huge volume of LED consumers in the automotive space despite you see more and more cars on the road with LED, it’s just not that many of them. The big drive for us is going to be general lightening and for that again it’s a matter of consumer acceptance from a price point perspective.
+Operator
+Our next question is from the line of David Duley of Steelhead Security. Please proceed with your question.
+David Duley - Steelhead
+Couple of questions from me. Just rough guidance on the gross margins for the December quarter?
+Jonathan Chou
+We have not actually guided on gross margins. But as you can see historically in the recent last couple of years we have been having about 46% gross margin. It really ranges from 46% to 47% even if you go back another year from there. So this is in terms of what we achieved this past quarter Q4. It is coming off a fairly strong, I would say higher margin quarter of 47.9% because of the mix of products, equipment products which had higher margin contribution, for example (inaudible). So this quarter unfortunately we are guiding to it. But I think you should expect we should be at average.
+David Duley - Steelhead
+So similar to the previous couple of years when your revenue a declines a lot, your mix gets a little richer and the margin goes up a little bit?
+Bruno Guilmart
+That’s correct.
+David Duley - Steelhead
+Just talk about, have you seen competitive copper offering yet from anyone and if you could just talk about what you think your market share ended up currently?
+Bruno Guilmart
+You mean from a copper perspective?
+David Duley - Steelhead
+Both copper and the overall market, whatever data you can give us?
+Bruno Guilmart
+Okay. Yes, I mean there is some -- we have seen a little bit of competitive offering coming up. One of our main competitor, you know that I won\'t name, has introduced a copper solution about, I would say probably, but I think it was at SEMICON China, so that’s probably about six month ago or so. But this is more in that lower pin count products. There is other solution on the market which are not dedicated solutions which is a (inaudible) using a traditional gold wire bonder and putting a copper kit with the forming gas and transforming that into a copper wire bonder. But obviously you won\'t get the optimized solution in that case.
+So in other words I would say, by the way our gold solution is still probably the best in the market in terms of bond pitch and speed [UPH], and that’s the engine, if you want. As you know we have a strategy of [looking] when one engine, one platform and the relative products are on that. So we are still dominating the market in all our ball bonder products. I have seen the latest data from [VLSI] was about -- which is a Q2 calendar and they lagged a little bit, it was about 68% market share for all ball bonder products. They normally disclose data for copper but as I have said many times in the past, we know that we are growing in this space. So that’s -- and clearly dominate the space.
+
+There are these statements by both our two largest customers in Taiwan that we have a 100% market share on pretty much all the major OSAT, even the second tier OSAT. We have a very very significant market share. I can\'t disclose this because they don’t disclose that but we are in good shape. From a wedge bonder perspective, we have a number of new products that are going to be introduced early next year. And that is going to help us. We have also -- I would say probably about 65% market share despite the market being quite -- we have had a, I would say a fairly weak market for the last few quarters. But obviously as we said, it’s picking up a decent 21% up versus the previous quarter. But the fact that we are going to introduce new products is going to help, again provide better solutions for our customers.
+So the key, again, you focus on the technology, we introduce new products on a regular basis and we want to keep our lead over the competitors.
+David Duley - Steelhead
+What do you think the utilization rates of your bonders or your copper bonders are your copper bonders are in the field right now?
+Bruno Guilmart
+I am not sure I have this data available but I mean you can find it from our customers. They do disclose that utilization. So, I mean, if you look at again in Taiwan, I think ASE disclosed that they were about 85% utilized. And they predicted a pretty stronger fourth quarter. I am not sure for [STL], I don’t they disclose that. But overall our internal data, it’s about utilization, it’s about all ball bonders combined about 75%-78% in that range.
+David Duley - Steelhead
+That includes the gold bonders too?
+Bruno Guilmart
+That includes everything, yes. That’s all data, okay. We try to estimate it obviously.
+David Duley - Steelhead
+Okay. And one of the things that ASE and [STL] talk about was a lot of the customers are moving to the higher pin count devices on the copper front and that’s slowing the bonders down a bit. What are you doing to help offset trend as far as -- first of all, are you seeing that same thing and are you trying to make your bonders more productive?
+Bruno Guilmart
+Yeah, of course we try. And we are work very closely with our customers, especially our top customers. We are working -- as I have said, I mean we don’t rest on our own. So I mean we introduce new products constantly and the solution we had today is not the solution forever. So we are working on optimizing. Copper is a very tricky material and very much application specific dependent. And it needs to be tweaked almost for every specific IC. So we work closely with our customers to optimize that productivity.
+David Duley - Steelhead
+Are you seeing the same trends where you are seeing the parts becoming more complex in higher pin-counts?
+Bruno Guilmart
+Yeah. Of course. I mean that’s our big advantage. And that’s the big advantage for customers too. The higher pin counts, the higher number of wires, the more savings you realize. Because if you are going to use gold, the gold content would have been a lot more. So that’s the advantage of our solution, is it’s in the high-end application where we can provide the most savings for our customers.
+David Duley - Steelhead
+Okay. Final thing from me is, do you think that any 28 nanometer parts are going to end up being wire bonded?
+Bruno Guilmart
+Well, the answer to that is yes. We have customers having, I would say, 28 -- probably 28, 30, 32, okay. It’s kind of the same, anyway. A lot of the applications anyway are (inaudible) fab [division]. So you cannot make the fab so small so wires cannot bond in. And we have many of our customers already, I would say, working on that node. Now the next node which is going to be 22, now we are already talking about 14, is going to be, I think requiring different solution than wire bonding. It’s going to be more towards wafer level packaging which is why we [effected a major] I would say for the company to go in that direction.
+
+Operator
+(Operator Instructions) The next question is from the line of Clint Coghill with Coghill Capital Management. Please proceed with your question.
+Clint Coghill - Coghill Capital Management
+A couple of quick questions here for you. First one, just on the working capital front. Last year, we saw working capital go down from, basically the accounts receivable versus accounts payable fall down, where accounts receivable went from 138 to 110. This year would you expect the accounts receivable at the end of the December quarter to be somewhere similar to where they were last year considering the revenue guidance.
+Jonathan Chou
+You know we basically have been watching accounts receivable by focusing on our working capital. I would say it is in line with previous year.
+Clint Coghill - Coghill Capital Management
+That would mean that you guys accounts receivable would generate roughly $78 million more in cash at the end of the year?
+Jonathan Chou
+From a cash generation perspective, it should. I am just looking at some of our information here. I would say it’s generally in line with our DSO, then it actually adds up a little bit in terms of third quarter.
+Clint Coghill - Coghill Capital Management
+Got it. I am just kind of looking it where the ball is and where the ball will be. Looks like at year-end you guys may have close to $6.80 a share in net cash. And I understand that you guys are, you want to pursue growth opportunities, however consider that you guys are priced at two times cash earning and two times free cash flow, if you strip out the cash. I guess, I question why we are still waiting or why the board is still deciding on what to do with the cash with regards potentially to return it to shareholders through the buyback program.
+Jonathan Chou
+Let me answer that. I think this is obviously in terms of how do we actually use the cash on hand. It’s a topic that constantly discussed and we continue to do analysis and we plan ahead. So it is something that you know that the board as well as the management actually spend a lot of time on. So it’s something that clearly we have to just make sure we are comfortable in terms of the best use for the cash is to enhance our shareholders value on a longer term basis. So I would say -- and Bruno then actually alluded to in his response to Tom’s question, is the fact that we are looking at the next generation of actually, basically bonders in terms of packaging. So there is actually a lot of effort in terms of what we can do with in terms of technology acquisitions and development in terms of in-house. So there is a lot of efforts in that area in terms of how do we actually eventually replace some of these in terms of the current technology.
+Clint Coghill - Coghill Capital Management
+If we look at it, though, we believe that there is secular trend as to you with regard to the transition from gold to copper and you guys are the industry leader, and so guys will be generating, we believe free cash flow at a high rate for the next few years. And so it’s just hard for me to try to understand, so that the return on investment are basically from a shareholders perspective. When you guys to your core business with the powerful secular trends trading for two times cash earnings. And I understand that you guys want to grow and have sort of the next generation of products but I guess I just -- in conversations with guys there was also -- it doesn’t sound like you guys are planning on making a $500 million or $600 million acquisition. And I guess I would argue that you could do both especially at this point in time, considering you guys are trading where you are. And I guess I would like to understand a little bit more about why, if you benchmark buying back stocks versus these growth initiatives, what sort of return on investment you think you can get from these growth initiatives as compared to the return on investment with purchasing or buying back stock.
+
+Jonathan Chou
+Well, at this point in time, you know obviously everything -- we do have a fairly active development program within the company as well as actually sort of screening M&A for inorganic kind of activity. And we do have screening criteria that looks at certain threshold hurdle rate margins and actually, hopefully the targets we look at will be also accretive. At the same time we have to be realistic. You can\'t have everything in terms of -- everything that is going to perfect from an acquisition perspective. So it is conceivable. We could actually have both in terms of enough investments in terms of the organic and inorganic type of activity, and possibly a share buyback depending on how much cash we want to hold on the balance sheet for these type of development opportunity. So we are looking at this and we probably -- this is a common topic, I would say, at our board meeting.
+Clint Coghill - Coghill Capital Management
+My last question is semi -- this maybe for Bruno, which is, how big of an acquisition would you conceive of making? What should be the sort of -- if you guys were to grow through acquisition, what would be the, I guess expected boundaries?
+Bruno Guilmart
+We do not have a preset, I would say number, when it comes to acquisition. I mean we go through a very rigorous process of [management] of that particular target. It could be a small technology acquisition. We look at -- you know we are looking at almost an acquisition a month. And we are very cautious in the way we approach it because it’s not everything on PowerPoint so it’s difficult. Then once you get married that’s when the hard work starts. And so we want to make sure that we do the right thing. One thing I can tell you is that there is no doubt that three years, four years, and five years down the road, the ball bonder market is going to plateau. Okay.
+The secular trend of copper will be well penetrated. You would have moved in terms of technology from 65 to 40, to 35, to 22. And so therefore the ball bonder market is going to become mostly a [Christmas] market. And so we know that. Okay. And therefore we have decided, I think since day one I joined the company, we want to find new record of growth which is why for the time being we have been prudent. I mean we only had, I would say, we have been debt free for two quarters. We have only been in that position for maybe six or seven quarters. So it’s not like we are holding cash in our coffers for like years.
+So which is why at this time we know that we want to take the company to the next level and we want to keep the flexibility. Nonetheless, we are always looking at the possibility of buying shares back and that is the discussion at almost every board meeting. And the question is at what price point.
+Jonathan Chou
+If I can just add one thing. Obviously from a finance perspective I certainly would like to actually see some recurring revenue in addition to the equipment side something that will hopefully smooth some of the cyclicality of this business. So that’s something that I know we internally we are looking at in terms of servicing revenue for our existing footprint as well as actually if we have opportunities outside, we would certainly like to look at that too.
+Clint Coghill - Coghill Capital Management
+I mean it’s a good problem that you guys have, which is you guys will have generated, about the end of this year, close to $7 in cash per share over the past 3.5 years or so. And so hats off to you guys. I guys the one thing that’s hard for me to get my head around is I understand you want to grow, I understand you want to grow organically and potentially through acquisitions and smooth out the revenue stream. But it’s just, as you sort of benchmark, you guys trading it two times earnings and two times cash flow versus some of these other potential acquisitions, I can\'t imagine you guys finding lots of other companies that are trading at two times earnings and cash flow that have a good secular trend, that have market leadership position within their respective area. And I think you guys are going to make a lot of money years to come and so it’s not the cash balance you have on your books today but also the cash that you will generate over the course of the next three to five years.
+
+Jonathan Chou
+Yes, we are with you.
+Bruno Guilmart
+We agree with you and as for the planning again, we are keeping our options open.
+Clint Coghill - Coghill Capital Management
+I would just urge you just don’t wait until it’s too late and then all of a sudden you are buying back stock at $13, or $14, rather than at $11.
+Operator
+(Operator Instructions) There are no further questions at this time. I would now like to turn the floor back over to Joseph Elgindy for closing comments.
+Joseph Elgindy
+If there are no further questions, thank you all for the time today. Rob, this concludes our call. Thanks.
+Operator
+Thank you. You may now disconnect your lines at this time. Thank you everyone for your participation.

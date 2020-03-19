@@ -1,0 +1,316 @@
+Altera Corporation (NASDAQ:ALTR) Q3 2008 Earnings Call October 14, 2008  4:45 PM ET
+Executives
+
+Scott Wylie – VP IR
+Timothy Morse – Sr. VP & CFO
+John Daane – President & CEO
+Analysts
+
+Glen Yeung - Citigroup
+James Schneider - Goldman Sachs
+Uche Orji - UBS
+John Dryden - Charter Equity Research
+Christopher Danely - J.P. Morgan
+Ruben Roy - Pacific Crest Securities
+Gary Mobley - Piper Jaffray
+David Wu – Global Crown Capital
+Randy Abrams – Credit Suisse
+Arnab Chanda – Deutsche Bank
+Tim Luke – Barclays Capital
+
+Operator
+Good day everyone and welcome to the Altera third quarter 2008 earnings results conference call. (Operator Instructions) At this time, I would like to turn the call over to Mr. Scott Wylie, Vice President of Investor Relations for Altera Corporation. 
+Scott Wylie
+Good afternoon, thank you for joining this conference call which will be available for replay telephonically and on Altera\'s website shortly after we conclude this afternoon. To listen to the webcast replay, please visit Altera\'s Investor Relations webpage where you will find complete instructions. The telephone replay will be available at 719-457-0820, and use code 258712.
+During today\'s call we\'ll be making some forward-looking statements and in light of the Private Securities Litigation Reform Act, I would like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear on our SEC filings. 
+Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty, and that future events may differ from the statements made. For additional information, please refer to the company\'s Securities and Exchange Commission filings, which are posted on our website or are available from the company without charge. 
+With me today are John Daane, our CEO, and Timothy Morse, CFO. Timothy will open the call with a financial overview before turning the call over to John. After John concludes his remarks, we will take your questions. 
+I would now like to turn the call over to Timothy Morse.
+Timothy Morse
+Thanks Scott, my overview today will cover third quarter results and fourth quarter outlook as well as initial guidance for 2009.
+Beginning with our headline metrics for third quarter Altera generated 13% year-over-year revenue growth, 31% operating margin rate and 38% return on equity.
+We remain committed to our fundamental themes of growth, efficiency and shareholder value and we’re pleased to have achieved all three goals in the same reporting period for the second consecutive quarter.
+The year 2008 has been a year of substantial progress for Altera and we continue to see ample opportunity to expand on this foundation in the years to come. Moving to a detailed review of third quarter financial results, revenue of $357 million was roughly 1% below second quarter but finished toward the upper end of our guidance range.
+Growth rates among our customer categories were broadly consistent with small customers slightly outpacing large ones. Gross margin likewise remained sequentially stable at 67.1% with market segment mix essentially neutral. 
+Operating expenses for the period were approximately $126 million down 8% from third quarter 2007 and $5 million below midpoint of guidance. On a reported basis, R&D was $61 million and SG&A was $65 million. 
+However, both of these results contain some offsetting non-recurring charges that require further explanation. The amount of $61 million for R&D included nearly $3 million of favorability from our NQDC, or non-qualified deferred compensation plan. 
+As you may recall from first quarter unrealized gains and losses from employee owned investments flow through our income statement without any earnings impact at all. In the third quarter therefore, we saw the unrealized losses in those portfolios recorded as favorability and OpEx while the corresponding un-favorability was recorded in other income.
+
+Excluding this effect R&D nonetheless landed below the guidance range. That under run was attributable once again to labor and indirect cost efficiencies. The amount of $65 million for SG&A included a negligible amount for NQDC but did contain roughly $3 million of non-recurring charges related to the elimination of some manufacturers’ representatives and other employee termination costs.
+Excluding those charges SG&A under ran guidance across a wide variety of line items. At the operating margin level Altera earned roughly $113 million, up 77% from prior year. The resulting 31.7% OM rate was roughly consistent with second quarter and well above our historical range of 22% to 23%.
+The entire company has contributed to this rate expansion and we will continue to proactively improve upon it on an ongoing basis. 
+Other income for the quarter was roughly $300,000 on a reported basis including the adverse impact of NQDC. Excluding NQDC other income fell within the guidance range. 
+The effective tax rate for 3Q 2008 was stable at 16.5%. With the recent passage of the US R&D tax credit we expect the full year rate to fall into the previously communicated 14% to 15% range. 
+On the net income line Altera generated roughly $95 million or $0.31 per diluted share. That result was up 375 from last year in dollar terms and 58% in EPS.
+During the quarter we repurchased 2.1 million at a cost of $42 million. Given the market decline in the last two weeks, we’ve now picked up an additional 3.1 million at a cost of just over $54 million.
+With regard to the balance sheet cash and investments finished third quarter just shy of $1.3 billion. Year-to-date cash flow from operations is roughly $340 million reflecting the strength of our financial model. 
+At $221 million accounts receivable declined sequentially by $36 million and we remained at historical lows for aging and past due accounts. With regard to inventory, three months supply on hand remained unchanged at 1.9 months for Altera and 1.1 months for distributors.
+As previously noted the combination of strong operating results and ongoing capital structure improvements have yielded 38% ROE this quarter on a trailing 12 month basis, up from 21% in 2007 and 23% in 2006.
+Moving to our outlook for the fourth quarter given the unprecedented global macroeconomic uncertainty we are proceeding with an up 1% to down 3% sales range to account for a wider variety of potential outcomes. 
+Turns are one to two points higher then third quarter’s 59% but still within historical ranges. Gross margins on the other hand are expected to improve to 68% plus or minus half a point, on the back of continued cost of goods sold improvements.
+For OpEx we expect both 65 and 40-nm development expenses to drive R&D to the $73 million to $75 million range while SG&A should land between $64 million and $65 million.
+With respect to tax the fourth quarter provision will be 8% to 9% as we true up for the passage of the US R&D tax credit. 
+Rounding out the income statement we anticipate other income to be $3 million to $4 million and diluted share count to approximate 305 million shares. On the balance sheet we expect inventory MSOH to tick up slightly in December as we ramp Stratix IV. 
+Turning now to 2009 we’ll obviously continue to take the top line on a quarter by quarter basis. For the full year however we expect to maintain gross margin in the range of 65% to 68% with a bias to the higher end in the first half. 
+Excluding any earnings neutral impact from NQDC 2009 operating expenses should be in the $545 million to $550 million range. Within that total SG&A is expected to be flat to down slightly at $254 million to $256 million and pretty much constant quarter by quarter. 
+R&D will rise to the $290 million to $295 million level as we complete our 65-nm families, launch our 40-nm devices and begin work on the 32-nm generation of products. 
+
+First half R&D will be slightly higher then second half. Completing our full year expectations at this point we see other income at $15 million to $20 million, taxes at 13% to 15% and diluted share count of approximately 300 million to 310 million. 
+For your convenience we have posted this guidance to our Investor Relations homepage. There you will find two pages; one containing these full year expectations and a second that provides more insight into the year-over-year operating expense dynamics.
+In summary we remain committed to investing for the future while simultaneously improving today’s underlying cost structure. That combination will continue to enable us to maximize growth, efficiency and shareholder value for 2009 and beyond.
+With that I’ll turn the call over to John.
+John Daane
+Thank you Timothy, the Q3 1% sequential decline was at the higher end of our forecast range with strong growth in military and automotive as expected, atypical summer wireless growth across 2G and 3G technologies and unexpected upside from the broad industrial account base. 
+This was offset by weaker then expected networking, telecom and computer business. More on the vertical market segments in a moment. 
+Overall I am very pleased with our focus on corporate efficiency and product cost continuing to deliver exceptional operating margin results. 
+Our new products now 46% of revenue grew 8% sequentially and 52% year-over-year as we continue to replace ASIC and ASSPs. Cyclone III was up 116%, Stratix III up 155%, Cyclone II up 8%, Stratix II and Stratix GX down 6%, MAX II up 7%, and HardCopy increased 8%.
+HardCopy benefited from new program ramps across a broad array of customers and markets. FPGAs were flat sequentially but up 20% year-over-year and now represent 75% of sales; an all time high.
+By vertical market for Q3 we had forecast industrial to be flat to down with weakness in the broad base of industrial accounts, for communications to seasonally decline, for computer to decline, and for consumer to grow.
+In Q3 computer declined 17% sequentially with both computer and storage down across a number of customers, mostly tied to inventory reduction and program transitions. Consumer decreased 1% with both broadcast and consumer down.
+Industrial grew 4% with military, automotive, and the broad industrial base up, medical flattish, and test and measurement down significantly. Communications was flat with strong growth in wireless and GSM, CDMA, wide band CDMA, and TDS CDMA, offsetting declines in networking and telecom. 
+Access was unexpectedly weak in Japan. As a final note on Q3 removing the TDS CDMA upside, wireless was still up. 
+I have said for the last few months that Altera has little exposure to the consumer market and if the slowdown stops there, we are well positioned. I have also said with the business tied more closely to corporate, government, and communications carrier CapEx spending, if the credit markets tighten and cause a change to capital plans, then our business could be impacted.
+We are witnessing unprecedented events in the worldwide credit markets, and are therefore taking a cautious view with our Q4 guidance. For Q4 we are forecasting a revenue range from up 1% to down 3%.
+Within each market in Q4 we expect computer to be flat and resume growth in 2009. Communications should decrease. We do not expect the TDS CDMA business to repeat at the Q3 levels leading wireless down. 
+Also networking should be down and telecom should decrease on access weakness across Japan and North America. Consumer should be flat with growth in broadcast offsetting a seasonal decline in the consumer product sector. Industrial should be flattish with growth in military and automotive, medical flat, and declines in both the test and broad industrial business, the latter following an unusually strong Q3.
+
+As a note our business thus far in the quarter is tracking within the forecasted range. 
+Market showdowns traditionally present an opportunity to accelerate replacement of ASIC and ASSPs. Systems companies tighten budgets and cancel ASIC designs and semiconductor companies rationalize their product portfolios and eliminate ASSP projects.
+System differentiation is still required and in the absence of ASIC and ASSPs PLDs become the product of choice. 
+It is here that our efforts to design new innovative silicon and software products pay off for Altera. Our Stratix IV product line is first to market in 40-nm, incorporates a unique architecture combining low power consumption with high performance and high density and has industry leadership in high speed transceivers. 
+To date Stratix IV has achieved record design engagements and device backlog. Our first 40-nm Stratix IV GX chip is in fact [taped] out on schedule and we expect to begin shipments this quarter.
+With leadership in low cost and high density PLDs we are well positioned to displace fixed function semiconductors and continue to gain market share.
+In summary our early focus on improving corporate efficiency and productivity while at the same time accelerating new product introduction to maximize the top line growth opportunity provides a combination that will continue to enhance shareholder value in the years to come. 
+We are now ready for your questions. 
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) Your first question comes from the line of Glen Yeung - Citigroup
+Glen Yeung – Citigroup
+It sounds like you’re guiding for strength here in Q4 and also for the first half of [2008] and I was wondering if you could just give us some specific examples of what’s generating that kind of growth, be it mix or some other factors you are undertaking?
+Timothy Morse
+There are a number of components as we’ve talked about in the past for gross margin, first we always talk about market segment mix. It’s difficult to precisely pin that down four and five quarters out so that contributes a little bit to the range we’ve got out there for 2009. 
+But by and large we’ll continue to move with market segment mix but we also have quite a bit of work that continues to go on. Yes on the basic silicon material side, but also as we’ve previously discussed packaging, logistics, assembly and test. 
+It is noteworthy that we have not assumed any price downs on silicon material for the second half in this outlook. It’s just; we don’t have any visibility of that so we’d prefer to go a little more conservative that way. 
+I think that kind of shows what we’re doing I believe. 
+Glen Yeung – Citigroup
+When you reported the second quarter results, you had at that time suggested that potentially in Q4 you might see some growth and I wonder if you look out, obviously I recognize the world has changed, but when you look out, where specifically perhaps by end market have you seen changes?
+John Daane
+Two things I think that happened in Q3 changed the Q4 outlook, number one; we had guided that for Q3 we did not expect TDS CDMA to happen. It did, it pulled wireless up substantially in Q3 over Q2 and that is uncharacteristic. Typically we see in the third calendar quarter a summer slowdown broadly across communications. 
+We are pulling out TDS CDMA for this quarter; we don’t expect a repeat. Certainly not to the degree that we saw in Q3 and so that causes wireless to be down. Additionally in this environment we are seeing some carriers start to slow down CapEx deployments in the wire line access area and so we’ve pulled that down particularly for both North America and Japan.
+Secondly we also in Q3 saw a very strong uptick in the broad industrial base of accounts which is something that we had actually discounted and said would go the other way. So naturally since we had such an upside in Q3 we are expecting that to be down this quarter. 
+
+So you take the broad industrial account base down, you take communications down and those are the two big differences in the fourth calendar quarter that we’re expecting. 
+Operator
+Your next question comes from the line of James Schneider - Goldman Sachs
+James Schneider - Goldman Sachs
+Could you share with us any insight from your customers, when you talk to them about 2009 spending levels at least directionally in the telecom and enterprise segments, what are they saying to you?
+John Daane
+Right now the Asian carriers are very bullish on OpEx spend. As an example if you look at just the three communications carriers that are in China, they’re talking about a $25 to $30 billion annual spend over the next three years for both telecom networking and wireless which is very substantial.
+And right now the strength I think in general in wireless in particular is for Asian deployments and Asia continues to talk about strength. I think in the short run we’re seeing either some pauses because build outs have already happened in places like Korea, North America or Europe or in some cases carriers in those countries being a little bit more conservative in the short run.
+But assuming that countries like India and China continue with their plans forward for build outs of their communications network, we would expect that communications business would be up for Altera next year. 
+James Schneider - Goldman Sachs
+If you look at the mix of wireless versus wire line, especially on the telecom side in Q3 and looking into Q4, you mentioned strength in the wireless area, did you see any push outs of wire line into Q4 or was it mostly coming at the expense of wire line entirely?
+John Daane
+We saw push outs in the access area in particular, for instance around [Pon] systems as some of the deployments have slowed in that area. In the wireless side we saw strength across really all of the 2G and 3G types of technologies. 
+So wireless was actually up pretty strongly for us in the third calendar quarter, again in a quarter where it should have been down and that offset the weakness or the significant decreases that we saw in both the networking and the telecom area. 
+James Schneider - Goldman Sachs
+When you think about your bank loan balance out there and the capital markets right now, how are you thinking about managing that going forward, drawing that down or do you feel like you want to do that aggressively to maintain your buyback program into 2009 or how are you thinking about managing that bank loan?
+Timothy Morse
+You’ll see out on the website on the 2009 key metrics page we’re assuming holding flat to this $500 million level of debt. We think that’s a prudent level. We still have some gas in the tank so to speak in terms of buybacks as you saw a little bit more than $40 million in the third quarter that happened over about a span of seven or eight weeks.
+So if you annualize that kind of rate, it’s pretty good and then even more so here in the last couple. So we’re still going to operate within our US cash constraints as we’ve previously talked about but there is some gas left in the tank there. We don’t see the need to get into additional liquidity sources. We feel pretty good. 
+John Daane
+Up market or down market, Altera has a very strong cash generation corporation and we’re continuing to generate US cash and do plan to opportunistically be in the market and continue to repurchase shares particularly when we feel the share prices get low and are depressed and presents a great opportunity for the company to retire shares. 
+Operator
+Your next question comes from the line of Uche Orji - UBS
+Uche Orji – UBS
+On R&D it looks like you are going to be running I’d say higher level, not just for the period when you’re pushing 40-nm, but also based on your 2009 guidance. Can you shed any more light as to why the level is going to be that elevated?
+
+John Daane
+What you will see from Altera and have seen historically is in years where we were doing a large number of new chips or new designs and prototyping designs, we have an elevated mask and wafer spend. So you’ve seen some oscillation in our R&D spending historically. 
+What you’re going to see from Altera in the year 2009 is not only a number of 40-nm Stratix IV tape outs, you will also see several other families from us as well that are yet unannounced. As such its going to be a heavier R&D spend year.
+Timothy Morse
+I’d also refer you to again to the IR website, go out there, the second page entitled “2008 to 2009 OpEx bridge” you can see right in the middle of that walk if you will from year to year, a column entitled R&D new product intros, that’s what John is referencing, the test chips, the prototypes, the development masks, etc. that are the kinds of things that will go up when you’re going into the teeth of a new product rollout and then flow the other way when you’re on the back of that rollout. 
+So you can see pretty clearly in three different buckets what’s driving us up. We’re doing a reasonably good job of matching off the underlying cost structure and we’re left with this again new product rollout related cost for R&D. 
+John Daane
+And as Timothy is guiding the R&D spend is a little bit heavier in the first half of the year so we obviously have a very large concentration of new product rollouts in that period of time. 
+Uche Orji – UBS
+Industrial seems to remain strong even as global GDP is slowing, what are the reasons why this remains resilient and if you can explain what led to the unexpected slowdown in Japan access and what you see going forward with that trend?
+John Daane
+Industrial it’s a broad category for us. If you walk through it we have been gaining market share within the military segment. That was up for us in the third calendar quarter. We would expect for it to be up again this quarter. Military is becoming a more significant portion of our business.
+Uche Orji – UBS
+How much is it for this quarter?
+John Daane
+It was 7% to 8% in Q2; it was 8% to 9% in Q3. So again it’s increasing quite substantially. That obviously helps. Automotive is a new sector for us but that is growing very quickly as we’re transitioning some of these programs from prototype to production so that growth helps. 
+Ultimately we also had very strong growth in the broad industrial account area. Two things are going on there, one is we haven’t seen as much of a slowdown there yet as one might expect. For instance I’d refer you to GE’s announcement they actually did very well in the industrial sector and said orders remain strong. 
+Number two, we are doing new prototype activities replacing ASIC and ASSPs continually and so even in a slowing environment one can still do well. Nevertheless because we are looking at the broad economic data that we can get our hands on, we are forecasting that going into this quarter that that broad industrial account base for us will soften and that’s one of the reasons that we are a little bit more conservative this quarter and are forecasting either slight growth to down 3%. 
+Uche Orji – UBS
+Of the cash you have, how much of that is US based and how much is offshore?
+Timothy Morse
+The vast majority of it remains offshore.
+Uche Orji – UBS
+So you can’t bring that back because of tax purposes?
+Timothy Morse
+It’s what’s called permanently invested offshore as we look at it, but you can bring it back, you just incur a 35% haircut. We do bring some of it back but we manage that within the overall scheme of our cash needs, our opportunities, and the minimum requirements we want to run here to in the US.
+John Daane
+The other thing is recognize that a large portion of our actual operating cash requirements are for, are offshore. If you think of our wafer purchases and assembly operations for instance, you also find that a bulk of our headcount is offshore at this point as well. We actually put a lot of that cash to work on a continuing basis. 
+
+Operator
+Your next question comes from the line of John Dryden - Charter Equity Research
+John Dryden - Charter Equity Research
+On the IRS changed to 60 day repatriation versus 30, does that have any impact on your working capital or future share repurchase outlook for 4Q?
+Timothy Morse
+No, not necessarily. We weren’t planning on taking advantage of that, but you’re right. If certain world-ending scenarios around liquidity were to happen we certainly have that offshore cash that we could repatriate now in a much wider timeframe. 
+In fact I think it could be given where we are in this year and the fact that its 60 days of next year, it could be almost up to 90 days that we could bring that cash back but because it’s a temporary transitory thing, I think it would be a scenario backup plan. We wouldn’t make it part of the plan A.
+John Dryden - Charter Equity Research
+You’ve discussed some of the weakness in Japan but it actually outperformed sequentially, could you talk about the dynamics of what was positive in Japan and also for your outlook in 4Q in Japan?
+John Daane
+We’re not expecting Japan to have a strong fourth calendar quarter. Typically in Japan you’ll see a stronger calendar quarter Q1 because that is the end of year for corporations in Japan. And actually if you go back what you’ll see is we had a very significant decrease in the second calendar quarter sequentially for Japan so we’re seeing a little bit of a rebound.
+It was broad based but we had expected Japan to perform much better particularly in communications in the quarter. 
+Operator
+Your next question comes from the line of Christopher Danely - J.P. Morgan
+Christopher Danely - J.P. Morgan
+In taking in all of your end market commentary, what would be sort of your rough idea/best guess for drivers and maybe some headwinds in terms of end markets for 2009?
+John Daane
+I think drivers positively for 2009 first of all are communications. As I mentioned the build out in Asia is very substantial and larger then we’ve seen in the past and I think that could give very significant growth particularly for PLDs as they’re transitioning from for instance in wireless, 2G to 3G and we have much higher dollar content in 3G systems then 2G systems.
+So we certainly see communications being able to grow again strongly next year. Military and automotive are two growth areas. I think military will grow in general for the PLD industry next year but most particularly for Altera because we’re continuing to capture market share and then automotive is another sector which is new for the PLD industry.
+We’re mainly in the in cabin electronics or infotainment systems. So even though the automotive sector is not doing well in general because the infotainment systems are now being integrated into the high end and even mid range platforms, it’s a new market. We’re finding growth there. 
+Computer has been a drag for us this year. We do think it has bottomed. We do expect growth. There’s a number of server designs where we’ve been designed into, particularly blade servers that should start growing for us in calendar Q1 as well as some storage programs and high end printers. So we expect that to grow.
+We’re also doing extremely well in the broad industrial base and I would think that will continue to grow for us very strongly. I think if you look back at industrial, it’s grown anywhere from probably 5% to 10% the broad base for us compound annual for over a long number of years and I would expect that to happen.
+In terms of headwinds it’s not obvious to me that I see a lot in the short run. Obviously if companies, governments and carriers start to cut back on CapEx that can have an impact on us for awhile. But over the long-term since we continue to replace ASIC and ASSPs, I would expect to be able to generate growth even in a stagnant market. 
+
+Christopher Danely - J.P. Morgan
+You said you’re taking a bit of a conservative stance here which I think is prudent, but I think you’re guiding for higher turns business in Q4? Just wondering why you wouldn’t guide for lower turns business. 
+John Daane
+This quarter typically is a little bit more front end loaded in terms of the bookings and so we’re comfortable with the turns number. It’s actually well within the range of what we’ve seen over the last couple of years and in fact lower I think then what we’ve seen certainly if I were to say probably five out of the last eight quarters is a lower number then typically where we’ve operated.
+So we feel very comfortable with the number. 
+Christopher Danely - J.P. Morgan
+What exactly is the plan for the offshore cash? I think you have the second highest net cash in semis, can we expect that cash balance to continue to build or is there any solution for this?
+Timothy Morse
+We’ve got a lot of uses for it operationally outside. There’s no doubt given the fact that we’re a strong cash generator and 75% plus of our business is offshore that is where the cash will pile up. We do continue to find ways to get it back on a tax efficient basis and find ways to generate more of it in the US and that’s frankly what’s fueling what we’ve done on the repurchase since finishing the 1.5 billion we committed to.
+So to an extent it’s an evolving story. It will continue to be an evolving story. We want to be prudent with that cash. We actually like the fact that there is a lot there and it provides a nice backstop and we are as I said, finding ways to put it to use both out there and back here as the situation arises. 
+Operator
+Your next question comes from the line of Ruben Roy - Pacific Crest Securities
+Ruben Roy - Pacific Crest Securities
+In terms of the gross margins coming back into your longer term target range, 65% second half 2009, can you just go into a little bit about the assumptions on that? Is that COGS related, 45-nm ramp etc.?
+Timothy Morse
+It’s a combination of things; we’re out fairly early with 2009 guidance so a lot can happen between now and the second half of 2009. We are calling the first half that we have better visibility on to be at the high end of the range and the second half I mentioned that we’re really not assuming any of the traditional silicon material price reductions that we typically have because again we just don’t have visibility there yet.
+There’s an awful lot in gross margin that we don’t control and that factor obviously looms larger the farther out in time you go. That said, we do feel very good about the near-term. 
+Ruben Roy - Pacific Crest Securities
+You talked about Stratix IV is on engagement, record design engagements, is that talking about to date design engagements or have you seen an acceleration over the past quarter?
+John Daane
+We’re seeing an acceleration now that we have; we’re much closer to silicon so we put out the software a few quarters ago. We had hundreds of design engagements at that time but its now accelerating as we’re getting closer to chip delivery. And actually we are and have a record backlog for customer orders of devices right now. 
+We’re expecting that the Stratix IV ramp will be stronger then any other FPGA family that we’ve ever had and again we’re right now really doing extremely well in the marketplace. New markets for us that I didn’t mention earlier, we’ve never really participated in the prototyping market as a company because we’ve not been necessarily the first out with high end high density FPGAs. 
+This is the first time where we clearly have that leadership so its opening up a lot of new prototype applications for us plus with our transceiver advantage, our power advantage and the performance advantage, clearly in the marketplace we’re taking a lot more market share and participating in a lot more designs then we would have in the past and its also opened up a larger portion of the ASIC and ASSP industries for us to play in.
+
+So the engagement potential is much higher. So this product, we had very high expectations for and right now it’s beating our expectations.
+Ruben Roy - Pacific Crest Securities
+Timothy mentioned termination of some manufacturers’ reps, is that kind of just one-offs or are you taking more business direct?
+John Daane
+We have over a large number of years made continual improvements to the company in a lot of different facets. One of the things that we started probably going back into 2001 is to develop a hybrid structure, go direct with the large accounts and then continue to use either manufacturing reps or distributors or both for the smaller customers or the broad customer base. 
+This is just more of a continued build out where we’re taking some of the larger customers direct. We feel that it does give us long-term advantage in that we develop direct relationships with the end customers. From a sales perspective most of these accounts we’re already covering direct from FAEs.
+Additionally in these cases it also results in a cost savings for the company which we think is a good long-term benefit as well. 
+Timothy Morse
+It certainly just doesn’t make sense to pay for the same sales dollar multiple times. 
+Operator
+Your next question comes from the line of Gary Mobley - Piper Jaffray
+Gary Mobley - Piper Jaffray
+What is your headcount at the end of the third quarter and what does your 2009 assumption imply?
+Timothy Morse
+If you look in the press release, number of employees 2730. We’re not out there with a specific headcount number for next year. I think we will [inaudible] to grow in certain geographies like our Penang facility where we’ve just put in a new building and we’ll continue to maintain in other geographies.
+In general the long-term trend is to keep SG&A headcount relatively flattish over these last few years whereas the growth has been on the R&D side as we invest for the future. 
+Gary Mobley - Piper Jaffray
+What sort of revenue decline would have to take place in 2009 assuming worst case scenario with the economic backdrop, what would it take for you to lower your OpEx guidance for 2009 or break through the lower end of the guidance you put forth tonight?
+Timothy Morse
+I think it’s safe to say that we’ll continue to be proactive about our cost structure in any environment. Cost planning isn’t just an event, it’s an ongoing living process so we’ll continue to take advantage of opportunities we see and respond to the evolving external dynamics. I couldn’t really tell you at what point something bigger is triggered but I think you’ve seen us pretty consistently now over a couple of years and with this guidance bring the right parts of the cost structure down while still investing in what we believe will grow the business. 
+I would anticipate seeing more of that for us but I really couldn’t tell you what the specific trigger points are or how long they’d have to last before we did something where all bets were off. 
+John Daane
+One thing that Timothy has pointed out is we do disconnect the budget cycle from the actual revenue growth of the company. So if you look over the last few years this year where you’ve seen strong revenue growth, our SG&A spending is actually down on a dollars term year-over-year so we’ve been for several years working on improving our efficiency and cost structure even in years where there’s strong growth.
+So I think if you look at high tech companies, we’re doing the right things year in, year out. Number two, on an R&D side, we do plan to go forward with a lot of that R&D spending no matter what happens in the industry because these are really good products and this is an opportunity for us to take a lot more market share from ASIC and ASSPs and accelerate our future top line growth and I’d hate for us to say let’s just try to optimize earnings for one year if we saw a slowdown and then sacrifice our future ability to grow for the next few years after that because we made a short-term decision. 
+
+So there are things we could do and we’ll just have to take it sort of one step at a time but right now I’d say the R&D spending, we do plan to go forward with and again from a cost structure we work on that day in and day out anyway and will continue to do that throughout next year. 
+Timothy Morse
+In 2007 versus 2006 you’ll recall our total cost structure was down 3% which was up 6% in R&D and down 11% in SG&A. this year likewise excluding NQDC especially we’ll be down 3% which is about flat in R&D and minus 6% in SG&A and we’re guiding to flat to down again a bit in SG&A for next year and again a little bit of a rise in R&D as we get into the teeth of these rollouts. 
+John Daane
+And as Timothy has pointed out several times is the OpEx numbers are actually lower then the actual spend was for 2006. So even though you’re seeing R&D tick up we are spending less today then we did in 2006.
+Timothy Morse
+In 2006 it was $557 in total OpEx even if you excluded the NQDC charge in there; it was $551 so we’re coming in under that level. 
+Gary Mobley - Piper Jaffray
+I assume the fourth quarter is very much front end loaded hence that might be one reason that you’re confident in giving the guidance you’re putting out, assuming that 60% turns business, is that a fair statement?
+John Daane
+It is a little bit more front end loaded because of the holiday seasons that you see that basically cover two of our four geographies. So you will typically see us stronger October, November, little weaker towards the tail half of the December period of time. 
+Operator
+Your next question comes from the line of David Wu – Global Crown Capital
+David Wu – Global Crown Capital
+Your supplier is having significantly lower utilization rates in Q4 and probably in Q1, and I was wondering why would the silicon cost not go down in the second half of calendar 2009 given their lack of MAX capacity utilization rate? Is that due to 40-nm being tight through most of calendar 2009 or is it due to something else? I was wondering if I weren’t in a financial community and I listened to this call, I would say that gee, it seems to be that I’d be surprised if, what would surprise you to not to grow your revenue on a year to year basis in calendar 2009?
+John Daane
+I think as Timothy outlined there are two things within that, number one is our margins are mix dependant based on end vertical markets. So no knowing exactly what the mix is going to be four or five quarters from now makes it very difficult for us to pin gross margins down to a tenth or a hundredth.
+So we’re giving out a range. We do know that margins are good right now. We can kind of tell where pricing and costs are going in the next several quarters which is why Timothy guides to margins being at the higher end of the range in the first half. 
+You’ve also heard that from some of the silicon suppliers that they are either firming or raising prices so what we’ve built into this is an assumption that our pricing structure for silicon products will not decrease in the second half of the year and so if those things were to change, so in other words if we were to see an ability to get price reductions in the second half of the year, certainly that would be an opportunity for Altera to achieve higher gross margins. 
+We’ll just have to wait and see. At this point we’re comfortable with the range that we’ve provided. We’re not comfortable necessarily going out and saying anything differently. It does not have anything to do with 40-nm or products. This is just purely a combination of the cost reductions that we know and have baked in and a combination of the visibility or lack that we have thereof in the vertical markets. 
+In terms of growth next year if we were to see a dramatic pull back in terms of capital spend at corporations and communications carriers that would naturally have a very large impact on us and I’ve said that for months, and you look at the mix of business that we have, I think that’s very true. 
+
+The benefits that we do have going for us going into next year is one, we do have a strong product cycle and a lot of design wins in areas like automotive, military, computer which should ramp for us and even if those markets are soft its all new business for us. 
+And then additionally in communications most of the growth projected next year is in Asia and that is a little bit independent of what we see in terms of North American or European carriers or even banking issues since to a large degree their governments will be footing the bill for those spends. 
+So at this point communications looks good for 2009, military looks good, automotive looks good, computer looks good and we’ll just have to take it a quarter at a time though and see how the world economy develops. 
+David Wu – Global Crown Capital
+Is automotive in the low single-digits in terms of percentage of revenue contribution at this point?
+John Daane
+Yes it is, it’s a small area for PLDs. It’s a small segment for Altera but it is one of the faster growing segments and so given a couple of years I think will become very meaningful.
+Operator
+Your next question comes from the line of Randy Abrams – Credit Suisse
+Randy Abrams – Credit Suisse
+You’ve mentioned that you’ve never really had access to that high end prototype market and it looks like you have a chance at 40-nm, could you talk about the revenue opportunity or the size of that now that you have access to and how quick do you see 40-nm ramping up over the next year say as a percent of revenue?
+John Daane
+I can’t provide you today a revenue forecast for the product; we do expect it to ramp faster then any of the prior FPGA series that we’ve seen. We’ll provide you some starting numbers and guidance as we start to ship revenue this quarter and next quarter in order to give you an idea of what the ramp may be.
+In terms of the prototype area, it actually is very large. Almost everybody whether it’s a systems company or a semiconductor company will do prototyping on an FPGA or on a board of FPGAs prior to committing to their final ASSP design or final ASIC design. 
+Even those customers who have no intention of ever staying in a PLD for production do you use PLDs for prototyping. Those opportunities are large because those customers tend to pay closer to list price since there’s no follow on production so the margins are very high and of course at list price you can also generate very high revenue on what is a small quantity of devices. 
+It’s a market that we’ve really never participated. I’d bet today that we probably have 10% market share if that. I would bet its well over $100 million, maybe somewhere in that range and this opens up an opportunity for Altera to come in and take advantage of that. Really what the customers look for is the highest density device because if you’re having to prototype in two chips it makes it a little bit more complex to take your design and partition it into two chips then it would be to just implement it in one FPGA.
+And since our product at this point will have two [X the] density of any competing FPGA family I would expect us to be able to easily move in and start taking a lot of share in that space. 
+Randy Abrams – Credit Suisse
+Have you seen any end customers or distributors have problems with access to credit or have you seen any cancellations in just these last couple of weeks? 
+John Daane
+In terms of access to credit, AT&T announced that they were having some challenges in the commercial paper market. But we’ve really had no report out of either distributors or customers that in the short-term they’re having trouble getting access to credit. 
+In many cases if that were to start I think the distributors themselves have a wonderful opportunity to potentially charge more money to provide some of that service to provide that credit to customers as well as an opportunity to perhaps gain market share by offering that credit. So nothing in the short run. 
+
+In terms of end businesses we did see test and measurement was down last quarter quite significantly. We did say that the access business was weak, networking was weak, those were sectors where we did see some push outs. 
+Randy Abrams – Credit Suisse
+On the [PON] which is slowing down, is that purely macro? You’ve had a lot of market share early on, is it just the natural progression where there’s now two players in the market or do you think that’s economic related and slows down as long as the macro’s a bit slower?
+John Daane
+Its not a market share one, its more of a slowdown of the ramps of some of the deployments on worldwide basis from what we were being told earlier both by the systems companies as well as the carriers themselves. That then causes an inventory challenge where they had bought or procured to a higher level so you run into a period of time where they slow down to bleed off the inventory and in Q3 and early Q4 we’ll be in that inventory bleed off area for PON. 
+Operator
+Your next question comes from the line of Arnab Chanda – Deutsche Bank
+Arnab Chanda – Deutsche Bank
+The benefit from going from reps and distributors to direct does that come to the gross margin or the SG&A and how much more of that do you think will occur?
+Timothy Morse
+It goes to SG&A and I don’t know how much more of it will occur. We like our lineup as it is today but we’ll continue to see places where if it turns out we’re paying double for the same sales dollar, we have to look at the growth prospects and decide how to go in a more streamlined fashion. 
+I can’t tell you we have, or that I’ve heard, any specific plans but this is an evolving state. 
+John Daane
+We have reps, we have stocking distributors, we have distributors. Depending on the geography, depending on the customer base there, we will either have one, two or all three of those. So as a mix, you should expect Altera to call on the bigger accounts. It is more cost effective. We will therefore have the relationship with the end customer. It’s been our strategy for many, many years. You’ll continue to see that from us going forward and then for the broader account base, we will use reps, we will use distributors and we will use stocking reps. The combination will just depend on the particular geography. 
+Arnab Chanda – Deutsche Bank
+One question about your bookings and your turns expectations, if you look at it right now what kind of visibility to you have in terms of weeks and how is it relative to the past because it seems like there’s been some volatility in booking patterns and here at the end of the quarter or the beginning of Q3, Q4 for some companies so I’m curious as to how your visibility has changed and how that changes your turns expectations?
+Timothy Morse
+It’s really no different. I don’t see anything different in the booking patterns or the underlying backlog that’s a signal to me that anything, there’s a sea change that’s going on here. 
+John Daane
+I think at a high level the turns we’re forecasting for this quarter is actually consistent with what we saw most of last year, or fairly close to even what we did in Q4. What you have to recognize as a company is that a lot of our major accounts are on a pull system which means that they literally will place a PO and we will ship the product in the same day and so therefore you carry no backlog for most of your larger accounts. 
+And so as such you’ve seen the turns number increase over the many years and so we operate off of forecasts that we judge ourselves and information for the broad base that we receive from our distributors that we take a look at and those are the two factors that we use. But you should expect Altera to always be in an environment where we’re saying that we’re going to turn low 60s to high 50s percent of our business or need to turn that for any given quarter. 
+
+Those are the numbers that we always operate at and again it’s because many of our larger customers are on a demand pull process. 
+Operator
+Your final question comes from the line of Tim Luke – Barclays Capital
+Tim Luke – Barclays Capital
+I wonder if you could comment at all on the seasonality through the year next year or any products ramps or cycles that you see that would shape the revenue growth through the year.
+John Daane
+Typically what we’ve seen in the past is that our calendar quarter Q3 is the softest. It’s because of the summer holidays that we see in Japan, Europe and North America in particular it’s always weaker in communications which contributes to that. Communications being just about 40% of our business.
+Other then that we really don’t see any seasonality for which based on the verticals that we see playing into the business and so I can’t really give you any guidance other then Q3 is a little bit weaker then the other quarters. 
+Tim Luke – Barclays Capital
+HardCopy, it sounds like you had a good quarter and you said you had some new product ramps there, what percentage of sales you might see that reaching next year?
+John Daane
+We said I think it was Q3, Q4 of last year I said that HardCopy would be weak through the first half and then would start to see growth in the second half of this year. We were going through some program transitions with the original HardCopy product ramping down and a lot of the new programs ramping up and that clearly impacted our revenues in Q1 and Q2 as we were going through those transitions. 
+With many of those transitions now done, you’re seeing HardCopy’s growth resume. We’re getting a lot of prototyping activity, a lot of it replacing ASIC designs so this is an environment where if we just had a PLD we might have participated in the prototyping but we would not have participated in the production and we’re also getting a lot of repeat designs from major customers.
+So the backlog is building, the business is building, its very broad based at this point across market segments and customers. We would expect that to continue to build this year and next. Currently it’s about 3% to 4% of revenues. I would expect it to get hopefully north of 5% next year. 
+Operator
+There are no additional questions at this time; I would like to turn it back over to management for any additional or closing comments. 
+John Daane
+A few other announcements before we sign off today, during the fourth quarter we will attend the NASDAQ OMX investor program, December 3, in London and on December 9, we’ll be in San Francisco at the Barclays Capital 2008 Global Technology Conference. With that, this concludes Altera’s conference call. Thank you for your participation and interest. 

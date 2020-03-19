@@ -1,0 +1,361 @@
+Telecom Italia S.p.A. (NYSE:TI) Q3 2012 Earnings Call November  9, 2012  6:00 AM ET
+Executives
+
+Alex Bolis – Head, IR
+Franco Bernabe – Group Chairman and CEO
+Piergiorgio Peluso – CFO
+Marco Patuano – COO
+Analysts
+
+Nick Lyall – UBS
+Mathieu Robilliard – Exane BNP Paribas
+Carola Bardelli – Deutsche Bank
+Georgios Ierodiaconou – Citi
+Unidentified Company Representative
+Nick Delfas – Morgan Stanley London
+Torsten Achtmann – JP Morgan
+Tim Boddy – Goldman Sachs
+James Britton – Nomura
+Justin Funnell – Credit Suisse
+Micaela Ferruta – Intermonte
+Ottavio Adorisio – Société Générale
+Robin Bienenstock – Bernstein
+James Ratzer – New Street Research
+Paul Marsch – Berenberg Bank
+
+Operator
+Ladies and gentlemen, welcome to Telecom Italia Conference Call on Third Quarter 2012 Results. I’d like to introduce to you to Mr. Alex Bolis, Head of Telecom Italia Investor Relations.
+Mr. Bolis, please?
+Alex Bolis
+Good morning, ladies and gentlemen. On today’s call, we will review Telecom Italia’s group third quarter 2012 results. We have with us this morning Mr. Franco Bernabè, the Group Chairman and CEO, and Mr. Marco Patuano, Chief Operating Officer, and Mr. Piergiorgio Peluso, Chief Financial Officer.
+As usual, this event is being recorded and all participants will be placed in a listen-only mode during the company’s presentation. After TI’s remarks are completed, we will be pleased to take your questions. You may follow us today via simultaneous webcast that may be accessed from the company’s Web site www.telecomitalia.com, from which you can download or view our slide presentation during the conference call.
+We would like to remind you that this presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Actual result may differ materially from those in the forward-looking statements as a result of various factors. Analysts are cautioned not to place undue reliance on those forward-looking statements which speak only as of the date of this presentation and are encouraged to consult the company’s periodic filings, which are on file with the United States Securities and Exchange Commission.
+I’ll turn now the conference over to Mr. Franco Bernabè.
+Franco Bernabè
+Thank you, Alex. Good morning, ladies and gentlemen, and thanks for attending Telecom Italia’s third quarter 2012 results conference call. In context, the Telecom Italia Group year-to-date performance allows us to confirm our 2012 targets. Economic challenges had become tougher in Italy as GDP fell by 2.9% in the third quarter, small and medium-sized enterprises are still confronted with considerable difficulties while credit remains scarce.
+Large corporations have partly streamlined their budgets and have taken a very selective approach in spending. Consumer confidence has softened. However, the overall slowdown in telecommunication services spending has not been as strong as in other factors. In fact, demand for innovation is growing and this remains important for our strategy.
+In this complex environment, we confirmed that domestic value focus strategies which has continued to pay-off in terms of customer satisfaction and profitability while keeping us in line with our four-year targets.
+We’re also pushing forward on the next generation networks investments. This has allowed us to be the first Italian operator to announce the start of LTE services.
+In Brazil, the macroeconomic environment showed some modest improvements and competition remained by and large, rational.
+The third quarter was mainly affected by regulatory discontinuities which, as you know, recently extended from network-related issues to the decision of introducing deeper cuts to mobile termination rates from 2014. Although on November 1, the current glide path was confirmed until 2013.
+
+Importantly, organic EBITDA improved in the third quarter as our management succeeded in delivering a good net asset performance in August, proving, after the July ban, how solid our business is.
+In Argentina, a 1.3% industrial production decline in the first nine months did not impact consumer confidence which increased quarter-on-quarter.
+On mobile, our best-in-class performance in MMP where Personal stands out as the only operator gaining net customers has been supported by the decision not to raise prices of five this year. While we confirmed the double-digit top line performance for the quarter, the EBITDA trend improved on quarter-on-quarter basis. Profitability should benefit in the last part of the year from returning to the usual price increase trend. On the longer term, fixed and mobile network upgrades will pursue growth opportunities within planned CapEx allocation.
+Let us now focus on the key group results for the nine months. In Italy in fixed line, we’re preserving our market share while increasing ARPU on broadband as more clients subscribe to our super Internet offer. In mobile, we took a further step towards upselling bundles with the new set of tariffs launched in October after having increased a small-screen browsing process in September. In Brazil, a timely action plan is being followed to comply with the network issues pointed out by Anatel. On cash costs, our financial discipline will ensure the efficiency targets will be fully delivered.
+Let’s move now to slide number 3. On the upper-hand side of the slide, you can see that nine months group revenues grew organically year-on-year by 1.6%. Although decreasing their pace on a quarterly basis, they have reached €22.07 billion year-to-date. Organic EBITDA stood at €8.924 billion in the first nine months, down 2.1% year-on-year due to the worsening macroeconomics and aggressive competition in Italy, particularly in mobile. And from an overall, slower but solid performance from Latin America, confirming a group margin above 40%.
+On slide number 4, we update you on our main results by core markets. As you can see, domestic operations confirmed the decisive way on group results, while Latin America activities keep supporting top line and EBITDA performance. In the first nine months, total domestic revenues were at minus 4.7% year-on-year and organic EBITDA decreased by 4.6% in line with our domestic targets for the full year.
+In Brazil, top line growth by 11% benefited from a continuous improvement of voice services, and was combined with a stable data revenues growth of around 50%. EBITDA had a positive performance of 9.2% year-on-year. In Argentina, operating results grew double-digit but the economic environment was managed effectively as confirmed by an 8% organic EBITDA growth year-on-year. Slide number 5, shows the breakdown of our first nine months net income evolution, which was flat on a comparable basis reaching €1.926 billion.
+Let’s now move to free cash flow generation. As highlighted, in the red box at the bottom left of slide 6, operating free cash flow stands at €4.141 billion, down by €383 million year-on-year, mostly because of the anticipation of the network rollout which was carried out in the first half of the year.
+Moving one step upward, you can see that in the first nine months of 2012, working capital absorption was lower by €84 million than the comparable figure for 2011.
+In the row above, CapEx third quarter figure is trending towards the €5 billion area we expected for the year. This confirms our continued commitment to invest in both mobile and fixed technologies, always aiming at the best-in-class quality of service within the scope of our financial discipline.
+On the right side of the slide, you can see how our net cash flow on a comparable basis decreased by €317 million with a final value of €929 million. Moving on to net debt, in line with our group deleveraging growth, we posted a reduction of €929 million year-to-year, lending a €29.485 billion. The main part of the nine-month decrease was registered in the third quarter following Telecom Italia organic net cash generation profile.
+
+Let’s now have a look at how we will reach our debt target for the year. Next quarter, we will benefit from TI’s usual seasonal spike in operating net cash flow generation that will reduce our full-year debt by around €2 billion. Let me summarize for you some related key elements.
+First of all, we expect an operating free cash flow generation of approximately €2.5 billion in line with the amount we generated in the fourth quarter 2011 excluding the LTE auction impact. Financial expenses and cash taxes for the full quarter will be around €1.1 billion. Hence, we reached €1.4 billion to €1.5 billion net cash generation before disposals.
+And finally, net proceeds from TI Media will bridge the gap to reach our net debt target of about €27.5 billion.
+As the leverage is proceeding in line with our plan, we are confirming our debt targets also with 2013 and 2014, as well as keeping our current dividend as a floor for our shareholders remuneration plan during the same period.
+Now, let me turn to Piergiorgio Peluso to comment in the next few slides, after which I will resume my presentation. Piergiorgio as you know, joined us in September as a group’s CFO. He has many years of banking and the more recent, senior managing experience in the corporate sector and I think it’s – it’s a good time to introduce Piergiorgio to all of you.
+Piergiorgio Peluso
+Thank you, Franco. Good morning to all of you. It’s a pleasure to be here with you today. I will spend a couple of minutes to update you on the Telecom Italia financial position as of September 30, 2012 and on the status of the Telecom Italia media disposal process.
+Last quarter has been a time of improvement for the financial markets in the euro area. During the summer, the spreads for non-financial to the euro/dollar has trended down in what appears to be a sustainable way why the unprecedented support of referenced government did secondary market performance came from the announcement of ECB’s outright monetary transactions program.
+Telecom Italia took advantage of this improving phase. On September 13, our finance team decided to tap the market with the benchmark size five years term of bond. In the wake of strong investor demand, we priced the €1 billion worth of notes at 355 basis points of swaps. It’s a yield of 4.57%. This went 258 basis points less, of which 143 coming from better credit conditions, than what Telecom Italia paid last year, when October now, with similar maturity in sight, was issued at the cost of 7.15%.
+This is one – this is just one of the element that contributed to keep our average cost returned to stable at 5.4% at the end of the third quarter of 2012. The average Telecom Italia debt maturity as of September 13 was 7.1 years while more than 70% of our gross debt is at fixed ensuring a stable cost.
+On the financial position profile picture on slide 10, you can see how the group pictured the comfortable liquidity margin that stands at almost €15 billion and even a distributed debt maturities, this condition will continue giving us maximum flexibility and excess in the capital market as a recurrent and diversified borrower.
+Moving to disposals, we are committed to ensuring that the sale of the Telecom Italia Media moves on as quickly as possible. And for the reported action plan on slide 11, we are expecting binding offers by the first week of December, with the closing day scheduled before the end of the year.
+A quick forecast on the recent events. In August, information memorandum were sent out to a small group of bidders, we received the non-binding offers both for the whole Telecom Italia Media and for La7 only. The interest of all the potential buyers have been confirmed by the relevant participation to the due diligence by both business management and advisors.
+
+At present, due diligence is well under progress. In the next few days various legal aspects will be discuss in detail in specific meetings with the potential buyers. That’s all for me. Thanks for your attention and back to Franco Bernabè now.
+Franco Bernabè
+Thank you. After Piergiorgio’s update on the group financial position and on the progress that was recently made on the disposal TI media, I’d like to complete our group operations review. As we said at home we are facing a more challenging environment with macroeconomic indicators prior to deteriorating in the third quarter. A slight improvement is expected, however, in the final part of the year.
+On slide number 14, I’d like to highlight how in this adverse environment we managed to keep the overall nine-month domestic revenues performance inside the guidance for the full year and this was the result of a lot of hard work which delivered among others a slightly improving trend on fixed line losses which essentially impacted a slower spending segment in an increasing fixed broadband ARPU.
+Important results from our consistent upselling approach in the mobile segment keeping a stable calling base at around 80%. This happened while we were affected by a tough comparison in the fixed business in the third quarter versus the same period of last year as low monthly rental fee increase was introduced this summer. A sharp cut in mobile termination rates and the introduction of a data price cap on EU roaming.
+In the first nine months, the EBITDA was down 4.6% year-on-year with a stable EBITDA margin of 50%. This profitability will allow us to proceed with our investments on fixed and mobile, also broadband which after more than a decade of regulatory pressure on European incumbents will now need to be encouraged by a new face of stability on European national levels in line with the recent statements by Mrs. (inaudible).
+We have documented on our fixed assets opportunity in recent public occasions and investor meetings, I think it’s best now to let our newly appointed advisors help us to evaluate what’s in the best interest for TI and its shareholders and bond holders. And as usual, Marco will give you a full picture of our domestic results for the quarter.
+Let’s now take a quick look at our Latin American operations performance which was reported last week. In Brazil, at the end of September, our mobile operations reached around 70 million lines with an increase of 17% year-on-year confirming its leading position in the prepaid segment.
+Top line and EBITDA trends improved quarter-on-quarter. Revenues were up 8% compared with the same period of 2011 driven by both services in handset sales. EBITDA increased by 7.9% with the same period totaling €490 million and delivering a broadly stable nine-month margin of 26.4%.
+TIM Participações is keeping its focus on leading customer-base and traffic growth fully exploiting the strong take-up of data services and nurturing TIM Fiber development. And in a general framework of infrastructure and service platform rationalization following our commitments with Anatel.
+In Argentina, in the third quarter of 2012, Telecom Argentina confirmed its top line double-digit growth while the EBITDA trend increased from the second quarter reaching 8% year-to-date. Revenues grew by 18.2% year-on-year reaching €981 million in the last quarter underpinned by the positive performance of the mobile business where the customer base grew to €18.9 million.
+EBITDA reached €275 million in the last quarter, ensuring a nine-month margin of 29.4%. The third quarter 2012 has been for different reasons very challenging, in Italy, in Brazil, and in Argentina. From what we’re currently seeing, in every region, we have fought back with success. We’re therefore in position to confirm our main group guidance for 2012.
+
+In Italy, we had battled competition with new talents and remained at the forefront of innovation, spearheading out TIM Fiber. In Brazil, we had a few dark moments, but our operations have rapidly recovered their base. Issues have been solved through a total reorganization of our network functions, while depending and confirming a strong commercial division.
+In Argentina, time and financial resources had to be to be devoted to the re-branding our mobile operations and to ensure the best outcome from us for the introduction of mobile number portability. It would be now paid off by appropriate re-pricings and by the better competitive position that we have achieved.
+A new phase is beginning to integrate to telecom operators of our size. Important opportunities are materializing on ultra broadband. We think of this will continue but the Darwinian selection has started and they feel that Telecom Italia has the right qualities, the right people, the geographic presence to win in this evolution chapter using its ability to compete for the best markets and its distinctive capabilities in fixed and mobile technology and innovation.
+Thank you very much for your attention. And now back to Alex.
+Alex Bolis
+Thank you, Franco. Marco Patuano will give us now an update on our domestic operation.
+Marco Patuano
+Thank you, Alex. Good morning to you all. Third quarter 2012 TI domestic operation registered a robust cash generation one of the highest among our peers. Our domestic EBITDA margin for the first nine months of 2012 stands at 50% stable year-on-year. This has been made possible in the current context on which I will comment in the next few slides by a rigorous control on costs which kept us on our course while dealing proactively with the regulation and competition headwinds.
+Securing our profitability and our free cash flow generation allows us to meet all our domestic targets and to devote the necessary resources to innovation while significantly contributing to group debt reduction. As Franco is telling us that the rules of the games are changing. Our next generation network investment plans gained significance in their economics and timing. Our domestic nine months performance is therefore in line with our targets for the year both on revenues and EBITDA which we reconfirm today.
+Let me give you a clear indication of the driving forces that shaped this quarter domestic results splitting operating performance from external factors. In doing so, I would like to start from domestic service revenues where the minus 7.7% year-on-year organic performance in Q3 compared with the minus 2.9% registered in the first half of the year.
+What was behind worsening? In the upper right box, we can see that the operating performance affected by a growing competition and a worsening economy explained for minus 0.9% to which we can add another minus 0.8% coming from the related decision not to re-price our retail monthly fixed fee this year which was increased by €0.5 on July 1, 2011. However, the main cause of this delta in performance came from regulation and international wholesale as we have the 53% drop in MTR from July 1, the introduction of the price capital on EU roaming, the wholesale non-rental retroactive reduction by €0.20 per month effective June 1, and residually, a new round of low margin transit portfolio optimization on Sparco, amounted altogether to minus 3.1% explaining about 65% of the slowdown.
+If we’d perform the same analysis on EBITDA, from the detailed picture on the bottom right, we see that the same factors playing with the different weight with only about 20% of the worsening coming from an operating performance incorporating front cost recovery.
+Domestic free cash flow on slide 4. So you can see the details of our most important nine months result. Operating free cash flow grew by €51 million year-on-year reaching more than €4 billion. In box 1, we highlight a cost reduction of €335 million due to both lower interest connection costs, as well as operating efficiency, which in the third quarter 2012 accelerated versus the first six months of 2012.
+
+In box 2, CapEx of the first nine months of this year are substantially stable year-on-year but these results from a different mix between the reduction of traditional and maintenance investments driven by efficiency programs and the increased development of ultra broadband networks.
+Last, box 3. Delta working capital improved significantly mainly due to the reduction of receivables driven both by days improvement and turnover reduction partially offset by the negative impact of payables related to lower cash costs.
+Slide number 5, as Piergiorgio reminded us, the third quarter financial market conditions improved both for euro and Italy. Unfortunately, the same cannot be said for our economic fundamentals and for consumer and corporate confidence. Analysts have pointed out that aside the recent 2008 worldwide financial crisis, Italian GDP has never fallen so rapidly in the last 30 years. Domestic demand has fallen at an even faster pace.
+Credit for private sector has remained very tight, although probably less restrictive than at the beginning of the year, while some growth has been recorded during the summer in import and exports. Consumer sentiments remained at historical lows and retail sales were down.
+While demand for telecommunications services were not badly hit net of discontinuities, our service revenue trend worsened in the third quarter both on consumer and corporate, down to 6.3% and 7.5%, respectively. And macro is only one part of the explanation, the rest comes from competition which plays a stronger role on the consumer than on the corporate segment.
+Let me summarize in the next slide how we delivered our targets. On slide number 6, we recap our drivers on revenues OpEx and CapEx. So without going through all the details, the main messages are; expense control remained tight. Going forward, we can act on further levers to generate the required cost efficiencies, without negatively impacting on our growth prospects. While we remained committed to our deleverage plan, we do not hold back on the investment needed to support our growth. In fact, progressing in the deployment of our ultra-broadband networks and services is a key priority.
+Slide number 8, let’s now look at our last quarter fixed trends. We have already mentioned, why on both retail and international wholesale this quarter compares comparably year-on-year. As you can see from the lower left box, the support which lasted four consecutive quarters on the monthly retail consumer fee increase is now over. Net of this effect, our retail service revenue trend has not deteriorated.
+Moving to the upper right, low margin content rationalization of Sparco has completed the first round in the second quarter of 2011, and just started a new one. The wholesale line rental reduction which was introduced in October impacted negatively and retroactively on domestic trends from June 1. Nevertheless, all in all, our domestic core service revenue erosion remains within 5%.
+In this difficult environment, year-to-date, TI has kept a stable line loss trend compared to the same period last year, retaining advanced-in-class retail market share close to 66% while OLOs are no longer growing and are suffering from line churn among themselves. Quite importantly, in the first nine months, our voice ARPU remained stable in consumer while overall retail ARPU was down only 1.6% incorporating the effect of spending efficiencies coming from the corporate segment.
+Let’s move now to fixed broadband. While the overall market is suffering from lower consumer spending, we continued to defend our broadband position in size and to grow in value. SuperInternet keeps providing us net adds which prove an increasing demand for speed supporting our short-term launch plan of fiber services. We also started to explore the broadband multi-device mode introducing mobile bundles on tablet set with ADSL promos on broadband retail.
+
+ARPU is continued to increase on the quarterly basis reaching €18.6 while service revenues are up 0.9% year-to-date proving that sticking to value pays off. To that extent, we’re different from the rest of the market. TI fixed broadband remained market retail, market share is stable.
+Mobile revenues, as we move to slide 12, we can take a closer look to our mobile top line and better appreciate how regulation played a main role in shaping our domestic third quarter performance. As you can see at the bottom left, in the third quarter business generated stood at minus 7.9% year-on-year of which 200 basis points are due to a worsening in the performance coming from the EU introduction of the new cap on data roaming effective July 1.
+On line up, one line up, we also see that business received was more than halved by the MTR cliff. This is how we got to minus 12.6% on retail services.
+Total mobile top line stood at minus 11.5% including the benefit of another solid quarter of handset sales which grew by almost 30% year-on-year. Going back to the business generated, once we normalized it for the new roaming cap, we can see how its minus 5.9% year-on-year performance in this quarter is just a touch weaker than the minus 5.5% year-on-year registered in the third quarter 2011.
+Slide 13 points out some key DIs of our mobile customer base. At the end of the third quarter, we had more than 32.1 million SIM cards, about 400,000 more than in the same period last year and about 100,000 less than in the second quarter of this year. This recent reduction has been driven by an intense promo activity by some competitors during the summer months.
+Now, new prices are out and our MNP balance in October is back to where it was in May. I’m sure that most of you will agree that the summer MNP spike that you see at the center of the slide is not indicated the valuable acquisition process and that it burned resources for the whole market.
+Our point of view is that competitive efforts could be better spent elsewhere rather than feeding churn, where, by the way, we continue to remain best in class. I hope that this further evidence will drive a more rational competitive behavior.
+With the launch of our new team portfolio offers from October 8, we further develop an extensive upselling approach aimed at increasing the adoption of bundles and ARPU. Results are looking very positive.
+Slide 14 shows the performance of vast revenues in the third quarter 2012 which were down 4% versus third quarter 2011. This result as already said is mainly due to the introduction of the EU cap on data roaming from July 1 which caused the flattish trend in browsing where we see on the slide.
+In box 1, we see how the underlying trend grew by 12.1% year-on-year. On the same basis overall VAS retail is up 1.6%.
+In box 2, we’ll briefly comment on the performance of traditional messaging that in the last quarter slowed down by 8.4% year-on-year. This happened essentially because of the constant reduction in the average estimates pricing that was not offset by a proportional increase of SMS users. The adoption of alternative messaging services potentially enabled by the increasing penetration on smartphone devices played only a minor role.
+In any case, looking at VAS ARPU as a whole, our broadband and VAS bundles such as our cheapest smartphone proposition enable us to more than compensate for the reduction in SMS by shifting the value from traditional service to data as the ex-ante, ex-post analysis summarized in the lower-right side box.
+While the demand of mobile data is surging, once again SIM is at a technological forefront with its launch of LTE services that we made available since November and during Milan, Rome and Naples. We started offering large screen services at the right premium as you can see from the benchmark and included in the slide 15. As the current early adoption phase will evolve, the customer attitude will guide us to better feed the quantity serve to different devices. As soon as these smartphones will be available on the market, voice services on 4G will add additional value to the ultra broadband experience.
+
+On top of the sole connectivity, we are progressively introducing content like soccer, music and features like cloud storage to enable the widest angle of users evolution. While the slide, ends my domestic quarter results overview, here are some takeaways.
+First, target is confirmed and domestic free cash flow growing. Second, the rational competitive behavior has not paid off. Third, investment in innovative technology for both fixed and mobile ultra broadband growth are progressing combined with further cost efficiencies for which you will find details on recent achievements in the Appendix.
+Thank you very much for your attention. Back to Alex Bolis.
+Alex Bolis
+Thank you, Marco. We can now begin the Q&A.
+Question-and-Answer Session
+
+Operator
+Ladies and gentlemen, the Q&A session is now open. (Operator Instructions) Thank you. This question comes from Mr. Nick Lyall from UBS. Mr. Lyall, please.
+Nick Lyall – UBS
+Yes, hi, there. Can I ask two questions please? Firstly, for Marco, on the MNP data it looks very positive now into October. Are you also happy that your service revenues will benefit as well, Marco, for TIM in Q4 by a similar quantum? And then secondly the debt reduction is key for Q4 as well. But given the business market is very difficult, are you still happy as your working capital rebound substantially in Q4 as well and benefit the debt number? Thank you.
+Marco Patuano
+MNP yes. I don’t want to say that I’m happy for the MNP rebound because the MNP rebound comes from a huge quantity of MNP in and a huge quantity of MNP out, which means that we continue to burn a lot of value in the market, but since if we don’t reach a stable balance, it’s difficult to hope in a more rational behavior. So, yes, I think that we will have a benefit on Q4 but it’s not correct to say that I feel good with this situation.
+For the second question, I’ll leave to Piergiorgio.
+Piergiorgio Peluso
+Yes, thank you. In the fourth quarter we expect a variation of working capital which is slightly better than last year year-on-year with a number which is in the region of 1.2 billion (inaudible). And this is composed by 0.6 in domestic which is flat year-on-year and the 0.6 in Latin America which is slightly increasing year-on-year. Let’s say broadly flat.
+Nick Lyall – UBS
+Thank you.
+Operator
+Next question comes from Mr. Mathieu Robilliard from Exane BNP Paribas. Mr. Robilliard, please.
+Mathieu Robilliard – Exane BNP Paribas
+Good afternoon, thank you very much. Two questions please. First, with regards to network separation, I don’t know how much you can comment to this. Obviously there’s been lots of different information on rumors in the press about a timing around an announcement on what your plans are. I think Mr. Bernabè said that you’re expecting to be in a position to announce something before year-end.
+So, maybe if you could give us a sense of the timing. I understand this is a complex issue and takes time but it would be helpful to have an idea as to when you think at this stage would announce something there. And if in any ways your view around the merits of that operation has changed in the last few months.
+And second, looking at the operations, clearly in 2012 you have had a tougher macroenvironment affecting revenues. You’ve done a great job on cost so you’ve been offsetting that. But when we look into 2013, some of the trends of revenues in Q3 obviously, the concern is that revenues continued to be under pressure in 2013 and maybe cost cutting opportunities are reducing.
+So, should we expect you to start working on new plans in terms of cost cutting? Is that something that is top of the agenda? Are you expecting really revenue recovery in 2013? Thank you.
+Franco Bernabè
+Thank you very much for the question. On the network separation, as I said earlier, the project is based on the changes that we are seeing coming from the regulatory environment. And they are crucially depended on what is happening on that front. If there is value that can be created through a different approach, into regulation, as you know, we are now offering a substantial equivalence of our quarter, the evolution of the regulatory environment calls for a more – a better or more import equivalence of input. If this translates into greater value, we will go on with this project. But of course, this is crucially depending on this.
+
+We will see how all this will evolve. We will see and we will decide about the timing, probably at the next board meeting in December. But of course, as I said, we really think that this is crucially dependent on how the regulatory environment will evolve.
+On the macroeconomic environment, yes, as you said and as you can notice from the figures that Marco has given on the macroeconomic environment, that things are getting worse. And on the real economy side, although on the financial – on the monetary side of the equation, they have improved, financial markets look better than they did look at the beginning of the year. And this will probably help turning around probably the environment, especially in the business sector and probably giving more confidence to the people that our politicians can handle properly the situation.
+But despite the – what will happen on the macroeconomic front, we will keep working in the company with a more aggressive cost-cutting plan. I think that although we have done a lot of work so far Marco and his team in Italy has done a great job, I think that more can be done. And we are working and Marco is working on this very hard and we will definitely come up with new plans by the beginning of the year.
+Mathieu Robilliard – Exane BNP Paribas
+Thank you very much.
+Operator
+Next question comes from Ms. Carola Bardelli from Deutsche Bank. Ms. Bardelli, please?
+Carola Bardelli – Deutsche Bank
+Yes. Good morning. Thanks a lot. I was wondering if the – after the launch of the new tariff, you also saw an improvement on the volume side in mobile. And then on the other side, I was wondering instead if there is a worsening in churn after Vodafone launched their unlimited tariffs.
+And then if I could move on the wireline, maybe a little bit of guidance to understand if the trends are seem to be in line what we saw in Q3 also for Q4 in 2013 or is there – there are going to be an improvement at least on the corporate side given what you were saying Mr. Bernabè.
+And then finally on the cost-cutting opportunities, is maybe real estate an area where you could intervene to expand a little bit more the cost cutting compared to what you have in the current business plan? Thanks a lot.
+Marco Patuano
+Marco answering. Yes, volumes are up. So the portfolio is not only gaining in terms of MNP. It’s also driving volumes of traffic.
+Your second question, churn driven by the unlimited offer of Voda. I think that this is a very aggressive move on the high end. I’m sure that they may vary well their calculation because there – for the time being they are not causing us significant churn on the most valuable segment. So, it is still something we can control. Of course, it’s a market proposition that is had to be considered very aggressive.
+I think it’s not the only one, for example, 3 is still with the iPhone on the portfolio. And this also even aggressive and expensive move. I think that we have to be – to consider carefully. Fixed, yes, fixed very honestly what is interesting on the fixed is that at the beginning of the year there was quite a significant rationalization on both consumer and small corporate number of lines. Second half is in the consumer segment or let me say secondary lines for corporate segment.
+Now, it seems that to be – to come at a slightly slower pace, so this trend is under control and I don’t see this as a major topic also because our ARPU is still okay. Cost cutting, you mentioned real estate, of course real estate, in general term, is a big one and so it will be one of the big moves for 2013. But let me be – le me speak more in general. To our processes that are quite expensive and not strictly speaking core, that can be address with higher level of efficiency without affecting the core business.
+
+Real estate is one, there are others, we are working with I would say, at this continuous approach and so – in the new plan, we will add for directions. Thank you, Carol.
+Carola Bardelli – Deutsche Bank
+Thanks a lot. Very clear.
+Operator
+Next question comes from Mr. Ierodiaconou from Citi. Mr. Mr. Ierodiaconou, please.
+Georgios Ierodiaconou – Citi
+Yes, hello. I’ve got two questions, please. The first one is around the cost cutting edge in your initial results going to take earlier next year. I was wondering, especially strictly on the agreement you have with the government two years ago to reduce the working hours. And my understanding is the government was making contributions on October through the salaries. Can you update us on whether you think you can extend this fee on October this year? And if not what would be the headwind on the cost-cutting level that you will experience with government, for example, which was not at all going forward?
+And my second question is around pricing, it’s my understanding that some of your new promotions are the second billing. Can you let us understand how quickly you expect the base to migrate to per second given the pace of churn that you are seeing and perhaps what could be the impact from the migration to the second bill? Thank you.
+Franco Bernabè
+Of course, first question is on cost cutting and let me be – let me approach it in general terms with customers’ costs. I think that once your – 1/3 of your cost base is represented by personal costs. It has to be approached in a very conscious way. It means that the total cost related to persons have to be reviewed which is not on the wages. It’s the total cost. We are discussing with the unions because these concepts have to be explored. How can I avoid to create massive unemployment? It’s now our willingness to create massive unemployment but we need to work on the total cost of the labor.
+And it means for example that we are quite inefficient in the geographical location of our people. It means that the productivity of our people have to improve. It means that there is a lot of costs of data we have externalized that can be re-internalized without increasing the number of employees. So, I think that of course, the support coming from the – from the welfare is extremely important. So, we are delivering the total reduction in terms of persons we have in our plans. We are slightly in advance.
+2013 will not be affected because we will reach the original targets. We had enough in the plan we presented last year but the one we presented two years ago. So, we are in line with our project. But we can do more. We need to do more. But we need to do more without creating massive unemployment.
+For the second question I would prefer to let Elizabeth answer to you so you get from her direct voice.
+Unidentified Company Representative
+Hi, for the per-second offer, let me say that portfolio has been very well accepted by the market. Well, probably from new customers as Marco mentioned in terms of mobile number portability but also from the customer base. And as you probably know in our portfolio there are specific offer. They are dedicated to our actual customers, so to our customer base and especially this kind of bundle as being very well perceived by our clients.
+But on top of that, I have to remind you that our portfolio is only for 1/3 dedicated to the auction while we still have quite a great deal of customers that are still on paper use offers. And among that there is a relevant percentage of customers that are already on the per second tariff. So, I would not expect this to change in the near future.
+Georgios Ierodiaconou – Citi
+Okay, thank you.
+Alex Bolis
+You’re welcome.
+Operator
+Next question comes from Mr. Nick Delfas from Morgan Stanley London. Mr. Delfas, please.
+
+Nick Delfas – Morgan Stanley London
+Yes, thanks so much, just a quick question on LTE, could you clarify exactly what kind of population coverage you expect you’ll have for the end of this year and the middle of next? And what frequencies you’ll be using initially for handsets? Thanks very much.
+Piergiorgio Peluso
+LTE has been launched on the 1800 frequency because the 800 will be made available starting from January 1. And at least, we hope so. It seems to be that it’s – there are no delays but we will see on January 1, for the 800 and for the 2600. Within this year we will cover something around 22 cities and so we will reach 40% of the population end of 2014. So, end of this year the commercialization will be available on almost 10% of the population so the target is 40% 2014 and to progress almost linearly between one and the other.
+Nick Delfas – Morgan Stanley London
+Is there any chance that you would accelerate that? I mean, it sounds like quite a low ambition, given how popular LTE has turned up within some countries in the world?
+Piergiorgio Peluso
+Yes. Of course, we have also examined and we are evaluating there also a potential acceleration of the plan. It’s a balance between what we are able to save elsewhere and the money we will put on the network for acceleration. Every buck we are able to save will be devoted to build new network and to reduce the debt.
+Nick Delfas – Morgan Stanley London
+Okay. Thanks very much.
+Operator
+Your next question comes from Mr. Torsten Achtmann from JP Morgan. Mr. Achtmann, please.
+Torsten Achtmann – JP Morgan
+Hello. Good afternoon. The first question would be on the domestic fixed business. It’s indicating your SIM revenue is coming down which has been partly driven by the annualization of the pricing increase, but also business revenues driven by the economy are coming down. So can you give some idea what do you expect from that business going forward? So can we – is it possible to see a stabilization there or is it something we have to list for the coming quarters with more pressure on the business side?
+The second one would be on Brazil where the regulator has made some recent changes, develop pressure on all of the operators to increase quality. Do you see that half to bring forward some more investments in OpEx and CapEx in Brazil into Q4 and into 2013? Thank you.
+Marco Patuano
+Marco answering the first question. So if I look forward in – on the domestic, let me maybe answer between the short term and the medium term. In the short term, one year ago, we decided – for this year, we decided not to replicate the monthly fee increase we had in 2011. I don’t think that it’s appropriate to leave without recovering inflation for many years. So, we are evaluating for 2013 even if I cannot anticipate anything but it’s clear that it’s difficult not to recover inflation for more than one year. And this can support financials in the short-term.
+Mid-term, I think that once we will launch fiber – fiber services, what we do expect is to have a supporter on our positioning, in ARPU at least, back to growth in total number of broadband lines churned down. So, I think that also in the fixed, the next generation active network services, if we are able to combine them and not only with the pure connectivity but to add some further services, we will be – we will have, mid-term, a very positive – a very positive effect.
+On Brazil, I’ll leave to Mr. Bernabé.
+Franco Bernabè
+Yes, on Brazil, as we declared also recently, we’re not changing our three-year CapEx guidelines, although we are basically changing the mix within the BRL 9.5 billion plan that we have indicated to the market. We think that, of course, we are accelerating some of these investments. We are reassessing the type of investments that we are making. But we think that the global amount of investments that we have planned and that we have cleared to the market last year is enough to satisfy the quality standards and are – we’ll be able to reduce the regulatory risk to support TIM’s innovative offers. Because there has been a lot of talks about whether the – our innovative offers that have driven the growth of Brazil were supported by the kind of investment plans that we made.
+
+We have made a full reassessment of all these and we have come to the conclusion that our offers are sustainable. We have to reallocate, we’ve done a full review of the situation there. We have to allocate differently, the investments, prioritize out the investments but the global amount will stay there.
+Torsten Achtmann – JP Morgan
+Thank you.
+Operator
+Next question comes from Mr. Tim Boddy from Goldman Sachs. Mr. Boddy, please.
+Tim Boddy – Goldman Sachs
+Yes, thanks I have couple of questions. The first one, you made a comment at one point on the presentation about you’re pricing LTE capital to avoid DSL substitution. Could you just comment a bit about exactly how you’re trying to do that and obviously your competitors maybe more aggressive?
+Secondly, obviously, in the announced passive infrastructure sharing there with – how likely is it? Do you think that other OLOs will look to join that agreement? Is it technically feasible? Thanks very much.
+Franco Bernabè
+LTE pricing, well, we decided that the price – of course, it’s clear. We have to consider that LTE have to be proportioned to different devices. So I think that there is, today, a good pricing scheme for dongles. And the price scheme for dongles is, today, not affecting our ADSL pricing position.
+For tablets and smartphones, of course, the price have to be reset in order to have the right price for the right data, for the right quantity of data, for the right device. This is the way we are moving. Of course, the dongle will have a higher quantity of data than the tablet, and the tablet, a higher quantity than the smartphone.
+Now, we are in the launch phase. We are very much interested in growing fast the customer base. So we’re a little bit generous in terms of data quantity, but once the market will stabilize, we will evaluate how to make the right fit.
+And last, it’s extremely important that we added one contents and contents are very important in order to avoid to let third party take the benefit of exploring also the ultra broadband mobile over the top.
+On parts and infrastructures, as you know, we signed an agreement with Fastweb. I think that the agreement is extremely positive. It means that FGTC is the right architecture. The only two players who are highly infrastructured have decided the same architecture. And second, the model is very competitive. So, there are no major limitation to the competition. Sharing costs is always a good idea and now, of course, there are areas in which we expect them to invest. There are areas in which we expect we will be the only to invest but that’s right.
+Tim Boddy – Goldman Sachs
+And how much less is the unbundling fee Fastweb will pay in areas where you shared passive infrastructure?
+Franco Bernabè
+There is – it’s regulated. The sub-loop unbundling is regulated. It is our fixed point something. It’s a bit more than €6 a month.
+Franco Bernabè
+Okay.
+Tim Boddy – Goldman Sachs
+Great. Thanks very much.
+Franco Bernabè
+€6 for the sub-loop.
+Tim Boddy – Goldman Sachs
+Thank you.
+Alex Bolis
+You’re welcome.
+Operator
+Next question comes from Mr. James Britton from Nomura. Mr. Britton, please.
+James Britton – Nomura
+Thank you very much. Can I just get an update from you guys on VDSL? How many homes do you actually rolled out so far this year? And I couldn’t actually see it from the slides, but can you just give us an update on the adaption within the footprint on those early days. But anything you can say on that will be great.
+On network separation, if you were to accept the state of the co-shareholder in the Netco, would it then become more difficult for you to reduce head count? If you could just comment on that that’ll be great.
+And then a detailed financial question, cash interest expense seems to be running €200 million above the P&L expense. Can I just ask the CFO what the reason for this is? Thanks.
+
+Franco Bernabè
+James, just the last one, if you could repeat just the last question.
+James Britton – Nomura
+Yes, the cash interest expense is running €200 million ahead of the P&L expense for the nine-month stage. Can I just ask the CFO what the reason is for this? Thanks.
+Piergiorgio Peluso
+You’re talking about interest expense?
+James Britton – Nomura
+That’s right, yes.
+Marco Patuano
+Okay, Lance, Marco, answering the first question. At the – we are -we’re going to move it from the discussion phase to the launch phase. We assumed within the end of this year having the possibility of selling to more than 1 million households. And we assumed at the end of the next year to reach 6 million households at the end of 2014. So the speed will depend mostly on how the permissions will be given to us.
+We expect at the end of 2014, 100 cities. We expect almost 20-something, between 20 and 25 cities at the end of this year, so you can have an idea of the end of 2013.
+Adoption, of course, this is the big question mark. We are positive because we see very good interest from – coming from SuperInternet. Today, we have more than half a million customers that already adopted SuperInternet. And let me say that SuperInternet is a good product, but it’s not a new experience. So with the brand new experience, we assume that the adoption will be significantly higher.
+For the second part of the question, I give to Mr. Bernabè.
+Franco Bernabè
+In principle, just to answer your question on the impact of possible transition separation. In principle, an organizational separation make people much more accountable and, therefore, it should be easier to control corporate to define cost and then to make programs for reducing cost in an organization which is clearly identified in terms of targets, in terms of responsibility, in terms of processes.
+So, as a matter of principle, I think that a cleaner organization make people more accountable and therefore are – there will be a benefit in terms of cost.
+The second point is – I think that the answer that I can give is the following. We will do all the things that will increase the value of our entire organization. So there’s no way that we engage in something that will make more difficult rationalizing the organization and make it cleaner and leaner and reduce cost. So there’s no clarification about that.
+Piergiorgio Peluso
+On the financial charges, to be honest, I have not understood properly your question. In terms of the financial charges on the P&L, we have a reduction of 96 million. I would say that basically the financials, the pure financial charges are broadly stable. The difference of 96 million is principally related to the unwinding of some hedging derivatives that has been done last year, so this is something in our carrying items. In terms of recurring financial charges, I would say, the cost is broadly stable so the number is – there is not a significant change. I don’t know if this reply to your question.
+James Britton – Nomura
+Okay. Perhaps, I’ll take the offline. Thanks.
+Alex Bolis
+Okay.
+Operator
+The next question comes from Mr. Justin Funnell from Credit Suisse. Mr. Funnel, please.
+Justin Funnell – Credit Suisse
+Thank you. Yes, a couple of questions, please. Could you briefly discuss the trends driving the decline in outbound core volumes in mobile in Q3? It obviously fell year-on-year. Was that the effect of the summer promotions from competitors so, sort of rebound quickly, is it the economy, is it cannibalization, perhaps a mix? If you discuss that, yes, if possible, please?
+And then secondly line loss. That’s pretty impressive, 100,000 in the quarter despite obviously historically weak economy, and we’ve seen the economy affects other markets in the past like Spain and the UK a couple of years ago. So, is this a scope for line loss to actually improve next year and they are, say, even go positive.
+
+Franco Bernabè
+Well, let’s start for the second question because it seems to me very optimistic. So, no I don’t think that line losses can turn positive honestly. We are aiming at value. We are aiming at revenues. So, it’s true that we see for 2013 that a better macroeconomic environment can sustain much better or seriously better our trend. But I think that the major change will come with the progressive adoption of the ultra broadband services. And this will stabilize not only our position but the whole market. So what I expect is a market stabilization more than simply Telecom Italia stabilization. If you see this year the most important trend is that we are not losing customers towards our competitors. It’s the market that is shrinking.
+The first question, outgoing is growing, incoming is growing. So, bundling offers attempted to let the customer base be more active in general terms. There is less seasonality. So, there are several, several trends that have to be incorporated in our models and in the way we plan our volumes and our cost also because interconnection cost are completely changing because once the on-net scheme is not anymore the driving one or the most successful one, you have that everybody tends to increase the volumes and – but you have also off-net growing.
+Now, keep in mind that next MTR cut in Italy will be January 1. This will be a major change and a major impact in reported revenues for Telecom Italia. Telecom Italia will be just a reported effect and all our competitors will have for the first half of 2013 a huge impact on all the P&L and all the free cash flow coming from a double step cut in MTR. So I’m very curious to see 2013 marketing approach of this market.
+Justin Funnell – Credit Suisse
+Thanks, Marco. Just making clear. I was looking at the outbound traffic volumes which in your back-up slide show a 1.4% decline for good of growth in Q2 and obviously growth historically. I’m just wondering if that was bilateral. Are you suggesting it will recover because of the effect of cross-net calling.
+Marco Patuano
+No. Keep in mind that when we focus on consumer, we focus on 65% of the total volumes. The business side comes for almost 35% and this is still under pressure and the pressure there is not only on prices. It’s on spending and keeping under control also volumes.
+Justin Funnell – Credit Suisse
+Okay, thank you.
+Marco Patuano
+You’re welcome.
+Operator
+The next question comes from the Miss Micaela Ferruta from Intermonte. Miss Ferruta, please.
+Micaela Ferruta – Intermonte
+Yes, hello. I have a few question on, again, on mobile and the new tariffs that you just introduced. Is it possible to have an idea about the potential for ARPU improvement that you see as customers take up these bundles or is the benefits may be related to lower churn?
+And then network separation, two quick questions. Fastweb yesterday said that they believe the new coperimeter network could be limited to past developments. What do you think? And then again, on separation and your agenda, if you expect it so by the year-end, I guess there will not be a Agcom decision on fiber regulation in line with the new EU approach. So what exactly are the changes that – in regulation that you still expect to see or is (inaudible) new approach enough for you to decide to go on? Thank you.
+Marco Patuano
+Marco on the first question. Churn reduction is for sure one goal. It’s not the only one. Because what we are targeting is how to – from one side, how to upsell and from the other side, how to avoid the cannibalization or stabilized revenues from services that otherwise would decline like messaging for example. If you look, for instance, to our TIM Young, the TIM Young has a very nice effect on the ARPU. So, the very last figure I saw is that the brand new team TIM Young itself drives an ARPU of more than €20. So, this is the way we tend to evaluate the new offer. Not only churn. It’s churn plus upselling, plus stabilization or cross stabilization.
+
+Franco Bernabè
+On the network separation again, of course, it will be the passive elements but in the case of fiber we will have to see what applies to the scheme that will finally come out. And basically coming to your question about the regulatory environment, I think – I know that EU is working on this and they will – probably they will not come out with a formal directive for the end of the year. But they will certainly have shaped their ideas in a very clear way in a very short period of time. So, we will have many elements to make a judgment.
+Micaela Ferruta – Intermonte
+Thank you.
+Operator
+Next question comes from Mr. Ottavio Adorisio from Société Générale. Mr. Adorisio, please.
+Ottavio Adorisio – Société Générale
+Hi. Good morning, gentlemen. A few questions that I reckon they’re all for Marco. The first one is related trends on the fixed line. Honestly, I didn’t really understood the dynamics of this unexpected retroactive reduction of wholesale LAN rental. When I look at the numbers, you went from around 1.5% increase year-on-year on a wholesale to decrease of minus 4.3%.
+So the first question is that is all due to the wholesale land rental and that decrease also represents 2/3 of the overall delta you had on the wireline. So the follow-up question is that, is that going to, basically, impact the following three quarters because the comparison year-on-year or just you actually put out a retroactive cap in one quarter.
+The second question is on the (inaudible). Last year we’ve spoken a lot by that contract and now looks they’ve disappeared from the headlines from your presentations that are between you and Fastweb. And from the last one, at least the last chapter there was a Court of Appeal that had to, basically, say who is right, who is wrong. So if you can give an update and what happened from there to your financials according to what the Court of Appeal will decide.
+And the third is on Metroweb and TI in the LAN. In memory, you do use some of the Metroweb network. So my question is that what’s the wholesale price you pay for fiber line in the LAN network? Thanks.
+Marco Patuano
+First of all, fixed line are – the answer is no, it’s not on the reduction of wholesale land rental fee.
+Also our friends in the OLOs have rationalized the lines and they have changed the mix between different kind of offers so that the decrease is not only caused by the regulation. Regulation is a one-off. We had better. The impact that is in the quarter is higher than the what you can estimate for the rest because it has been a retroactive application which is something quite uncommon but that’s it. So, I think that it’s not only on the regulation what you have to see.
+Consip. Of course, there has been a lot of noise around Consip because Fastweb decided to play the game of changing last minute their prices after the end of the Consip option. There is also the standing review that is ongoing which is quite interesting because what is going to be introduced with the spending review is that everybody can match the best price that anybody else has offered.
+When a new rule is set for the game, everybody has to understand how to play with the new rules. It’s completely incorporated in our corporate figures. There is an effect? Yes, there is an effect. But now we are going to play with the new rules. So, it’s not major or it’s not the only issue we are facing on the corporate side.
+Sorry, I didn’t catch your last one. That was on Metroweb, but Metroweb in Milan, what?
+Ottavio Adorisio – Société Générale
+Let me just repeat. My understanding is that you do use some of the Metroweb network on a wholesale base. And my question was, was the wholesale price you paid to access lines from Metroweb in Milan.
+Franco Bernabè
+Yes, we use wholesale and, of course, we have a price list. And that’s it. So, we use their fiber and we’re going to use their fiber. The big difference from some time ago is that we are building the verticals on our own instead of buying from them. But on the primary and the secondary we are still buying from them.
+
+Ottavio Adorisio – Société Générale
+And you don’t have any wholesale price per line…?
+Franco Bernabè
+We have a bilateral agreed price.
+Ottavio Adorisio – Société Générale
+Okay. Thanks.
+Franco Bernabè
+Welcome.
+Operator
+Next question comes from Ms. Robin Bienenstock from Bernstein. Ms. Bienenstock, please.
+Robin Bienenstock – Bernstein
+Yes, thanks very much. Two questions if I can. The first is your macro slide showing that the macro has gotten worst, also shows like the Bank of Italy that you expect the macro to get better. I’m wondering if that’s the basis of your budget planning for next year. And the second question is that how are your peers as they roll out fiber are looking increasingly at – introducing television products, is that something that you can consider in the future or is that politically to hairy for you to look at? Thanks very much.
+Franco Bernabè
+On the macro side, what we are planning of course is a tough macroeconomic environment for next year is probably for the following two years. But we have never had in the last four or five years any very positive years, so I think we are used to fighting with the difficult macroeconomic environment and we think we will be able to take all the necessary actions in order to contrast.
+Although in the center, I’m a little bit more positive on the future because I think that what we have seen in the last year has been a much more rational approach on the bank, the European central bank. I think that we have avoided major disruption in the financial market, and sentiment, the general sentiment, I see it improving. So, although we are prepared for the worst, we expect an improvement over next year. And now I turn it to Marco.
+Marco Patuano
+You were asking for TV services, I think that next generation networks, both – especially peak, but also mobile is built before we do. So it’s so important that we’ll have media content on the network that I think it’s a – every change in the entertaining – entertainment environment is important. What we decided one year ago and I confirm you is that we abandoned the product IPTV. We are not developing anymore in IPTV. If a broadcaster wants to broadcast a signal, IP is not the best way to do it.
+We built a platform which is especially for video-on-demand which is an open platform. We are signing an agreement – we’ve signed an agreement with RAI Public Television. We are offering the same platform to all the content providers in order to be hosted on our platforms.
+So, every – every possibility of having video contents on those networks is important. We have signed an agreement with the Soccer League. It’s important to understand that videos are good but the revenue model is not telco pay upfront and come to get upfront. So once the customer pays, we share the revenues and this is a very, very important new streamline for the telcos.
+Robin Bienenstock – Bernstein
+Thank you.
+Operator
+Next question comes from Mr. James Ratzer from New Street Research, sorry. Mr. Ratzer, please.
+James Ratzer – New Street Research
+Yes, thank you very much. I have two questions please. The first one was regarding the impact of the EU data roaming cap which you say took around 2 percentage points of gross in your mobile business in the third quarter. Am I right in thinking that the impact of this would be the greatest in the third quarter because that overlaps with the summer months when roaming traffic is the highest. If so, I was just wondering whether the impact of this change will be less in the fourth quarter, and if so by how much?
+Then the second question I had was just regarding the fixed to mobile retail rates that you were charging your fixed line customers. Can you talk us through how the change in the termination rates has been passed on to retail customers, again I’m thinking how that’s impacting your wireline revenue both this quarter and what plans do you have in the future? Thank you.
+
+Franco Bernabè
+On the first question, you’re right. The third quarter is the one with the highest impact for roaming especially for business and corporate. And Q4, we estimate 1/3 less so the – this is the size. On your second question, fixed to mobile is not – this is a market which is not – in which prices are not defined by the regulator.
+And so we can do whatever we want and it’s different for different plans. So we are – we have different plans for corporate and for consumer. We have bundled plans and we have pay per use plans, so it’s very much difficult to see what we passed. But it’s fair to say that we didn’t pass the whole reduction to the finance customer. And we had a complete price revision this year. So, we have no more difference for different operators. So, it’s completely re-schemed and the way you can see is that we had an opportunity, reinvested a part of this in the simplifications at the lowest level of the market.
+James Ratzer – New Street Research
+And did that occur in the third quarter. Thanks.
+Alex Bolis
+One last question.
+Operator
+Last question comes from Mr. Paul Marsch from Berenberg Bank. Mr. Marsch, please.
+Paul Marsch – Berenberg Bank
+Yes, thanks a lot. I only have one question. I think when you talk about only pursuing a network spin-off if it creates value for shareholders, that message seems to be very clear. But of course, that value could be created in two ways. You could see that transaction crystallizing value through somebody paying you something to join you as a partner in that network or it could be three, maybe a regulatory change that raises revenue growth or improves the profitability of that business. So, which should we be thinking? It is more likely to be – could we see this as a transaction which crystallizes value greater than is implied by your stock price or is this more likely to be something which raises revenues and improves profitability? Thanks.
+Franco Bernabè
+Well, that is a – it’s a good question, a complicated one. But the only thing I can tell you is that we will give, of course, priority to the value creation for our shareholders. So, whatever it takes to create value for our shareholders we will do. Would it be crystallizing the value? I don’t know. Or would it be potential exploitation of the growth that this value can have in the future? It could be. In any case, I think that the driver of all these will be really value creation.
+Paul Marsch – Berenberg Bank
+Thank you.
+Alex Bolis
+Okay. The conference of our third quarter results is over now. Thank you, ladies and gentlemen, for attending. And have a good afternoon.
+Operator
+Ladies and gentlemen, the conference is over. Thank you for calling Telecom Italia Group.

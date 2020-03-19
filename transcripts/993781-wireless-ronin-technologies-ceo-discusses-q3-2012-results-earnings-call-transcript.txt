@@ -1,0 +1,79 @@
+Wireless Ronin Technologies, Inc. (RNIN) Q3 2012 Earnings Call November  8, 2012  4:30 PM ET
+Executives
+
+Erin Haugerud – Manager, Communications and IR
+Scott Koller – President and CEO
+Darin McAreavey – SVP and CFO
+Analysts
+
+Tom Pierce – Feltl and Company
+Ty Lilja – Feltl and Company
+Operator
+Good afternoon. Welcome to Wireless Ronin Technologies’ Third Quarter 2012 Earnings Call. My name is Elisa, I will be your operator for your conference this afternoon.
+Before we begin today’s call, I’d like to remind everyone that this call will be available for replay starting later this evening. A webcast replay will also be available via the link provided in today’s press release as well as available on the company’s website at wirelessronin.com.
+I’d now like to turn the conference over to Erin Haugerud, Wireless Ronin’s, Manager of Communications and Investor Relations. Please go ahead.
+Erin Haugerud
+Thank you and welcome to Wireless Ronin’s third quarter 2012 earnings call. With me today are Scott Koller, President and CEO and Darin McAreavey, Senior Vice President and CFO. Following Scott’s opening remarks, Darin will review our financial performance for the quarter and turn the call back over to Scott for an operational update. We will then open up the call to your questions. To access today’s webcast, please go to Investor Section of our corporate website at wirelessronin.com.
+Please note that the information presented and discussed today includes forward-looking statements made under the Safe Harbor Provision of the Private Securities Litigation Reform Act of 1995. Our actual results in future periods may differ materially and you should not attribute undue certainties to our forward-looking statements. Risk and uncertainties that could cause our actual results to differ from those expressed or implied by forward-looking statements, including those set forth in the Risk Factors section of our Annual Report on Form 10-K we filed on March 21, 2012.
+In addition, our comments may contain certain non-GAAP financial measures including non-GAAP operating loss and non-GAAP operating loss per share. For additional information, including reconciliation from GAAP results to non-GAAP measures, how the non-GAAP measures provides useful information and why we use non-GAAP measures, please see the reconciliation section of our press release, which appears on our corporate website.
+Now, I’d like to turn the call over to Scott Koller. Scott?
+Scott Koller
+Thank you, Erin. Good afternoon, everyone, and thank you for joining us on today’s call to discuss our 2012 third quarter results.
+The sequential improvement in our results reflects our continued focus on building our recurring revenue base and driving expense optimization. We achieved several milestones in Q3, including record quarterly recurring revenue as well as the lowest quarterly operating expense level since going public. These milestones demonstrate our continuing transition to a marketing technology solutions company and also our continued shift to a higher margin software and services business model. I will talk more about our operational highlights and business outlook in a few minutes. But first, I would like Darin to walk through our financial performance for the quarter.
+Darin McAreavey
+Thanks, Scott, and good afternoon everyone. Now to our financial results for the third quarter of 2012.
+Revenue increased 14% from the prior quarter to $1.8 million and decreased 23% from the same year ago period. This sequential improvement was primarily driven by orders received from ARAMARK for deployments of our products and services to several new colleges and universities, while the year-over-year decrease was due to lower orders received for our solutions in the food services and retail verticals.
+
+Recurring revenue increased 14% sequentially to a record $538,000 or 30% of total revenue and increased 37% from the same year-ago quarter. The increases were driven by higher services revenue derived from the company’s hosting and support services.
+Gross profit was $896,000 or 51% of total revenue. This compared to $945,000 or 61% of total revenue in the previous quarter, and $1.1 million or 49% of total revenue in Q3 of 2011. The year-over-year improvement in our gross margin percentage was due to a higher proportion of services revenue compared to proportionally higher hardware sales in the same year-ago period. We continue to expect improvement in our gross margin on a dollar and percentage basis from our current hosting revenue as our install base grows. Our ability to maintain these levels of gross margin on a percentage basis can be impacted by shifts in our sales mix. However, we believe that over the long term, our gross margin on a percentage basis will continue to increase as our recurring revenue grows.
+Our GAAP operating expenses were down 4% sequentially to $2.1 million and down 17% from the same year-ago period. As Scott mentioned, the third quarter of 2012 marked the lowest quarterly operating expense level since the company went public. The decreases were driven by cost controls including significant reductions in sales and marketing expenses as well as G&A expenses.
+Net loss for Q3 totaled $1.2 million or $0.05 per basic and diluted share. This was unchanged from the previous quarter and an improvement from the net loss of $1.4 million or $0.07 per basic and diluted share in Q3 of 2011. Net loss for the third quarter of 2012 included $99,000 of non-cash stock compensation expense versus $117,000 in the previous quarter, and $169,000 in Q3 of 2011.
+For the quarter, our non-GAAP operating loss totaled $1 million or $0.04 per basic and diluted share. This was unchanged from the previous quarter but an improvement from a non-GAAP operating loss of $1.1 million or $0.06 per basic and diluted share in Q3 of 2011.
+Now turning to the balance sheet. Our cash position was $3.5 million at the end of Q3 2012 compared to $3 million at the end of the prior quarter. The increase in cash was due to the $1.2 million of net proceeds from the follow-on offering we completed in September. It’s important to note that this transaction was completed at market at $0.81 per share with no warrant coverage and with participation from Wireless Ronin’s top two institutional shareholders as well as our entire Board of Directors and executive management team.
+Finally, at the beginning of October, we received a letter from NASDAQ notifying us that our common stock was subject to delisting unless we request (an appeal) of this to termination. Upon receiving the letter, we promptly requested an appeal and our hearing data is now scheduled for Thursday, November 15. Following the hearing, we will provide a status update on our plan to regain compliance of the NASDAQ continued listing requirements.
+This completes my financial summary. For a more detailed and complete analysis of these results, see our Form 10-Q at sec.gov, which we expect to file by November 8.
+Now I would like to turn the call back over to Scott to provide an overview of our operational activity and developments. Scott?
+Scott Koller
+Thanks, Darin. We continue to diversify our customer base and marketing technology offerings with recent deployments in the food service industry, including Buffalo Wild Wings, Boston University and Villanova University.
+During the third quarter we received an order to transition a successful pilot program with Buffalo Wild Wings and to roll out across 50 of its more than 830 locations. This ongoing installation consists of Buffalo Wild Wings Messaging TV program. Messaging TV is an engaging array of Buffalo Wild Wings marketing messages as well as sports, weather and integrated social media data. In addition to Messaging TV, we continue to pilot with Buffalo Wild Wings on an array of different concepts including photo booths and interactive touchscreen media with dynamic, yet self sustaining content all managed by our RoninCast software platform. Beyond the program’s already in pilot, we have also been contracted to complete over a $125,000 of additional software development on net marketing technology concepts.
+
+Wireless Ronin was selected to enhance the national change neighborhood atmosphere based on our proven ability to provide customized restaurant experiences including in-store promotions that increase consumer engagement. We expect to continue to work closely with Buffalo Wild Wings to create unique content that captivates customers to seasonal things, timely events, promotions and interactive concept applications.
+This is a significant win for us and we anticipate recognizing the approximately $250,000 of revenue associated with this rollout in the fourth quarter. Buffalo Wild Wings as well as our deployments at Boston University and Villanova University demonstrate Wireless Ronin’s capabilities beyond traditional menu boards. They show how we service a valuable partner for organizations of all sizes looking to enhance customers’ experience, increase customer loyalty and ultimately, drive new business.
+Another important win in our food services vertical during the third quarter was longstanding customer ARAMARK. They placed a 270,000 renewal order for annual hosting and support services. This order will the solutions we have deployed in 273 locations in the US and Canada. The number of these locations is 14% from 249 locations a year ago and not more than 200% from 90 locations at the end of 2010.
+Now turning to our automotive vertical. In October, we received $773,000 in orders from Chrysler. These orders were comprised of $648,000 in annual hosting, maintenance and support fees as well as $125,000 of additional integration and content work. The ongoing maintenance will include baseline and generate support for iShowroom with our content development team working closely with Chrysler to create unique, engaging content to display across iShowroom locations nationwide. This renewed maintenance contract demonstrates that our digital market solutions bring value to the end user experience ultimately driven sales for our customers and providing recurring revenue for Wireless Ronin.
+We look forward to continuing to work with Chrysler as we roll out new marketing capabilities to enhance customer interaction and add engaging social media features. We anticipate these will create an even great value of existing customers as well as more attractive value proposition for prospective customers currently evaluating and following our marketing technologies.
+As discussed on our last call, our sales pipeline continues to grow in all three of our key verticals or automotive, food service and retail. And as you can see by the activity already discussed, it continues to produce results. We are confident that this steady increase in traction will produce successful result and accelerate the growth of our company. As demand for the new marketing technologies continue to grow, we believe we are well positioned with industry leading solutions and a marquee customer base, which will help us to expand market share and further penetrate these key verticals.
+Before we open the call to your questions, I would like to express our appreciation for the continued support from our partners, clients, employees and shareholders.
+Now, with that, we are ready to open the call for your questions. Operator, please provide the appropriate instructions.
+Question-and-Answer Session
+Operator
+(Operator Instructions) Our first question comes from the line of Tom Pierce from Feltl and Company.
+Tom Pierce – Feltl and Company
+Just wanted to have you expand a little bit on this Buffalo Wild Wings, you got an order for like 50 locations and how is the installation going?
+Scott Koller
+The installation is going very well. I think we are near completion of it. As you know, as a pilot program in the general Minneapolis area of five stores and they have asked us to expand to 50 stores, based on those results of those five stores and I think the installs will be completed by end of this week.
+
+Tom Pierce – Feltl and Company
+So, they have, I think I have read that they have like about 850 locations, planning to be in about 900 by the end of the year. How do you feel going forward with them?
+Scott Koller
+Well, obviously, we feel great. During the pilot program from Messaging TV, it was successful and at least was worth going to another 50 locations. We are very confident that it will prove itself to be successful in those 50 locations. In addition, we are working on several other different projects with them, so the different touchpoints we have with inside Buffalo Wild Wings either in development, pilot or now rolling out to these 50 stores is numerous. So we like to position with the client right now, they are a fun client to work with, they are really looking to expand the customer experience within that environment and I think we are providing a means for them to do that.
+Tom Pierce – Feltl and Company
+Any updates on Thomson Reuters?
+Scott Koller
+Yes, we have some updates on Thomson Reuters, we continue to get traction with them, of course, they are a very large company getting all the appropriate people trained, systems in place, brochures in place. It’s slower than we had anticipated but at the same time once you get a machine, if you will, of this size moving, we are very confident it will yield results.
+Tom Pierce – Feltl and Company
+Thank you.
+Scott Koller
+Thank you, have a great day.
+Operator
+Our next question comes from the line of Ty Lilja with Feltl and Company. Please go ahead.
+Ty Lilja – Feltl and Company
+So we covered Thomson Reuters and Buffalo Wild Wings. I was wondering maybe if you could give us an update on where things stand with Chrysler and any other prospects you guys have in the automotive space.
+Scott Koller
+Yes, things are very good with Chrysler. Again, we have several touchpoints within that company from e-learning to supporting the iShowroom and not only on chrysleracademy.com but in the dealership, mobile and tablet applications. So we have an awful lot of touchpoints and again a long history with them and we know that they are continuing to expand the way they want to interact with their clients, reevaluate how iShowrooms are operating and how it can deployed more effectively. These are several things going on with Chrysler, all points to a very positive sign and we will continue doing business with them for a very long and they continue to engage us in different type of applications.
+Operator
+(Operator Instructions) I am showing no further questions at this time, I would like to turn the conference back to management.
+Scott Koller
+I would like to thank everybody for joining us on today’s call and we will look forward to talking to you in the near future. Thank you very much.
+Operator
+Ladies and gentlemen, this does conclude our conference for today. Thank you for your participation. You may now disconnect.

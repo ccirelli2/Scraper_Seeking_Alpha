@@ -1,0 +1,172 @@
+New York Mortgage Trust, Inc. (NASDAQ:NYMT) Q3 2012 Earnings Call November  8, 2012  9:00 AM ET
+Executives
+Steven R. Mumma – President, Chief Executive Officer and Director
+Fredric S. Starker – Chief Financial Officer
+Analysts
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+David M. Walrod – Ladenburg Thalmann & Co. Inc.
+Boris E. Pialloux – National Securities Corp.
+Zachary Tanenbaum – Mcnicoll, Lewis, & Vlak
+
+Operator
+Good morning, ladies and gentlemen, and thank you for standing by. Welcome to the New York Mortgage Trust Third Quarter 2012 Results Conference Call. (Operator Instructions) This conference is being recorded on Wednesday, August 8, 2012. A press release with NYMTs third quarter 2012 results was released yesterday. The press release is available on the Company\'s website at www.nymtrust.com. Additionally, we are hosting a live webcast of today\'s call, which you can access in the Events & Presentation section of the Company\'s website.
+At this time, management would like me to inform you that certain statements made during the conference call, which are not historical, may be deemed forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Although New York Mortgage Trust believes the expectations reflected in any forward-looking statements are based on reasonable assumptions, it can give no assurance that the expectations will be attained. Factors and risks that could cause actual results to differ materially from expectations are detailed in yesterday\'s press release and from time to time in the Company\'s filings with the SEC.
+Now at this time for opening remarks, I would like to introduce Steve Mumma, Chief Executive Officer and President. Steve, please go ahead.
+
+Steven R. Mumma
+Thank you, operator, and good morning everyone and thank you for being on the call. Fred Starker, our CFO, is also present and available for questions at the end of the call.
+Company released it’s earnings after the market close yesterday. Included in the press release were several tables that I will be referring to throughout this call today.
+Company earned $7.9 million or $0.30 per common share for the quarter ending September 30, 2012 as compared to a net loss of $15,000 or $0.00 per common share for the quarter ended September 30, 2011. We had adjusted net income per common share of $0.34 after excluding $1.9 million of net unrealized losses related to our investment securities related hedges and $0.8 million of net unrealized gains related to the fair value adjustment of our CMBS multifamily securitization – loans held in securitization trust.
+Net income for the three months ended September 30, 2012 was $8.1 million, up approximately $1.9 million from the same period of the previous year and up approximately $2.3 million in the second quarter of 2012. Third quarter performance does not fully reflect the impact of $565 million of investments in Agency fixed rate and Agency ARM investments that were not funded until the latter part of August 2012.
+During the quarter the company sold approximately $49.4 million of season agency arms resulting in a net realized gain of $1.6 million. Company also had net unrealized gains of approximately $800,000 related to our CMBS portfolio.
+The investment or IO strategy continues to deliver above-average return as our managers were able to navigate through this very difficult markets producing results that were accretive to the overall portfolio performance. Our general and administrative expenses for the quarter were $3.2 million, including $1.5 million of general expenses and $1.7 million related to management fees. Our external managers continue to perform at or above expectation contributing to the success of the company. General expenses, which exclude managerial fees, have averaged approximately $1.5 million for the previous three quarters.
+
+Operating expense leverage has been reduced by over 50% to the growth of the Company\'s equity base during the year. The company had a weighted average portfolio margin of 470 basis points for the third quarter, a decrease of 125 basis points from the second quarter of 2012. However, the majority of this decrease was due to the increase in allocation to our RMBS portfolio strategy.
+The Agency RMBS portfolio excluding Agency IOs increased from a weighted average balance of $59 million during the second quarter to $300 million during the third quarter. Net margins of this particular strategy were less in terms of actual spread, but were enhanced with the addition of leverage. Company utilized the MBS strategy by sourcing additional credit and managerial investments during the quarter.
+Company ended the quarter with a book value of $6.52 per share as compared to $6.51 per share for the quarter ended June 30, 2012. Included in our press release is a detailed analysis of the book value transaction from June 30 to September 30, 2012. In addition, in the 10-Q there will be a reconciliation from the beginning of the year through September 30, 2012 of the book value.
+The company declared and paid the quarter dividend of $0.27 per common share. We received net proceeds of approximately $33.1 million from a public stock offering in July and $74.7 million in August of 2012. In addition, we also raised approximately $104 million in October of 2012. These proceeds with primarily invested in Agency MBS securities as well as multifamily CMBS securities.
+Included in the press release is a portfolio allocation table that details our assets and liabilities investment silo as of September 30, 2012. As you can see, we increased our Agency ARM portfolio during the quarter by approximately $229 million and then added $275 million in agency fixed-rate securities primarily in 15 year sector bringing the total investment in that investment silo to approximately $557 million. The Agency IO portfolio increased by approximately 10% to $78 million in assets.
+Our Agency ARM portfolio CPR speed decreased from an average rate of 25 CPR during the second quarter to 18 CPR during the third quarter. While the IPO portfolio speed remained at 19% CPR for the average, for the third quarter consistent with the range bound that has been in since the third quarter of 2011 and between 19 and 20 CPR.
+Fixed-rate portfolio is mostly comprised of new productions 15 year securities that had a one month CPR experience rate of less than 6% during September. We continue to focus on prepayment sense of characteristic in the underlying loans for our Agency MBS investment, just try to mitigate repayment sensitivities. Included in the press release is a table that details the quarterly repayment averages, as well as asset yield by category for the quarter.
+Multifamily investments remained largely unchanged during the quarter at $111 million invested in this sector. As I discussed in the previous quarter, we require to consolidate certain of our CMBS investments due to control ownership rate resulting in $4 billion in financial assets and $3.9 billion of financial liability being recorded in our financial statement. The company has no additional risk or requirements outside of our actual investment of $111 million, obviously in an account requirement disclosure.
+Included in our press release, as well as the 10-Q is a detail table illustrating actual ownership and risk to the company, as well as further explanations regarding the accounting requirements for disclosure. The company invested $21 million in October in a Freddie Mac CMBS floating rate first/last deal. It’s our first deal in the floating sector and Freddie Mac’s first interest of the floating rate deal. This investment unlike our credit types we have purchased has a floating rate coupon purchased at a significant discount.
+
+In addition, the company has identified an additional $50 million of potential multifamily investment, which we would expect to close during the fourth quarter of this year. We own approximately $194 million of residential loans that which we sell to securitization trust and financed approximately $108 million collateralized debt. The loans have an average yield for the quarter of 2.90% and with a corresponding financing cost of 60 basis points to our net spread of 230 basis points.
+The Company\'s net investment in this transaction is approximately $7 billion. The company added $247,000 to loan loss reserves during the quarter bringing the total reserve to $2.9 million, 147 basis points of outstanding loans for greater than 60 days delinquent.
+Our CLO securities remain a solid investment that continued market value improvement during the quarter. Company is also pursuing a possible investment in this distress loan debt transaction that we would hope to close in the fourth quarter. We believe this transaction will deliver accretive yield for the overall portfolio and then continue on the theme of balancing credit with leverage risk in the portfolio.
+In addition, we continue to pursue alternative forms of financing through securitizations and/or longer-term repo like structures for credit sensitive securities that we believe will provide more stable financing leverage to the company while improving overall portfolio yields.
+Company heads into the fourth quarter with an increased activity-base, a diversified investment pipeline including potential investments in multifamily credit assets and distress residential loans, as well as continued investments in our MBS Agency strategy including our IO strategy. We believe this diversified portfolio strategy will continue to deliver favorable return to our shareholders through ever-changing economic and interest-rate environment.
+Our 10-Q will be filed on or about November 9 with the SEC. It will be available on our website thereafter.
+Fred and I now will be available to take questions. Operator, you can go ahead and open up for questions. Thank you.
+Question-and-Answer Session
+Operator
+Thank you. (Operator Instructions) Our first question comes from Chris Donat of Sandler O\'Neill. Your line is open.
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+
+Good morning, Steve.
+Steven R. Mumma
+Good morning, Chris, how’re you doing?
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Doing fine, how about you?
+Steven R. Mumma
+Good.
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Just, to start-off with one question on the CPR on the ARMs. I was just wondering if that was affected at all by the addition of I guess around 50 million of ARMs during the quarter, as the CPR went down from 25 to 18.
+Steven R. Mumma
+Yeah, sure – absolutely. Look we had $57 million of Agency securities at the end of the second quarter, almost $567 million at the end of the third quarter. The majority of the assets that we added were really into the latter part of September. So that CPR was impacted slightly. Many of the ARMs that we added were (inaudible) ARMs and primarily new issue stuff. So it would have a slightly lower CPR. Some of the seasonal stuff that we saw, we thought we’re going to tick up in CPR because then coming to reset periods and we’re comfortable with the increase in prepayments some of these people might reach out to reinvest and may be refinancing the fixed rate. So we wouldn’t anticipate going forward the CPR rates in our portfolio probably initially trend in the mid-teens return depending on were rate goes from here. But as that we stand right now, somewhere in the mid-teens.
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Okay. Got it. And then on the NIM, so it’s 470 basis points in the quarter, would you kind of make any comments on expectations going forward? And also if you can give us just the two components of that, the weighted average cash yield and cost to funds?
+
+Steven R. Mumma
+Sure. Yeah, well there will be a table in our…
+Fredric S. Starker
+In the Q.
+Steven R. Mumma
+Yeah, yeah, sure but the overall portfolio average at yield is $599 with a cost of fund to $129.
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Okay. And then…
+Steven R. Mumma
+And if you think about the acreages, so we raised capital and to the extent that the – so we were able to glad invest in MBS securities fairly rapidly, as opposed to some of our CMBS and residential loan transaction. We’re looking at probably in the 69 day lead time. So in a perfect world you measure equity raised right on top of these credit rates and always have that opportunity. So in the interval we will backfill some of that excess cash with investments in the securities. So while the overall yield percentage net spread may go down, the actual dollars being generated will be increasing still little bit supportive to the equity base of the company.
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Okay. And then just sometime I feel (inaudible) question, but looking at how other mortgage REITs are trading out there with below book and that’s not something that’s effected you guys yet. But anyway any thoughts on what you might do as far as share purchaser authorizations with something that would be on the table if the stock were – had some discounted book.
+Steven R. Mumma
+Look, we relatively to our peers as you know we’re very small. We spent the entire year trying to build up our capital base. The types of assets that we’re putting on our balance sheet and what we believe will be the performance going forward. We hoped and we’ve talked about this over the last 80 months, it will differentiate us from our peers over time and we continue to believe that. So we’re hopeful that as this performance continues, we’ll be rewarded by a book value that would demonstrate that performance.
+
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Okay.
+Steven R. Mumma
+But at this time we don’t really have any plans to buyback the shares. It’s not to say that if we get into some kind of panic mode across the sector or in the overall market where it’s just book value destruction, makes it impossible not to buy back the shares, but that would be a last resort. Look we’re still a very small company, we’ve gone to great links to try to raise capital and prudently invest it. So that’s not something that is in our foreseeable future unless there is an environment situation that’s not currently in place.
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Right. Understood. Again, I was asking some of…
+Steven R. Mumma
+Yeah, I know. I mean, look, I think any company has to look at where their stock is trading and at some point you have to make a decision of does it make sense for the shareholder to buy back your shares. I also think you have to look at the overall liquidity of the company. Some of the larger companies have more flexibility and some of the smaller companies in our opinion because that does impact your operating leverage. So those are all factors that we were concerned.
+Christopher R. Donat – Sandler O\'Neill & Partners LP
+Got it. Okay. Thanks very much.
+Steven R. Mumma
+Sure.
+Operator
+Our next question comes from David Walrod of Ladenburg. Your line is open.
+Steven R. Mumma
+Good morning, David.
+David M. Walrod – Ladenburg Thalmann & Co. Inc.
+
+A couple of things, first, on the Freddie Mac K-Series, can you talk about the competition that you are seeing there and the I guess the rates that you are able to purchase these securities of that?
+Steven R. Mumma
+Sure. So we’ve – and not just similar to the previous investments. There is probably a 10 to 15 group of investitures, who look at these securities to purchase. Clearly there is more parties interested in this sector as the yields in this sector are quite attractive. We’ve talked about loss adjusted yields between 13.5% and 15%. This particular investment is interesting because there is a floating rate two point aspect.
+
+So our previous investments, where you are buying a PO security and then we buy separately an IO strip. And this particular investment is, they have LIBOR plus 225 coupon attached. The securities purchased at a discount somewhere approximately in the low 40s.So you’ve a nice effect in the event that rates would to go up, you have this super floater impact in terms of – because you bought it at a discount, you almost get a two for one, not almost, you get a two for one kick on your coupon relative to what you have dollars invested.
+So there is competition, we spent a tremendous amount of time going out and analyzing these investments. When we submit our bids, you’ve seen the yields – there is competition, but the competition has not yet driven yields down. They’ve been in a range bounce for the last – they are improving, but they are not coming in significantly.
+And then it takes tremendous amount of time and effort to underwrite these investments and the amount of dollars invested is not significantly large enough where you have – there might be a larger player interested to participate. But there is definitely increased competition; you are seeing some of these pieces, credit pieces started to trade in the secondary market, that’s an improvement. And I think Freddie Mac has done a great job of delivering a product into marketplace that is needed and it is now well supported by the Street. So I think all those are positive aspects for this investment.
+David M. Walrod – Ladenburg Thalmann & Co. Inc.
+That’s helpful. In the past, you had talked about how you thought you were forced as far as capital allocation to the Agency IO bucket given how much you’ve grow in the last quarter and a half, would you be open to allocating more capital to that space or you more focused on the CMBS.
+Steven R. Mumma
+I think, what we’ve talked about, I mean is, historically, the Agency IO strategy was a much higher percentage of the equity of the company. I think longer term we’d like to think that we would have around 15% of our equity dedicated to some kind of pre-payment strategy. Currently that strategy is around this IO strategy.
+So we are comfortable keeping the investment around there. So we will contribute additional dollars, but it’ll be around this relative basis around 15% of the equity base. So overall, we would think about – we would like to have about 50% of our portfolio long-term with some kind of credit rates and then the other 50% a non credit trade, which would be around an Agency security investment and within that bucket is this investment and this pre-payment strategy specifically.
+David M. Walrod – Ladenburg Thalmann & Co. Inc.
+Okay. Thanks very much.
+Steven R. Mumma
+Great. Thanks David.
+Operator
+Our next question comes from Boris Pialloux of National Securities. Your line is open.
+Boris E. Pialloux – National Securities Corp.
+Thanks for taking my question. I just wanted to talk more about your Q4 investments. The first thing is in terms of accounting, I mean, where you are going to put that in the balance sheet, are you going to own the equity piece, so you would have to consolidate the entire deal on your balance sheet? And the second thing is in your press release, you are mentioning that you would like to invest in residential distressed firstly in mortgages. So is that prime, sub-prime, if you could add some color on this type of investments?
+Steven R. Mumma
+
+Sure. The first part of your question in term of the multi-family, the actual security that we invested in October was not something that will lead into a consolidation requirement, where were the other two investments that we are looking on, it is possible that we would look and really what drives that is control ownership of this first loss piece.
+
+If we own more than 50.1% of the transaction, which gives us the controlling interest over the special servicer more than likely that will result in us consolidating up the securitization. In our minds, we prefer not to do that, however, we really like this asset class and think that we are going to get out, find the returns in this asset class. That’s not going to prevent us from making all the investments.
+It is somewhat confusing for the reader, we changed the table slightly this time in the press release, hopefully, it’s more beneficial. So the table itself is only going to show our net investments and then on the footnote below we will show the gross amounts that are going to be consolidated on the balance sheet. I think that will be more helpful going forward for the reader. You get a better sense of what our actual net investment is. But yes, that is a negative to this type of transaction, but again, we think that that’s a secondary issue to the relative performance of the asset.
+As it relate to the residential loans, we made investment in 2010 in a pool of mortgages that would be considered distressed. There are performing distress loans, meaning, they are current pay, mortgages, they are high LTV loans that are sourced in the marketplace and it’s something that we’re hopeful that we can put in. So the – your return is going to be twofold, one, the return of the coupon that you get borrowing at a discount and then the additional return on some kind of resolution in trying to resell the loans and repackage the loans refinance the borrowers or some credit solution that allows a borrower to improve his situation if that improves our situation.
+Boris E. Pialloux – National Securities Corp.
+
+And then what type of returns would you get there like mid-teens or?
+Steven R. Mumma
+
+Yeah, we would – yes, in that particular transaction our expectation would be in the mid-to-high teens. Absolutely.
+Boris E. Pialloux – National Securities Corp.
+
+Okay. Thank you.
+Steven R. Mumma
+
+Which would be consistent with the previous investment that we did.
+Boris E. Pialloux – National Securities Corp.
+
+Okay.
+
+Operator
+
+(Operator Instructions) Our next question comes from Zachary Tanenbaum of MLV. Your line is open.
+Steven R. Mumma
+Good morning, Zack.
+Zachary Tanenbaum – Mcnicoll, Lewis, & Vlak
+
+Just on the – one follow-up on the 4Q pipeline, did you say that there is $15 million in additional multi-family CMBS, not including the $20 million floating rate deal that you closed in October?
+Steven R. Mumma
+
+Yes. That’s correct, yes.
+Zachary Tanenbaum – Mcnicoll, Lewis, & Vlak
+And then at what point would – after this next wave of multi-family CMBS investments would you then re-visit possibly another Re-REMIC financing transaction?
+Steven R. Mumma
+
+We can – we are looking at possible transactions as we speak. As I talked about in the call and we constantly are looking for ways to introduce leverage into some of these credit assets that doesn’t put extreme risk to the company’s balance sheet that we think better balances the returns for us and we’re constantly looking at that and when we get critical mass clearly it makes it more opportunistic.
+Zachary Tanenbaum – Mcnicoll, Lewis, & Vlak
+
+Got it. Just on that note, on the distressed loan transaction, the residential whole loans, how would you fund that initially?
+Steven R. Mumma
+
+Again, I mean, not to giveaway all the secret sauce, but we are working on a transaction that we think will be a well received transaction that will result in some type of financing that will enhance the yield and the securities. That will reduce our net investment, but improvers our overall yield. Absolutely.
+Zachary Tanenbaum – Mcnicoll, Lewis, & Vlak
+
+Okay. Got it. Thanks a lot.
+Steven R. Mumma
+
+Great. Sure.
+Operator
+
+Thank you. I will hand the call back to management for closing remarks.
+
+Steven R. Mumma
+
+Thank you very much for everybody being on the call. We look forward to the fourth quarter and very excited of the stuff that’s in front of us. The company has had a successful so far 2012 and we look forward to talking about our full year. Again, thanks for being on the call and take care. Thank you.
+Operator
+Thank you. Ladies and gentlemen, this concludes the conference for today. You may all disconnect and have a wonderful day.
